@@ -1,0 +1,206 @@
+---
+const { title, description } = Astro.props;
+---
+
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
+  <title>{title}</title>
+
+  <meta
+    name="description"
+    content={description}
+  />
+
+  <meta
+    property="og:title"
+    content={title}
+  />
+
+  <meta
+    property="og:description"
+    content={description}
+  />
+
+  <meta
+    property="og:type"
+    content="article"
+  />
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+    <a href="/" class="logo">AI Praktis Indonesia</a>
+
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog">Blog</a>
+    </nav>
+  </div>
+</header>
+
+<main class="article-container">
+
+  <article class="article-card">
+
+    <slot />
+
+  </article>
+
+</main>
+
+<footer>
+  <div class="container">
+    © 2026 AI Praktis Indonesia
+  </div>
+</footer>
+
+</body>
+</html>
+
+<style>
+
+:root{
+  --primary:#2563eb;
+  --text:#222;
+  --bg:#f8fafc;
+}
+
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+body{
+  font-family:Arial, Helvetica, sans-serif;
+  background:var(--bg);
+  color:var(--text);
+  line-height:1.8;
+}
+
+.container{
+  max-width:1100px;
+  margin:auto;
+  padding:20px;
+}
+
+header{
+  background:white;
+  border-bottom:1px solid #e5e7eb;
+}
+
+.logo{
+  display:block;
+  text-align:center;
+  text-decoration:none;
+  color:var(--primary);
+  font-size:52px;
+  font-weight:bold;
+  margin-top:20px;
+}
+
+nav{
+  text-align:center;
+  margin-top:20px;
+  margin-bottom:10px;
+}
+
+nav a{
+  margin:0 15px;
+  text-decoration:none;
+  color:#444;
+  font-weight:600;
+}
+
+.article-container{
+  max-width:900px;
+  margin:50px auto;
+  padding:20px;
+}
+
+.article-card{
+  background:white;
+  padding:50px;
+  border-radius:16px;
+  box-shadow:0 2px 10px rgba(0,0,0,.05);
+}
+
+.article-card h1{
+  font-size:48px;
+  margin-bottom:20px;
+}
+
+.description{
+  color:#666;
+  font-size:18px;
+  margin-bottom:10px;
+  padding-bottom:20px;
+  border-bottom:1px solid #ddd;
+}
+
+.article-card h2{
+  margin-top:40px;
+  margin-bottom:15px;
+  font-size:32px;
+}
+
+.article-card h3{
+  margin-top:25px;
+  margin-bottom:10px;
+}
+
+.article-card p{
+  margin-bottom:20px;
+  .post-date{
+  color:#777;
+  font-size:14px;
+  margin-bottom:30px;
+}
+}
+
+.article-card ul,
+.article-card ol{
+  margin-left:25px;
+  margin-bottom:25px;
+}
+
+.article-card li{
+  margin-bottom:10px;
+}
+
+footer{
+  background:white;
+  border-top:1px solid #e5e7eb;
+  text-align:center;
+  padding:30px 0;
+}
+
+@media(max-width:768px){
+
+.logo{
+  font-size:34px;
+}
+
+.article-card{
+  padding:25px;
+}
+
+.article-card h1{
+  font-size:34px;
+}
+
+.article-card h2{
+  font-size:26px;
+}
+
+}
+
+</style>

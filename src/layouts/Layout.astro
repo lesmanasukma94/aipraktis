@@ -1,0 +1,79 @@
+---
+import "../assets/global.css";
+
+const { title = "AI Praktis Indonesia" } = Astro.props;
+---
+
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>{title}</title>
+
+  <meta
+    name="description"
+    content="Belajar AI, ChatGPT, Prompt AI, AI untuk UMKM dan AI untuk pekerjaan."
+  />
+</head>
+
+<body>
+
+<header>
+  <div class="container">
+
+    <a href="/" class="logo">
+      AI Praktis Indonesia
+    </a>
+
+    <nav>
+      <a href="/">Home</a>
+      <a href="/blog">Blog</a>
+      <a href="/belajar-ai">Belajar AI</a>
+      <a href="/prompt-ai">Prompt AI</a>
+      <a href="/ai-umkm">AI UMKM</a>
+      <a href="/ai-pekerja">AI Pekerja</a>
+      <a href="/tentang">Tentang</a>
+      <a href="/kontak">Kontak</a>
+    </nav>
+
+  </div>
+</header>
+
+<main class="container">
+  <slot />
+</main>
+
+<footer>
+
+  <div class="container">
+
+    <h3>AI Praktis Indonesia</h3>
+
+    <p>
+      Belajar AI Praktis untuk Kehidupan, Pekerjaan, dan Bisnis.
+    </p>
+
+    <p>
+      <a href="/">Home</a> |
+      <a href="/blog">Blog</a> |
+      <a href="/tentang">Tentang</a> |
+      <a href="/kontak">Kontak</a>
+    </p>
+
+    <p>
+      <a href="/privacy-policy">Privacy Policy</a> |
+      <a href="/disclaimer">Disclaimer</a>
+    </p>
+
+    <p>
+      © 2026 AI Praktis Indonesia
+    </p>
+
+  </div>
+
+</footer>
+
+</body>
+</html>

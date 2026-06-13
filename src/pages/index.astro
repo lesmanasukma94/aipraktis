@@ -1,0 +1,225 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const posts = await getCollection("blog");
+
+posts.sort(
+  (a, b) =>
+    new Date(b.data.pubDate).getTime() -
+    new Date(a.data.pubDate).getTime()
+);
+
+const latestPosts = posts.slice(0, 6);
+---
+
+<Layout
+  title="AI Praktis Indonesia"
+>
+
+<section class="hero">
+
+  <h1>
+    Belajar AI Praktis untuk Kehidupan dan Bisnis
+  </h1>
+
+  <p>
+    Panduan lengkap mempelajari ChatGPT, Gemini, Prompt AI,
+    dan berbagai tools AI untuk meningkatkan produktivitas,
+    karier, bisnis, serta pengembangan diri.
+  </p>
+
+  <a href="/blog" class="btn">
+    Mulai Belajar AI
+  </a>
+
+</section>
+
+<section class="why-ai">
+
+  <h2>Mengapa Belajar AI Sekarang?</h2>
+
+  <p>
+    Artificial Intelligence menjadi salah satu teknologi
+    paling berpengaruh di dunia kerja dan bisnis.
+    Memahami AI dapat membantu meningkatkan produktivitas,
+    menghemat waktu, menghasilkan ide baru, dan membuka
+    peluang karier maupun usaha di masa depan.
+  </p>
+
+</section>
+
+<section class="categories">
+
+  <div class="card">
+    <h3>Belajar AI</h3>
+    <p>
+      Panduan dasar memahami Artificial Intelligence
+      untuk pemula.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>Prompt AI</h3>
+    <p>
+      Kumpulan prompt siap pakai untuk berbagai kebutuhan.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>AI untuk UMKM</h3>
+    <p>
+      Strategi memanfaatkan AI untuk pemasaran dan bisnis.
+    </p>
+  </div>
+
+  <div class="card">
+    <h3>AI untuk Pekerja</h3>
+    <p>
+      Meningkatkan produktivitas dan efisiensi kerja.
+    </p>
+  </div>
+
+</section>
+
+<section class="latest-posts">
+
+  <h2>Artikel Terbaru</h2>
+
+  <div class="post-grid">
+
+    {latestPosts.map((post) => (
+
+      <article class="post-card">
+
+        <h3>
+          <a href={`/blog/${post.id}/`}>
+            {post.data.title}
+          </a>
+        </h3>
+
+        <p>
+          {post.data.description}
+        </p>
+
+      </article>
+
+    ))}
+
+  </div>
+
+</section>
+
+<section class="about-site">
+
+  <h2>Tentang AI Praktis Indonesia</h2>
+
+  <p>
+    AI Praktis Indonesia adalah website edukasi yang membantu
+    masyarakat Indonesia memahami dan memanfaatkan teknologi
+    Artificial Intelligence dengan cara yang sederhana,
+    praktis, dan mudah diterapkan.
+  </p>
+
+</section>
+
+<section class="cta">
+
+  <h2>Mulai Belajar AI Hari Ini</h2>
+
+  <p>
+    Jelajahi artikel, panduan, dan tutorial AI yang mudah
+    dipahami untuk pemula maupun profesional.
+  </p>
+
+  <a href="/blog" class="btn">
+    Lihat Semua Artikel
+  </a>
+
+</section>
+
+<style>
+.hero{
+  text-align:center;
+  padding:60px 0;
+}
+
+.hero h1{
+  font-size:48px;
+  margin-bottom:20px;
+}
+
+.hero p{
+  max-width:700px;
+  margin:0 auto 30px;
+}
+
+.btn{
+  display:inline-block;
+  padding:14px 28px;
+  background:#2563eb;
+  color:white;
+  text-decoration:none;
+  border-radius:10px;
+  font-weight:bold;
+}
+
+.why-ai{
+  margin-top:60px;
+}
+
+.categories{
+  margin-top:50px;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:24px;
+}
+
+.card{
+  background:white;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  padding:24px;
+}
+
+.latest-posts{
+  margin-top:80px;
+}
+
+.post-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:24px;
+  margin-top:30px;
+}
+
+.post-card{
+  background:white;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  padding:24px;
+}
+
+.post-card h3{
+  margin-top:0;
+}
+
+.post-card a{
+  text-decoration:none;
+}
+
+.about-site{
+  margin-top:80px;
+}
+
+.cta{
+  margin-top:80px;
+  text-align:center;
+  padding:50px 20px;
+  background:white;
+  border:1px solid #e5e7eb;
+  border-radius:20px;
+}
+</style>
+
+</Layout>

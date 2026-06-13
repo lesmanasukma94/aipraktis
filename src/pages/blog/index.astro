@@ -1,0 +1,88 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "../../layouts/Layout.astro";
+
+const posts = await getCollection("blog");
+
+posts.sort(
+  (a, b) =>
+    new Date(b.data.pubDate).getTime() -
+    new Date(a.data.pubDate).getTime()
+);
+---
+
+<Layout title="Blog AI Praktis Indonesia">
+
+<h1>Blog AI Praktis Indonesia</h1>
+
+<p>
+  Kumpulan artikel tentang ChatGPT, Claude, Gemini,
+  Prompt AI, produktivitas, dan AI untuk UMKM.
+</p>
+
+<div class="blog-grid">
+
+  {posts.map((post) => (
+
+    <article class="blog-card">
+
+      <h2>
+        <a href={`/blog/${post.id}/`}>
+          {post.data.title}
+        </a>
+      </h2>
+
+      <p>
+        {post.data.description}
+      </p>
+
+      <small>
+        {post.data.pubDate}
+      </small>
+
+    </article>
+
+  ))}
+
+</div>
+
+</Layout>
+
+<style>
+.blog-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+  gap:24px;
+  margin-top:40px;
+}
+
+.blog-card{
+  background:white;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  padding:24px;
+  transition:.3s;
+}
+
+.blog-card:hover{
+  transform:translateY(-4px);
+}
+
+.blog-card h2{
+  margin-top:0;
+  margin-bottom:12px;
+  font-size:24px;
+}
+
+.blog-card a{
+  text-decoration:none;
+}
+
+.blog-card p{
+  margin-bottom:15px;
+}
+
+.blog-card small{
+  color:#6b7280;
+}
+</style>
