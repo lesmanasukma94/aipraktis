@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://aipraktis.vercel.app/sitemap-index.xml
