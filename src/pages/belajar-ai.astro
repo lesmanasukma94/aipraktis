@@ -1,82 +1,273 @@
 ---
-import MainLayout from '../layouts/MainLayout.astro';
-
-const topics = [
-  {
-    title: "ChatGPT",
-    desc: "Belajar menggunakan ChatGPT untuk pekerjaan sehari-hari."
-  },
-  {
-    title: "Gemini",
-    desc: "Panduan menggunakan Gemini dari Google."
-  },
-  {
-    title: "Claude",
-    desc: "Belajar AI Claude untuk menulis dan analisis."
-  },
-  {
-    title: "Perplexity",
-    desc: "Belajar riset menggunakan AI Search."
-  },
-  {
-    title: "Midjourney",
-    desc: "Membuat gambar AI profesional."
-  },
-  {
-    title: "AI untuk UMKM",
-    desc: "Menggunakan AI untuk meningkatkan bisnis."
-  }
-];
+import Layout from "../layouts/Layout.astro";
 ---
 
-<MainLayout>
-  <section class="container">
-    <h1>Belajar AI</h1>
+<Layout title="Belajar AI untuk Pemula">
 
-    <p>
-      Kumpulan panduan AI praktis untuk pekerja dan UMKM Indonesia.
-    </p>
+<section>
 
-    <div class="grid">
-      {
-        topics.map((topic) => (
-          <div class="card">
-            <h3>{topic.title}</h3>
-            <p>{topic.desc}</p>
-          </div>
-        ))
-      }
-    </div>
-  </section>
-</MainLayout>
+<h1>Belajar AI untuk Pemula: Panduan Lengkap Artificial Intelligence di Indonesia</h1>
 
-<style>
-.container {
-  max-width: 1200px;
-  margin: auto;
-  padding: 60px 20px;
-}
+<p>
+Artificial Intelligence (AI) menjadi salah satu teknologi yang paling cepat berkembang di dunia.
+Saat ini AI digunakan untuk membantu pekerjaan, bisnis, pendidikan, pembuatan konten, hingga berbagai aktivitas sehari-hari.
+</p>
 
-.grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
-  margin-top: 40px;
-}
+<p>
+Melalui halaman ini Anda akan mempelajari dasar-dasar AI, mengenal berbagai tools populer seperti ChatGPT dan Gemini, serta memahami cara memanfaatkan AI secara praktis.
+</p>
 
-.card {
-  padding: 20px;
-  border: 1px solid #ddd;
-  border-radius: 12px;
-}
+<p>
+Jika Anda baru mengenal dunia Artificial Intelligence, halaman ini adalah tempat terbaik untuk memulai.
+</p>
 
-.card:hover {
-  transform: translateY(-3px);
-}
+</section>
 
-@media(max-width:768px){
-  .grid{
-    grid-template-columns:1fr;
-  }
-}
-</style>
+<section>
+
+<h2>Apa Itu Artificial Intelligence (AI)?</h2>
+
+<p>
+Artificial Intelligence atau AI adalah teknologi yang memungkinkan komputer melakukan tugas yang biasanya membutuhkan kecerdasan manusia.
+</p>
+
+<p>
+Contohnya meliputi:
+</p>
+
+<ul>
+<li>Menjawab pertanyaan</li>
+<li>Membuat tulisan</li>
+<li>Menganalisis data</li>
+<li>Menerjemahkan bahasa</li>
+<li>Membuat gambar</li>
+<li>Membantu pengambilan keputusan</li>
+</ul>
+
+<p>
+Pelajari lebih lanjut:
+<a href="/blog/apa-itu-ai/">
+Apa Itu AI?
+</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>Mengapa Belajar AI Penting?</h2>
+
+<p>
+AI semakin banyak digunakan di berbagai bidang pekerjaan dan bisnis.
+Kemampuan menggunakan AI kini menjadi keterampilan yang semakin bernilai.
+</p>
+
+<ul>
+<li>Meningkatkan produktivitas</li>
+<li>Menghemat waktu kerja</li>
+<li>Membantu mencari ide</li>
+<li>Meningkatkan efisiensi bisnis</li>
+<li>Membantu belajar lebih cepat</li>
+<li>Meningkatkan daya saing karier</li>
+</ul>
+
+</section>
+
+<section>
+
+<h2>Tools AI Populer untuk Pemula</h2>
+
+<h3>ChatGPT</h3>
+
+<p>
+ChatGPT adalah salah satu tools AI paling populer yang dapat membantu membuat tulisan, menjawab pertanyaan, membuat ide konten, dan berbagai kebutuhan lainnya.
+</p>
+
+<p>
+Baca:
+<a href="/blog/chatgpt-untuk-pemula/">
+ChatGPT untuk Pemula
+</a>
+</p>
+
+<h3>Gemini</h3>
+
+<p>
+Gemini adalah AI dari Google yang mampu membantu pencarian informasi, analisis, dan berbagai aktivitas produktivitas.
+</p>
+
+<p>
+Baca:
+<a href="/blog/gemini-ai-untuk-pemula/">
+Gemini AI untuk Pemula
+</a>
+</p>
+
+<h3>Claude</h3>
+
+<p>
+Claude terkenal karena kemampuannya dalam membaca dan menganalisis dokumen panjang.
+</p>
+
+<h3>Perplexity</h3>
+
+<p>
+Perplexity AI banyak digunakan untuk riset dan pencarian informasi berbasis AI.
+</p>
+
+</section>
+
+<section>
+
+<h2>Perbedaan ChatGPT dan Gemini</h2>
+
+<p>
+Banyak pemula bingung memilih antara ChatGPT dan Gemini.
+Keduanya memiliki kelebihan masing-masing.
+</p>
+
+<p>
+Pelajari lebih lanjut:
+<a href="/blog/perbedaan-chatgpt-dan-gemini/">
+Perbedaan ChatGPT dan Gemini
+</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>Tools AI Gratis yang Bisa Dicoba</h2>
+
+<p>
+Saat ini tersedia banyak tools AI gratis yang dapat digunakan untuk belajar maupun bekerja.
+</p>
+
+<p>
+Baca:
+<a href="/blog/15-tools-ai-gratis-terbaik-2026/">
+15 Tools AI Gratis Terbaik 2026
+</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>Apakah AI Akan Menggantikan Pekerjaan Manusia?</h2>
+
+<p>
+Pertanyaan ini menjadi salah satu topik yang paling sering dibahas dalam perkembangan teknologi AI.
+</p>
+
+<p>
+Meskipun AI mampu mengotomatisasi banyak tugas, manusia tetap memiliki peran penting dalam kreativitas, kepemimpinan, komunikasi, dan pengambilan keputusan.
+</p>
+
+<p>
+Pelajari:
+<a href="/blog/apakah-ai-akan-menggantikan-pekerjaan-manusia/">
+Apakah AI Akan Menggantikan Pekerjaan Manusia?
+</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>AI untuk Bisnis dan UMKM</h2>
+
+<p>
+Pemilik usaha kini dapat memanfaatkan AI untuk pemasaran, pembuatan konten, pelayanan pelanggan, hingga analisis bisnis.
+</p>
+
+<p>
+Kunjungi:
+<a href="/ai-umkm/">
+AI untuk UMKM
+</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>AI untuk Pekerja dan Profesional</h2>
+
+<p>
+AI dapat membantu meningkatkan produktivitas kerja, membuat laporan, email, presentasi, hingga membantu pengambilan keputusan.
+</p>
+
+<p>
+Kunjungi:
+<a href="/ai-pekerja/">
+AI untuk Pekerja
+</a>
+</p>
+
+</section>
+
+<section>
+
+<h2>Artikel Belajar AI</h2>
+
+<ul>
+
+<li><a href="/blog/apa-itu-ai/">Apa Itu AI?</a></li>
+
+<li><a href="/blog/chatgpt-untuk-pemula/">ChatGPT untuk Pemula</a></li>
+
+<li><a href="/blog/gemini-ai-untuk-pemula/">Gemini AI untuk Pemula</a></li>
+
+<li><a href="/blog/perbedaan-chatgpt-dan-gemini/">Perbedaan ChatGPT dan Gemini</a></li>
+
+<li><a href="/blog/15-tools-ai-gratis-terbaik-2026/">15 Tools AI Gratis Terbaik 2026</a></li>
+
+<li><a href="/blog/apakah-ai-akan-menggantikan-pekerjaan-manusia/">Apakah AI Akan Menggantikan Pekerjaan Manusia?</a></li>
+
+</ul>
+
+</section>
+
+<section>
+
+<h2>FAQ Belajar AI</h2>
+
+<h3>Apakah belajar AI sulit?</h3>
+
+<p>
+Tidak. Saat ini banyak tools AI yang dapat digunakan tanpa kemampuan coding.
+</p>
+
+<h3>Apakah harus bisa pemrograman?</h3>
+
+<p>
+Tidak. Banyak pengguna AI memanfaatkan teknologi ini tanpa latar belakang teknis.
+</p>
+
+<h3>Tools AI apa yang paling cocok untuk pemula?</h3>
+
+<p>
+ChatGPT dan Gemini merupakan pilihan terbaik untuk memulai.
+</p>
+
+<h3>Apakah AI gratis?</h3>
+
+<p>
+Banyak tools AI menyediakan versi gratis yang cukup untuk kebutuhan belajar dan penggunaan sehari-hari.
+</p>
+
+</section>
+
+<section>
+
+<h2>Kesimpulan</h2>
+
+<p>
+Belajar AI merupakan investasi keterampilan yang sangat berharga di era digital.
+Dengan memahami dasar-dasar AI dan memanfaatkan tools yang tersedia, siapa pun dapat meningkatkan produktivitas, memperluas peluang karier, dan mengembangkan bisnis secara lebih efektif.
+</p>
+
+</section>
+
+</Layout>
