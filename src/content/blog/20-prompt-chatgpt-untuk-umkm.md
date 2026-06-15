@@ -2,7 +2,7 @@
 title: "20 Prompt ChatGPT untuk UMKM"
 description: "Membuat Promosi, Caption, dan Ide Jualan Lebih Cepat"
 pubDate: "2026-06-13"
----------------------
+---
 
 ## 20 Prompt ChatGPT untuk UMKM
 
