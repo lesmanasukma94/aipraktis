@@ -271,8 +271,7 @@ Semakin sering berlatih membuat prompt, semakin baik pula hasil yang akan Anda d
 
 ## Artikel Terkait
 
-* ChatGPT untuk Pemula
-* Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari
-* 20 Prompt ChatGPT untuk Karyawan
-* 20 Prompt ChatGPT untuk UMKM
-* Cara Membuat Konten dengan AI
+- [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
+- [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+- [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
+- [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
