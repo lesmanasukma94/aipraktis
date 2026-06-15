@@ -303,3 +303,4 @@ Keduanya cocok untuk pemula. Pilihan terbaik bergantung pada kebutuhan dan kebia
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
+- [Belajar AI untuk Pemula](/belajar-ai/)

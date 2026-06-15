@@ -315,3 +315,4 @@ Keduanya memiliki kelebihan masing-masing. Pemilihan tool yang tepat bergantung 
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 - [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
+- [Belajar AI untuk Pemula](/belajar-ai/)

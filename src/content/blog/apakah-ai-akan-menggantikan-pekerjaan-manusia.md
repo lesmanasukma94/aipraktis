@@ -399,4 +399,6 @@ Mulailah menggunakan tools AI seperti ChatGPT atau Gemini untuk membantu tugas s
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
 - [AI untuk Pekerja: Cara Meningkatkan Produktivitas dengan AI](/blog/ai-untuk-pekerja/)
+[Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
+- [Belajar AI untuk Pemula](/belajar-ai/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)

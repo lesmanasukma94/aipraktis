@@ -214,6 +214,9 @@ Menghemat waktu, meningkatkan produktivitas, membantu pemasaran, dan mempermudah
 ## Artikel Terkait
 
 - [AI untuk UMKM: Cara Memanfaatkan AI untuk Meningkatkan Bisnis](/blog/ai-untuk-umkm/)
+- [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
+- [AI untuk Konten](/blog/ai-untuk-konten/)
+- [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 - [Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
 - [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
 - [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)

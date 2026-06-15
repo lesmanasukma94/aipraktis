@@ -205,3 +205,4 @@ Semakin sering berlatih membuat prompt, semakin baik pula hasil yang akan dipero
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
+- [Prompt AI](/prompt-ai/)
