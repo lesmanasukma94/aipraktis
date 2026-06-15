@@ -5,7 +5,7 @@ import "../assets/global.css";
 const {
 title = "AI Praktis Indonesia"
 } = Astro.props;
----
+----------------
 
 <!doctype html>
 
@@ -36,21 +36,35 @@ title = "AI Praktis Indonesia"
   <meta name="language" content="Indonesian" />
 
   <link rel="canonical" href="https://aipraktis.vercel.app/" />
-  
+
   <!-- Google Analytics 4 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HFYM3TDJDB"></script>
 
-<script>
-  window.dataLayer = window.dataLayer || [];
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFYM3TDJDB"></script>
 
-  function gtag() {
-    dataLayer.push(arguments);
-  }
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag("js", new Date());
+    function gtag() {
+      dataLayer.push(arguments);
+    }
 
-  gtag("config", "G-HFYM3TDJDB");
-</script>
+    gtag("js", new Date());
+    gtag("config", "G-HFYM3TDJDB");
+  </script>
+
+  <!-- Microsoft Clarity -->
+
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);
+      t.async=1;
+      t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];
+      y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "x7b9xggz5m");
+  </script>
+
 </head>
 
 <body>
