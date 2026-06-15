@@ -83,7 +83,7 @@ Contoh prompt:
 
 Metode ini membantu meningkatkan kemampuan bahasa secara praktis.
 
-#
+<br>
 ## Cara Menggunakan ChatGPT untuk Belajar dengan Efektif
 
 ### Gunakan Pertanyaan yang Spesifik
