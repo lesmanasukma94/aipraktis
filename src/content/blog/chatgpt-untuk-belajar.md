@@ -3,7 +3,7 @@
 title: "ChatGPT untuk Belajar: Cara Belajar Lebih Cepat dan Efektif dengan AI"
 description: "Pelajari cara menggunakan ChatGPT untuk belajar, memahami materi, membuat rangkuman, latihan soal, dan meningkatkan produktivitas belajar."
 pubDate: "2026-06-15"
----------------------
+---
 
 ## ChatGPT untuk Belajar
 
