@@ -28,6 +28,7 @@ Dengan ChatGPT, seseorang dapat:
 
 Karena fleksibilitasnya, ChatGPT menjadi salah satu alat belajar yang sangat populer.
 
+
 ## Manfaat Menggunakan ChatGPT untuk Belajar
 
 ### 1. Memahami Materi yang Sulit
@@ -81,6 +82,7 @@ Contoh prompt:
 "Bertindak sebagai guru bahasa Inggris dan koreksi kalimat berikut."
 
 Metode ini membantu meningkatkan kemampuan bahasa secara praktis.
+
 
 ## Cara Menggunakan ChatGPT untuk Belajar dengan Efektif
 
