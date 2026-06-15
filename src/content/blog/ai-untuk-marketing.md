@@ -3,7 +3,7 @@
 title: "AI untuk Marketing"
 description: "Cara Menggunakan Artificial Intelligence untuk Meningkatkan Efektivitas Pemasaran dan Pertumbuhan Bisnis"
 pubDate: "2026-06-15"
----------------------
+---
 
 ## AI untuk Marketing
 
