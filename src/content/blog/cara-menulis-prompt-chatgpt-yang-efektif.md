@@ -1,12 +1,8 @@
 ---
 title: "Cara Menulis Prompt ChatGPT yang Efektif"
-description: ""
+description: "Pelajari cara menulis prompt ChatGPT yang efektif agar mendapatkan jawaban lebih akurat, detail, dan sesuai kebutuhan. Lengkap dengan contoh prompt untuk pekerjaan, bisnis, dan konten."
 pubDate: "2026-06-13"
----------------------
-
-# Cara Menulis Prompt ChatGPT yang Efektif untuk Hasil Lebih Akurat dan Berkualitas
-
-**Meta Description:** Pelajari cara menulis prompt ChatGPT yang efektif agar mendapatkan jawaban lebih akurat, detail, dan sesuai kebutuhan. Lengkap dengan contoh prompt untuk pekerjaan, bisnis, dan konten.
+---
 
 # Cara Menulis Prompt ChatGPT yang Efektif untuk Hasil Lebih Akurat dan Berkualitas
 
