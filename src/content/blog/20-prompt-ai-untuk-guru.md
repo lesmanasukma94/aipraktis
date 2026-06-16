@@ -3,7 +3,7 @@
 title: "20 Prompt AI untuk Guru"
 description: "Kumpulan 20 prompt AI untuk guru yang dapat membantu membuat materi ajar, soal, rubrik penilaian, presentasi, dan aktivitas pembelajaran."
 pubDate: "2026-06-15"
----------------------
+---
 
 ## 20 Prompt AI untuk Guru
 
