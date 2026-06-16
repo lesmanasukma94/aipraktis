@@ -3,7 +3,7 @@
 title: "Apakah AI Aman Digunakan?"
 description: "Pelajari keamanan AI, risiko yang perlu diketahui, serta cara menggunakan ChatGPT, Gemini, dan tools AI lainnya dengan aman dan bijak."
 pubDate: "2026-06-16"
----------------------
+---
 
 ## Apakah AI Aman Digunakan?
 

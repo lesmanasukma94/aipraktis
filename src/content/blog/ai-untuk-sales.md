@@ -3,7 +3,7 @@
 title: "AI untuk Sales: Cara Meningkatkan Penjualan dan Produktivitas Tim Sales"
 description: "Pelajari cara menggunakan AI untuk sales agar dapat meningkatkan produktivitas, menemukan prospek lebih cepat, dan membantu meningkatkan penjualan."
 pubDate: "2026-06-16"
----------------------
+---
 
 ## Mengapa Tim Sales Perlu Memahami AI?
 
