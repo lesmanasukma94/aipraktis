@@ -3,7 +3,7 @@
 title: "AI untuk Staff Keuangan: Cara Bekerja Lebih Cepat, Akurat, dan Produktif"
 description: "Pelajari cara memanfaatkan AI untuk staff keuangan agar pekerjaan finance, administrasi keuangan, dan pelaporan menjadi lebih cepat dan efisien."
 pubDate: "2026-06-16"
----------------------
+---
 
 ## Mengapa Staff Keuangan Perlu Memahami AI?
 

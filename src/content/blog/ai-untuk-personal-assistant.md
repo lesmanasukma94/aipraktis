@@ -3,7 +3,7 @@
 title: "AI untuk Personal Assistant: Cara Mengelola Pekerjaan dan Aktivitas Lebih Produktif"
 description: "Pelajari cara menggunakan AI sebagai personal assistant untuk mengatur pekerjaan, jadwal, ide, dan aktivitas sehari-hari agar lebih produktif."
 pubDate: "2026-06-16"
----------------------
+---
 
 ## Mengapa AI Menjadi Personal Assistant Modern?
 

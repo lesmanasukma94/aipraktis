@@ -3,7 +3,7 @@
 title: "AI untuk Customer Support: Cara Melayani Pelanggan Lebih Cepat dan Efisien"
 description: "Pelajari cara menggunakan AI untuk customer support agar dapat meningkatkan layanan pelanggan, mempercepat respon, dan meningkatkan kepuasan pelanggan."
 pubDate: "2026-06-16"
----------------------
+---
 
 ## Mengapa Customer Support Perlu Memahami AI?
 
