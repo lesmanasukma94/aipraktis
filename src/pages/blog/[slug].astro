@@ -18,6 +18,11 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+const allPosts = await getCollection("blog");
+
+const relatedPosts = allPosts
+  .filter((p) => p.id !== post.id)
+  .slice(0, 5);
 
 const articleUrl =
   `https://www.aipraktis.co.id/blog/${post.id}/`;
@@ -109,7 +114,25 @@ const breadcrumbSchema = {
     {new Date(post.data.pubDate).toLocaleDateString("id-ID")}
   </p>
 
-  <Content />
+<Content />
+
+<section class="related-posts">
+
+  <h2>Artikel Terkait</h2>
+
+  <ul>
+    {
+      relatedPosts.map((related) => (
+        <li>
+          <a href={`/blog/${related.id}/`}>
+            {related.data.title}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+
+</section>
 
 <RelatedLinks
   links={[
