@@ -242,6 +242,10 @@ Tidak. Sebagian besar tools AI modern dapat digunakan tanpa kemampuan teknis.
 
 ## Artikel Terkait
 
+AI untuk marketing merupakan salah satu bagian dari transformasi bisnis modern. Pelajari strategi lengkapnya melalui **[Panduan Lengkap AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)**.
+
+## Artikel Terkait
+
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)

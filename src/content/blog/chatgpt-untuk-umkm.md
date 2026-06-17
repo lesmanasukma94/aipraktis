@@ -209,6 +209,10 @@ ChatGPT dapat membantu membuat strategi promosi, konten pemasaran, dan komunikas
 
 Ya. Tersedia versi gratis yang cukup untuk kebutuhan dasar.
 
+## Baca Juga
+
+Ingin mempelajari penggunaan AI untuk bisnis secara lebih luas? Kunjungi **[Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)** untuk menemukan berbagai panduan AI bagi UMKM, pemasaran, penjualan, dan produktivitas.
+
 ## Artikel Terkait
 
 - [AI untuk UMKM](/ai-umkm/)

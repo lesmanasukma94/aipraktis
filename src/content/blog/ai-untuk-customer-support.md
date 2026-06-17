@@ -242,6 +242,10 @@ Bagi UMKM maupun perusahaan yang ingin meningkatkan kepuasan pelanggan, memanfaa
 
 ## Artikel Terkait
 
+Customer support hanyalah salah satu area yang dapat ditingkatkan dengan AI. Pelajari lebih lanjut melalui **[Panduan Lengkap AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)**.
+
+## Artikel Terkait
+
 * [Apa Itu AI?](/blog/apa-itu-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)

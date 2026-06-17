@@ -230,6 +230,8 @@ Mulai dari membuat pesan penjualan, melakukan follow up, menyusun email penawara
 
 Sales yang mampu memanfaatkan AI dengan baik akan memiliki keunggulan dalam menghadapi persaingan bisnis yang semakin kompetitif.
 
+Ingin mengetahui bagaimana AI membantu berbagai area bisnis selain penjualan? Baca **[Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)** untuk panduan lengkap penerapan AI dalam dunia usaha.
+
 ## Artikel Terkait
 
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)

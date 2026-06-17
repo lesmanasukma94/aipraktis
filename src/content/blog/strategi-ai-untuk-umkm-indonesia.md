@@ -372,6 +372,10 @@ Bagi UMKM Indonesia, langkah terbaik bukan menunggu teknologi menjadi sempurna.
 
 Langkah terbaik adalah mulai belajar dan memanfaatkan AI dari sekarang.
 
+## Panduan Terkait
+
+Artikel ini merupakan bagian dari **[Panduan Lengkap AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)** yang membahas berbagai strategi penerapan AI untuk UMKM dan perusahaan di Indonesia.
+
 ## Artikel Terkait
 
 * [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
