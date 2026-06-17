@@ -249,6 +249,13 @@ Yang berpotensi tertinggal bukanlah orang yang digantikan AI, melainkan orang ya
 
 Karyawan yang mampu bekerja bersama AI biasanya dapat menyelesaikan pekerjaan lebih cepat dan memiliki nilai lebih di tempat kerja.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 ChatGPT dapat menjadi asisten kerja yang sangat bermanfaat untuk berbagai kebutuhan, mulai dari membuat email, laporan, presentasi, hingga brainstorming ide.

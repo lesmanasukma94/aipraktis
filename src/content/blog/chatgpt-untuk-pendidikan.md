@@ -240,6 +240,13 @@ Ya. Banyak guru menggunakan ChatGPT untuk membuat materi, soal, dan aktivitas pe
 
 Tidak. ChatGPT membantu proses belajar, tetapi tidak dapat menggantikan usaha dan pemahaman siswa.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 ChatGPT telah menjadi salah satu tools AI yang paling bermanfaat dalam dunia pendidikan.

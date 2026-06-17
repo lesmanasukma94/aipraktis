@@ -183,6 +183,13 @@ Agar manfaat yang diperoleh lebih besar, gunakan ChatGPT untuk:
 
 Semakin sering digunakan, semakin banyak waktu yang dapat dihemat.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 ChatGPT dapat menjadi alat yang sangat bermanfaat bagi pelaku UMKM. Dengan prompt yang tepat, AI dapat membantu membuat promosi, konten media sosial, deskripsi produk, hingga strategi pemasaran dengan lebih cepat dan efisien.

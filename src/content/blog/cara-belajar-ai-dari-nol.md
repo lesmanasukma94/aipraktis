@@ -267,6 +267,13 @@ Tidak. Dengan tools modern saat ini, belajar AI jauh lebih mudah dibandingkan se
 
 Mulailah menggunakan ChatGPT dan pelajari cara membuat prompt yang baik.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Belajar AI dari nol tidak harus rumit.

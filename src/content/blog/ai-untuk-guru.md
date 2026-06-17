@@ -182,6 +182,13 @@ Ya. AI dapat membantu menyusun materi, ringkasan, dan contoh pembelajaran.
 
 Tidak. Peran guru tetap sangat penting dalam proses pendidikan.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI memberikan banyak peluang bagi guru untuk bekerja lebih efisien dan produktif.

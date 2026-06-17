@@ -63,6 +63,13 @@ Berikut 20 prompt yang dapat langsung digunakan.
 
 20. Buat checklist produktivitas mahasiswa.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI dapat menjadi asisten belajar yang membantu mahasiswa memahami materi dan menyelesaikan berbagai tugas akademik dengan lebih efektif.

@@ -362,6 +362,13 @@ AI dapat membantu pemasaran dan komunikasi yang lebih efektif sehingga mendukung
 
 Sekarang. Semakin cepat belajar, semakin besar keunggulan yang bisa diperoleh.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI memberikan peluang besar bagi UMKM Indonesia untuk berkembang lebih cepat, lebih efisien, dan lebih kompetitif.

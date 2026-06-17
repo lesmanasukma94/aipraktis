@@ -243,6 +243,13 @@ ChatGPT, Gemini, Claude, dan Perplexity merupakan beberapa pilihan yang populer.
 
 AI dapat membantu proses belajar menjadi lebih efektif, tetapi hasil akhirnya tetap bergantung pada usaha dan pemahaman siswa.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI dapat menjadi alat bantu belajar yang sangat bermanfaat bagi siswa.

@@ -264,6 +264,13 @@ Jika Anda lebih sering menggunakan Gmail, Google Docs, Google Drive, dan layanan
 
 Banyak pengguna AI modern bahkan menggunakan keduanya secara bersamaan untuk memanfaatkan keunggulan masing-masing.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 ChatGPT dan Gemini merupakan dua tools AI yang sangat powerful dan sama-sama cocok digunakan oleh pemula.

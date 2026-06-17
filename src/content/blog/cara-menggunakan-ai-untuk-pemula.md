@@ -243,6 +243,13 @@ Tidak. Informasi penting tetap perlu diverifikasi.
 
 Pelajari cara membuat prompt yang baik dan gunakan AI secara rutin untuk meningkatkan produktivitas.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Menggunakan AI saat ini jauh lebih mudah dibandingkan yang dibayangkan banyak orang.

@@ -337,6 +337,13 @@ Biasanya karena prompt terlalu umum atau kurang memberikan konteks.
 
 Jelaskan tujuan, konteks, target audiens, format hasil, dan gaya bahasa yang diinginkan.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Prompt adalah kunci utama untuk mendapatkan hasil terbaik dari AI.

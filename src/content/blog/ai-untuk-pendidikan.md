@@ -257,6 +257,13 @@ AI akan membantu:
 
 Institusi pendidikan yang mampu memanfaatkan AI secara bijak akan memiliki keunggulan dalam meningkatkan kualitas pembelajaran.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI membuka peluang besar untuk meningkatkan kualitas pendidikan.

@@ -261,6 +261,13 @@ Berpikir kritis, komunikasi, kreativitas, kepemimpinan, dan kemampuan memanfaatk
 
 Ya. AI dapat meningkatkan produktivitas dan membantu Anda bekerja lebih efektif.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI akan mengubah banyak pekerjaan, tetapi tidak akan menggantikan semua profesi.

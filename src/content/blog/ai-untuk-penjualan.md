@@ -199,6 +199,13 @@ Pelanggan lebih menyukai komunikasi yang personal.
 
 Selalu periksa kembali sebelum digunakan.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI dapat membantu meningkatkan efisiensi dan produktivitas proses penjualan. Mulai dari membuat skrip penjualan, proposal, hingga follow-up pelanggan, AI membantu tim sales bekerja lebih cepat dan lebih terstruktur.

@@ -180,6 +180,13 @@ Ya. ChatGPT dapat membantu memahami materi, membuat rangkuman, dan meningkatkan 
 
 Tidak. AI adalah alat bantu yang dirancang untuk meningkatkan kemampuan manusia.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI memberikan banyak peluang bagi mahasiswa untuk belajar lebih cepat, memahami materi lebih baik, dan meningkatkan produktivitas akademik.

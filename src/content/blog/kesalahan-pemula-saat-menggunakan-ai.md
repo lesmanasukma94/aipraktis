@@ -307,6 +307,13 @@ Tidak harus menjadi ahli, tetapi memahami dasar-dasar pembuatan prompt sangat me
 
 Gunakan instruksi yang jelas, berikan konteks yang cukup, minta revisi jika diperlukan, dan selalu verifikasi informasi penting.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Sebagian besar masalah yang dialami pemula saat menggunakan AI bukan disebabkan oleh keterbatasan teknologi, melainkan oleh cara pengguna berinteraksi dengan AI.

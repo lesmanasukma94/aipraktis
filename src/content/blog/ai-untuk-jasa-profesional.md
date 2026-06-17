@@ -296,6 +296,13 @@ Ya, selama digunakan secara bijak dan memperhatikan privasi data.
 
 Mulailah dengan satu aktivitas yang paling sering dilakukan dan gunakan AI untuk membantu proses tersebut.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI memberikan peluang besar bagi berbagai profesi untuk bekerja lebih cepat dan produktif.

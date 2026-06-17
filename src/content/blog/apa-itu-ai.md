@@ -234,6 +234,13 @@ Dengan memahami AI, Anda dapat:
 
 Semakin cepat memahami AI, semakin besar peluang untuk memanfaatkan teknologi ini secara maksimal.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Artificial Intelligence (AI) adalah teknologi yang memungkinkan mesin melakukan tugas yang biasanya membutuhkan kecerdasan manusia. Saat ini AI telah digunakan dalam berbagai aspek kehidupan, mulai dari mesin pencari, media sosial, hingga chatbot seperti ChatGPT.

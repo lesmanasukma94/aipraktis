@@ -303,6 +303,13 @@ ChatGPT dapat membantu meningkatkan produktivitas guru dalam membuat materi, soa
 
 Namun AI sebaiknya digunakan sebagai alat bantu, bukan pengganti proses perencanaan dan penilaian profesional yang dilakukan guru.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Dengan prompt yang tepat, ChatGPT dapat membantu guru menghemat banyak waktu dalam menyiapkan pembelajaran.

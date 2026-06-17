@@ -61,6 +61,13 @@ Berikut 20 prompt yang dapat langsung digunakan.
 
 20. Buat contoh surat pemberitahuan kepada orang tua siswa.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 Dengan prompt yang tepat, AI dapat membantu guru bekerja lebih efisien sehingga memiliki lebih banyak waktu untuk fokus pada proses pembelajaran.

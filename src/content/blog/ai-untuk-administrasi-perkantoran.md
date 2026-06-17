@@ -176,6 +176,13 @@ Manusia tetap dibutuhkan untuk:
 
 Karyawan yang mampu memanfaatkan AI biasanya akan bekerja lebih efektif dibandingkan yang tidak menggunakannya.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI dapat menjadi alat yang sangat bermanfaat untuk pekerjaan administrasi perkantoran. Dengan bantuan AI, berbagai tugas seperti membuat email, laporan, SOP, notulen rapat, dan pengelolaan dokumen dapat dilakukan lebih cepat dan efisien.

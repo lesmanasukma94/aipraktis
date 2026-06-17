@@ -246,6 +246,13 @@ Tim perlu belajar cara menggunakan AI secara efektif.
 
 AI membantu proses kerja, tetapi tidak menggantikan pemahaman bisnis yang dimiliki manusia.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 AI memberikan peluang besar bagi bisnis untuk bekerja lebih efisien, menghemat waktu, dan meningkatkan produktivitas. Saat ini berbagai tools AI sudah dapat digunakan oleh bisnis kecil maupun besar tanpa memerlukan kemampuan teknis yang rumit.

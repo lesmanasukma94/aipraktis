@@ -181,6 +181,13 @@ Agar hasil yang diperoleh lebih maksimal, gunakan beberapa kebiasaan berikut:
 
 Semakin sering menggunakan ChatGPT, semakin mudah Anda memahami cara membuat prompt yang efektif.
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 ## Kesimpulan
 
 ChatGPT dapat menjadi asisten kerja yang sangat membantu jika digunakan dengan prompt yang tepat. Dengan memanfaatkan prompt siap pakai untuk email, laporan, rapat, presentasi, dan produktivitas kerja, karyawan dapat menghemat waktu sekaligus meningkatkan kualitas pekerjaan.

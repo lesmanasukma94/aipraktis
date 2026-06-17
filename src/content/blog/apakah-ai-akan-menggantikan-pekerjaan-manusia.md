@@ -345,6 +345,13 @@ Ketakutan sering kali berkurang ketika kita mulai memahami sesuatu.
 
 ---
 
+## Jelajahi Panduan AI Lainnya
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+
 # Kesimpulan
 
 AI memang akan mengubah dunia kerja.
