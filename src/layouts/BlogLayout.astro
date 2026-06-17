@@ -17,20 +17,20 @@ const { title, description } = Astro.props;
     content={description}
   />
 
-  <meta
-    property="og:title"
-    content={title}
-  />
+<meta
+  property="og:title"
+  content={title}
+/>
 
-  <meta
-    property="og:description"
-    content={description}
-  />
+<meta
+  property="og:description"
+  content={description}
+/>
 
-  <meta
-    property="og:type"
-    content="article"
-  />
+<meta
+  property="og:type"
+  content="article"
+/>
 
 <meta
   property="og:image"
@@ -39,7 +39,7 @@ const { title, description } = Astro.props;
 
 <meta
   property="og:url"
-  content={Astro.url.href}
+  content={new URL(Astro.url.pathname, "https://www.aipraktis.co.id").href}
 />
 
 <meta
@@ -65,6 +65,11 @@ const { title, description } = Astro.props;
 <meta
   name="twitter:image"
   content="https://www.aipraktis.co.id/og-image.jpg"
+/>
+
+<meta
+  name="twitter:site"
+  content="AI Praktis Indonesia"
 />
 
 </head>
