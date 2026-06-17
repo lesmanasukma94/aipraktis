@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from "astro:content";
 import BlogLayout from "../../layouts/BlogLayout.astro";
+import RelatedLinks from "../../components/RelatedLinks.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -109,5 +110,26 @@ const breadcrumbSchema = {
   </p>
 
   <Content />
+
+<RelatedLinks
+  links={[
+    {
+      title: "Apa Itu Artificial Intelligence (AI)?",
+      url: "/blog/apa-itu-ai/"
+    },
+    {
+      title: "ChatGPT untuk Pemula",
+      url: "/blog/chatgpt-untuk-pemula/"
+    },
+    {
+      title: "Cara Belajar AI dari Nol",
+      url: "/blog/cara-belajar-ai-dari-nol/"
+    },
+    {
+      title: "Cara Membuat Prompt yang Baik",
+      url: "/blog/cara-membuat-prompt-yang-baik/"
+    }
+  ]}
+/>
 
 </BlogLayout>

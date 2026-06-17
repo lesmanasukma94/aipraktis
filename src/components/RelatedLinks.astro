@@ -1,0 +1,41 @@
+---
+const { links = [] } = Astro.props;
+---
+
+<section class="related-links">
+
+<h2>Artikel Terkait</h2>
+
+<ul>
+  {
+    links.map((link) => (
+      <li>
+        <a href={link.url}>
+          {link.title}
+        </a>
+      </li>
+    ))
+  }
+</ul>
+
+</section>
+
+<style>
+.related-links{
+  margin-top:60px;
+  padding-top:30px;
+  border-top:1px solid #e5e7eb;
+}
+
+.related-links h2{
+  margin-bottom:20px;
+}
+
+.related-links ul{
+  padding-left:20px;
+}
+
+.related-links li{
+  margin-bottom:10px;
+}
+</style>
