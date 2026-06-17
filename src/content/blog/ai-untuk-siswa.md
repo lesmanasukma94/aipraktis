@@ -243,6 +243,19 @@ ChatGPT, Gemini, Claude, dan Perplexity merupakan beberapa pilihan yang populer.
 
 AI dapat membantu proses belajar menjadi lebih efektif, tetapi hasil akhirnya tetap bergantung pada usaha dan pemahaman siswa.
 
+## Artikel Terkait
+
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Apa Itu AI](/blog/apa-itu-ai/)
+* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+* [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+* [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
+* [AI untuk Guru](/blog/ai-untuk-guru/)
+* [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
+* [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
+* [Apa Itu AI?](/blog/apa-itu-ai/)
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
@@ -259,11 +272,3 @@ Mulai dari memahami materi pelajaran, membuat rangkuman, latihan soal, belajar b
 Namun penggunaan AI harus dilakukan secara bijak. Fokus utama tetap pada proses belajar dan pengembangan kemampuan diri, bukan sekadar mendapatkan jawaban dengan cepat.
 
 Dengan memanfaatkan AI secara tepat, siswa dapat belajar lebih efektif dan siap menghadapi perkembangan teknologi di masa depan.
-
-## Artikel Terkait
-
-* [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
-* [AI untuk Guru](/blog/ai-untuk-guru/)
-* [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
-* [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
-* [Apa Itu AI?](/blog/apa-itu-ai/)

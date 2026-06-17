@@ -257,6 +257,14 @@ AI akan membantu:
 
 Institusi pendidikan yang mampu memanfaatkan AI secara bijak akan memiliki keunggulan dalam meningkatkan kualitas pembelajaran.
 
+## Artikel Terkait
+
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Apa Itu AI](/blog/apa-itu-ai/)
+* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+* [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
@@ -297,11 +305,3 @@ Tidak. AI hanya alat bantu dan tidak dapat menggantikan peran manusia dalam pend
 ### Tools AI apa yang paling populer untuk pendidikan?
 
 ChatGPT, Gemini, Claude, NotebookLM, dan Microsoft Copilot.
-
-## Artikel Terkait
-
-- [AI untuk Guru](/blog/ai-untuk-guru/)
-- [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
-- [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
-- [Apa Itu AI?](/blog/apa-itu-ai/)

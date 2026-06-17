@@ -240,6 +240,14 @@ Ya. Banyak guru menggunakan ChatGPT untuk membuat materi, soal, dan aktivitas pe
 
 Tidak. ChatGPT membantu proses belajar, tetapi tidak dapat menggantikan usaha dan pemahaman siswa.
 
+## Artikel Terkait
+
+* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
+* [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
+* [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
+* [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
@@ -256,13 +264,3 @@ Mulai dari membantu siswa memahami pelajaran, membantu mahasiswa melakukan riset
 Namun penggunaan AI harus dilakukan secara bijak. ChatGPT sebaiknya digunakan sebagai alat bantu yang mendukung proses belajar dan mengajar, bukan menggantikan peran guru maupun proses berpikir manusia.
 
 Dengan memanfaatkan ChatGPT secara tepat, dunia pendidikan dapat memperoleh manfaat besar dari perkembangan teknologi AI.
-
-## Artikel Terkait
-
-* [AI untuk Guru](/blog/ai-untuk-guru/)
-* [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
-* [AI untuk Siswa](/blog/ai-untuk-siswa/)
-* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-* [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/)
-* [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
-* [Apa Itu AI?](/blog/apa-itu-ai/)

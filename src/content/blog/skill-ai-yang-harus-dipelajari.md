@@ -290,6 +290,14 @@ Content creation, digital marketing, blogging, bisnis, dan freelancer berbasis A
 
 Sekarang. Semakin cepat belajar, semakin besar peluang yang bisa dimanfaatkan.
 
+## Artikel Terkait
+
+* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
+* [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
@@ -308,14 +316,5 @@ Tidak perlu menjadi programmer untuk memulai.
 Yang terpenting adalah belajar menggunakan AI secara praktis dan konsisten.
 
 Semakin cepat Anda menguasai skill AI, semakin besar peluang yang dapat Anda raih di masa depan.
-
-## Artikel Terkait
-
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
-* [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
-* [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
-* [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
-* [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
-* [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 
 ---

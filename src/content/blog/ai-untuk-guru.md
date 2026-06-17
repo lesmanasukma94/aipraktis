@@ -182,6 +182,17 @@ Ya. AI dapat membantu menyusun materi, ringkasan, dan contoh pembelajaran.
 
 Tidak. Peran guru tetap sangat penting dalam proses pendidikan.
 
+## Artikel Terkait
+
+* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Apa Itu AI](/blog/apa-itu-ai/)
+* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+* [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+* [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
+* [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/)
+* [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
@@ -196,11 +207,3 @@ AI memberikan banyak peluang bagi guru untuk bekerja lebih efisien dan produktif
 Mulai dari membuat materi ajar, menyusun soal, membuat presentasi, hingga mengelola administrasi, AI dapat membantu menghemat waktu dan meningkatkan kualitas pembelajaran.
 
 Dengan memanfaatkan AI secara bijak, guru dapat lebih fokus pada hal yang paling penting, yaitu membantu siswa belajar dan berkembang.
-
-## Artikel Terkait
-
-- [Apa Itu AI?](/blog/apa-itu-ai/)
-- [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
-- [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/)
-- [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
