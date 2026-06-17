@@ -1,60 +1,141 @@
 ---
-
 import "../assets/global.css";
 
 const {
-title = "AI Praktis Indonesia"
+  title = "AI Praktis Indonesia | Belajar AI, ChatGPT, Gemini & Prompt AI",
+  description = "Belajar AI, ChatGPT, Gemini, Prompt AI, AI untuk UMKM, pekerjaan, bisnis, dan produktivitas melalui panduan praktis berbahasa Indonesia.",
+  canonical = "https://www.aipraktis.co.id/",
+  image = "https://www.aipraktis.co.id/og-image.jpg"
 } = Astro.props;
 ---
 
 <!doctype html>
 
 <html lang="id">
+
 <head>
+
   <meta charset="UTF-8" />
-  <meta name="google-site-verification" content="bn0d2iNTqGYkB4447IxgJw9neOXWt7oER-ioAR4Ssks" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
 
   <title>{title}</title>
 
-<meta
- name="description"
- content="Belajar AI, ChatGPT, Gemini, Prompt AI, AI untuk UMKM, dan AI untuk pekerjaan melalui panduan praktis berbahasa Indonesia."
-/>
+  <meta
+    name="description"
+    content={description}
+  />
 
-<meta
- name="keywords"
- content="AI Indonesia, Belajar AI, ChatGPT Indonesia, Gemini AI, Prompt AI, AI UMKM, AI Pekerja, Artificial Intelligence"
-/>
+  <meta
+    name="robots"
+    content="index, follow, max-image-preview:large"
+  />
 
-<meta
- name="google-site-verification"
- content="IRxwgptr6tdgaPC-Z9sreUzhBNXHP9UoQrrsQJSbnHM"
-/>
+  <meta
+    name="author"
+    content="AI Praktis Indonesia"
+  />
 
-  <meta name="robots" content="index, follow" />
-  <meta name="author" content="AI Praktis Indonesia" />
-  <meta name="language" content="Indonesian" />
+  <meta
+    name="language"
+    content="Indonesian"
+  />
 
-  <link rel="canonical" href="https://www.aipraktis.co.id/" />
+  <meta
+    name="keywords"
+    content="AI Indonesia, ChatGPT Indonesia, Gemini AI, Prompt AI, Artificial Intelligence, Belajar AI, AI UMKM, AI Bisnis, AI Pekerja"
+  />
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HFYM3TDJDB"></script>
+  <meta
+    name="google-site-verification"
+    content="IRxwgptr6tdgaPC-Z9sreUzhBNXHP9UoQrrsQJSbnHM"
+  />
+
+  <link
+    rel="canonical"
+    href={canonical}
+  />
+
+  <!-- Open Graph -->
+
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="id_ID" />
+  <meta property="og:site_name" content="AI Praktis Indonesia" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={image} />
+
+  <!-- Twitter Card -->
+
+  <meta
+    name="twitter:card"
+    content="summary_large_image"
+  />
+
+  <meta
+    name="twitter:title"
+    content={title}
+  />
+
+  <meta
+    name="twitter:description"
+    content={description}
+  />
+
+  <meta
+    name="twitter:image"
+    content={image}
+  />
+
+  <!-- Structured Data -->
+
+  <script type="application/ld+json">
+    {
+      "@context":"https://schema.org",
+      "@type":"WebSite",
+      "name":"AI Praktis Indonesia",
+      "url":"https://www.aipraktis.co.id/",
+      "description":"Belajar AI, ChatGPT, Gemini, Prompt AI, dan Artificial Intelligence untuk pemula, pekerja, dan UMKM Indonesia."
+    }
+  </script>
+
+  <!-- Google Analytics -->
+
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=G-HFYM3TDJDB">
+  </script>
 
   <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
     gtag("js", new Date());
     gtag("config", "G-HFYM3TDJDB");
   </script>
 
+  <!-- Microsoft Clarity -->
+
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
-      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      c[a]=c[a]||function(){
+        (c[a].q=c[a].q||[]).push(arguments)
+      };
+
       t=l.createElement(r);
       t.async=1;
       t.src="https://www.clarity.ms/tag/"+i;
+
       y=l.getElementsByTagName(r)[0];
       y.parentNode.insertBefore(t,y);
+
     })(window, document, "clarity", "script", "x7b9xggz5m");
   </script>
 
@@ -63,72 +144,109 @@ title = "AI Praktis Indonesia"
 <body>
 
 <header>
+
   <div class="container">
 
+    <div class="site-logo">
 
-  AI Praktis Indonesia
-</a>
+      <a href="/">
+        AI Praktis Indonesia
+      </a>
 
-<nav>
-  <a href="/">Home</a>
-  <a href="/blog">Blog</a>
-  <a href="/belajar-ai">Belajar AI</a>
-  <a href="/prompt-ai">Prompt AI</a>
-  <a href="/ai-umkm">AI UMKM</a>
-  <a href="/ai-pekerja">AI Pekerja</a>
-  <a href="/tentang">Tentang</a>
-  <a href="/kontak">Kontak</a>
-</nav>
-```
+    </div>
+
+    <nav>
+
+      <a href="/">Home</a>
+
+      <a href="/blog">
+        Blog
+      </a>
+
+      <a href="/belajar-ai">
+        Belajar AI
+      </a>
+
+      <a href="/prompt-ai">
+        Prompt AI
+      </a>
+
+      <a href="/ai-umkm">
+        AI UMKM
+      </a>
+
+      <a href="/ai-pekerja">
+        AI Pekerja
+      </a>
+
+      <a href="/tentang">
+        Tentang
+      </a>
+
+      <a href="/kontak">
+        Kontak
+      </a>
+
+    </nav>
 
   </div>
+
 </header>
 
 <main class="container">
+
   <slot />
+
 </main>
 
 <footer>
+
   <div class="container">
 
+    <p>
+      Belajar AI Praktis untuk Kehidupan,
+      Pekerjaan, dan Bisnis.
+    </p>
 
+    <p>
+      AI Praktis Indonesia membantu masyarakat
+      Indonesia memahami dan memanfaatkan
+      Artificial Intelligence secara sederhana,
+      praktis, dan mudah diterapkan.
+    </p>
 
-<p>
-  Belajar AI Praktis untuk Kehidupan, Pekerjaan, dan Bisnis.
-</p>
+    <p>
+      <a href="/">Home</a> |
+      <a href="/blog">Blog</a> |
+      <a href="/belajar-ai">Belajar AI</a> |
+      <a href="/prompt-ai">Prompt AI</a>
+    </p>
 
-<p>
-  AI Praktis Indonesia membantu masyarakat Indonesia memahami
-  dan memanfaatkan Artificial Intelligence secara sederhana,
-  praktis, dan mudah diterapkan.
-</p>
+    <p>
+      <a href="/ai-umkm">AI UMKM</a> |
+      <a href="/ai-pekerja">AI Pekerja</a> |
+      <a href="/tentang">Tentang</a> |
+      <a href="/kontak">Kontak</a>
+    </p>
 
-<p>
-  <a href="/">Home</a> |
-  <a href="/blog">Blog</a> |
-  <a href="/belajar-ai">Belajar AI</a> |
-  <a href="/prompt-ai">Prompt AI</a>
-</p>
+    <p>
+      <a href="/privacy-policy">
+        Privacy Policy
+      </a>
+      |
+      <a href="/disclaimer">
+        Disclaimer
+      </a>
+    </p>
 
-<p>
-  <a href="/ai-umkm">AI UMKM</a> |
-  <a href="/ai-pekerja">AI Pekerja</a> |
-  <a href="/tentang">Tentang</a> |
-  <a href="/kontak">Kontak</a>
-</p>
-
-<p>
-  <a href="/privacy-policy">Privacy Policy</a> |
-  <a href="/disclaimer">Disclaimer</a>
-</p>
-
-<p>
-  © 2026 AI Praktis Indonesia
-</p>
-```
+    <p>
+      © 2026 AI Praktis Indonesia
+    </p>
 
   </div>
+
 </footer>
 
 </body>
+
 </html>
