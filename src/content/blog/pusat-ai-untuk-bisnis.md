@@ -1,18 +1,7 @@
 ---
-
-title: "Pusat AI untuk Bisnis: Panduan Lengkap AI untuk UMKM, Marketing, Sales, dan Produktivitas"
-description: "Panduan lengkap AI untuk bisnis di Indonesia. Pelajari cara menggunakan AI untuk UMKM, marketing, sales, customer support, toko online, bisnis kuliner, dan meningkatkan produktivitas."
-pubDate: 2026-06-18
-author: "AI Praktis Indonesia"
-category: "Bisnis AI"
-tags:
-
-* AI untuk Bisnis
-* AI untuk UMKM
-* Artificial Intelligence
-* Bisnis Digital
-* Produktivitas
-
+title: "Pusat AI untuk Bisnis"
+description: "Panduan lengkap AI untuk bisnis, UMKM, marketing, sales, customer support, toko online, dan produktivitas kerja."
+pubDate: "2026-06-18"
 ---
 
 # Pusat AI untuk Bisnis
