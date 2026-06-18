@@ -186,13 +186,13 @@ Banyak peluang baru yang muncul karena AI membantu menurunkan hambatan untuk mem
 
 Jika Anda baru mengenal AI, ikuti urutan berikut:
 
-1. Apa Itu AI
-2. Cara Belajar AI dari Nol
-3. ChatGPT untuk Pemula
-4. Cara Menggunakan AI untuk Pemula
-5. Cara Membuat Prompt yang Baik
-6. Skill AI yang Harus Dipelajari
-7. Cara Menghasilkan Uang dengan AI
+1. [Apa Itu AI](/blog/apa-itu-ai/)
+2. [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+4. [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
+5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+6. [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+7. [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 
 Urutan ini akan membantu Anda memahami AI secara bertahap.
 
