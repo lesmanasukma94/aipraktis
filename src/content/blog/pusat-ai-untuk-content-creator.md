@@ -36,11 +36,11 @@ Jika Anda baru mengenal AI, pelajari terlebih dahulu dasar-dasarnya.
 
 Artikel yang direkomendasikan:
 
-* Apa Itu AI
-* Cara Belajar AI dari Nol
-* Cara Menggunakan AI untuk Pemula
-* ChatGPT untuk Pemula
-* Gemini AI untuk Pemula
+* [Apa Itu AI](/blog/apa-itu-ai/)
+* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
+* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+* [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 
 Memahami dasar AI akan membantu Anda menggunakan berbagai tools dengan lebih efektif.
 
@@ -52,7 +52,7 @@ Content creator dapat menggunakan AI untuk mempercepat hampir seluruh proses pro
 
 Pelajari:
 
-* AI untuk Content Creator
+* [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 
 Artikel ini membahas bagaimana AI dapat membantu kreator menghasilkan lebih banyak konten tanpa mengorbankan kualitas.
 
@@ -92,7 +92,7 @@ AI dapat membantu:
 
 Pelajari:
 
-* AI untuk Menulis Artikel
+* [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 
 Namun tetap penting untuk melakukan editing dan pengecekan fakta sebelum publikasi.
 
@@ -235,14 +235,14 @@ Keterampilan tersebut akan semakin penting di masa depan.
 
 Jika Anda seorang content creator pemula, ikuti urutan berikut:
 
-1. Apa Itu AI
-2. Cara Belajar AI dari Nol
-3. ChatGPT untuk Pemula
-4. Cara Membuat Prompt yang Baik
-5. AI untuk Content Creator
-6. AI untuk Blogging
-7. AI untuk Menulis Artikel
-8. AI untuk YouTube, Instagram, atau TikTok sesuai kebutuhan
+1. [Apa Itu AI](/blog/apa-itu-ai/)
+2. [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+4. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+5. [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+6. [AI untuk Blogging](/blog/ai-untuk-blogging/)
+7. [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
+8. [AI untuk YouTube](/blog/ai-untuk-youtube/), [AI untuk Instagram](/blog/ai-untuk-instagram/), atau [AI untuk TikTok](/blog/ai-untuk-tiktok/) sesuai kebutuhan
 
 Urutan ini akan membantu Anda memahami AI secara bertahap.
 
