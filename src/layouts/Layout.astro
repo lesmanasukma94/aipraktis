@@ -93,15 +93,35 @@ const {
 
   <!-- Structured Data -->
 
-  <script type="application/ld+json">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@graph":[
     {
-      "@context":"https://schema.org",
-      "@type":"WebSite",
+      "@type":"Organization",
+      "@id":"https://www.aipraktis.co.id/#organization",
       "name":"AI Praktis Indonesia",
       "url":"https://www.aipraktis.co.id/",
-      "description":"Belajar AI, ChatGPT, Gemini, Prompt AI, dan Artificial Intelligence untuk pemula, pekerja, dan UMKM Indonesia."
+      "logo":{
+        "@type":"ImageObject",
+        "url":"https://www.aipraktis.co.id/og-image.jpg"
+      }
+    },
+    {
+      "@type":"WebSite",
+      "@id":"https://www.aipraktis.co.id/#website",
+      "url":"https://www.aipraktis.co.id/",
+      "name":"AI Praktis Indonesia",
+      "description":"Belajar AI, ChatGPT, Gemini, Prompt AI, dan Artificial Intelligence untuk pemula, pekerja, dan UMKM Indonesia.",
+      "publisher":{
+        "@id":"https://www.aipraktis.co.id/#organization"
+      },
+      "inLanguage":"id-ID"
     }
-  </script>
+  ]
+}
+</script>
+
 
   <!-- Google Analytics -->
 
