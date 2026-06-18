@@ -130,7 +130,7 @@ Bisnis kuliner dapat menggunakan AI untuk:
 
 Baca:
 
-* AI untuk Bisnis Kuliner
+* [AI untuk Bisnis Kuliner](/blog/ai-untuk-bisnis-kuliner/)
 
 ---
 
