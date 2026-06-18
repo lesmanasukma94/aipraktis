@@ -297,6 +297,9 @@ Sekarang. Semakin cepat belajar, semakin besar peluang yang bisa dimanfaatkan.
 * [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
+* [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
+* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+
 
 ## Jelajahi Panduan AI Lainnya
 
