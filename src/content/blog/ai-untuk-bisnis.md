@@ -260,6 +260,10 @@ Jika Anda ingin memahami penerapan AI untuk berbagai jenis usaha secara lebih le
 * [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
+* [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
+* [AI untuk Sales](/blog/ai-untuk-sales/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 
 ## Jelajahi Panduan AI Lainnya
 

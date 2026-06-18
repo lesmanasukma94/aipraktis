@@ -224,6 +224,10 @@ Pastikan hasil AI tetap sesuai dengan karakter bisnis Anda.
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Toko Online](/blog/ai-untuk-toko-online/)
+* [AI untuk Instagram](/blog/ai-untuk-instagram/)
+* [AI untuk TikTok](/blog/ai-untuk-tiktok/)
+* [AI untuk Sales](/blog/ai-untuk-sales/)
+
 
 ## Jelajahi Panduan AI Lainnya
 

@@ -219,6 +219,11 @@ AI membantu proses kerja tetapi tidak menggantikan strategi bisnis.
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
+* [AI untuk Toko Fashion](/blog/ai-untuk-toko-fashion/)
+
 
 ## Jelajahi Panduan AI Lainnya
 

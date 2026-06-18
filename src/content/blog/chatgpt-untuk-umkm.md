@@ -194,6 +194,8 @@ Tersedia juga paket berbayar dengan fitur yang lebih lengkap.
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Toko Online](/blog/ai-untuk-toko-online/)
+* [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
+* [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 
 ## Jelajahi Panduan AI Lainnya
 

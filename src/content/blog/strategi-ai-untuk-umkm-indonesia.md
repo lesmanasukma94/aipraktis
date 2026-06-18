@@ -375,6 +375,7 @@ Sekarang. Semakin cepat belajar, semakin besar keunggulan yang bisa diperoleh.
 * [AI untuk Bisnis Kuliner](/blog/ai-untuk-bisnis-kuliner/)
 * [AI untuk Toko Fashion](/blog/ai-untuk-toko-fashion/)
 * [AI untuk Jasa Profesional](/blog/ai-untuk-jasa-profesional/)
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
 
 ## Jelajahi Panduan AI Lainnya
 

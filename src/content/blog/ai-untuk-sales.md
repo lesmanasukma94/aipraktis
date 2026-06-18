@@ -229,6 +229,11 @@ Tidak. Hubungan pelanggan dan kemampuan negosiasi tetap membutuhkan manusia.
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
+* [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
+
 
 ## Jelajahi Panduan AI Lainnya
 
