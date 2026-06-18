@@ -48,13 +48,13 @@ Pemasaran merupakan salah satu area bisnis yang paling mudah ditingkatkan menggu
 
 Artikel yang direkomendasikan:
 
-* AI untuk Marketing
-* AI untuk Digital Marketing
-* AI untuk Instagram
-* AI untuk TikTok
-* AI untuk Content Creator
-* Cara Membuat Konten dengan AI
-* ChatGPT untuk Marketing
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
+* [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
+* [AI untuk Instagram](/blog/ai-untuk-instagram/)
+* [AI untuk TikTok](/blog/ai-untuk-tiktok/)
+* [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+* [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
+* [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
 
 Melalui AI, bisnis dapat membuat lebih banyak konten dalam waktu yang lebih singkat.
 
@@ -66,12 +66,12 @@ Tim penjualan dapat menggunakan AI untuk meningkatkan efektivitas komunikasi den
 
 Artikel terkait:
 
-* AI untuk Sales
-* AI untuk Penjualan
-* AI untuk Customer Support
-* AI untuk Customer Service
-* ChatGPT untuk Sales
-* ChatGPT untuk Customer Service
+* [AI untuk Sales](/blog/ai-untuk-sales/)
+* [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
+* [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
+* [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 
 AI dapat membantu membuat skrip penjualan, balasan pelanggan, dan strategi follow up.
 
@@ -83,10 +83,10 @@ Produktivitas merupakan salah satu alasan utama bisnis mulai menggunakan AI.
 
 Artikel terkait:
 
-* AI untuk Produktivitas
-* AI untuk Personal Assistant
-* AI untuk Administrasi Perkantoran
-* Cara Meningkatkan Produktivitas dengan AI
+* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Personal Assistant](/blog/ai-untuk-personal-assistant/)
+* [AI untuk Administrasi Perkantoran](/blog/ai-untuk-administrasi-perkantoran/)
+* [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 Dengan bantuan AI, pekerjaan yang biasanya membutuhkan waktu berjam-jam dapat diselesaikan dalam hitungan menit.
 
@@ -98,8 +98,8 @@ Pengelolaan keuangan yang baik sangat penting untuk pertumbuhan bisnis.
 
 Pelajari juga:
 
-* AI untuk Staff Keuangan
-* AI untuk HRD dan Rekrutmen
+* [AI untuk Staff Keuangan](/blog/ai-untuk-staff-keuangan/)
+* [AI untuk HRD dan Rekrutmen](/blog/ai-untuk-hrd-dan-rekrutmen/)
 
 AI dapat membantu analisis data, penyusunan laporan, dan berbagai pekerjaan administratif lainnya.
 
@@ -111,9 +111,9 @@ Bisnis online dapat memanfaatkan AI untuk meningkatkan penjualan dan pelayanan p
 
 Artikel terkait:
 
-* AI untuk Toko Online
-* AI untuk Customer Support
-* AI untuk Marketing
+* [AI untuk Toko Online](/blog/ai-untuk-toko-online/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
 
 AI dapat membantu membuat deskripsi produk, promosi, serta menjawab pertanyaan pelanggan secara lebih cepat.
 
@@ -140,7 +140,7 @@ AI juga dapat membantu toko fashion meningkatkan efisiensi pemasaran dan penjual
 
 Baca:
 
-* AI untuk Toko Fashion
+* [AI untuk Toko Fashion](/blog/ai-untuk-toko-fashion/)
 
 ---
 
@@ -150,7 +150,7 @@ Konsultan, akuntan, agen properti, desainer, dan berbagai profesi lainnya dapat 
 
 Baca:
 
-* AI untuk Jasa Profesional
+* [AI untuk Jasa Profesional](/blog/ai-untuk-jasa-profesional/)
 
 ---
 
@@ -158,11 +158,11 @@ Baca:
 
 Jika Anda baru mengenal AI, ikuti urutan berikut:
 
-1. Apa Itu AI
-2. Cara Belajar AI dari Nol
-3. ChatGPT untuk Pemula
-4. Cara Menggunakan AI untuk Pemula
-5. Cara Membuat Prompt yang Baik
+1. [Apa Itu AI](/blog/apa-itu-ai/)
+2. [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+4. [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
+5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 
 Setelah memahami dasar-dasar tersebut, Anda dapat mulai menerapkan AI dalam aktivitas bisnis sehari-hari.
 
