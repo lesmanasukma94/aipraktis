@@ -37,11 +37,11 @@ Bagi pemula, langkah pertama adalah memahami dasar-dasar AI terlebih dahulu.
 
 Pelajari artikel berikut:
 
-* Apa Itu AI
-* Cara Belajar AI dari Nol
-* Cara Menggunakan AI untuk Pemula
-* Gemini AI untuk Pemula
-* ChatGPT untuk Pemula
+* [Apa Itu AI](/blog/apa-itu-ai/)
+* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
+* [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
+* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 
 Artikel-artikel tersebut akan membantu Anda memahami konsep dasar sebelum mulai menggunakan AI dalam kegiatan belajar dan mengajar.
 
@@ -135,9 +135,9 @@ Hasil yang diberikan AI sangat bergantung pada cara kita memberikan instruksi.
 
 Pelajari:
 
-* Cara Membuat Prompt yang Baik
-* Cara Menulis Prompt ChatGPT yang Efektif
-* Teknik Prompt Engineering untuk Pemula
+* [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+* [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
+* [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 
 Semakin jelas instruksi yang diberikan, semakin baik pula hasil yang diperoleh.
 
@@ -178,13 +178,13 @@ Penting untuk selalu memeriksa kembali informasi yang diberikan AI dan tidak mem
 
 Jika Anda baru memulai, ikuti urutan berikut:
 
-1. Apa Itu AI
-2. Cara Belajar AI dari Nol
-3. ChatGPT untuk Pemula
-4. Cara Menggunakan AI untuk Pemula
-5. Cara Membuat Prompt yang Baik
-6. ChatGPT untuk Pendidikan
-7. AI untuk Guru, Mahasiswa, atau Siswa sesuai kebutuhan
+1. [Apa Itu AI](/blog/apa-itu-ai/)
+2. [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+4. [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
+5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+6. [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
+7. [AI untuk Guru](/blog/ai-untuk-guru/), [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/), atau [AI untuk Siswa](/blog/ai-untuk-siswa/) sesuai kebutuhan
 
 Urutan ini akan membantu Anda memahami AI secara bertahap dan praktis.
 
