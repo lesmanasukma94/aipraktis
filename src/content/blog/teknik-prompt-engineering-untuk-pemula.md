@@ -191,6 +191,16 @@ Tidak. Siapa pun dapat memanfaatkan teknik ini, termasuk pelajar, karyawan, UMKM
 
 Tidak selalu. Yang terpenting adalah jelas dan relevan.
 
+## Artikel Terkait
+
+* [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
+* [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+* [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
+* [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
+* [Prompt AI](/prompt-ai/)
+* [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+* [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
@@ -205,11 +215,3 @@ Prompt engineering adalah keterampilan penting yang membantu pengguna mendapatka
 Dengan memahami teknik seperti role prompting, context prompting, output formatting, step-by-step prompting, dan example-based prompting, Anda dapat menghasilkan jawaban yang lebih akurat, relevan, dan berkualitas.
 
 Semakin sering berlatih membuat prompt, semakin baik pula hasil yang akan diperoleh dari AI.
-
-## Artikel Terkait
-
-- [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
-- [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
-- [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
-- [Prompt AI](/prompt-ai/)

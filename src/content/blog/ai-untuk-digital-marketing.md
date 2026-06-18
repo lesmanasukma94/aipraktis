@@ -226,6 +226,8 @@ Tidak. AI adalah alat bantu yang meningkatkan produktivitas marketer.
 * [AI untuk Instagram](/blog/ai-untuk-instagram/)
 * [AI untuk TikTok](/blog/ai-untuk-tiktok/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+* [AI untuk Blogging](/blog/ai-untuk-blogging/)
+
 
 ## Jelajahi Panduan AI Lainnya
 

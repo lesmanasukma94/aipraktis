@@ -267,6 +267,8 @@ Sebaiknya tidak. Artikel tetap perlu diedit dan diverifikasi terlebih dahulu.
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
+* [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
+* [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 
 ## Jelajahi Panduan AI Lainnya
 

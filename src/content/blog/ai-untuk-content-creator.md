@@ -210,6 +210,8 @@ Tidak. Kreativitas, pengalaman, dan hubungan dengan audiens tetap menjadi keungg
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
+* [AI untuk Instagram](/blog/ai-untuk-instagram/)
+* [AI untuk TikTok](/blog/ai-untuk-tiktok/)
 
 ## Jelajahi Panduan AI Lainnya
 

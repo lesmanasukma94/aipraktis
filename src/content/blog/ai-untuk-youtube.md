@@ -271,11 +271,14 @@ AI dapat meningkatkan produktivitas dan konsistensi, tetapi kualitas konten teta
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [AI untuk Blogging](/blog/ai-untuk-blogging/)
 * [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
-* [AI untuk YouTube](/blog/ai-untuk-youtube/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
+* [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
+* [AI untuk Instagram](/blog/ai-untuk-instagram/)
+* [AI untuk TikTok](/blog/ai-untuk-tiktok/)
+
 
 ## Jelajahi Panduan AI Lainnya
 

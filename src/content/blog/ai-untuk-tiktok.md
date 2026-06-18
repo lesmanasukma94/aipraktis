@@ -281,6 +281,8 @@ AI dapat membantu membuat konten yang lebih konsisten dan menarik sehingga mendu
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 * [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
+* [AI untuk Marketing](/blog/ai-untuk-marketing/)
+* [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
 
 ## Jelajahi Panduan AI Lainnya
 
