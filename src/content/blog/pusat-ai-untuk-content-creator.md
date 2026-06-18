@@ -206,7 +206,7 @@ Selain meningkatkan produktivitas, AI juga dapat membuka peluang penghasilan bar
 
 Pelajari:
 
-* Cara Menghasilkan Uang dengan AI
+* [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 
 Artikel tersebut membahas berbagai model bisnis dan peluang monetisasi yang dapat dijalankan dengan bantuan AI.
 
