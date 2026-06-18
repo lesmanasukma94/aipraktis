@@ -238,6 +238,7 @@ Meskipun demikian, AI sebaiknya digunakan sebagai alat bantu, bukan pengganti in
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
+* [ChatGPT untuk Sales](blog/chatgpt-untuk-sales)
 
 ## Jelajahi Panduan AI Lainnya
 

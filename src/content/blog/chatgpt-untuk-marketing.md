@@ -215,6 +215,8 @@ Namun AI sebaiknya digunakan sebagai alat bantu, bukan pengganti strategi dan kr
 * [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+* [ChatGPT untuk Sales](blog/chatgpt-untuk-sales)
+* [ChatGPT untuk Customer Service](blog/chatgpt-untuk-costumer-service)
 
 ## Jelajahi Panduan AI Lainnya
 

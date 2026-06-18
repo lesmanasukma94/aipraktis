@@ -54,6 +54,7 @@ Artikel yang direkomendasikan:
 * AI untuk TikTok
 * AI untuk Content Creator
 * Cara Membuat Konten dengan AI
+* ChatGPT untuk Marketing
 
 Melalui AI, bisnis dapat membuat lebih banyak konten dalam waktu yang lebih singkat.
 
@@ -69,6 +70,8 @@ Artikel terkait:
 * AI untuk Penjualan
 * AI untuk Customer Support
 * AI untuk Customer Service
+* ChatGPT untuk Sales
+* ChatGPT untuk Customer Service
 
 AI dapat membantu membuat skrip penjualan, balasan pelanggan, dan strategi follow up.
 

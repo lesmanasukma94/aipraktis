@@ -232,6 +232,7 @@ Namun AI bukan pengganti kemampuan membangun hubungan dan kepercayaan. Kombinasi
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
+* [ChatGPT untuk Customer Service](blog/chatgpt-untuk-costumer-service)
 
 ## Jelajahi Panduan AI Lainnya
 
