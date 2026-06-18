@@ -68,6 +68,10 @@ Berikut 20 prompt yang dapat langsung digunakan.
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
+Jika Anda ingin mempelajari penggunaan AI secara lebih mendalam dalam dunia pendidikan, baca juga [AI untuk Guru](/blog/ai-untuk-guru/), [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/), dan kumpulan [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/).
+
+Bagi pemula, panduan [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/) juga sangat direkomendasikan.
+
 ## Kesimpulan
 
 Dengan prompt yang tepat, AI dapat membantu guru bekerja lebih efisien sehingga memiliki lebih banyak waktu untuk fokus pada proses pembelajaran.

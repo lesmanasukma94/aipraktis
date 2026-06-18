@@ -123,9 +123,12 @@ Guru dapat memanfaatkan ChatGPT untuk:
 * Menyiapkan presentasi
 * Mencari ide aktivitas kelas
 
-Baca juga:
+Jika Anda menggunakan ChatGPT untuk kebutuhan akademik, pelajari juga:
 
-* [AI untuk Guru](/blog/ai-untuk-guru/)
+* [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
+* [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
+* [AI untuk Siswa](/blog/ai-untuk-siswa/)
+* [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/)
 
 ## Contoh Prompt ChatGPT untuk Belajar
 

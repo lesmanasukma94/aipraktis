@@ -26,6 +26,8 @@ Semakin jelas instruksi yang diberikan, semakin baik hasil yang diperoleh.
 
 ---
 
+Prompt dalam artikel ini akan lebih efektif jika Anda memahami dasar penggunaan AI terlebih dahulu. Pelajari juga [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/), [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/), dan [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/).
+
 # Prompt Memahami Materi Kuliah
 
 ### 1

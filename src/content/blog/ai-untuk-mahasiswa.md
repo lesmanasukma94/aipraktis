@@ -26,6 +26,9 @@ Contohnya:
 - Memberikan rekomendasi
 
 Salah satu contoh AI yang paling populer saat ini adalah ChatGPT.
+Mahasiswa dapat memanfaatkan AI untuk riset, presentasi, dan produktivitas belajar. Untuk contoh penggunaan praktis, lihat [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/).
+
+Jika baru memulai, baca juga [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/) dan [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/).
 
 ## Manfaat AI untuk Mahasiswa
 

@@ -164,6 +164,13 @@ AI tidak dapat menggantikan peran guru dalam:
 
 AI hanya berfungsi sebagai alat bantu yang mendukung proses pembelajaran.
 
+Untuk hasil yang lebih maksimal, guru juga dapat menggunakan berbagai prompt siap pakai yang telah disusun khusus untuk kebutuhan pembelajaran. Lihat kumpulan [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/) dan [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/).
+
+Jika Anda masih baru menggunakan AI dalam pendidikan, baca juga panduan [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/) dan [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/).
+
+Agar hasil yang diberikan AI lebih akurat, pelajari juga [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/).
+
+
 ## FAQ
 
 ### Apakah guru boleh menggunakan AI?

@@ -8,6 +8,7 @@ pubDate: "2026-06-15"
 ## 20 Prompt AI untuk Siswa
 
 AI dapat membantu siswa memahami pelajaran dengan lebih mudah.
+Siswa dapat menggunakan AI sebagai alat bantu belajar, bukan sebagai pengganti proses belajar. Untuk penggunaan yang lebih efektif, baca juga [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/), [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/), dan [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/).
 
 Berikut 20 prompt yang dapat langsung digunakan.
 

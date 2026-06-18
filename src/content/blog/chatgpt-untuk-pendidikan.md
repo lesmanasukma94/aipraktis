@@ -202,6 +202,13 @@ Periksa kembali fakta penting menggunakan buku, jurnal, atau sumber resmi.
 
 AI seharusnya membantu proses belajar, bukan menggantikannya.
 
+ChatGPT dapat digunakan oleh berbagai kelompok dalam dunia pendidikan, termasuk guru, mahasiswa, dan siswa. Baca juga:
+
+* [AI untuk Guru](/blog/ai-untuk-guru/)
+* [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
+* [AI untuk Siswa](/blog/ai-untuk-siswa/)
+* [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
+
 ## Apakah ChatGPT Akan Menggantikan Guru?
 
 Tidak.

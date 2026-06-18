@@ -295,6 +295,10 @@ Hasil AI sebaiknya disesuaikan dengan kebutuhan siswa dan kurikulum yang digunak
 
 Selalu periksa kembali materi sebelum digunakan dalam pembelajaran.
 
+Selain menggunakan prompt siap pakai, guru juga perlu memahami strategi penggunaan AI dalam pembelajaran. Pelajari lebih lanjut melalui artikel [AI untuk Guru](/blog/ai-untuk-guru/) dan [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/).
+
+Untuk ide tambahan, lihat juga [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/).
+
 ## Apakah Guru Boleh Menggunakan ChatGPT?
 
 Tentu.
