@@ -222,8 +222,6 @@ Namun AI tetap tidak dapat menggantikan proses penelitian yang sebenarnya.
 
 ## Artikel Terkait
 
-## Artikel Terkait
-
 * [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)
 * [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 
