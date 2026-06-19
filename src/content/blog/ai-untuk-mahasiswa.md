@@ -190,6 +190,9 @@ Tidak. AI adalah alat bantu yang dirancang untuk meningkatkan kemampuan manusia.
 * [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+* [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
+* [Cara Merangkum Jurnal dengan ChatGPT](/blog/cara-merangkum-jurnal-dengan-chatgpt/)
+* [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)
 
 ## Jelajahi Panduan AI Lainnya
 

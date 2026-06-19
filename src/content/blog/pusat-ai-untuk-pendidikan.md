@@ -105,6 +105,8 @@ Pelajari:
 
 * [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 * [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
+* [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
+* [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)
 
 AI dapat membantu mempercepat proses belajar, tetapi tetap harus digunakan secara etis dan bertanggung jawab.
 
@@ -185,6 +187,7 @@ Jika Anda baru memulai, ikuti urutan berikut:
 5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 6. [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
 7. [AI untuk Guru](/blog/ai-untuk-guru/), [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/), atau [AI untuk Siswa](/blog/ai-untuk-siswa/) sesuai kebutuhan
+* [Cara Merangkum Jurnal dengan ChatGPT](/blog/cara-merangkum-jurnal-dengan-chatgpt/)
 
 Urutan ini akan membantu Anda memahami AI secara bertahap dan praktis.
 
