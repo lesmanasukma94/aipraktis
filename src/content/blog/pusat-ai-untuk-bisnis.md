@@ -34,6 +34,9 @@ Pelajari panduan berikut:
 
 * [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
+* [Cara Menggunakan ChatGPT untuk UMKM](/blog/cara-menggunakan-chatgpt-untuk-umkm/)
+* [Tools AI untuk UMKM](/blog/tools-ai-untuk-umkm/)
+* [Studi Kasus UMKM Menggunakan AI](/blog/studi-kasus-umkm-menggunakan-ai/)
 * [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
