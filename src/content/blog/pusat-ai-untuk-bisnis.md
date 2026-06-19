@@ -58,6 +58,7 @@ Artikel yang direkomendasikan:
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 * [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
+* [50 Prompt ChatGPT untuk Marketing](/blog/50-prompt-chatgpt-untuk-marketing/)
 
 Melalui AI, bisnis dapat membuat lebih banyak konten dalam waktu yang lebih singkat.
 
@@ -75,6 +76,8 @@ Artikel terkait:
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
+* [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
+* [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
 
 AI dapat membantu membuat skrip penjualan, balasan pelanggan, dan strategi follow up.
 
