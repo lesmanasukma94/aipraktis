@@ -243,6 +243,7 @@ Jika Anda seorang content creator pemula, ikuti urutan berikut:
 6. [AI untuk Blogging](/blog/ai-untuk-blogging/)
 7. [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 8. [AI untuk YouTube](/blog/ai-untuk-youtube/), [AI untuk Instagram](/blog/ai-untuk-instagram/), atau [AI untuk TikTok](/blog/ai-untuk-tiktok/) sesuai kebutuhan
+* [50 Prompt ChatGPT untuk Content Creator](/blog/50-prompt-chatgpt-untuk-content-creator/)
 
 Urutan ini akan membantu Anda memahami AI secara bertahap.
 
