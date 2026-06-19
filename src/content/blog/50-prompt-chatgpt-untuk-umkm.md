@@ -2,7 +2,7 @@
 
 title: "50 Prompt ChatGPT untuk UMKM yang Bisa Langsung Digunakan"
 description: "Kumpulan 50 prompt ChatGPT untuk UMKM yang dapat membantu pemasaran, penjualan, pelayanan pelanggan, pembuatan konten, dan pengembangan bisnis."
-pubDate: "2026-06-19"
+pubDate: "2026-06-21"
 ---------------------
 
 # 50 Prompt ChatGPT untuk UMKM yang Bisa Langsung Digunakan
