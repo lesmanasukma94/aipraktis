@@ -2,7 +2,7 @@
 
 title: "ChatGPT untuk Siswa: Panduan Lengkap Belajar Lebih Cepat dan Efektif dengan AI"
 description: "Pelajari cara menggunakan ChatGPT untuk siswa SD, SMP, dan SMA agar belajar lebih mudah, memahami pelajaran lebih cepat, dan meningkatkan prestasi akademik."
-pubDate: "2026-06-20"
+pubDate: "2026-06-22"
 ---
 
 # ChatGPT untuk Siswa: Panduan Lengkap Belajar Lebih Cepat dan Efektif dengan AI
