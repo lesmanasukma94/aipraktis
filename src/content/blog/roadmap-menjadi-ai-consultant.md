@@ -2,7 +2,7 @@
 
 title: "Roadmap Menjadi AI Consultant: Panduan Lengkap dari Pemula hingga Profesional"
 description: "Pelajari roadmap lengkap menjadi AI Consultant dari nol. Panduan skill, tools, portofolio, klien pertama, dan peluang karier konsultan AI di era Artificial Intelligence."
-pubDate: "2026-06-20"
+pubDate: "2026-06-23"
 ---
 
 # Roadmap Menjadi AI Consultant: Panduan Lengkap dari Pemula hingga Profesional
