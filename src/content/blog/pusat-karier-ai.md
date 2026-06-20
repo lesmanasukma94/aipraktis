@@ -73,6 +73,8 @@ Contohnya:
 Pelajari:
 
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
+* [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
+* [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [AI Specialist](/blog/ai-specialist/)
 * [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
@@ -92,6 +94,8 @@ Di masa depan, kemampuan menggunakan AI kemungkinan akan menjadi keterampilan da
 Pelajari:
 
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
+* [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 
 Beberapa skill yang penting:
 

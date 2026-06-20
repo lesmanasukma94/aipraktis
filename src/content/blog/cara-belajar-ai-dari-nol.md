@@ -269,6 +269,10 @@ Mulailah menggunakan ChatGPT dan pelajari cara membuat prompt yang baik.
 
 ## Artikel Terkait
 
+* [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
+* [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
+* [AI Specialist](/blog/ai-specialist/)
+* [Prompt Engineer](/blog/prompt-engineer/)
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
