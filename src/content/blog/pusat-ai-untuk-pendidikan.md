@@ -83,6 +83,7 @@ Artikel terkait:
 
 * [AI untuk Guru](/blog/ai-untuk-guru/)
 * [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
+* [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
 * [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/)
 
 Dengan bantuan AI, guru dapat menghemat banyak waktu dalam persiapan materi pembelajaran.
@@ -107,6 +108,7 @@ Pelajari:
 * [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 * [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 * [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)
+* [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
 
 AI dapat membantu mempercepat proses belajar, tetapi tetap harus digunakan secara etis dan bertanggung jawab.
 
@@ -126,6 +128,7 @@ Contoh penggunaan AI:
 Artikel terkait:
 
 * [AI untuk Siswa](/blog/ai-untuk-siswa/)
+* [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
 
 Penggunaan AI yang tepat dapat membantu siswa menjadi lebih mandiri dalam belajar.
 

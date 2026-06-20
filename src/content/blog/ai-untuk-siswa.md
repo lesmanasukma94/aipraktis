@@ -255,6 +255,9 @@ AI dapat membantu proses belajar menjadi lebih efektif, tetapi hasil akhirnya te
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
 * [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 * [Apa Itu AI?](/blog/apa-itu-ai/)
+* [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
+* [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
+* [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 ## Jelajahi Panduan AI Lainnya
 
