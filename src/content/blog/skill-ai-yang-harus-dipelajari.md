@@ -299,6 +299,9 @@ Sekarang. Semakin cepat belajar, semakin besar peluang yang bisa dimanfaatkan.
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
 * [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [AI Specialist](/blog/ai-specialist/)
+* [Prompt Engineer](/blog/prompt-engineer/)
+* [AI Consultant](/blog/ai-consultant/)
 
 
 ## Jelajahi Panduan AI Lainnya

@@ -73,6 +73,10 @@ Contohnya:
 Pelajari:
 
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
+* [AI Specialist](/blog/ai-specialist/)
+* [Prompt Engineer](/blog/prompt-engineer/)
+* [AI Consultant](/blog/ai-consultant/)
+* [AI Trainer](/blog/ai-trainer/)
 
 Mereka yang mampu beradaptasi biasanya akan memperoleh keuntungan terbesar.
 

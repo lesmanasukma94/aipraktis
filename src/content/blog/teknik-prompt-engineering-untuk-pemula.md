@@ -193,6 +193,9 @@ Tidak selalu. Yang terpenting adalah jelas dan relevan.
 
 ## Artikel Terkait
 
+* [Prompt Engineer](/blog/prompt-engineer/)
+* [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
+* [AI Specialist](/blog/ai-specialist/)
 * [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
