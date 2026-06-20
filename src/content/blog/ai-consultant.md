@@ -282,6 +282,7 @@ Profesi ini menjadi salah satu peluang karier paling menarik di era Artificial I
 ## Artikel Terkait yang Wajib Dibaca
 
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
 * [AI Specialist](/blog/ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [AI Trainer](/blog/ai-trainer/)

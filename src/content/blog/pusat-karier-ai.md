@@ -74,8 +74,11 @@ Pelajari:
 
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
 * [AI Specialist](/blog/ai-specialist/)
+* [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
+* [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
 * [AI Consultant](/blog/ai-consultant/)
+* [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
 
 Mereka yang mampu beradaptasi biasanya akan memperoleh keuntungan terbesar.
