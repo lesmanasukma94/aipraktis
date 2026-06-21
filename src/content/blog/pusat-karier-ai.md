@@ -79,12 +79,12 @@ Pelajari:
 * [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
+* [Cara Menjual Jasa Prompt Engineering](/blog/cara-menjual-jasa-prompt-engineering/)
 * [AI Consultant](/blog/ai-consultant/)
 * [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
+* [Cara Mendapatkan Klien AI Consultant](/blog/cara-mendapatkan-klien-ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
 * [AI Content Editor](/blog/ai-content-editor/)
-* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
-* [Cara Menghasilkan Uang dengan ChatGPT](/blog/cara-menghasilkan-uang-dengan-chatgpt/)
 
 Mereka yang mampu beradaptasi biasanya akan memperoleh keuntungan terbesar.
 
@@ -99,6 +99,7 @@ Pelajari:
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 * [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 * [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
+* [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
 
 Beberapa skill yang penting:
 
@@ -118,6 +119,8 @@ AI tidak hanya membantu pekerjaan, tetapi juga membuka peluang penghasilan baru.
 Pelajari:
 
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
+* [Cara Menghasilkan Uang dengan ChatGPT](/blog/cara-menghasilkan-uang-dengan-chatgpt/)
+* [Cara Membangun Agensi AI](/blog/cara-membangun-agensi-ai/)
 
 Beberapa peluang yang berkembang saat ini:
 
@@ -144,6 +147,7 @@ AI dapat membantu freelancer:
 Pelajari:
 
 * [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 
 Kemampuan menggunakan AI dapat menjadi keunggulan kompetitif yang besar.
 
@@ -207,6 +211,7 @@ Jika Anda baru mengenal AI, ikuti urutan berikut:
 5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 6. [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 7. [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
+8. [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
 
 Urutan ini akan membantu Anda memahami AI secara bertahap.
 

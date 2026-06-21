@@ -293,6 +293,8 @@ Sangat besar. Saat ini banyak bisnis dan individu baru mulai memanfaatkan AI.
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 * [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
+* [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
+* [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
 * [Cara Menghasilkan Uang dengan ChatGPT](/blog/cara-menghasilkan-uang-dengan-chatgpt/)
 * [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 * [AI Consultant](/blog/ai-consultant/)
