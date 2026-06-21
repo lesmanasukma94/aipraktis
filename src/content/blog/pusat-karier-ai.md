@@ -82,6 +82,9 @@ Pelajari:
 * [AI Consultant](/blog/ai-consultant/)
 * [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
+* [AI Content Editor](/blog/ai-content-editor/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
+* [Cara Menghasilkan Uang dengan ChatGPT](/blog/cara-menghasilkan-uang-dengan-chatgpt/)
 
 Mereka yang mampu beradaptasi biasanya akan memperoleh keuntungan terbesar.
 

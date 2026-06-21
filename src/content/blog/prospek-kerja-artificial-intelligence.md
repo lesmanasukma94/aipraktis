@@ -76,6 +76,14 @@ Baca juga:
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
 
+## Profesi AI yang Sedang Berkembang
+
+* [AI Content Editor](/blog/ai-content-editor/)
+* [AI Specialist](/blog/ai-specialist/)
+* [Prompt Engineer](/blog/prompt-engineer/)
+* [AI Consultant](/blog/ai-consultant/)
+* [AI Trainer](/blog/ai-trainer/)
+
 ## Profesi AI yang Paling Menjanjikan
 
 ### AI Specialist
