@@ -263,6 +263,10 @@ Beberapa tools AI yang dapat membantu content creator:
 
 Pemilihan tools AI harus disesuaikan dengan kebutuhan kreator, jenis konten, dan platform yang digunakan.
 
+Pelajari : 
+
+- [Tools AI untuk Content Creator](/blog/tools-ai-untuk-content-creator/)
+
 ---
 
 # Kesimpulan
