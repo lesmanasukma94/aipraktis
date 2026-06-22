@@ -105,6 +105,7 @@ AI dapat membantu mahasiswa dalam:
 Pelajari:
 
 * [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
+- [Tools AI untuk Mahasiswa](/blog/tools-ai-untuk-mahasiswa/)
 * [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 * [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 * [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)
