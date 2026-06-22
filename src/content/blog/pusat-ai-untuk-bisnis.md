@@ -57,6 +57,7 @@ Artikel yang direkomendasikan:
 * [AI untuk Instagram](/blog/ai-untuk-instagram/)
 * [AI untuk TikTok](/blog/ai-untuk-tiktok/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+- [15 Tools AI untuk SEO Terbaik](/blog/tools-ai-untuk-seo/)
 * [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
 * [50 Prompt ChatGPT untuk Marketing](/blog/50-prompt-chatgpt-untuk-marketing/)
