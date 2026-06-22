@@ -241,6 +241,7 @@ Semakin cepat memahami AI, semakin besar peluang untuk memanfaatkan teknologi in
 * [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+- [15 Alternatif ChatGPT Terbaik](/blog/alternatif-chatgpt-terbaik/)
 
 ## Jelajahi Panduan AI Lainnya
 
