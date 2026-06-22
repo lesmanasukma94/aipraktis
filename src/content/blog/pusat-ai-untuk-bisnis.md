@@ -170,6 +170,7 @@ Jika Anda baru mengenal AI, ikuti urutan berikut:
 3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 4. [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
+6. [20 Tools AI untuk Bisnis Terbaik](/blog/tools-ai-untuk-bisnis/)
 
 Setelah memahami dasar-dasar tersebut, Anda dapat mulai menerapkan AI dalam aktivitas bisnis sehari-hari.
 
