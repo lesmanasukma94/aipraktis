@@ -52,6 +52,7 @@ Pemasaran merupakan salah satu area bisnis yang paling mudah ditingkatkan menggu
 Artikel yang direkomendasikan:
 
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
+- [Tools AI untuk Marketing](/blog/tools-ai-untuk-marketing/)
 * [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 * [AI untuk Instagram](/blog/ai-untuk-instagram/)
 * [AI untuk TikTok](/blog/ai-untuk-tiktok/)
