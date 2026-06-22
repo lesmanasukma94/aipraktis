@@ -125,6 +125,7 @@ AI dapat membantu:
 Pelajari:
 
 * [AI untuk YouTube](/blog/ai-untuk-youtube/)
+* [15 Tools AI untuk YouTube Terbaik](/blog/tools-ai-untuk-youtube/)
 
 Dengan bantuan AI, proses produksi video dapat menjadi lebih efisien.
 
