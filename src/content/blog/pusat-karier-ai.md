@@ -178,6 +178,7 @@ Artikel yang direkomendasikan:
 * [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [AI untuk HRD dan Rekrutmen](/blog/ai-untuk-hrd-dan-rekrutmen/)
+* [Cara Membuat CV dengan AI](/blog/cara-membuat-cv-dengan-ai/)
 
 Kemampuan menggunakan AI dapat meningkatkan nilai profesional seseorang di tempat kerja.
 
