@@ -106,6 +106,7 @@ Banyak kreator ingin mengetahui langkah praktis menggunakan AI dalam pembuatan k
 Pelajari:
 
 * [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
+* [Cara Membuat Video AI](/blog/cara-membuat-video-ai/)
 
 Artikel tersebut membahas alur kerja yang dapat diterapkan oleh blogger, YouTuber, dan content creator.
 
@@ -247,7 +248,7 @@ Jika Anda seorang content creator pemula, ikuti urutan berikut:
 6. [AI untuk Blogging](/blog/ai-untuk-blogging/)
 7. [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 8. [AI untuk YouTube](/blog/ai-untuk-youtube/), [AI untuk Instagram](/blog/ai-untuk-instagram/), atau [AI untuk TikTok](/blog/ai-untuk-tiktok/) sesuai kebutuhan
-* [50 Prompt ChatGPT untuk Content Creator](/blog/50-prompt-chatgpt-untuk-content-creator/)
+9. [50 Prompt ChatGPT untuk Content Creator](/blog/50-prompt-chatgpt-untuk-content-creator/)
 
 Urutan ini akan membantu Anda memahami AI secara bertahap.
 
