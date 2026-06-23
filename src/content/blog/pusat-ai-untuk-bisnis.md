@@ -122,6 +122,7 @@ Artikel terkait:
 * [AI untuk Toko Online](/blog/ai-untuk-toko-online/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
+* [Cara Membuat Website dengan AI](/blog/cara-membuat-website-dengan-ai/)
 
 AI dapat membantu membuat deskripsi produk, promosi, serta menjawab pertanyaan pelanggan secara lebih cepat.
 
