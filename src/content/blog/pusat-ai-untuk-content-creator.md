@@ -93,6 +93,7 @@ AI dapat membantu:
 Pelajari:
 
 * [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
+* [15 Tools AI untuk Menulis Artikel Terbaik](/blog/tools-ai-untuk-menulis-artikel/)
 
 Namun tetap penting untuk melakukan editing dan pengecekan fakta sebelum publikasi.
 
