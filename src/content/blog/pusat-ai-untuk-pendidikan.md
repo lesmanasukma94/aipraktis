@@ -64,6 +64,7 @@ Pelajari lebih lanjut:
 * [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
 * [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/)
+* [Cara Membuat Presentasi dengan AI](/blog/cara-membuat-presentasi-dengan-ai/)
 
 ---
 
