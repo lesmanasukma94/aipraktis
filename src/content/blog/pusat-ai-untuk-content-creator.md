@@ -107,6 +107,7 @@ Pelajari:
 
 * [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
 * [Cara Membuat Video AI](/blog/cara-membuat-video-ai/)
+- [Cara Membuat Gambar dengan AI](/blog/cara-membuat-gambar-dengan-ai/)
 
 Artikel tersebut membahas alur kerja yang dapat diterapkan oleh blogger, YouTuber, dan content creator.
 
