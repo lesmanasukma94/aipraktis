@@ -8,6 +8,8 @@ pubDate: "2026-06-27"
 
 ---
 
+# Cara Membuat Website dengan AI: Panduan Lengkap untuk Pemula 2026
+
 Dulu membuat website membutuhkan kemampuan coding, desain, dan pengalaman teknis yang cukup tinggi. Namun saat ini Artificial Intelligence (AI) telah mengubah proses tersebut secara drastis.
 
 Bahkan seseorang yang belum pernah membuat website sekalipun kini dapat memiliki website profesional dalam hitungan jam.
