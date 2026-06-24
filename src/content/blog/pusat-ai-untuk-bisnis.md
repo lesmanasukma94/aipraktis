@@ -95,6 +95,7 @@ Artikel terkait:
 * [AI untuk Personal Assistant](/blog/ai-untuk-personal-assistant/)
 * [AI untuk Administrasi Perkantoran](/blog/ai-untuk-administrasi-perkantoran/)
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
+* [Cara Membuat Aplikasi dengan AI](/blog/cara-membuat-aplikasi-dengan-ai/)
 
 Dengan bantuan AI, pekerjaan yang biasanya membutuhkan waktu berjam-jam dapat diselesaikan dalam hitungan menit.
 
