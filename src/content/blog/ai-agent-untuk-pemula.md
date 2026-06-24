@@ -312,6 +312,7 @@ Ya. Banyak pakar teknologi memperkirakan AI Agent akan menjadi salah satu perkem
 Baca juga:
 
 - [Apa Itu AI?](/blog/apa-itu-ai/)
+- [Cara Membuat AI Agent](/blog/cara-membuat-ai-agent/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [AI Specialist](/blog/ai-specialist/)
 - [AI Consultant](/blog/ai-consultant/)

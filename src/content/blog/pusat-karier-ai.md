@@ -162,6 +162,9 @@ Pelajari:
 * [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [AI untuk Personal Assistant](/blog/ai-untuk-personal-assistant/)
+* [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)
+* [Cara Membuat AI Agent](/blog/cara-membuat-ai-agent/)
+* [15 Tools AI untuk Coding Terbaik 2026](/blog/tools-ai-untuk-coding/)
 
 Dengan bantuan AI, banyak pekerjaan dapat diselesaikan lebih cepat dan lebih efisien.
 
@@ -180,7 +183,6 @@ Artikel yang direkomendasikan:
 * [AI untuk HRD dan Rekrutmen](/blog/ai-untuk-hrd-dan-rekrutmen/)
 * [Cara Membuat CV dengan AI](/blog/cara-membuat-cv-dengan-ai/)
 - [Cara Membuat Surat Lamaran Kerja dengan AI](/blog/cara-membuat-surat-lamaran-kerja-dengan-ai/)
-- [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)
 
 Kemampuan menggunakan AI dapat meningkatkan nilai profesional seseorang di tempat kerja.
 
