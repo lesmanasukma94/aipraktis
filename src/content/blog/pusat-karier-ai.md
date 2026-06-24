@@ -165,6 +165,7 @@ Pelajari:
 * [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)
 * [Cara Membuat AI Agent](/blog/cara-membuat-ai-agent/)
 * [15 Tools AI untuk Coding Terbaik 2026](/blog/tools-ai-untuk-coding/)
+* [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-ai/)
 
 Dengan bantuan AI, banyak pekerjaan dapat diselesaikan lebih cepat dan lebih efisien.
 
