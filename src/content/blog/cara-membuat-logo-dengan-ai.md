@@ -4,7 +4,7 @@ title: "Cara Membuat Logo dengan AI: Panduan Lengkap untuk UMKM, Bisnis, dan Con
 
 description: "Pelajari cara membuat logo dengan AI menggunakan ChatGPT, Canva AI, Looka, Brandmark, Adobe Express, dan tools desain AI terbaik untuk bisnis dan personal branding."
 
-pubDate: "2026-06-26"
+pubDate: "2026-06-28"
 
 ---
 
