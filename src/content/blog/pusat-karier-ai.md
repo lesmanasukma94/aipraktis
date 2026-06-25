@@ -4,6 +4,7 @@ title: "Karier AI: Panduan Lengkap Skill AI, Pekerjaan Masa Depan, dan Cara Meng
 description: "Pelajari karier AI, skill AI yang harus dipelajari, pekerjaan masa depan, freelance AI, produktivitas kerja, dan cara menghasilkan uang dengan AI."
 
 pubDate: "2026-06-18"
+---
 
 ---
 
