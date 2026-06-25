@@ -4,9 +4,8 @@ title: "Karier AI: Panduan Lengkap Skill AI, Pekerjaan Masa Depan, dan Cara Meng
 description: "Pelajari karier AI, skill AI yang harus dipelajari, pekerjaan masa depan, freelance AI, produktivitas kerja, dan cara menghasilkan uang dengan AI."
 
 pubDate: "2026-06-18"
----
 
-# Karier AI: Panduan Lengkap Skill, Pekerjaan, dan Peluang Masa Depan
+---
 
 Artificial Intelligence (AI) sedang mengubah dunia kerja dengan sangat cepat. Saat ini hampir semua profesi mulai terpengaruh oleh AI, mulai dari administrasi, marketing, customer support, content creator, hingga berbagai pekerjaan profesional lainnya.
 
@@ -121,6 +120,7 @@ Pelajari:
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Cara Menghasilkan Uang dengan ChatGPT](/blog/cara-menghasilkan-uang-dengan-chatgpt/)
 * [Cara Membangun Agensi AI](/blog/cara-membangun-agensi-ai/)
+* [Cara Membuat SaaS AI](/blog/cara-membuat-saas-ai/)
 
 Beberapa peluang yang berkembang saat ini:
 
