@@ -4,7 +4,7 @@ description: "Panduan lengkap cara belajar AI dari nol untuk pemula. Pelajari la
 pubDate: "2026-06-15"
 ---
 
-## Cara Belajar AI dari Nol
+---
 
 Artificial Intelligence (AI) menjadi salah satu keterampilan yang paling banyak dibicarakan saat ini.
 

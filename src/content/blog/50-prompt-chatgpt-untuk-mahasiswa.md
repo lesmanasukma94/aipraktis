@@ -5,7 +5,7 @@ description: "Kumpulan 50 prompt ChatGPT untuk mahasiswa yang dapat membantu bel
 pubDate: "2026-06-15"
 ---
 
-## 50 Prompt ChatGPT untuk Mahasiswa
+---
 
 Artificial Intelligence (AI) telah menjadi alat bantu yang banyak digunakan oleh mahasiswa untuk belajar, mengerjakan tugas, melakukan riset, dan meningkatkan produktivitas.
 

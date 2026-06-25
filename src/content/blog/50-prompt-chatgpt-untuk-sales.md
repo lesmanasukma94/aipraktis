@@ -3,9 +3,9 @@
 title: "50 Prompt ChatGPT untuk Sales yang Siap Pakai untuk Meningkatkan Penjualan"
 description: "Kumpulan 50 prompt ChatGPT untuk sales yang dapat digunakan untuk prospecting, follow up, closing, negosiasi, dan meningkatkan penjualan."
 pubDate: "2026-06-20"
----------------------
+---
 
-# 50 Prompt ChatGPT untuk Sales yang Siap Pakai
+---
 
 ChatGPT dapat membantu tim sales bekerja lebih cepat, lebih produktif, dan lebih efektif dalam berkomunikasi dengan calon pelanggan.
 

@@ -5,7 +5,7 @@ description: "Pelajari berbagai peluang bisnis AI untuk pemula, cara memulai usa
 pubDate: "2026-06-25"
 ---
 
-# Bisnis AI untuk Pemula: 15 Peluang Usaha Artificial Intelligence yang Bisa Dimulai Sekarang
+---
 
 Artificial Intelligence bukan lagi teknologi masa depan.
 

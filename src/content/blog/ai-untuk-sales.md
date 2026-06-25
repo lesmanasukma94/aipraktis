@@ -5,6 +5,8 @@ description: "Pelajari cara menggunakan AI untuk sales agar dapat meningkatkan p
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Mengapa Tim Sales Perlu Memahami AI?
 
 Profesi sales selalu menuntut produktivitas yang tinggi.

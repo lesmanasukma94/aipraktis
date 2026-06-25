@@ -4,6 +4,7 @@ description: "Pelajari cara memanfaatkan AI untuk guru dalam membuat materi ajar
 pubDate: "2026-06-15"
 ---
 
+---
 
 ## Mengapa Guru Perlu Memahami AI?
 

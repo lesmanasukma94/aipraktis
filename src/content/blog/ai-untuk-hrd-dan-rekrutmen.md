@@ -4,6 +4,7 @@ description: "Pelajari cara menggunakan AI untuk HRD dan rekrutmen agar proses s
 pubDate: "2026-06-15"
 ---
 
+---
 
 ## Mengapa AI Mulai Digunakan dalam Rekrutmen?
 

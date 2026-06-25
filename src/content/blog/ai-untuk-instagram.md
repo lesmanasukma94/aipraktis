@@ -4,6 +4,7 @@ title: "AI untuk Instagram: Cara Membuat Konten Lebih Cepat dan Menarik"
 description: "Pelajari cara menggunakan AI untuk Instagram agar lebih mudah membuat ide konten, caption, hashtag, dan strategi pemasaran yang efektif."
 pubDate: "2026-06-16"
 ---
+---
 
 ## Mengapa Pengguna Instagram Mulai Menggunakan AI?
 

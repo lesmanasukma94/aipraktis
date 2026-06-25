@@ -3,9 +3,9 @@
 title: "50 Prompt ChatGPT untuk Customer Service yang Siap Pakai untuk Melayani Pelanggan Lebih Profesional"
 description: "Kumpulan 50 prompt ChatGPT untuk customer service yang dapat digunakan untuk menjawab pelanggan, menangani komplain, meningkatkan kepuasan pelanggan, dan mempercepat layanan."
 pubDate: "2026-06-20"
----------------------
+---
 
-# 50 Prompt ChatGPT untuk Customer Service yang Siap Pakai
+---
 
 Customer service memiliki peran penting dalam membangun kepercayaan pelanggan dan meningkatkan loyalitas.
 

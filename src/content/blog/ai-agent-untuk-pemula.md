@@ -8,7 +8,7 @@ pubDate: "2026-06-28"
 
 ---
 
-# AI Agent untuk Pemula: Panduan Lengkap Memahami Teknologi AI Masa Depan
+---
 
 Artificial Intelligence berkembang sangat cepat.
 

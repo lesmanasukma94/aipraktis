@@ -5,7 +5,7 @@ description: "Kumpulan 50 prompt ChatGPT untuk guru yang dapat membantu membuat 
 pubDate: "2026-06-15"
 ---
 
-## 50 Prompt ChatGPT untuk Guru
+---
 
 Artificial Intelligence (AI) dapat membantu guru bekerja lebih cepat dan efisien.
 

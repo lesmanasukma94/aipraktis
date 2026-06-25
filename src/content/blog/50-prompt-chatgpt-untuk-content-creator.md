@@ -3,9 +3,9 @@
 title: "50 Prompt ChatGPT untuk Content Creator yang Bisa Langsung Digunakan"
 description: "Kumpulan 50 prompt ChatGPT untuk content creator, blogger, YouTuber, TikTok creator, Instagram creator, dan freelancer yang ingin membuat konten lebih cepat dan konsisten."
 pubDate: "2026-06-21"
----------------------
+---
 
-# 50 Prompt ChatGPT untuk Content Creator yang Bisa Langsung Digunakan
+---
 
 Content creator saat ini dituntut untuk menghasilkan konten secara konsisten di berbagai platform seperti blog, YouTube, Instagram, TikTok, dan media sosial lainnya.
 

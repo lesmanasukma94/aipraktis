@@ -5,6 +5,8 @@ description: "Pelajari cara menggunakan AI sebagai personal assistant untuk meng
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Mengapa AI Menjadi Personal Assistant Modern?
 
 Dalam kehidupan yang semakin sibuk, banyak orang kesulitan mengelola berbagai tugas sekaligus.

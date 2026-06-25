@@ -4,6 +4,9 @@ title: "AI untuk Siswa: Cara Belajar Lebih Mudah, Cepat, dan Efektif"
 description: "Pelajari cara memanfaatkan AI untuk siswa agar lebih mudah memahami pelajaran, membuat rangkuman, mengerjakan tugas, dan meningkatkan prestasi belajar."
 pubDate: "2026-06-15"
 ---
+
+---
+
 ## AI untuk Siswa
 
 Artificial Intelligence (AI) semakin banyak digunakan dalam dunia pendidikan.

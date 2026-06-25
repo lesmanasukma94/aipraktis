@@ -4,6 +4,7 @@ title: "AI untuk Jasa Profesional: Cara Meningkatkan Produktivitas dan Pelayanan
 description: "Pelajari cara menggunakan AI untuk jasa profesional seperti konsultan, akuntan, pengacara, arsitek, desainer, agen properti, dan trainer agar bekerja lebih efisien dan produktif."
 pubDate: "2026-06-16"
 ---
+---
 
 ## Mengapa Jasa Profesional Perlu Memanfaatkan AI?
 

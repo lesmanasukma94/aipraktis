@@ -4,6 +4,8 @@ description: "Pelajari manfaat AI untuk pendidikan, mulai dari membantu guru mem
 pubDate: "2026-06-15"
 ---
 
+--- 
+
 ## AI untuk Pendidikan
 
 Artificial Intelligence (AI) mulai mengubah cara manusia belajar, mengajar, dan mengakses informasi.

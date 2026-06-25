@@ -4,6 +4,8 @@ description: "Pengertian, Cara Kerja, Manfaat, dan Contohnya dalam Kehidupan Seh
 pubDate: "2026-06-12"
 ---
 
+---
+
 ## Apa Itu Artificial Intelligence (AI)?
 
 Artificial Intelligence atau AI adalah teknologi yang memungkinkan komputer dan mesin melakukan tugas yang biasanya membutuhkan kecerdasan manusia. Tugas tersebut dapat berupa memahami bahasa, mengenali gambar, membuat keputusan, memecahkan masalah, hingga menghasilkan konten seperti teks, gambar, audio, dan video.

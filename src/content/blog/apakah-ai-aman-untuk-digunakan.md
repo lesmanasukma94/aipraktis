@@ -5,7 +5,7 @@ description: "Pelajari keamanan AI, risiko yang perlu diketahui, serta cara meng
 pubDate: "2026-06-16"
 ---
 
-## Apakah AI Aman Digunakan?
+---
 
 Seiring semakin populernya ChatGPT, Gemini, Claude, Copilot, dan berbagai tools AI lainnya, banyak orang mulai bertanya:
 

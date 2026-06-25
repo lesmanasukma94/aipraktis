@@ -5,7 +5,7 @@ description: "Cara Menggunakan Artificial Intelligence untuk Bekerja Lebih Cepat
 pubDate: "2026-06-15"
 ---
 
-## AI untuk Produktivitas
+---
 
 Artificial Intelligence (AI) telah menjadi salah satu alat paling efektif untuk meningkatkan produktivitas kerja. Saat ini AI digunakan oleh karyawan, guru, freelancer, HRD, manajer, hingga pemilik bisnis untuk menyelesaikan pekerjaan lebih cepat dan efisien.
 

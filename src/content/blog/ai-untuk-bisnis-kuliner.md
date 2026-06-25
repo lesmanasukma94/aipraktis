@@ -5,6 +5,8 @@ description: "Pelajari cara menggunakan AI untuk bisnis kuliner agar lebih mudah
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Mengapa Bisnis Kuliner Perlu Memanfaatkan AI?
 
 Bisnis kuliner merupakan salah satu sektor UMKM terbesar di Indonesia.

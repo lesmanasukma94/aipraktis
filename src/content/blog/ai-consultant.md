@@ -5,7 +5,7 @@ description: "Pelajari apa itu AI Consultant, tugas, skill yang dibutuhkan, gaji
 pubDate: "2026-06-23"
 ---
 
-# AI Consultant: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi Konsultan AI
+---
 
 Artificial Intelligence (AI) telah menjadi salah satu teknologi yang paling banyak dibicarakan dalam dunia bisnis modern.
 

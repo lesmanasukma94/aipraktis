@@ -5,7 +5,7 @@ description: "Pelajari apa itu AI Specialist, tugas, skill yang dibutuhkan, gaji
 pubDate: "2026-06-23"
 ---
 
-# AI Specialist: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi AI Specialist
+---
 
 Artificial Intelligence (AI) menjadi salah satu teknologi yang berkembang paling cepat dalam sejarah modern. Perusahaan dari berbagai industri mulai menggunakan AI untuk meningkatkan produktivitas, mengurangi biaya operasional, dan menciptakan layanan baru.
 

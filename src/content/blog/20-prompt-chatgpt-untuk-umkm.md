@@ -4,7 +4,7 @@ description: "Membuat Promosi, Caption, dan Ide Jualan Lebih Cepat"
 pubDate: "2026-06-13"
 ---
 
-## 20 Prompt ChatGPT untuk UMKM
+---
 
 Banyak pelaku UMKM menghadapi tantangan yang sama setiap hari: mencari ide promosi, membuat konten media sosial, menulis deskripsi produk, hingga membalas pertanyaan pelanggan.
 

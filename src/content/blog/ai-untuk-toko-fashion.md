@@ -5,6 +5,8 @@ description: "Pelajari cara menggunakan AI untuk toko fashion agar lebih mudah m
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Mengapa Bisnis Fashion Perlu Memanfaatkan AI?
 
 Bisnis fashion merupakan salah satu sektor yang sangat kompetitif.

@@ -2,9 +2,9 @@
 title: "20 Prompt ChatGPT untuk Karyawan:"
 description: "Siap Pakai untuk Email, Laporan, Meeting, dan Presentasi"
 pubDate: "2026-06-13"
----------------------
+---
 
-## 20 Prompt ChatGPT untuk Karyawan
+---
 
 ChatGPT dapat membantu karyawan menyelesaikan berbagai pekerjaan lebih cepat, mulai dari membuat email, menyusun laporan, merangkum hasil rapat, hingga mencari ide presentasi.
 

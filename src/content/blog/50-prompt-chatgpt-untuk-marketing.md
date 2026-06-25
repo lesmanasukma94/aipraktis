@@ -3,9 +3,9 @@
 title: "50 Prompt ChatGPT untuk Marketing yang Siap Pakai untuk Bisnis dan UMKM"
 description: "Kumpulan 50 prompt ChatGPT untuk marketing yang dapat digunakan untuk membuat konten, promosi, email marketing, strategi pemasaran, dan meningkatkan penjualan."
 pubDate: "2026-06-20"
----------------------
+---
 
-# 50 Prompt ChatGPT untuk Marketing yang Siap Pakai
+---
 
 ChatGPT dapat menjadi salah satu alat marketing paling powerful jika digunakan dengan prompt yang tepat.
 

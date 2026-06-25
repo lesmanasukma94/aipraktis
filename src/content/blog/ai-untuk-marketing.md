@@ -5,7 +5,7 @@ description: "Cara Menggunakan Artificial Intelligence untuk Meningkatkan Efekti
 pubDate: "2026-06-15"
 ---
 
-## AI untuk Marketing
+---
 
 Artificial Intelligence (AI) telah mengubah cara bisnis melakukan pemasaran. Jika sebelumnya banyak aktivitas marketing dilakukan secara manual, kini AI dapat membantu membuat konten, menganalisis data pelanggan, mengelola kampanye pemasaran, hingga meningkatkan konversi penjualan.
 
