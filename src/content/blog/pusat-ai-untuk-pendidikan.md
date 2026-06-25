@@ -6,7 +6,7 @@ description: "Pelajari cara menggunakan AI untuk pendidikan, ChatGPT untuk guru,
 pubDate: "2026-06-18"
 ---
 
-# AI untuk Pendidikan: Panduan Lengkap untuk Guru, Siswa, dan Mahasiswa
+---
 
 Artificial Intelligence (AI) telah mengubah cara belajar dan mengajar di era digital. Saat ini guru, siswa, mahasiswa, dosen, dan lembaga pendidikan mulai menggunakan AI untuk memahami materi, membuat pembelajaran lebih efektif, menyusun tugas, serta meningkatkan produktivitas.
 
