@@ -80,12 +80,14 @@ Pelajari:
 * [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
+* [Cara Belajar Prompt Engineering](/blog/cara-belajar-prompt-engineering/)
 * [Cara Menjual Jasa Prompt Engineering](/blog/cara-menjual-jasa-prompt-engineering/)
 * [AI Consultant](/blog/ai-consultant/)
 * [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
 * [Cara Mendapatkan Klien AI Consultant](/blog/cara-mendapatkan-klien-ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
 * [AI Content Editor](/blog/ai-content-editor/)
+* [Cara Menggunakan Cursor AI](/blog/cara-menggunakan-cursor-ai/)
 
 Mereka yang mampu beradaptasi biasanya akan memperoleh keuntungan terbesar.
 
