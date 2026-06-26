@@ -74,6 +74,7 @@ Pelajari:
 
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
 * [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
+* [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [AI Specialist](/blog/ai-specialist/)
 * [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
