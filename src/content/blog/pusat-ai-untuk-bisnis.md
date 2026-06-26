@@ -128,6 +128,7 @@ Artikel terkait:
 * [Cara Membuat Toko Online dengan AI](/blog/cara-membuat-toko-online-dengan-ai/)
 * [Cara Membuat Website dengan AI](/blog/cara-membuat-website-dengan-ai/)
 * [Cara Membuat Logo dengan AI](/blog/cara-membuat-logo-dengan-ai/)
+* [25 Ide Bisnis AI yang Menghasilkan Uang](/blog/ide-bisnis-ai-yang-menghasilkan-uang/)
 
 AI dapat membantu membuat deskripsi produk, promosi, serta menjawab pertanyaan pelanggan secara lebih cepat.
 
