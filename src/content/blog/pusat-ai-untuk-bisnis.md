@@ -77,6 +77,8 @@ Artikel terkait:
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
+* [15 Tools AI untuk Sales Terbaik](/blog/tools-ai-untuk-sales/)
+* [15 Tools AI untuk Customer Service Terbaik](/blog/tools-ai-untuk-customer-service/)
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 * [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
@@ -111,6 +113,7 @@ Pelajari juga:
 
 * [AI untuk Staff Keuangan](/blog/ai-untuk-staff-keuangan/)
 * [AI untuk HRD dan Rekrutmen](/blog/ai-untuk-hrd-dan-rekrutmen/)
+* [15 Tools AI untuk HRD Terbaik](/blog/tools-ai-untuk-hrd/)
 
 AI dapat membantu analisis data, penyusunan laporan, dan berbagai pekerjaan administratif lainnya.
 
