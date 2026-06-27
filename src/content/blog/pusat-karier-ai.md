@@ -103,6 +103,7 @@ Pelajari:
 * [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 * [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 * [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
+* [Cara Menggunakan GitHub Copilot](/blog/cara-menggunakan-github-copilot/)
 
 Beberapa skill yang penting:
 
