@@ -2,6 +2,8 @@ import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 import { fileURLToPath } from "node:url";
 
+import tailwindcss from "@tailwindcss/vite";
+
 export default defineConfig({
   site: "https://aipraktis.co.id",
 
@@ -14,6 +16,8 @@ export default defineConfig({
       alias: {
         "@": fileURLToPath(new URL("./src", import.meta.url))
       }
-    }
+    },
+
+    plugins: [tailwindcss()]
   }
 });

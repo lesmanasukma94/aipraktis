@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+/* ========================================
+   Base Styles
+======================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-gray-900 antialiased;
+}
+
+img {
+  @apply max-w-full h-auto;
+}
+
+a {
+  @apply transition-colors;
+}
+
+button {
+  @apply cursor-pointer;
+}
