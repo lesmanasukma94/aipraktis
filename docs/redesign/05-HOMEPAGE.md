@@ -1145,3 +1145,397 @@ Pada Part 3 akan dibahas secara rinci:
 * Performance Budget
 * SEO Hero
 * Accessibility Hero
+
+---
+
+# PART 3 — Hero Section Specification
+
+> Hero adalah area paling penting pada homepage. Dalam waktu kurang dari lima detik, pengguna harus memahami apa itu AI Praktis Indonesia, manfaat yang diberikan, dan tindakan pertama yang perlu dilakukan.
+
+---
+
+# 35. Tujuan Hero Section
+
+Hero mempunyai lima tujuan utama.
+
+## 1. Menjelaskan Value Proposition
+
+Pengguna baru harus langsung memahami:
+
+- Website ini apa.
+- Siapa target penggunanya.
+- Manfaat yang akan diperoleh.
+
+---
+
+## 2. Mengarahkan Aksi
+
+Hero tidak hanya menjelaskan.
+
+Hero harus mengajak pengguna melakukan tindakan.
+
+Prioritas tindakan:
+
+1. Menggunakan Search
+2. Menjelajahi AI Tools
+3. Mulai Belajar AI
+
+---
+
+## 3. Membangun Kepercayaan
+
+Dalam beberapa detik pertama, pengguna harus merasa bahwa website ini:
+
+- profesional;
+- terpercaya;
+- aktif diperbarui;
+- memiliki banyak sumber belajar.
+
+---
+
+## 4. Menjadi Entry Point
+
+Hero adalah pintu masuk seluruh ekosistem.
+
+Pengguna dapat memulai perjalanan dari:
+
+- Search
+- AI Tools
+- Tutorial
+- Prompt
+- Template
+
+---
+
+## 5. Mendukung SEO
+
+Walaupun sebagian besar pengunjung datang dari Google, homepage tetap harus menjelaskan konteks website dengan jelas.
+
+---
+
+# 36. Hero Layout
+
+Desktop
+
+```
++------------------------------------------------------------+
+
+Badge
+
+Headline
+
+Subheadline
+
+Search Box
+
+Primary CTA
+
+Secondary CTA
+
+Trust Indicators
+
+Illustration
+
++------------------------------------------------------------+
+```
+
+Tablet
+
+```
+Headline
+
+Subheadline
+
+Search
+
+CTA
+
+Illustration
+```
+
+Mobile
+
+```
+Headline
+
+Subheadline
+
+Search
+
+Primary CTA
+
+Secondary CTA
+
+Illustration
+```
+
+Tidak ada elemen penting yang dihilangkan.
+
+Hanya tata letaknya yang berubah.
+
+---
+
+# 37. Headline
+
+Headline maksimal:
+
+```
+2 Baris
+```
+
+Target:
+
+Kurang dari:
+
+```
+70 Karakter
+```
+
+Contoh:
+
+> Belajar AI Lebih Mudah Bersama AI Praktis Indonesia
+
+atau
+
+> Tutorial, Prompt, dan AI Tools Berbahasa Indonesia
+
+Headline harus menjelaskan manfaat, bukan slogan yang abstrak.
+
+---
+
+# 38. Subheadline
+
+Subheadline menjelaskan headline.
+
+Target:
+
+60–140 karakter.
+
+Contoh:
+
+> Temukan tutorial AI, prompt siap pakai, direktori AI Tools, dan panduan praktis untuk belajar, bekerja, dan meningkatkan produktivitas.
+
+---
+
+# 39. Badge
+
+Badge digunakan untuk memberikan konteks.
+
+Contoh:
+
+- 🇮🇩 Platform AI Berbahasa Indonesia
+- 🚀 Update AI Setiap Minggu
+- ⭐ 100+ Panduan AI Praktis
+
+Badge harus singkat.
+
+---
+
+# 40. Search Box
+
+Search adalah fokus utama Hero.
+
+Placeholder:
+
+```
+Cari AI Tool, tutorial, prompt...
+```
+
+Autocomplete:
+
+- ChatGPT
+- Gemini
+- Claude
+- Midjourney
+- Prompt Guru
+- AI Marketing
+
+Search harus dapat digunakan menggunakan keyboard.
+
+---
+
+# 41. Primary CTA
+
+Hanya satu Primary CTA.
+
+Contoh:
+
+```
+Mulai Belajar AI
+```
+
+atau
+
+```
+Jelajahi AI Tools
+```
+
+Gunakan kata kerja yang jelas.
+
+---
+
+# 42. Secondary CTA
+
+Digunakan untuk aksi alternatif.
+
+Contoh:
+
+```
+Lihat Prompt
+
+↓
+
+Prompt Library
+```
+
+atau
+
+```
+Tutorial Gratis
+```
+
+---
+
+# 43. Trust Indicators
+
+Tujuan:
+
+Mengurangi keraguan pengguna.
+
+Contoh:
+
+✓ Tutorial Praktis
+
+✓ AI Tools Terbaru
+
+✓ Prompt Siap Pakai
+
+✓ Gratis Dipelajari
+
+Jika nanti tersedia data yang valid, trust indicator dapat diperluas, misalnya jumlah artikel atau jumlah AI tools.
+
+---
+
+# 44. Hero Illustration
+
+Ilustrasi bukan dekorasi.
+
+Ilustrasi harus membantu menjelaskan fungsi website.
+
+Kriteria:
+
+- ringan;
+- modern;
+- SVG;
+- mendukung dark mode;
+- tidak mengganggu keterbacaan.
+
+---
+
+# 45. CTA Strategy
+
+Urutan prioritas CTA:
+
+1. Search
+2. Primary CTA
+3. Secondary CTA
+4. Scroll ke section berikutnya
+
+Hero tidak boleh memiliki terlalu banyak tombol.
+
+---
+
+# 46. Accessibility
+
+Hero harus memenuhi:
+
+- Heading H1 tunggal.
+- Kontras warna minimal WCAG AA.
+- Tombol dapat diakses keyboard.
+- Search memiliki label.
+- Focus state terlihat jelas.
+
+---
+
+# 47. SEO Hero
+
+Hero mendukung SEO melalui:
+
+- H1 yang deskriptif.
+- Paragraf pembuka yang menjelaskan website.
+- Internal link menuju AI Tools.
+- Internal link menuju Tutorial.
+- Internal link menuju Prompt Library.
+
+Hindari penggunaan teks sebagai bagian dari gambar.
+
+---
+
+# 48. Performance Budget
+
+Target Hero:
+
+- Tidak ada video autoplay.
+- Tidak ada slider.
+- Tidak ada library animasi besar.
+- SVG inline bila memungkinkan.
+- Font preload seperlunya.
+- Gambar hero menggunakan format modern dan dimuat secara efisien.
+
+Hero harus tetap tampil cepat pada koneksi seluler.
+
+---
+
+# 49. Implementasi Astro
+
+Struktur komponen yang disarankan:
+
+```
+Hero.astro
+
+HeroBadge.astro
+
+HeroHeadline.astro
+
+HeroSearch.astro
+
+HeroCTA.astro
+
+HeroTrust.astro
+
+HeroIllustration.astro
+```
+
+Seluruh komponen harus reusable.
+
+Data konten sebaiknya dipisahkan dari presentasi agar mudah diperbarui.
+
+---
+
+# 50. Checklist Part 3
+
+- [x] Tujuan Hero ditetapkan.
+- [x] Layout Hero ditentukan.
+- [x] Headline dan subheadline memiliki panduan.
+- [x] Search Hero didefinisikan.
+- [x] CTA ditentukan.
+- [x] Accessibility ditentukan.
+- [x] Performance budget ditentukan.
+- [x] Struktur komponen Astro diusulkan.
+
+---
+
+# Lanjutan
+
+Part 4 akan membahas:
+
+- Header Navigation
+- Mega Menu
+- Sticky Header
+- Mobile Navigation
+- Search Overlay
+- Announcement Bar
+- Navigation Accessibility
+- Responsive Navigation
+- Information Scent
+- Navigation Performance
