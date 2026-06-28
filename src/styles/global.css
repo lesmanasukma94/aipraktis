@@ -9,17 +9,21 @@ html {
 }
 
 body {
-  @apply bg-white text-gray-900 antialiased;
+  background-color: white;
+  color: rgb(17 24 39);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 img {
-  @apply max-w-full h-auto;
+  max-width: 100%;
+  height: auto;
 }
 
 a {
-  @apply transition-colors;
+  transition: color 150ms ease;
 }
 
 button {
-  @apply cursor-pointer;
+  cursor: pointer;
 }
