@@ -5,6 +5,8 @@ description: "Pelajari pekerjaan yang akan berubah karena AI, profesi yang terda
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Apakah AI Akan Mengubah Dunia Kerja?
 
 Artificial Intelligence (AI) berkembang dengan sangat cepat.

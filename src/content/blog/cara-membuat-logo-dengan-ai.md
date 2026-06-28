@@ -8,7 +8,7 @@ pubDate: "2026-06-28"
 
 ---
 
-# Cara Membuat Logo dengan AI: Panduan Lengkap untuk UMKM, Bisnis, dan Content Creator
+---
 
 Logo merupakan identitas visual yang sangat penting bagi sebuah bisnis, toko online, startup, maupun personal brand.
 

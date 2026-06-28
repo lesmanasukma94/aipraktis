@@ -3,9 +3,9 @@
 title: "ChatGPT untuk Marketing: Cara Menggunakan AI untuk Meningkatkan Strategi Pemasaran"
 description: "Pelajari cara menggunakan ChatGPT untuk marketing, membuat konten pemasaran, riset audiens, ide promosi, email marketing, dan meningkatkan produktivitas tim marketing."
 pubDate: "2026-06-19"
----------------------
+---
 
-# ChatGPT untuk Marketing
+---
 
 ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh tim marketing. Dengan bantuan AI, proses pembuatan konten, riset pasar, brainstorming ide kampanye, hingga penyusunan strategi pemasaran dapat dilakukan lebih cepat dan efisien.
 

@@ -8,7 +8,7 @@ pubDate: "2026-06-27"
 
 ---
 
-# Cara Membuat Gambar dengan AI: Panduan Lengkap untuk Pemula 2026
+---
 
 Membuat gambar kini tidak lagi harus menggunakan software desain yang rumit atau memiliki kemampuan menggambar profesional. Dengan bantuan Artificial Intelligence (AI), siapa pun dapat menghasilkan gambar hanya dengan mengetikkan deskripsi dalam bentuk teks.
 

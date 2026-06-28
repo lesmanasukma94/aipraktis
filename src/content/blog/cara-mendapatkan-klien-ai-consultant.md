@@ -5,7 +5,7 @@ description: "Pelajari cara mendapatkan klien AI Consultant pertama, membangun p
 pubDate: "2026-06-25"
 ---
 
-# Cara Mendapatkan Klien AI Consultant: Panduan Lengkap untuk Pemula
+---
 
 Salah satu pertanyaan terbesar yang sering muncul setelah belajar AI adalah:
 

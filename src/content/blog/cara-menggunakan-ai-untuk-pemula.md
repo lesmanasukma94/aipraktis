@@ -4,7 +4,7 @@ description: "Panduan lengkap cara menggunakan AI untuk pemula. Pelajari langkah
 pubDate: "2026-06-15"
 ---
 
-## Cara Menggunakan AI untuk Pemula
+---
 
 Artificial Intelligence (AI) bukan lagi teknologi yang hanya digunakan oleh perusahaan besar atau ahli teknologi.
 

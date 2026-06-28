@@ -5,6 +5,8 @@ description: "Pelajari cara membuat prompt yang baik agar ChatGPT, Gemini, dan A
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Mengapa Prompt Sangat Penting?
 
 Banyak orang mencoba menggunakan ChatGPT, Gemini, Claude, atau tools AI lainnya, tetapi merasa hasil yang diperoleh kurang memuaskan.

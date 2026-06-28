@@ -5,7 +5,7 @@ description: "Daftar kursus AI gratis terbaik untuk pemula. Pelajari Artificial 
 pubDate: "2026-06-24"
 ---
 
-# Kursus AI Gratis Terbaik: 15 Tempat Belajar Artificial Intelligence Tanpa Biaya
+---
 
 Artificial Intelligence (AI) menjadi salah satu keterampilan yang paling dicari di dunia kerja saat ini.
 

@@ -4,6 +4,9 @@ title: "Skill AI yang Harus Dipelajari Tahun 2026"
 description: "Pelajari skill AI yang harus dipelajari tahun 2026 untuk meningkatkan karier, produktivitas, dan peluang menghasilkan uang di era kecerdasan buatan."
 pubDate: "2026-06-16"
 ---
+
+---
+
 ## Mengapa Belajar Skill AI Menjadi Penting?
 
 Artificial Intelligence (AI) telah mengubah cara manusia bekerja, belajar, dan menjalankan bisnis.

@@ -5,7 +5,7 @@ description: "Pelajari roadmap lengkap menjadi AI Consultant dari nol. Panduan s
 pubDate: "2026-06-23"
 ---
 
-# Roadmap Menjadi AI Consultant: Panduan Lengkap dari Pemula hingga Profesional
+---
 
 Artificial Intelligence (AI) telah mengubah cara bisnis beroperasi.
 

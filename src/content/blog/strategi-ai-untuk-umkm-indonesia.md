@@ -5,7 +5,7 @@ description: "Panduan lengkap strategi AI untuk UMKM Indonesia. Pelajari cara me
 pubDate: "2026-06-16"
 ---
 
-# Strategi AI untuk UMKM Indonesia
+---
 
 ## Mengapa UMKM Indonesia Perlu Memahami AI?
 

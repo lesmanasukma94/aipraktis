@@ -5,7 +5,7 @@ description: "Pelajari berbagai sertifikasi AI gratis yang bisa diikuti secara o
 pubDate: "2026-06-24"
 ---
 
-# Sertifikasi AI Gratis: Cara Mendapatkan Sertifikat Artificial Intelligence Tanpa Biaya
+---
 
 Artificial Intelligence (AI) menjadi salah satu keterampilan yang paling dicari di dunia kerja saat ini.
 

@@ -8,7 +8,7 @@ pubDate: "2026-06-27"
 
 ---
 
-# Cara Membuat Video AI: Panduan Lengkap untuk Pemula 2026
+---
 
 Teknologi Artificial Intelligence (AI) telah mengubah cara orang membuat video. Jika dulu membuat video membutuhkan kamera mahal, software editing yang rumit, dan waktu berjam-jam, sekarang proses tersebut dapat dilakukan jauh lebih cepat menggunakan AI.
 

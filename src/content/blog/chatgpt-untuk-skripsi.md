@@ -3,9 +3,9 @@
 title: "ChatGPT untuk Skripsi: Cara Menggunakan AI Secara Efektif dan Etis"
 description: "Panduan lengkap menggunakan ChatGPT untuk skripsi, mulai dari mencari ide, menyusun outline, riset awal, hingga meningkatkan produktivitas penelitian secara etis."
 pubDate: "2026-06-21"
----------------------
+---
 
-# ChatGPT untuk Skripsi: Cara Menggunakan AI Secara Efektif dan Etis
+---
 
 Skripsi merupakan salah satu tantangan terbesar yang dihadapi mahasiswa sebelum lulus kuliah. Mulai dari menentukan topik, mencari referensi, menyusun proposal, melakukan penelitian, hingga menulis laporan akhir, seluruh proses membutuhkan waktu, konsistensi, dan kemampuan berpikir kritis.
 

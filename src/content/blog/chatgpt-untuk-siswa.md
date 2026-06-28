@@ -5,7 +5,7 @@ description: "Pelajari cara menggunakan ChatGPT untuk siswa SD, SMP, dan SMA aga
 pubDate: "2026-06-22"
 ---
 
-# ChatGPT untuk Siswa: Panduan Lengkap Belajar Lebih Cepat dan Efektif dengan AI
+---
 
 Teknologi Artificial Intelligence (AI) semakin banyak digunakan dalam dunia pendidikan. Salah satu teknologi yang paling populer saat ini adalah ChatGPT.
 

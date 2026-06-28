@@ -8,7 +8,7 @@ pubDate: "2026-06-28"
 
 ---
 
-# Cara Membuat Aplikasi AI: Panduan Lengkap untuk Pemula dan Bisnis
+---
 
 Artificial Intelligence telah mengubah cara software dibuat.
 

@@ -8,6 +8,8 @@ pubDate: "2026-06-27"
 
 ---
 
+---
+
 Membuat surat lamaran kerja sering menjadi tantangan bagi banyak pencari kerja. Tidak sedikit kandidat yang bingung bagaimana memperkenalkan diri, menjelaskan kemampuan, dan menunjukkan ketertarikan terhadap posisi yang dilamar.
 
 Saat ini Artificial Intelligence (AI) dapat membantu membuat surat lamaran kerja yang lebih profesional, terstruktur, dan relevan dengan kebutuhan perusahaan.

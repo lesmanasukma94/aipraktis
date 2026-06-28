@@ -4,7 +4,7 @@ description: "Panduan Lengkap Memulai Menggunakan AI dengan Mudah"
 pubDate: "2026-06-12"
 ---
 
-## ChatGPT untuk Pemula
+---
 
 Kecerdasan buatan atau Artificial Intelligence (AI) semakin banyak digunakan dalam kehidupan sehari-hari. Salah satu teknologi AI yang paling populer saat ini adalah ChatGPT. Dengan ChatGPT, siapa saja dapat mencari informasi, membuat tulisan, merangkum dokumen, mencari ide bisnis, hingga membantu pekerjaan kantor hanya dengan mengetikkan pertanyaan atau perintah.
 

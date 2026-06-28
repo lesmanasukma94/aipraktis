@@ -3,9 +3,9 @@
 title: "ChatGPT untuk Penelitian: Panduan Lengkap Menggunakan AI untuk Riset Akademik"
 description: "Pelajari cara menggunakan ChatGPT untuk penelitian akademik, mulai dari mencari ide penelitian, menyusun kerangka riset, memahami jurnal, hingga meningkatkan produktivitas penelitian."
 pubDate: "2026-06-21"
----------------------
+---
 
-# ChatGPT untuk Penelitian: Panduan Lengkap Menggunakan AI untuk Riset Akademik
+---
 
 Artificial Intelligence (AI) mulai mengubah cara mahasiswa, dosen, peneliti, dan akademisi melakukan penelitian. Salah satu tools AI yang paling populer saat ini adalah ChatGPT.
 

@@ -4,7 +4,7 @@ description: "Cara Menggunakan ChatGPT untuk Meningkatkan Produktivitas dan Penj
 pubDate: "2026-06-15"
 ---
 
-## ChatGPT untuk UMKM
+---
 
 ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh pelaku usaha kecil dan menengah (UMKM). Dengan bantuan ChatGPT, berbagai pekerjaan yang sebelumnya memerlukan waktu berjam-jam kini dapat diselesaikan dalam hitungan menit.
 

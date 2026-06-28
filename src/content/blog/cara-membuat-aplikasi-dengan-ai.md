@@ -8,7 +8,7 @@ pubDate: "2026-06-28"
 
 ---
 
-# Cara Membuat Aplikasi dengan AI: Panduan Lengkap untuk Pemula Tanpa Coding
+---
 
 Membuat aplikasi dulu identik dengan kemampuan pemrograman yang rumit, tim developer yang mahal, dan proses pengembangan yang memakan waktu berbulan-bulan.
 

@@ -4,6 +4,9 @@ title: "Freelance Menggunakan AI: Cara Mendapatkan Penghasilan di Era Kecerdasan
 description: "Pelajari cara memulai freelance menggunakan AI, layanan yang bisa ditawarkan, tools yang digunakan, dan langkah praktis mendapatkan klien pertama."
 pubDate: "2026-06-16"
 ---
+
+---
+
 ## Apa Itu Freelance Menggunakan AI?
 
 Freelance menggunakan AI adalah aktivitas menawarkan jasa kepada klien dengan bantuan Artificial Intelligence (AI) untuk meningkatkan produktivitas dan kualitas pekerjaan.

@@ -5,6 +5,8 @@ description: "Pelajari pekerjaan yang tidak akan digantikan AI dan keterampilan 
 pubDate: "2026-06-16"
 ---
 
+---
+
 ## Apakah AI Akan Menggantikan Semua Pekerjaan?
 
 Kemunculan Artificial Intelligence (AI) membuat banyak orang mulai khawatir tentang masa depan pekerjaan mereka.
