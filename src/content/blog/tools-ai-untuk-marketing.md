@@ -7,7 +7,7 @@ description: "Daftar tools AI terbaik untuk marketing yang membantu membuat kont
 pubDate: "2026-06-26"
 ---
 
-# 15 Tools AI untuk Marketing Terbaik 2026
+---
 
 Artificial Intelligence (AI) telah mengubah cara bisnis melakukan pemasaran. Tugas yang sebelumnya membutuhkan banyak waktu seperti membuat konten, menulis iklan, menganalisis data, hingga mengelola kampanye kini dapat dilakukan lebih cepat dengan bantuan AI.
 

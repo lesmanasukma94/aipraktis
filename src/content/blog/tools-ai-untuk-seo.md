@@ -8,6 +8,8 @@ pubDate: "2026-06-26"
 
 ---
 
+---
+
 SEO (Search Engine Optimization) terus berkembang. Jika dulu optimasi website dilakukan secara manual, sekarang banyak proses SEO dapat dipercepat menggunakan Artificial Intelligence (AI).
 
 AI membantu menemukan keyword, membuat konten, melakukan audit SEO, menganalisis kompetitor, hingga mengoptimasi artikel agar lebih mudah masuk halaman pertama Google.

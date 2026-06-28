@@ -5,7 +5,7 @@ description: "Pelajari apa itu Prompt Engineer, tugas, skill yang dibutuhkan, ga
 pubDate: "2026-06-23"
 ---
 
-# Prompt Engineer: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi Prompt Engineer
+---
 
 Perkembangan Artificial Intelligence (AI) menciptakan berbagai profesi baru yang sebelumnya tidak pernah ada.
 

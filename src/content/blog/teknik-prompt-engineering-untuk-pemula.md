@@ -5,6 +5,8 @@ description: "Pelajari teknik prompt engineering untuk pemula agar dapat menghas
 pubDate: "2026-06-15"
 ---
 
+---
+
 ## Apa Itu Prompt Engineering?
 
 Prompt Engineering adalah proses menyusun instruksi atau perintah kepada Artificial Intelligence (AI) agar menghasilkan output yang lebih akurat dan sesuai kebutuhan.

@@ -3,7 +3,9 @@
 title: "Studi Kasus UMKM Menggunakan AI: Cara AI Membantu Meningkatkan Produktivitas dan Penjualan"
 description: "Pelajari studi kasus penggunaan AI pada UMKM. Temukan bagaimana ChatGPT dan tools AI membantu meningkatkan produktivitas, pemasaran, pelayanan pelanggan, dan penjualan."
 pubDate: "2026-06-19"
----------------------
+---
+
+---
 
 # Studi Kasus UMKM Menggunakan AI
 

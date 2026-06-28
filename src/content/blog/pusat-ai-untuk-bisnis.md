@@ -4,6 +4,7 @@ title: "AI untuk Bisnis: Panduan Lengkap AI untuk UMKM, Marketing, Sales, dan Pr
 description: "Pelajari cara menggunakan AI untuk bisnis, UMKM, marketing, sales, customer support, toko online, dan produktivitas kerja melalui panduan lengkap AI Praktis Indonesia."
 pubDate: "2026-06-18"
 ---
+
 ---
 
 # AI untuk Bisnis: Panduan Lengkap untuk UMKM dan Perusahaan
