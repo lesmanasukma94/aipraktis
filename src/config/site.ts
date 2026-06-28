@@ -1,14 +1,28 @@
 export const SITE = {
+  // Identity
   name: "AI Praktis Indonesia",
-
   title: "AI Praktis Indonesia",
-
   description:
-    "Belajar AI dengan cara praktis untuk pekerjaan, bisnis, pendidikan, dan kehidupan sehari-hari.",
+    "Platform belajar AI praktis untuk pekerjaan, bisnis, pendidikan, dan kehidupan sehari-hari.",
 
+  // URL
   url: "https://aipraktis.co.id",
 
+  // Locale
+  lang: "id",
   locale: "id-ID",
 
-  author: "AI Praktis Indonesia"
+  // Author
+  author: "AI Praktis Indonesia",
+
+  // SEO
+  ogImage: "/images/og/default.png",
+
+  // Social
+  social: {
+    github: "",
+    x: "",
+    linkedin: "",
+    youtube: "",
+  },
 } as const;
