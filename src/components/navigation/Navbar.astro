@@ -1,0 +1,18 @@
+---
+import { SITE } from "@/config/site";
+import NavLink from "./NavLink.astro";
+---
+
+<nav>
+  <ul class="flex items-center gap-6">
+    {
+      SITE.navigation.map((item) => (
+        <li>
+          <NavLink href={item.href}>
+            {item.label}
+          </NavLink>
+        </li>
+      ))
+    }
+  </ul>
+</nav>

@@ -1,3 +1,15 @@
-<header>
-  <slot />
+---
+import Container from "./Container.astro";
+
+import Logo from "@/components/navigation/Logo.astro";
+import Navbar from "@/components/navigation/Navbar.astro";
+---
+
+<header class="border-b bg-white">
+  <Container>
+    <div class="flex h-16 items-center justify-between">
+      <Logo />
+      <Navbar />
+    </div>
+  </Container>
 </header>

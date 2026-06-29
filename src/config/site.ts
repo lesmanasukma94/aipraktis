@@ -1,8 +1,12 @@
 export const SITE = {
   name: "AI Praktis Indonesia",
   title: "AI Praktis Indonesia",
-  description: "Belajar AI Praktis untuk Pemula, Pekerja, dan UMKM.",
+  description:
+    "Belajar AI Praktis untuk Pemula, Pekerja, Freelancer, dan UMKM.",
+
   url: "https://aipraktis.co.id",
+
+  lang: "id",
 
   navigation: [
     {
@@ -21,12 +25,16 @@ export const SITE = {
       label: "Prompts",
       href: "/prompts",
     },
+    {
+      label: "Templates",
+      href: "/templates",
+    },
   ],
 
   social: {
     github: "",
-    x: "",
-    youtube: "",
     linkedin: "",
+    youtube: "",
+    x: "",
   },
 } as const;
