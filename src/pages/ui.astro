@@ -1,0 +1,41 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Container from "@/components/layout/Container.astro";
+import Section from "@/components/layout/Section.astro";
+import Stack from "@/components/layout/Stack.astro";
+
+import Badge from "@/components/ui/Badge.astro";
+import Tag from "@/components/ui/Tag.astro";
+import Heading from "@/components/ui/Heading.astro";
+import Text from "@/components/ui/Text.astro";
+---
+
+<BaseLayout title="UI Components">
+  <Section>
+    <Container size="md">
+      <Stack gap="lg">
+        <Heading level={1}>UI Foundation</Heading>
+
+        <Text>
+          Halaman ini digunakan untuk menguji seluruh komponen UI.
+        </Text>
+
+        <div class="flex flex-wrap gap-3">
+          <Badge>Primary</Badge>
+          <Badge variant="success">Gratis</Badge>
+          <Badge variant="warning">Premium</Badge>
+        </div>
+
+        <div class="flex flex-wrap gap-3">
+          <Tag>ChatGPT</Tag>
+          <Tag>Gemini</Tag>
+          <Tag href="/blog/tag/ai-tools">AI Tools</Tag>
+        </div>
+
+        <Text muted>
+          Contoh teks dengan gaya muted.
+        </Text>
+      </Stack>
+    </Container>
+  </Section>
+</BaseLayout>

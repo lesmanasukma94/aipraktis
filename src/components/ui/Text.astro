@@ -1,0 +1,24 @@
+---
+export interface Props {
+  as?: "p" | "span" | "small";
+  muted?: boolean;
+  class?: string;
+}
+
+const {
+  as = "p",
+  muted = false,
+  class: className = "",
+} = Astro.props;
+
+const Tag = as;
+
+const classes = [
+  muted ? "text-slate-600" : "",
+  className,
+].join(" ");
+---
+
+<Tag class={classes}>
+  <slot />
+</Tag>

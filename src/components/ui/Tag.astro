@@ -1,0 +1,32 @@
+---
+export interface Props {
+  href?: string;
+  class?: string;
+}
+
+const {
+  href,
+  class: className = "",
+} = Astro.props;
+
+const classes = [
+  "inline-flex items-center rounded-full",
+  "bg-slate-100 text-slate-700",
+  "px-3 py-1 text-sm",
+  "transition-colors duration-200",
+  "hover:bg-slate-200",
+  className,
+].join(" ");
+---
+
+{
+  href ? (
+    <a href={href} class={classes}>
+      <slot />
+    </a>
+  ) : (
+    <span class={classes}>
+      <slot />
+    </span>
+  )
+}
