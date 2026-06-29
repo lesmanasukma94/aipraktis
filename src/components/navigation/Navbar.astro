@@ -3,8 +3,8 @@ import { SITE } from "@/config/site";
 import NavLink from "./NavLink.astro";
 ---
 
-<nav>
-  <ul class="flex items-center gap-6">
+<nav class="hidden lg:block">
+  <ul class="flex items-center gap-8">
     {
       SITE.navigation.map((item) => (
         <li>
