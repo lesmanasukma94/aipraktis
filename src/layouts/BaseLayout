@@ -1,6 +1,10 @@
 ---
 import "@/styles/global.css";
+
 import { SITE } from "@/config/site";
+
+import Header from "@/components/layout/Header.astro";
+import Footer from "@/components/layout/Footer.astro";
 
 export interface Props {
   title?: string;
@@ -14,36 +18,41 @@ const {
 ---
 
 <!doctype html>
+
 <html lang={SITE.lang}>
-  <head>
-    <meta charset="UTF-8" />
 
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0"
-    />
+<head>
 
-    <title>{title}</title>
+<meta charset="utf-8" />
 
-    <meta
-      name="description"
-      content={description}
-    />
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1" />
 
-    <meta
-      name="generator"
-      content={Astro.generator}
-    />
+<title>{title}</title>
 
-    <link
-      rel="icon"
-      href="/favicon.ico"
-    />
-  </head>
+<meta
+name="description"
+content={description} />
 
-  <body>
+<meta
+name="generator"
+content={Astro.generator} />
 
-    <slot />
+</head>
 
-  </body>
+<body>
+
+<Header />
+
+<main>
+
+<slot />
+
+</main>
+
+<Footer />
+
+</body>
+
 </html>
