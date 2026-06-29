@@ -1,3 +1,43 @@
-<footer>
-  <slot />
+---
+import Container from "./Container.astro";
+import { SITE } from "@/config/site";
+---
+
+<footer class="border-t border-slate-200 bg-slate-50">
+  <Container>
+    <div class="py-10">
+
+      <div class="mb-8">
+        <h2 class="text-xl font-bold">
+          {SITE.name}
+        </h2>
+
+        <p class="mt-2 max-w-xl text-slate-600">
+          {SITE.description}
+        </p>
+      </div>
+
+      <nav class="mb-8">
+        <ul class="flex flex-wrap gap-6">
+          {
+            SITE.navigation.map((item) => (
+              <li>
+                <a
+                  href={item.href}
+                  class="text-slate-600 hover:text-blue-600 transition-colors"
+                >
+                  {item.label}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </nav>
+
+      <div class="border-t border-slate-200 pt-6 text-sm text-slate-500">
+        © {new Date().getFullYear()} {SITE.name}. All rights reserved.
+      </div>
+
+    </div>
+  </Container>
 </footer>
