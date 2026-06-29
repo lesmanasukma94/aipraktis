@@ -1,5 +1,7 @@
 @import "tailwindcss";
+
 @import "./tokens.css";
+@import "./typography.css";
 
 html {
   scroll-behavior: smooth;

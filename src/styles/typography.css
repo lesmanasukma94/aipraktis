@@ -1,0 +1,56 @@
+/* ==========================================
+   Typography System
+========================================== */
+
+h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  font-weight: 800;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+}
+
+h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+h3 {
+  font-size: clamp(1.5rem, 3vw, 2rem);
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+h5 {
+  font-size: 1.125rem;
+  font-weight: 600;
+}
+
+h6 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+p {
+  line-height: 1.8;
+}
+
+small {
+  font-size: .875rem;
+}
+
+strong {
+  font-weight: 700;
+}
+
+code {
+  font-family: var(--font-mono);
+}
+
+pre {
+  overflow-x: auto;
+}
