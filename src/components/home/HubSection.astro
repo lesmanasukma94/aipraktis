@@ -1,0 +1,73 @@
+---
+const hubs = [
+  {
+    icon: "💼",
+    title: "AI untuk Bisnis",
+    description:
+      "AI untuk UMKM, marketing, sales, customer service, hingga toko online.",
+    href: "/blog/pusat-ai-untuk-bisnis/",
+  },
+
+  {
+    icon: "🎓",
+    title: "AI untuk Pendidikan",
+    description:
+      "AI untuk guru, mahasiswa, penelitian, skripsi, dan belajar.",
+    href: "/blog/pusat-ai-untuk-pendidikan/",
+  },
+
+  {
+    icon: "🎥",
+    title: "Content Creator",
+    description:
+      "AI untuk YouTube, TikTok, Instagram, blogging, dan SEO.",
+    href: "/blog/pusat-ai-untuk-content-creator/",
+  },
+
+  {
+    icon: "🚀",
+    title: "Karier AI",
+    description:
+      "Prompt Engineer, AI Consultant, AI Specialist, Freelancer AI.",
+    href: "/blog/pusat-karier-ai/",
+  },
+];
+---
+
+<section class="hub-home">
+
+  <h2>
+    Jelajahi AI Sesuai Kebutuhan Anda
+  </h2>
+
+  <p class="hub-subtitle">
+    Pilih jalur belajar AI sesuai tujuan Anda.
+  </p>
+
+  <div class="hub-grid">
+
+    {
+      hubs.map((hub) => (
+
+        <a href={hub.href} class="hub-card">
+
+          <div class="hub-icon">
+            {hub.icon}
+          </div>
+
+          <h3>
+            {hub.title}
+          </h3>
+
+          <p>
+            {hub.description}
+          </p>
+
+        </a>
+
+      ))
+    }
+
+  </div>
+
+</section>

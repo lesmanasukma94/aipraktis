@@ -4,6 +4,7 @@ import Layout from "../layouts/Layout.astro";
 import Hero from "@/components/home/Hero.astro";
 import QuickSearch from "@/components/home/QuickSearch.astro";
 import QuickStats from "@/components/home/QuickStats.astro";
+import HubSection from "@/components/home/HubSection.astro";
 
 import { getCollection } from "astro:content";
 
@@ -42,94 +43,7 @@ const latestPosts = posts.slice(0, 6);
 <!-- AI HUB -->
 <!-- ===================================== -->
 
-<section class="hub-home">
-
-<h2>
-
-Jelajahi AI Sesuai Kebutuhan Anda
-
-</h2>
-
-<p class="hub-subtitle">
-
-Pilih jalur belajar AI sesuai tujuan Anda.
-
-</p>
-
-<div class="hub-grid">
-
-<a href="/blog/pusat-ai-untuk-bisnis/" class="hub-card">
-
-<div class="hub-icon">💼</div>
-
-<h3>AI untuk Bisnis</h3>
-
-<p>
-
-AI untuk UMKM, marketing, sales,
-customer service,
-hingga toko online.
-
-</p>
-
-</a>
-
-<a href="/blog/pusat-ai-untuk-pendidikan/" class="hub-card">
-
-<div class="hub-icon">🎓</div>
-
-<h3>AI untuk Pendidikan</h3>
-
-<p>
-
-AI untuk guru,
-mahasiswa,
-penelitian,
-skripsi,
-dan belajar.
-
-</p>
-
-</a>
-
-<a href="/blog/pusat-ai-untuk-content-creator/" class="hub-card">
-
-<div class="hub-icon">🎥</div>
-
-<h3>Content Creator</h3>
-
-<p>
-
-AI untuk YouTube,
-TikTok,
-Instagram,
-blogging,
-dan SEO.
-
-</p>
-
-</a>
-
-<a href="/blog/pusat-karier-ai/" class="hub-card">
-
-<div class="hub-icon">🚀</div>
-
-<h3>Karier AI</h3>
-
-<p>
-
-Prompt Engineer,
-AI Consultant,
-AI Specialist,
-Freelancer AI.
-
-</p>
-
-</a>
-
-</div>
-
-</section>
+<HubSection />
 
 <!-- ===================================== -->
 <!-- LEARNING PATH -->
