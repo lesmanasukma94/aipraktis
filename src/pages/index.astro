@@ -1,6 +1,8 @@
 ---
 import Layout from "../layouts/Layout.astro";
+
 import Hero from "@/components/home/Hero.astro";
+import QuickSearch from "@/components/home/QuickSearch.astro";
 
 import { getCollection } from "astro:content";
 
@@ -17,6 +19,10 @@ const latestPosts = posts.slice(0, 6);
 
 <Layout title="AI Praktis Indonesia | Belajar AI Praktis untuk Pemula, Pekerja, dan UMKM">
 
+<!-- ========================= -->
+<!-- HERO -->
+<!-- ========================= -->
+
 <!-- HERO -->
 
 <Hero />
@@ -25,34 +31,9 @@ const latestPosts = posts.slice(0, 6);
 <!-- QUICK SEARCH -->
 <!-- ========================= -->
 
-<section class="quick-search">
+<!-- QUICK SEARCH -->
 
-<h2>
-Cari Panduan AI
-</h2>
-
-<p>
-Temukan lebih dari 140+ artikel AI Praktis Indonesia.
-</p>
-
-<form
-action="/blog"
-method="get"
-class="search-box">
-
-<input
-type="text"
-placeholder="Contoh: ChatGPT, AI Agent, Prompt Engineering, SEO AI">
-
-<button>
-
-Cari
-
-</button>
-
-</form>
-
-</section>
+<QuickSearch />
 
 <!-- ========================= -->
 <!-- QUICK STATS -->
