@@ -1,0 +1,45 @@
+---
+import { homeTools } from "@/data/home";
+---
+
+<section class="tools-center">
+
+  <h2>
+    Tools AI Terpopuler
+  </h2>
+
+  <p class="tools-subtitle">
+    Temukan berbagai tools AI terbaik sesuai kebutuhan pekerjaan, bisnis, pendidikan, coding, dan content creation.
+  </p>
+
+  <div class="tools-grid">
+
+    {
+      homeTools.map((tool) => (
+
+        <a href={tool.href} class="tool-card">
+
+          <h3>
+            {tool.title}
+          </h3>
+
+          <p>
+            {tool.description}
+          </p>
+
+        </a>
+
+      ))
+    }
+
+  </div>
+
+  <div class="tools-button">
+
+    <a href="/blog">
+      Lihat Semua Tools AI →
+    </a>
+
+  </div>
+
+</section>

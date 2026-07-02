@@ -6,6 +6,7 @@ import QuickSearch from "@/components/home/QuickSearch.astro";
 import QuickStats from "@/components/home/QuickStats.astro";
 import HubSection from "@/components/home/HubSection.astro";
 import LearningPath from "@/components/home/LearningPath.astro";
+import ToolsSection from "@/components/home/ToolsSection.astro";
 
 import { getCollection } from "astro:content";
 
@@ -56,107 +57,7 @@ const latestPosts = posts.slice(0, 6);
 <!-- AI TOOLS CENTER -->
 <!-- ===================================== -->
 
-<section class="tools-center">
-
-<h2>
-
-Tools AI Terpopuler
-
-</h2>
-
-<p class="tools-subtitle">
-
-Temukan berbagai tools AI terbaik sesuai kebutuhan pekerjaan, bisnis, pendidikan, coding, dan content creation.
-
-</p>
-
-<div class="tools-grid">
-
-<a href="/blog/15-tools-ai-gratis-terbaik-2026/" class="tool-card">
-
-<h3>🔥 15 Tools AI Gratis Terbaik</h3>
-
-<p>
-
-Rekomendasi tools AI paling populer untuk berbagai kebutuhan.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-bisnis/" class="tool-card">
-
-<h3>💼 AI untuk Bisnis</h3>
-
-<p>
-
-Tools AI untuk UMKM, marketing, customer service, dan produktivitas.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-marketing/" class="tool-card">
-
-<h3>📈 AI Marketing</h3>
-
-<p>
-
-Tools AI untuk digital marketing, copywriting, dan campaign.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-content-creator/" class="tool-card">
-
-<h3>🎥 Content Creator</h3>
-
-<p>
-
-YouTube, TikTok, Instagram, Blogging, dan desain konten.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-coding/" class="tool-card">
-
-<h3>💻 AI Coding</h3>
-
-<p>
-
-Cursor AI, GitHub Copilot, Claude, dan tools programmer lainnya.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-seo/" class="tool-card">
-
-<h3>🔍 AI SEO</h3>
-
-<p>
-
-Tools AI untuk riset keyword, artikel SEO, dan optimasi website.
-
-</p>
-
-</a>
-
-</div>
-
-<div class="tools-button">
-
-<a href="/blog">
-
-Lihat Semua Tools AI →
-
-</a>
-
-</div>
-
-</section>
+<ToolsSection />
 
 <!-- ===================================== -->
 <!-- AI UNTUK BISNIS -->
