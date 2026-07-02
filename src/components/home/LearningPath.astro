@@ -1,0 +1,73 @@
+---
+const steps = [
+  {
+    number: "1",
+    title: "Apa Itu AI?",
+    description:
+      "Kenali Artificial Intelligence, jenis-jenis AI, serta manfaatnya.",
+    href: "/blog/apa-itu-ai/",
+  },
+
+  {
+    number: "2",
+    title: "Belajar ChatGPT",
+    description:
+      "Mulai menggunakan ChatGPT untuk pekerjaan, belajar, dan bisnis.",
+    href: "/blog/chatgpt-untuk-pemula/",
+  },
+
+  {
+    number: "3",
+    title: "Prompt Engineering",
+    description:
+      "Pelajari cara membuat prompt yang menghasilkan jawaban berkualitas.",
+    href: "/blog/cara-membuat-prompt-yang-baik/",
+  },
+
+  {
+    number: "4",
+    title: "Roadmap AI",
+    description:
+      "Lanjutkan ke level AI Tools, AI Agent, otomasi, hingga bisnis AI.",
+    href: "/blog/roadmap-belajar-ai/",
+  },
+];
+---
+
+<section class="learning-path">
+
+  <h2>
+    Mulai Belajar AI dari Nol
+  </h2>
+
+  <p class="learning-subtitle">
+    Ikuti roadmap belajar AI secara bertahap tanpa bingung harus mulai dari mana.
+  </p>
+
+  <div class="learning-grid">
+
+    {
+      steps.map((step) => (
+
+        <a href={step.href} class="learning-card">
+
+          <span class="step-number">
+            {step.number}
+          </span>
+
+          <h3>
+            {step.title}
+          </h3>
+
+          <p>
+            {step.description}
+          </p>
+
+        </a>
+
+      ))
+    }
+
+  </div>
+
+</section>

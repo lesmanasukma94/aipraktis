@@ -5,6 +5,7 @@ import Hero from "@/components/home/Hero.astro";
 import QuickSearch from "@/components/home/QuickSearch.astro";
 import QuickStats from "@/components/home/QuickStats.astro";
 import HubSection from "@/components/home/HubSection.astro";
+import LearningPath from "@/components/home/LearningPath.astro";
 
 import { getCollection } from "astro:content";
 
@@ -49,91 +50,7 @@ const latestPosts = posts.slice(0, 6);
 <!-- LEARNING PATH -->
 <!-- ===================================== -->
 
-<section class="learning-path">
-
-<h2>
-
-Mulai Belajar AI dari Nol
-
-</h2>
-
-<p class="learning-subtitle">
-
-Ikuti roadmap belajar AI secara bertahap tanpa bingung harus mulai dari mana.
-
-</p>
-
-<div class="learning-grid">
-
-<a href="/blog/apa-itu-ai/" class="learning-card">
-
-<span class="step-number">1</span>
-
-<h3>Apa Itu AI?</h3>
-
-<p>
-
-Kenali Artificial Intelligence,
-jenis-jenis AI,
-serta manfaatnya.
-
-</p>
-
-</a>
-
-<a href="/blog/chatgpt-untuk-pemula/" class="learning-card">
-
-<span class="step-number">2</span>
-
-<h3>Belajar ChatGPT</h3>
-
-<p>
-
-Mulai menggunakan ChatGPT
-untuk pekerjaan,
-belajar,
-dan bisnis.
-
-</p>
-
-</a>
-
-<a href="/blog/cara-membuat-prompt-yang-baik/" class="learning-card">
-
-<span class="step-number">3</span>
-
-<h3>Prompt Engineering</h3>
-
-<p>
-
-Pelajari cara membuat prompt
-yang menghasilkan jawaban berkualitas.
-
-</p>
-
-</a>
-
-<a href="/blog/roadmap-belajar-ai/" class="learning-card">
-
-<span class="step-number">4</span>
-
-<h3>Roadmap AI</h3>
-
-<p>
-
-Lanjutkan ke level
-AI Tools,
-AI Agent,
-otomasi,
-hingga bisnis AI.
-
-</p>
-
-</a>
-
-</div>
-
-</section>
+<LearningPath />
 
 <!-- ===================================== -->
 <!-- AI TOOLS CENTER -->
