@@ -8,6 +8,7 @@ import HubSection from "@/components/home/HubSection.astro";
 import LearningPath from "@/components/home/LearningPath.astro";
 import ToolsSection from "@/components/home/ToolsSection.astro";
 import BusinessSection from "@/components/home/BusinessSection.astro";
+import CreatorSection from "@/components/home/CreatorSection.astro";
 
 import { getCollection } from "astro:content";
 
@@ -70,104 +71,4 @@ const latestPosts = posts.slice(0, 6);
 <!-- CONTENT CREATOR -->
 <!-- ===================================== -->
 
-<section class="creator-center">
-
-<h2>
-
-AI untuk Content Creator
-
-</h2>
-
-<p class="creator-subtitle">
-
-Gunakan AI untuk membuat artikel, video, desain, YouTube, TikTok, Instagram, hingga optimasi SEO lebih cepat.
-
-</p>
-
-<div class="creator-grid">
-
-<a href="/blog/ai-untuk-content-creator/" class="creator-card">
-
-<h3>AI untuk Content Creator</h3>
-
-<p>
-
-Panduan lengkap menggunakan AI untuk membuat berbagai jenis konten.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-content-creator/" class="creator-card">
-
-<h3>Tools AI Content Creator</h3>
-
-<p>
-
-Kumpulan tools AI terbaik untuk kreator konten.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-youtube/" class="creator-card">
-
-<h3>AI untuk YouTube</h3>
-
-<p>
-
-Script, thumbnail, judul, SEO YouTube, dan editing video.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-tiktok/" class="creator-card">
-
-<h3>AI untuk TikTok</h3>
-
-<p>
-
-Ide konten, caption, hook video, dan editing.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-instagram/" class="creator-card">
-
-<h3>AI untuk Instagram</h3>
-
-<p>
-
-Caption, carousel, Reels, hashtag, dan desain posting.
-
-</p>
-
-</a>
-
-<a href="/blog/tools-ai-untuk-menulis-artikel/" class="creator-card">
-
-<h3>AI untuk Menulis Artikel</h3>
-
-<p>
-
-Menulis artikel SEO lebih cepat menggunakan AI.
-
-</p>
-
-</a>
-
-</div>
-
-<div class="creator-button">
-
-<a href="/blog/pusat-ai-untuk-content-creator/">
-
-Lihat Semua Panduan Content Creator →
-
-</a>
-
-</div>
-
-</section>
+<CreatorSection />

@@ -85,3 +85,47 @@ export const homeBusiness = [
     href: "/blog/tools-ai-untuk-customer-service/",
   },
 ];
+
+export const homeCreator = [
+  {
+    title: "AI untuk Content Creator",
+    description:
+      "Panduan lengkap menggunakan AI untuk membuat berbagai jenis konten.",
+    href: "/blog/ai-untuk-content-creator/",
+  },
+
+  {
+    title: "Tools AI Content Creator",
+    description:
+      "Kumpulan tools AI terbaik untuk kreator konten.",
+    href: "/blog/tools-ai-untuk-content-creator/",
+  },
+
+  {
+    title: "AI untuk YouTube",
+    description:
+      "Script, thumbnail, judul, SEO YouTube, dan editing video.",
+    href: "/blog/tools-ai-untuk-youtube/",
+  },
+
+  {
+    title: "AI untuk TikTok",
+    description:
+      "Ide konten, caption, hook video, dan editing.",
+    href: "/blog/tools-ai-untuk-tiktok/",
+  },
+
+  {
+    title: "AI untuk Instagram",
+    description:
+      "Caption, carousel, Reels, hashtag, dan desain posting.",
+    href: "/blog/tools-ai-untuk-instagram/",
+  },
+
+  {
+    title: "AI untuk Menulis Artikel",
+    description:
+      "Menulis artikel SEO lebih cepat menggunakan AI.",
+    href: "/blog/tools-ai-untuk-menulis-artikel/",
+  },
+];
