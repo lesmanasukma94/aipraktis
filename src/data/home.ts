@@ -41,3 +41,47 @@ export const homeTools = [
     href: "/blog/tools-ai-untuk-seo/",
   },
 ];
+
+export const homeBusiness = [
+  {
+    title: "AI untuk Bisnis",
+    description:
+      "Panduan lengkap memanfaatkan AI untuk mengembangkan bisnis modern.",
+    href: "/blog/ai-untuk-bisnis/",
+  },
+
+  {
+    title: "Tools AI Bisnis",
+    description:
+      "Rekomendasi tools AI terbaik untuk operasional dan produktivitas bisnis.",
+    href: "/blog/tools-ai-untuk-bisnis/",
+  },
+
+  {
+    title: "Strategi AI untuk UMKM",
+    description:
+      "Cara UMKM Indonesia meningkatkan omzet menggunakan AI.",
+    href: "/blog/strategi-ai-untuk-umkm-indonesia/",
+  },
+
+  {
+    title: "AI Marketing",
+    description:
+      "Copywriting, campaign, SEO, email marketing, hingga social media.",
+    href: "/blog/tools-ai-untuk-marketing/",
+  },
+
+  {
+    title: "AI Sales",
+    description:
+      "Meningkatkan closing, follow-up pelanggan, dan produktivitas tim sales.",
+    href: "/blog/tools-ai-untuk-sales/",
+  },
+
+  {
+    title: "Customer Service AI",
+    description:
+      "Otomatisasi layanan pelanggan menggunakan chatbot dan AI Agent.",
+    href: "/blog/tools-ai-untuk-customer-service/",
+  },
+];
