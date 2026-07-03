@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
+import BlogHero from "@/components/blog/BlogHero.astro";
 
 export interface Props {
   title: string;
@@ -39,10 +40,28 @@ const {
   description={description}
 >
 
-  <article class="mx-auto max-w-4xl px-6 py-12">
+<article class="mx-auto max-w-4xl px-6 py-12">
 
-    <slot />
+  <BlogHero
 
-  </article>
+    title={title}
+
+    description={description}
+
+    pubDate={pubDate}
+
+    updatedDate={updatedDate}
+
+    category={category}
+
+    tags={tags}
+
+    author={author}
+
+  />BlogHero
+
+  <slot />
+
+</article>
 
 </BaseLayout>

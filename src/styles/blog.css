@@ -1,0 +1,81 @@
+.article-hero{
+
+    margin-bottom:48px;
+
+}
+
+.article-category{
+
+    display:inline-block;
+
+    background:#2563eb;
+
+    color:white;
+
+    padding:.35rem .75rem;
+
+    border-radius:999px;
+
+    font-size:.85rem;
+
+    font-weight:600;
+
+}
+
+.article-hero h1{
+
+    font-size:3rem;
+
+    line-height:1.15;
+
+    margin:20px 0;
+
+}
+
+.article-description{
+
+    font-size:1.25rem;
+
+    color:#64748b;
+
+    margin-bottom:20px;
+
+}
+
+.article-info{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:12px;
+
+    color:#64748b;
+
+    font-size:.95rem;
+
+}
+
+.article-tags{
+
+    display:flex;
+
+    flex-wrap:wrap;
+
+    gap:10px;
+
+    margin-top:24px;
+
+}
+
+.article-tag{
+
+    background:#f1f5f9;
+
+    padding:.45rem .85rem;
+
+    border-radius:999px;
+
+    font-size:.85rem;
+
+}

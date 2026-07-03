@@ -1,0 +1,75 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+  pubDate?: Date;
+  updatedDate?: Date;
+  category?: string;
+  tags?: string[];
+  author?: string;
+}
+
+const {
+  title,
+  description,
+  pubDate,
+  updatedDate,
+  category,
+  tags = [],
+  author = "AI Praktis Indonesia",
+} = Astro.props;
+---
+
+<header class="article-hero">
+
+  {category && (
+    <div class="article-meta">
+      <span class="article-category">
+        {category}
+      </span>
+    </div>
+  )}
+
+  <h1>{title}</h1>
+
+  {description && (
+    <p class="article-description">
+      {description}
+    </p>
+  )}
+
+  <div class="article-info">
+
+    {pubDate && (
+      <span>
+        📅 {pubDate.toLocaleDateString("id-ID")}
+      </span>
+    )}
+
+    {updatedDate && (
+      <span>
+        • Update {updatedDate.toLocaleDateString("id-ID")}
+      </span>
+    )}
+
+    <span>
+      • {author}
+    </span>
+
+  </div>
+
+  {tags.length > 0 && (
+    <div class="article-tags">
+
+      {tags.map(tag => (
+
+        <span class="article-tag">
+          {tag}
+        </span>
+
+      ))}
+
+    </div>
+  )}
+
+</header>
