@@ -1,4 +1,8 @@
 ---
+
+import BlogBreadcrumb from "./BlogBreadcrumb.astro";
+import BlogReadingTime from "./BlogReadingTime.astro";
+
 export interface Props {
   title: string;
   description?: string;
@@ -7,6 +11,7 @@ export interface Props {
   category?: string;
   tags?: string[];
   author?: string;
+  readingTime?: number;
 }
 
 const {
@@ -17,7 +22,15 @@ const {
   category,
   tags = [],
   author = "AI Praktis Indonesia",
+  readingTime,
 } = Astro.props;
+---
+
+<BlogBreadcrumb
+  title={title}
+  category={category}
+/>
+
 ---
 
 <header class="article-hero">
@@ -55,6 +68,14 @@ const {
     <span>
       • {author}
     </span>
+
+    {
+  readingTime && (
+    <BlogReadingTime
+      minutes={readingTime}
+    />
+  )
+}
 
   </div>
 

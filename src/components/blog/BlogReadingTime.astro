@@ -1,0 +1,15 @@
+---
+export interface Props {
+
+  minutes: number;
+
+}
+
+const { minutes } = Astro.props;
+---
+
+<span class="blog-reading-time">
+
+  ⏱ {minutes} menit membaca
+
+</span>

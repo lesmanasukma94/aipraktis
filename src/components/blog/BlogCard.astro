@@ -1,0 +1,29 @@
+---
+const { post } = Astro.props;
+---
+
+<article class="blog-card">
+
+<h2>
+
+<a href={`/blog/${post.id}/`}>
+
+{post.data.title}
+
+</a>
+
+</h2>
+
+<p>
+
+{post.data.description}
+
+</p>
+
+<small>
+
+{post.data.pubDate.toLocaleDateString("id-ID")}
+
+</small>
+
+</article>

@@ -1,0 +1,40 @@
+---
+export interface Props {
+  title: string;
+  category?: string;
+}
+
+const {
+  title,
+  category,
+} = Astro.props;
+---
+
+<nav class="blog-breadcrumb" aria-label="Breadcrumb">
+
+  <a href="/">
+    Home
+  </a>
+
+  <span>/</span>
+
+  <a href="/blog">
+    Blog
+  </a>
+
+  {
+    category && (
+      <>
+        <span>/</span>
+        <span>{category}</span>
+      </>
+    )
+  }
+
+  <span>/</span>
+
+  <span aria-current="page">
+    {title}
+  </span>
+
+</nav>

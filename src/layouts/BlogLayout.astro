@@ -1,12 +1,16 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import BlogHero from "@/components/blog/BlogHero.astro";
+import BlogReadingTime from "@/components/blog/BlogReadingTime.astro";
 
 export interface Props {
+
   title: string;
+
   description?: string;
 
   pubDate?: Date;
+
   updatedDate?: Date;
 
   category?: string;
@@ -15,7 +19,8 @@ export interface Props {
 
   author?: string;
 
-  heroImage?: string;
+  readingTime?: number;
+
 }
 
 const {
@@ -31,8 +36,10 @@ const {
 
   author = "AI Praktis Indonesia",
 
-  heroImage,
+  readingTime = 5,
+
 } = Astro.props;
+
 ---
 
 <BaseLayout
@@ -58,7 +65,9 @@ const {
 
     author={author}
 
-  />BlogHero
+    readingTime={readingTime}
+
+  />
 
   <slot />
 
