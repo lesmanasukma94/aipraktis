@@ -1,146 +1,215 @@
+# AI Praktis Indonesia — ARTICLE TEMPLATE (FINAL)
+
+> Standar resmi penulisan artikel AI Praktis Indonesia.
+>
+> Seluruh artikel WAJIB mengikuti template ini.
+
+---
+
+## Frontmatter
+
+```yaml
 ---
 title: ""
-
 description: ""
-
 pubDate: "2026-07-04"
-
-updatedDate: "2026-07-04"
-
+updatedDate:
 author: "AI Praktis Indonesia"
 
 category: ""
-
 tags:
-
   - ""
 
 featured: false
-
 draft: false
 ---
-
-# Judul Artikel
-
-> Tuliskan judul yang jelas, mengandung keyword utama, dan menarik untuk meningkatkan CTR di Google.
+```
 
 ---
 
-# Ringkasan
+# Aturan Penting
 
-Tuliskan ringkasan 2–3 paragraf yang menjelaskan isi artikel secara singkat.
+## 1. JANGAN menulis H1 di dalam Markdown
 
-Ringkasan harus dapat dipahami tanpa membaca seluruh artikel.
+❌ Salah
 
----
+```md
+# Cara Belajar AI
+```
 
-# Apa yang Akan Dipelajari
+Karena H1 sudah otomatis dibuat oleh `BlogHero.astro`.
 
-- ...
-- ...
-- ...
-- ...
-
----
-
-# Pendahuluan
-
-Jelaskan masalah yang dihadapi pembaca.
-
-Perkenalkan topik yang akan dibahas.
-
-Gunakan keyword utama secara natural.
+Artikel harus langsung dimulai dari heading level 2.
 
 ---
 
-# Apa Itu ...
+## 2. Struktur Heading
 
-Jelaskan definisi secara sederhana.
+Urutan heading yang benar:
 
-Gunakan bahasa yang mudah dipahami pemula.
+```text
+H1  ← dibuat otomatis oleh BlogHero
+
+H2 Ringkasan
+
+H2 Pembahasan
+
+H2 Pembahasan
+
+H3 Sub pembahasan
+
+H2 FAQ
+
+H2 Artikel Terkait
+```
+
+Jangan pernah membuat lebih dari satu H1.
 
 ---
 
-# Mengapa Hal Ini Penting?
+## 3. Pembuka
 
-Jelaskan manfaat.
+Mulailah artikel dengan ringkasan singkat.
 
-Jelaskan kapan digunakan.
+```md
+## Ringkasan
 
-Jelaskan siapa yang membutuhkan.
+Tuliskan ringkasan 2–3 paragraf yang menjelaskan isi artikel secara singkat dan jelas.
+```
 
 ---
 
-# Cara ...
+## 4. Isi Artikel
 
-Jelaskan langkah demi langkah.
+Gunakan heading H2 dan H3 sesuai kebutuhan.
 
-Gunakan heading H3 bila diperlukan.
+Contoh:
 
-## Langkah 1
+```md
+## Apa Itu ...
 
 ...
 
-## Langkah 2
+## Mengapa Penting
 
 ...
 
-## Langkah 3
+## Cara Menggunakan
+
+### Langkah 1
 
 ...
 
----
+### Langkah 2
 
-# Contoh
+...
 
-Berikan contoh nyata.
+## Tips
 
-Gunakan studi kasus bila memungkinkan.
+...
 
----
+## Kesalahan yang Sering Terjadi
 
-# Tips
-
-- ...
-- ...
-- ...
+...
+```
 
 ---
 
-# Kesalahan yang Sering Terjadi
+## 5. FAQ
 
-- ...
-- ...
-- ...
+Selalu tambahkan FAQ apabila relevan.
 
----
+```md
+## FAQ
 
-# FAQ
-
-## Pertanyaan 1
+### Pertanyaan 1
 
 Jawaban.
 
-## Pertanyaan 2
+### Pertanyaan 2
 
 Jawaban.
-
-## Pertanyaan 3
-
-Jawaban.
+```
 
 ---
 
-# Kesimpulan
+## 6. Kesimpulan
 
-Ringkas isi artikel.
+Artikel harus diakhiri dengan ringkasan.
 
-Berikan CTA agar pembaca membaca artikel lain.
+```md
+## Kesimpulan
+
+Ringkas kembali poin-poin utama artikel dan berikan penutup yang membantu pembaca.
+```
 
 ---
 
-# Artikel Terkait
+## 7. Artikel Terkait
 
-- ...
-- ...
-- ...
+Tambahkan internal link di bagian akhir.
+
+```md
+## Artikel Terkait
+
+- Artikel 1
+- Artikel 2
+- Artikel 3
+```
+
+---
+
+# Checklist Sebelum Publish
+
+Pastikan:
+
+- Frontmatter lengkap
+- Tidak ada H1 di Markdown
+- Hanya menggunakan H2 dan H3
+- Title sesuai SEO
+- Description maksimal ±160 karakter
+- Internal link sudah ditambahkan
+- FAQ sudah dibuat (jika relevan)
+- Artikel terkait sudah ditambahkan
+- Tidak ada placeholder
+- Grammar sudah diperiksa
+
+---
+
+# Standar AI Praktis Indonesia
+
+Semua artikel menggunakan struktur berikut:
+
+```
+BlogHero (otomatis)
+
+H1
+Description
+Meta
+
+↓
+
+## Ringkasan
+
+↓
+
+## Pembahasan
+
+↓
+
+### Sub Pembahasan
+
+↓
+
+## FAQ
+
+↓
+
+## Kesimpulan
+
+↓
+
+## Artikel Terkait
+```
+
+Struktur ini adalah standar permanen untuk seluruh artikel AI Praktis Indonesia.
