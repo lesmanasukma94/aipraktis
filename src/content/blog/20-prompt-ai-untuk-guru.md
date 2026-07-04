@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "prompt-engineering"
 
 title: "20 Prompt AI untuk Guru"
 description: "Kumpulan 20 prompt AI untuk guru yang dapat membantu membuat materi ajar, soal, rubrik penilaian, presentasi, dan aktivitas pembelajaran."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 
 title: "Skill AI yang Harus Dipelajari Tahun 2026"
 description: "Pelajari skill AI yang harus dipelajari tahun 2026 untuk meningkatkan karier, produktivitas, dan peluang menghasilkan uang di era kecerdasan buatan."

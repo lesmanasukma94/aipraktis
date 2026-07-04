@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Marketing: Cara Menggunakan AI untuk Meningkatkan Strategi Pemasaran"
 description: "Pelajari cara menggunakan ChatGPT untuk marketing, membuat konten pemasaran, riset audiens, ide promosi, email marketing, dan meningkatkan produktivitas tim marketing."

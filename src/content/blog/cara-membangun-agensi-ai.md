@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membangun Agensi AI: Panduan Lengkap dari Freelancer hingga Bisnis AI yang Berkembang"
 description: "Pelajari cara membangun agensi AI dari nol, mendapatkan klien, membentuk tim, menentukan layanan, dan mengembangkan bisnis Artificial Intelligence yang berkelanjutan."

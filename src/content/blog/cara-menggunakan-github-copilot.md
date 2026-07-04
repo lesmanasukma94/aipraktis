@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "Cara Menggunakan GitHub Copilot: Panduan Lengkap untuk Pemula Tahun 2026"
 

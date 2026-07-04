@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-pendidikan"
 title: "AI untuk Mahasiswa: Cara Belajar Lebih Cepat dan Produktif"
 description: "Pelajari cara memanfaatkan AI untuk mahasiswa agar lebih produktif dalam belajar, mengerjakan tugas, membuat rangkuman, dan melakukan riset."
 pubDate: "2026-06-15"

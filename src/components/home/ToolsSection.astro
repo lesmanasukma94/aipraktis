@@ -1,45 +1,198 @@
 ---
-import { homeTools } from "@/data/home";
+const tools = [
+  {
+    name: "AI Writing",
+    slug: "/blog/category/ai-writing",
+    description:
+      "Tools AI untuk menulis artikel, email, copywriting, dan berbagai kebutuhan penulisan."
+  },
+  {
+    name: "AI Image",
+    slug: "/blog/category/ai-image",
+    description:
+      "Generator gambar AI untuk desain, ilustrasi, thumbnail, dan media sosial."
+  },
+  {
+    name: "AI Video",
+    slug: "/blog/category/ai-video",
+    description:
+      "Tools AI untuk membuat video, subtitle, avatar, dan editing otomatis."
+  },
+  {
+    name: "AI Coding",
+    slug: "/blog/category/ai-coding",
+    description:
+      "AI Assistant untuk programmer, developer, debugging, dan penulisan kode."
+  },
+  {
+    name: "AI Productivity",
+    slug: "/blog/category/ai-productivity",
+    description:
+      "Tools AI untuk meningkatkan produktivitas kerja, meeting, dan manajemen tugas."
+  },
+  {
+    name: "AI Marketing",
+    slug: "/blog/category/ai-marketing",
+    description:
+      "AI untuk SEO, digital marketing, social media, email marketing, dan iklan."
+  }
+];
 ---
 
-<section class="tools-center">
+<section class="tools">
 
-  <h2>
-    Tools AI Terpopuler
-  </h2>
+  <div class="container">
 
-  <p class="tools-subtitle">
-    Temukan berbagai tools AI terbaik sesuai kebutuhan pekerjaan, bisnis, pendidikan, coding, dan content creation.
-  </p>
+    <div class="heading">
 
-  <div class="tools-grid">
+      <h2>Temukan AI Tools Sesuai Kebutuhan</h2>
 
-    {
-      homeTools.map((tool) => (
+      <p>
+        Jelajahi berbagai kategori AI Tools yang dapat membantu pekerjaan,
+        bisnis, pendidikan, content creation, hingga software development.
+      </p>
 
-        <a href={tool.href} class="tool-card">
+    </div>
 
-          <h3>
-            {tool.title}
-          </h3>
+    <div class="grid">
 
-          <p>
-            {tool.description}
-          </p>
+      {
+        tools.map((tool) => (
 
-        </a>
+          <a
+            href={tool.slug}
+            class="card"
+          >
 
-      ))
-    }
+            <h3>{tool.name}</h3>
 
-  </div>
+            <p>{tool.description}</p>
 
-  <div class="tools-button">
+            <span>
+              Jelajahi →
+            </span>
 
-    <a href="/blog">
-      Lihat Semua Tools AI →
-    </a>
+          </a>
+
+        ))
+      }
+
+    </div>
 
   </div>
 
 </section>
+
+<style>
+
+.tools{
+
+padding:90px 20px;
+
+background:#f8fafc;
+
+}
+
+.container{
+
+max-width:1200px;
+
+margin:auto;
+
+}
+
+.heading{
+
+text-align:center;
+
+margin-bottom:50px;
+
+}
+
+.heading h2{
+
+font-size:2.2rem;
+
+margin-bottom:12px;
+
+}
+
+.heading p{
+
+max-width:720px;
+
+margin:auto;
+
+line-height:1.8;
+
+color:#666;
+
+}
+
+.grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+gap:24px;
+
+}
+
+.card{
+
+display:block;
+
+padding:26px;
+
+background:white;
+
+border:1px solid #ececec;
+
+border-radius:16px;
+
+text-decoration:none;
+
+transition:.25s;
+
+}
+
+.card:hover{
+
+transform:translateY(-4px);
+
+border-color:#2563eb;
+
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+
+}
+
+.card h3{
+
+margin-bottom:14px;
+
+font-size:1.3rem;
+
+color:#111827;
+
+}
+
+.card p{
+
+line-height:1.7;
+
+color:#666;
+
+margin-bottom:20px;
+
+}
+
+.card span{
+
+font-weight:700;
+
+color:#2563eb;
+
+}
+
+</style>

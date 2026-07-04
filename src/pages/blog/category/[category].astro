@@ -1,0 +1,112 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+
+  const posts = await getCollection("blog");
+
+  const categoryMap = new Map();
+
+  for (const post of posts) {
+
+    const category = post.data.category;
+
+    if (!categoryMap.has(category)) {
+      categoryMap.set(category, []);
+    }
+
+    categoryMap.get(category).push(post);
+
+  }
+
+  return [...categoryMap.entries()].map(([category, posts]) => ({
+    params: {
+      category,
+    },
+    props: {
+      category,
+      posts,
+    },
+  }));
+}
+
+const { category, posts } = Astro.props;
+---
+
+<Layout
+  title={`Kategori: ${category}`}
+  description={`Kumpulan artikel kategori ${category}`}
+>
+
+<section class="container">
+
+<h1>{category}</h1>
+
+<p>
+Kumpulan artikel dalam kategori <strong>{category}</strong>.
+</p>
+
+<div class="grid">
+
+{
+posts.map((post) => (
+
+<article class="card">
+
+<h2>
+
+<a href={`/blog/${post.id}/`}>
+
+{post.data.title}
+
+</a>
+
+</h2>
+
+<p>
+
+{post.data.description}
+
+</p>
+
+<small>
+
+{post.data.pubDate.toLocaleDateString("id-ID")}
+
+</small>
+
+</article>
+
+))
+}
+
+</div>
+
+</section>
+
+</Layout>
+
+<style>
+
+.container{
+max-width:1100px;
+margin:auto;
+padding:40px 20px;
+}
+
+.grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+gap:24px;
+margin-top:30px;
+}
+
+.card{
+background:white;
+border:1px solid #e5e7eb;
+border-radius:16px;
+padding:24px;
+}
+
+</style>

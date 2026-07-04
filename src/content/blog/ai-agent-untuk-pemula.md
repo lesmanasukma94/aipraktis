@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "AI Agent untuk Pemula: Panduan Lengkap Memahami Teknologi AI Masa Depan"
 

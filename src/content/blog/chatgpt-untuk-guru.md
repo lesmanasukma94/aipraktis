@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Guru: Panduan Lengkap Menggunakan AI dalam Pembelajaran"
 description: "Pelajari cara menggunakan ChatGPT untuk guru, mulai dari membuat RPP, soal, materi ajar, penilaian, hingga meningkatkan produktivitas mengajar."

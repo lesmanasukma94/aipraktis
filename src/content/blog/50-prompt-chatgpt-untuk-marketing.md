@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "50 Prompt ChatGPT untuk Marketing yang Siap Pakai untuk Bisnis dan UMKM"
 description: "Kumpulan 50 prompt ChatGPT untuk marketing yang dapat digunakan untuk membuat konten, promosi, email marketing, strategi pemasaran, dan meningkatkan penjualan."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 title: "Gemini AI untuk Pemula"
 description: "Panduan Lengkap Menggunakan AI dari Google"
 pubDate: "2026-06-13"

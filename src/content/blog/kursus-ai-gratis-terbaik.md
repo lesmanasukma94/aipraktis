@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "Kursus AI Gratis Terbaik: 15 Tempat Belajar Artificial Intelligence Tanpa Biaya"
 description: "Daftar kursus AI gratis terbaik untuk pemula. Pelajari Artificial Intelligence, ChatGPT, Prompt Engineering, Machine Learning, dan Generative AI tanpa biaya."

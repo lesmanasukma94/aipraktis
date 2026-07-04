@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Mendapatkan Pekerjaan AI: Panduan Lengkap Memulai Karier di Bidang Artificial Intelligence"
 

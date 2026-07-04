@@ -1,0 +1,230 @@
+---
+const vendors = [
+  {
+    name: "ChatGPT",
+    slug: "/ai/chatgpt",
+    description: "Panduan lengkap ChatGPT, tutorial, prompt, fitur, harga, dan tips penggunaan.",
+    badge: "Paling Populer"
+  },
+  {
+    name: "Claude",
+    slug: "/ai/claude",
+    description: "Belajar menggunakan Claude AI untuk menulis, analisis dokumen, dan produktivitas.",
+    badge: "Terbaik untuk Menulis"
+  },
+  {
+    name: "Gemini",
+    slug: "/ai/gemini",
+    description: "Tutorial Google Gemini, fitur terbaru, serta integrasi dengan Google Workspace.",
+    badge: "Google AI"
+  },
+  {
+    name: "Perplexity",
+    slug: "/ai/perplexity",
+    description: "AI Search Engine modern untuk riset, referensi, dan pencarian informasi.",
+    badge: "AI Search"
+  },
+  {
+    name: "Cursor",
+    slug: "/ai/cursor",
+    description: "AI Coding Assistant untuk programmer dan developer modern.",
+    badge: "Coding AI"
+  },
+  {
+    name: "DeepSeek",
+    slug: "/ai/deepseek",
+    description: "Tutorial DeepSeek AI, kemampuan reasoning, coding, dan alternatif ChatGPT.",
+    badge: "Trending"
+  }
+];
+---
+
+<section class="vendors">
+
+  <div class="container">
+
+    <div class="heading">
+
+      <h2>Platform AI Terpopuler</h2>
+
+      <p>
+        Pelajari platform AI paling banyak digunakan lengkap dengan tutorial,
+        review, perbandingan, dan panduan penggunaan.
+      </p>
+
+    </div>
+
+    <div class="grid">
+
+      {
+        vendors.map((vendor) => (
+
+          <a
+            href={vendor.slug}
+            class="card"
+          >
+
+            <span class="badge">
+              {vendor.badge}
+            </span>
+
+            <h3>
+              {vendor.name}
+            </h3>
+
+            <p>
+              {vendor.description}
+            </p>
+
+            <span class="link">
+              Lihat Panduan →
+            </span>
+
+          </a>
+
+        ))
+      }
+
+    </div>
+
+  </div>
+
+</section>
+
+<style>
+
+.vendors{
+
+padding:90px 20px;
+
+background:white;
+
+}
+
+.container{
+
+max-width:1200px;
+
+margin:auto;
+
+}
+
+.heading{
+
+text-align:center;
+
+margin-bottom:50px;
+
+}
+
+.heading h2{
+
+font-size:2.2rem;
+
+margin-bottom:12px;
+
+}
+
+.heading p{
+
+max-width:720px;
+
+margin:auto;
+
+line-height:1.7;
+
+color:#666;
+
+}
+
+.grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+gap:24px;
+
+}
+
+.card{
+
+display:flex;
+
+flex-direction:column;
+
+background:white;
+
+border:1px solid #ececec;
+
+border-radius:16px;
+
+padding:24px;
+
+text-decoration:none;
+
+transition:.25s;
+
+}
+
+.card:hover{
+
+transform:translateY(-5px);
+
+border-color:#2563eb;
+
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+
+}
+
+.badge{
+
+align-self:flex-start;
+
+padding:6px 12px;
+
+border-radius:999px;
+
+background:#eef4ff;
+
+color:#2563eb;
+
+font-size:.8rem;
+
+font-weight:600;
+
+margin-bottom:18px;
+
+}
+
+.card h3{
+
+font-size:1.35rem;
+
+margin-bottom:12px;
+
+color:#111827;
+
+}
+
+.card p{
+
+flex:1;
+
+color:#666;
+
+line-height:1.7;
+
+margin-bottom:20px;
+
+}
+
+.link{
+
+font-weight:700;
+
+color:#2563eb;
+
+}
+
+</style>

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membuat Aplikasi AI: Panduan Lengkap untuk Pemula dan Bisnis"
 

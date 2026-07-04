@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-content-creator"
 title: "AI untuk Content Creator: Cara Membuat Konten Lebih Cepat dan Berkualitas"
 description: "Pelajari cara memanfaatkan AI untuk content creator dalam mencari ide, menulis konten, membuat script video, dan meningkatkan produktivitas."
 pubDate: "2026-06-15"

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-pendidikan"
 
 title: "AI untuk Siswa: Cara Belajar Lebih Mudah, Cepat, dan Efektif"
 description: "Pelajari cara memanfaatkan AI untuk siswa agar lebih mudah memahami pelajaran, membuat rangkuman, mengerjakan tugas, dan meningkatkan prestasi belajar."

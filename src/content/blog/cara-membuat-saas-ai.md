@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membuat SaaS AI: Panduan Lengkap Membangun Bisnis Software AI"
 

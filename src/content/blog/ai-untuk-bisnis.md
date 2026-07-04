@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 title: "AI untuk Bisnis"
 description: "Cara Menggunakan Artificial Intelligence untuk Meningkatkan Efisiensi, Produktivitas, dan Pertumbuhan Bisnis"
 pubDate: "2026-06-13"

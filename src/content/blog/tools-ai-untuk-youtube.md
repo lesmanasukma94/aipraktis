@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 
 title: "15 Tools AI untuk YouTube Terbaik 2026"
 

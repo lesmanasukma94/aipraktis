@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "Freelance Menggunakan AI: Cara Mendapatkan Penghasilan di Era Kecerdasan Buatan"
 description: "Pelajari cara memulai freelance menggunakan AI, layanan yang bisa ditawarkan, tools yang digunakan, dan langkah praktis mendapatkan klien pertama."

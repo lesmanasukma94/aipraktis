@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 
 title: "AI Consultant: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi Konsultan AI"
 description: "Pelajari apa itu AI Consultant, tugas, skill yang dibutuhkan, gaji, peluang karier, dan roadmap lengkap menjadi konsultan AI di era Artificial Intelligence."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 title: "AI untuk Customer Service: Cara Meningkatkan Layanan Pelanggan"
 description: "Pelajari cara menggunakan AI untuk customer service agar dapat melayani pelanggan lebih cepat, efisien, dan profesional."
 pubDate: "2026-06-15"

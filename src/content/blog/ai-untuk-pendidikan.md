@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-pendidikan"
 title: "AI untuk Pendidikan: Cara Guru dan Mahasiswa Belajar Lebih Efektif"
 description: "Pelajari manfaat AI untuk pendidikan, mulai dari membantu guru membuat materi ajar hingga membantu mahasiswa belajar, riset, dan meningkatkan produktivitas."
 pubDate: "2026-06-15"

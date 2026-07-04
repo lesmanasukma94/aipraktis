@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 title: "AI untuk Freelancer"
 description: "Cara Menggunakan AI untuk Meningkatkan Produktivitas, Mendapatkan Klien, dan Mengembangkan Karier Freelance"
 pubDate: "2026-06-15"

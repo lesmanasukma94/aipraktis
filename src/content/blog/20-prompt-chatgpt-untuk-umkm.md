@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 title: "20 Prompt ChatGPT untuk UMKM"
 description: "Membuat Promosi, Caption, dan Ide Jualan Lebih Cepat"
 pubDate: "2026-06-13"

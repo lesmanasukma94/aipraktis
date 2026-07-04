@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Pendidikan: Cara Belajar dan Mengajar Lebih Efektif dengan AI"
 description: "Pelajari bagaimana ChatGPT dapat digunakan dalam dunia pendidikan untuk membantu siswa, mahasiswa, guru, dan tenaga pendidik belajar serta mengajar lebih efektif."

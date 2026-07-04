@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Penelitian: Panduan Lengkap Menggunakan AI untuk Riset Akademik"
 description: "Pelajari cara menggunakan ChatGPT untuk penelitian akademik, mulai dari mencari ide penelitian, menyusun kerangka riset, memahami jurnal, hingga meningkatkan produktivitas penelitian."

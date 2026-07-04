@@ -1,0 +1,154 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const vendors = [
+    "chatgpt",
+    "claude",
+    "gemini",
+    "cursor",
+    "perplexity",
+    "deepseek",
+    "copilot",
+    "mistral",
+    "qwen",
+    "grok"
+  ];
+
+  return vendors.map((vendor) => ({
+    params: { vendor }
+  }));
+}
+
+const { vendor } = Astro.params;
+
+const posts = await getCollection("blog");
+
+const relatedPosts = posts
+  .filter((post) =>
+    post.data.category === "ai-chatbot" ||
+    post.data.category === "ai-tools"
+  )
+  .slice(0, 6);
+---
+
+<Layout
+  title={`Panduan ${vendor.toUpperCase()} - Review, Cara Pakai & Alternatif`}
+  description={`Tutorial lengkap ${vendor}, cara menggunakan, fitur, harga, dan alternatif terbaik`}
+>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <h1>{vendor.toUpperCase()}</h1>
+
+    <p>
+      Panduan lengkap penggunaan {vendor}, fitur, kelebihan, kekurangan, dan cara menghasilkan uang dengan AI ini.
+    </p>
+
+    <a href="#" class="cta">
+      Coba {vendor} Sekarang
+    </a>
+  </section>
+
+  <!-- OVERVIEW -->
+  <section>
+    <h2>Apa itu {vendor}?</h2>
+
+    <p>
+      {vendor} adalah salah satu AI tools terbaik yang digunakan untuk produktivitas, automation, dan content creation.
+    </p>
+  </section>
+
+  <!-- FEATURES -->
+  <section>
+    <h2>Fitur Utama</h2>
+
+    <ul>
+      <li>AI Chat</li>
+      <li>Automation</li>
+      <li>Content Generation</li>
+      <li>Productivity Tools</li>
+    </ul>
+  </section>
+
+  <!-- USE CASE -->
+  <section>
+    <h2>Cara Menggunakan {vendor}</h2>
+
+    <p>
+      Tutorial step-by-step penggunaan {vendor} untuk pemula.
+    </p>
+  </section>
+
+  <!-- AFFILIATE CTA (💰 CORE MONEY ZONE) -->
+  <section class="cta-box">
+    <h2>Mulai Gunakan {vendor}</h2>
+
+    <p>
+      Gunakan {vendor} untuk meningkatkan produktivitas dan hasil kerja Anda.
+    </p>
+
+    <a href="#" class="cta-button">
+      Coba {vendor} Sekarang
+    </a>
+  </section>
+
+  <!-- ALTERNATIVES -->
+  <section>
+    <h2>Alternatif {vendor}</h2>
+
+    <ul>
+      <li>ChatGPT</li>
+      <li>Claude</li>
+      <li>Gemini</li>
+      <li>Perplexity</li>
+    </ul>
+  </section>
+
+  <!-- RELATED POSTS -->
+  <section>
+    <h2>Artikel Terkait</h2>
+
+    {relatedPosts.map((post) => (
+      <a href={`/blog/${post.id}/`}>
+        {post.data.title}
+      </a>
+    ))}
+  </section>
+
+</Layout>
+
+<style>
+.hero{
+  text-align:center;
+  padding:60px 20px;
+}
+
+.cta{
+  display:inline-block;
+  margin-top:20px;
+  padding:12px 20px;
+  background:#2563eb;
+  color:white;
+  border-radius:8px;
+  text-decoration:none;
+}
+
+.cta-box{
+  background:#111;
+  color:white;
+  padding:40px;
+  text-align:center;
+  margin:40px 0;
+}
+
+.cta-button{
+  display:inline-block;
+  padding:12px 20px;
+  background:#22c55e;
+  color:white;
+  border-radius:8px;
+  text-decoration:none;
+}
+</style>

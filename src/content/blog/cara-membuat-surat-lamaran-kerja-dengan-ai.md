@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membuat Surat Lamaran Kerja dengan AI: Panduan Lengkap untuk Fresh Graduate dan Profesional"
 

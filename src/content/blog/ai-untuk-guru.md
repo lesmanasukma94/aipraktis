@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-pendidikan"
 title: "AI untuk Guru: Cara Mengajar Lebih Efektif dan Produktif"
 description: "Pelajari cara memanfaatkan AI untuk guru dalam membuat materi ajar, soal, presentasi, dan meningkatkan produktivitas mengajar."
 pubDate: "2026-06-15"

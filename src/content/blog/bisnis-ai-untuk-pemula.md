@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "Bisnis AI untuk Pemula: 15 Peluang Usaha Artificial Intelligence yang Bisa Dimulai Sekarang"
 description: "Pelajari berbagai peluang bisnis AI untuk pemula, cara memulai usaha berbasis Artificial Intelligence, serta strategi membangun bisnis AI yang berkelanjutan."

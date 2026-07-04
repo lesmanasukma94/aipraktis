@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 
 title: "15 Tools AI untuk Instagram Terbaik 2026"
 

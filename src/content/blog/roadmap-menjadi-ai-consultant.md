@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 
 title: "Roadmap Menjadi AI Consultant: Panduan Lengkap dari Pemula hingga Profesional"
 description: "Pelajari roadmap lengkap menjadi AI Consultant dari nol. Panduan skill, tools, portofolio, klien pertama, dan peluang karier konsultan AI di era Artificial Intelligence."

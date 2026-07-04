@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Jasa Profesional: Cara Meningkatkan Produktivitas dan Pelayanan Klien"
 description: "Pelajari cara menggunakan AI untuk jasa profesional seperti konsultan, akuntan, pengacara, arsitek, desainer, agen properti, dan trainer agar bekerja lebih efisien dan produktif."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Belajar: Cara Belajar Lebih Cepat dan Efektif dengan AI"
 description: "Pelajari cara menggunakan ChatGPT untuk belajar, memahami materi, membuat rangkuman, latihan soal, dan meningkatkan produktivitas belajar."

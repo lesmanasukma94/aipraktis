@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "prompt-engineering"
 
 title: "Roadmap Menjadi Prompt Engineer: Panduan Lengkap dari Pemula hingga Profesional"
 description: "Pelajari roadmap menjadi Prompt Engineer dari nol. Panduan lengkap skill, tools, portofolio, sertifikasi, dan peluang karier Prompt Engineer di era AI."

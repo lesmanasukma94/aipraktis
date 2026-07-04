@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Bisnis Kuliner: Cara Meningkatkan Penjualan dan Efisiensi Usaha Makanan"
 description: "Pelajari cara menggunakan AI untuk bisnis kuliner agar lebih mudah membuat konten, menarik pelanggan, meningkatkan penjualan, dan mengembangkan usaha makanan."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-content-creator"
 
 title: "AI untuk Blogging: Cara Membuat Blog Lebih Cepat, Konsisten, dan Menghasilkan"
 description: "Pelajari cara menggunakan AI untuk blogging, membuat artikel SEO, mencari ide konten, dan mengembangkan blog yang menghasilkan trafik dan pendapatan."

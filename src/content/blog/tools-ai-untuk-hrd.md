@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 
 title: "15 Tools AI untuk HRD Terbaik 2026: Rekrutmen, Screening CV, hingga Employee Engagement"
 

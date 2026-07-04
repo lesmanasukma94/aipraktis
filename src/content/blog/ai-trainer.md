@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 
 title: "AI Trainer: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi AI Trainer"
 description: "Pelajari apa itu AI Trainer, tugas, skill yang dibutuhkan, gaji, peluang karier, dan roadmap lengkap menjadi AI Trainer di era Artificial Intelligence."

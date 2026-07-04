@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-content-creator"
 
 title: "AI untuk Instagram: Cara Membuat Konten Lebih Cepat dan Menarik"
 description: "Pelajari cara menggunakan AI untuk Instagram agar lebih mudah membuat ide konten, caption, hashtag, dan strategi pemasaran yang efektif."

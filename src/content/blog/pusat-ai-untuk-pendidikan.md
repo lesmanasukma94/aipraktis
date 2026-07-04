@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-pendidikan"
 title: "AI untuk Pendidikan: Panduan Lengkap AI untuk Guru, Siswa, dan Mahasiswa"
 
 description: "Pelajari cara menggunakan AI untuk pendidikan, ChatGPT untuk guru, siswa, mahasiswa, dan pembelajaran modern melalui panduan AI Praktis Indonesia."

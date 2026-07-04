@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membuat CV dengan AI: Panduan Lengkap untuk Mendapatkan Pekerjaan Lebih Cepat"
 

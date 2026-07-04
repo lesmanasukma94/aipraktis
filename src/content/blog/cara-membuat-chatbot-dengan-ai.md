@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membuat Chatbot dengan AI: Panduan Lengkap untuk Bisnis dan UMKM"
 

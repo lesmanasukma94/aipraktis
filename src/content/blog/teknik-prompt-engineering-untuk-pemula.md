@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "prompt-engineering"
 
 title: "Teknik Prompt Engineering untuk Pemula"
 description: "Pelajari teknik prompt engineering untuk pemula agar dapat menghasilkan jawaban AI yang lebih akurat, relevan, dan berkualitas."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Sales: Cara Meningkatkan Penjualan dan Produktivitas Tim Sales"
 description: "Pelajari cara menggunakan AI untuk sales agar dapat meningkatkan produktivitas, menemukan prospek lebih cepat, dan membantu meningkatkan penjualan."

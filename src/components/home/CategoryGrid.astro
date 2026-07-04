@@ -1,0 +1,236 @@
+---
+const categories = [
+  {
+    title: "Belajar AI",
+    slug: "/belajar-ai",
+    description:
+      "Panduan lengkap belajar Artificial Intelligence dari nol untuk pemula.",
+    icon: "🎓"
+  },
+  {
+    title: "AI Chatbot",
+    slug: "/ai-chatbot",
+    description:
+      "ChatGPT, Claude, Gemini, DeepSeek, Perplexity, Copilot, dan chatbot AI lainnya.",
+    icon: "💬"
+  },
+  {
+    title: "Prompt Engineering",
+    slug: "/prompt-engineering",
+    description:
+      "Belajar membuat prompt AI yang menghasilkan jawaban lebih akurat.",
+    icon: "✍️"
+  },
+  {
+    title: "AI Tools",
+    slug: "/ai-tools",
+    description:
+      "Kumpulan tools AI terbaik untuk produktivitas, desain, coding, marketing, dan bisnis.",
+    icon: "🛠️"
+  },
+  {
+    title: "Tutorial AI",
+    slug: "/tutorial-ai",
+    description:
+      "Tutorial langkah demi langkah menggunakan AI untuk berbagai kebutuhan.",
+    icon: "📖"
+  },
+  {
+    title: "AI untuk Bisnis",
+    slug: "/ai-untuk-bisnis",
+    description:
+      "Cara memanfaatkan AI untuk UMKM, perusahaan, pemasaran, dan operasional bisnis.",
+    icon: "💼"
+  },
+  {
+    title: "AI untuk Pendidikan",
+    slug: "/ai-untuk-pendidikan",
+    description:
+      "Pemanfaatan AI bagi guru, dosen, mahasiswa, dan dunia pendidikan.",
+    icon: "🏫"
+  },
+  {
+    title: "AI untuk Content Creator",
+    slug: "/ai-untuk-content-creator",
+    description:
+      "AI untuk membuat artikel, video, gambar, desain, dan konten media sosial.",
+    icon: "🎬"
+  },
+  {
+    title: "Karier AI",
+    slug: "/karier-ai",
+    description:
+      "Peluang kerja, skill AI, roadmap belajar, dan pengembangan karier.",
+    icon: "🚀"
+  },
+  {
+    title: "Studi Kasus AI",
+    slug: "/studi-kasus-ai",
+    description:
+      "Implementasi AI nyata pada bisnis, industri, pendidikan, dan kehidupan sehari-hari.",
+    icon: "📊"
+  }
+];
+---
+
+<section class="categories">
+
+  <div class="container">
+
+    <div class="heading">
+
+      <h2>Jelajahi Berdasarkan Kategori</h2>
+
+      <p>
+        Semua materi AI Praktis Indonesia disusun berdasarkan kategori agar
+        lebih mudah dipelajari.
+      </p>
+
+    </div>
+
+    <div class="grid">
+
+      {
+        categories.map((category) => (
+
+          <a
+            href={category.slug}
+            class="card"
+          >
+
+            <div class="icon">
+              {category.icon}
+            </div>
+
+            <h3>
+              {category.title}
+            </h3>
+
+            <p>
+              {category.description}
+            </p>
+
+          </a>
+
+        ))
+      }
+
+    </div>
+
+  </div>
+
+</section>
+
+<style>
+
+.categories{
+
+padding:80px 20px;
+
+background:#fafafa;
+
+}
+
+.container{
+
+max-width:1200px;
+
+margin:auto;
+
+}
+
+.heading{
+
+text-align:center;
+
+margin-bottom:48px;
+
+}
+
+.heading h2{
+
+font-size:2.2rem;
+
+margin-bottom:12px;
+
+}
+
+.heading p{
+
+max-width:700px;
+
+margin:auto;
+
+color:#666;
+
+line-height:1.7;
+
+}
+
+.grid{
+
+display:grid;
+
+grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+gap:24px;
+
+}
+
+.card{
+
+display:block;
+
+background:white;
+
+border:1px solid #ececec;
+
+border-radius:16px;
+
+padding:24px;
+
+text-decoration:none;
+
+transition:.2s;
+
+}
+
+.card:hover{
+
+transform:translateY(-4px);
+
+border-color:#2563eb;
+
+box-shadow:0 12px 30px rgba(0,0,0,.08);
+
+}
+
+.icon{
+
+font-size:2rem;
+
+margin-bottom:18px;
+
+}
+
+.card h3{
+
+font-size:1.2rem;
+
+color:#111827;
+
+margin-bottom:12px;
+
+}
+
+.card p{
+
+color:#666;
+
+line-height:1.7;
+
+font-size:.95rem;
+
+}
+
+</style>

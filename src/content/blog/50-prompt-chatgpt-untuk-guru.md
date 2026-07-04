@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "50 Prompt ChatGPT untuk Guru"
 description: "Kumpulan 50 prompt ChatGPT untuk guru yang dapat membantu membuat materi ajar, soal, presentasi, aktivitas kelas, hingga administrasi pembelajaran."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Toko Fashion: Cara Meningkatkan Penjualan dan Pemasaran Bisnis Fashion"
 description: "Pelajari cara menggunakan AI untuk toko fashion agar lebih mudah membuat konten, menarik pelanggan, meningkatkan penjualan, dan mengembangkan bisnis fashion."

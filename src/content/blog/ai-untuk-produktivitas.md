@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "AI untuk Produktivitas"
 description: "Cara Menggunakan Artificial Intelligence untuk Bekerja Lebih Cepat dan Efisien"

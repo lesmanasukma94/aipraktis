@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "50 Prompt ChatGPT untuk Sales yang Siap Pakai untuk Meningkatkan Penjualan"
 description: "Kumpulan 50 prompt ChatGPT untuk sales yang dapat digunakan untuk prospecting, follow up, closing, negosiasi, dan meningkatkan penjualan."

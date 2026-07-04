@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 title: "Cara Meningkatkan Produktivitas dengan AI"
 description: "Pelajari cara meningkatkan produktivitas dengan AI untuk pekerjaan, bisnis, belajar, dan aktivitas sehari-hari secara lebih efisien."
 pubDate: "2026-06-15"

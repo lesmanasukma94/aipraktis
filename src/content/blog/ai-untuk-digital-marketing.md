@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 title: "AI untuk Digital Marketing: Cara Meningkatkan Efektivitas Pemasaran"
 description: "Pelajari cara menggunakan AI untuk digital marketing, mulai dari pembuatan konten, email marketing, SEO, hingga analisis data pemasaran."
 pubDate: "2026-06-15"

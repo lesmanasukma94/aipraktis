@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 title: "15 Tools AI Gratis Terbaik untuk Pemula Tahun 2026"
 description: ""
 pubDate: "2026-06-13"

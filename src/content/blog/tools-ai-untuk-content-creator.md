@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 title: "15 Tools AI untuk Content Creator Terbaik 2026"
 
 description: "Daftar tools AI terbaik untuk content creator YouTube, TikTok, Instagram, blog, dan podcast. Lengkap dengan fungsi, kelebihan, dan cara penggunaannya."

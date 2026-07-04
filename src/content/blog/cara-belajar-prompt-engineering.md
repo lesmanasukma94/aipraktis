@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "prompt-engineering"
 
 title: "Cara Belajar Prompt Engineering: Panduan Lengkap untuk Pemula Tahun 2026"
 

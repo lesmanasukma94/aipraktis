@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "Pekerjaan yang Tidak Akan Digantikan AI: Skill yang Tetap Dibutuhkan di Masa Depan"
 description: "Pelajari pekerjaan yang tidak akan digantikan AI dan keterampilan yang tetap penting di era kecerdasan buatan agar lebih siap menghadapi masa depan."

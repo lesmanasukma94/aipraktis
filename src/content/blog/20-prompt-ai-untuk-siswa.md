@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "prompt-engineering"
 
 title: "20 Prompt AI untuk Siswa"
 description: "Kumpulan 20 prompt AI untuk siswa yang dapat membantu belajar, memahami pelajaran, membuat rangkuman, latihan soal, dan meningkatkan prestasi belajar."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Mendapatkan Klien AI Consultant: Panduan Lengkap untuk Pemula"
 description: "Pelajari cara mendapatkan klien AI Consultant pertama, membangun portofolio, meningkatkan kredibilitas, dan mengembangkan bisnis konsultasi AI."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 
 title: "15 Tools AI untuk Freelancer Terbaik 2026: Tingkatkan Produktivitas dan Penghasilan"
 

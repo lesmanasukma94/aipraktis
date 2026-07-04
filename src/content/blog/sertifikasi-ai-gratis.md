@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 
 title: "Sertifikasi AI Gratis: Cara Mendapatkan Sertifikat Artificial Intelligence Tanpa Biaya"
 description: "Pelajari berbagai sertifikasi AI gratis yang bisa diikuti secara online. Cocok untuk pemula yang ingin membangun karier di bidang Artificial Intelligence."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "Roadmap Belajar AI: Panduan Lengkap dari Pemula hingga Mahir"
 description: "Pelajari roadmap belajar AI dari nol hingga mahir. Panduan lengkap untuk pemula yang ingin memahami Artificial Intelligence, ChatGPT, Prompt Engineering, dan karier AI."

@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "Strategi AI untuk UMKM Indonesia: Panduan Lengkap Memanfaatkan AI untuk Meningkatkan Produktivitas dan Penjualan"
 description: "Panduan lengkap strategi AI untuk UMKM Indonesia. Pelajari cara menggunakan AI untuk pemasaran, penjualan, layanan pelanggan, konten, dan pertumbuhan bisnis."

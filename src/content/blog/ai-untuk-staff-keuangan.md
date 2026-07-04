@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Staff Keuangan: Cara Bekerja Lebih Cepat, Akurat, dan Produktif"
 description: "Pelajari cara memanfaatkan AI untuk staff keuangan agar pekerjaan finance, administrasi keuangan, dan pelaporan menjadi lebih cepat dan efisien."

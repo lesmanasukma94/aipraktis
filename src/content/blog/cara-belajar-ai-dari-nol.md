@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 title: "Cara Belajar AI dari Nol"
 description: "Panduan lengkap cara belajar AI dari nol untuk pemula. Pelajari langkah-langkah, tools yang digunakan, dan roadmap belajar AI yang mudah dipahami."
 pubDate: "2026-06-15"

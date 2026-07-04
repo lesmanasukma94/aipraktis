@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "15 Alternatif ChatGPT Terbaik 2026 untuk Menulis, Belajar, dan Bisnis"
 

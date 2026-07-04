@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 title: "ChatGPT untuk Pemula"
 description: "Panduan Lengkap Memulai Menggunakan AI dengan Mudah"
 pubDate: "2026-06-12"

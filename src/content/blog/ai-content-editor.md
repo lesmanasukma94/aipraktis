@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "AI Content Editor: Pengertian, Tugas, Skill, dan Cara Menjadi AI Content Editor"
 description: "Pelajari profesi AI Content Editor, tugas, skill yang dibutuhkan, peluang karier, penghasilan, dan roadmap lengkap menjadi AI Content Editor."

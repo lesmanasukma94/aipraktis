@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 title: "ChatGPT untuk UMKM"
 description: "Cara Menggunakan ChatGPT untuk Meningkatkan Produktivitas dan Penjualan UMKM"
 pubDate: "2026-06-15"

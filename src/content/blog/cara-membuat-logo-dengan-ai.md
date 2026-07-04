@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Membuat Logo dengan AI: Panduan Lengkap untuk UMKM, Bisnis, dan Content Creator"
 

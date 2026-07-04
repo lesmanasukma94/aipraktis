@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Skripsi: Cara Menggunakan AI Secara Efektif dan Etis"
 description: "Panduan lengkap menggunakan ChatGPT untuk skripsi, mulai dari mencari ide, menyusun outline, riset awal, hingga meningkatkan produktivitas penelitian secara etis."

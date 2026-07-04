@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Customer Support: Cara Melayani Pelanggan Lebih Cepat dan Efisien"
 description: "Pelajari cara menggunakan AI untuk customer support agar dapat meningkatkan layanan pelanggan, mempercepat respon, dan meningkatkan kepuasan pelanggan."

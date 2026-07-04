@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "karier-ai"
 
 title: "Roadmap Menjadi AI Specialist: Panduan Lengkap dari Pemula hingga Profesional"
 description: "Pelajari roadmap lengkap menjadi AI Specialist dari nol. Panduan skill, tools, portofolio, sertifikasi, dan peluang karier AI Specialist di era Artificial Intelligence."

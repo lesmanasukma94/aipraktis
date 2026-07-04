@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara UMKM Memulai AI: Panduan Praktis untuk Pemilik Usaha"
 description: "Pelajari cara UMKM memulai AI secara sederhana dan praktis untuk meningkatkan produktivitas, pemasaran, penjualan, dan layanan pelanggan."

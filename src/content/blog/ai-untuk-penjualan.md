@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "AI untuk Penjualan"
 description: "Cara Menggunakan Artificial Intelligence untuk Meningkatkan Penjualan dan Produktivitas Tim Sales"

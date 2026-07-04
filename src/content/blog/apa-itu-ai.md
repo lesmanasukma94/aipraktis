@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 title: "Apa Itu Artificial Intelligence (AI)?"
 description: "Pengertian, Cara Kerja, Manfaat, dan Contohnya dalam Kehidupan Sehari-hari"
 pubDate: "2026-06-12"

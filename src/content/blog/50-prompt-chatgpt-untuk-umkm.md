@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "50 Prompt ChatGPT untuk UMKM yang Bisa Langsung Digunakan"
 description: "Kumpulan 50 prompt ChatGPT untuk UMKM yang dapat membantu pemasaran, penjualan, pelayanan pelanggan, pembuatan konten, dan pengembangan bisnis."

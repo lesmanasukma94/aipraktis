@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "Cara Menghasilkan Uang dengan ChatGPT: 15 Cara yang Bisa Dimulai dari Rumah"
 description: "Pelajari cara menghasilkan uang dengan ChatGPT. Panduan lengkap untuk pemula yang ingin mendapatkan penghasilan dari AI menggunakan ChatGPT."

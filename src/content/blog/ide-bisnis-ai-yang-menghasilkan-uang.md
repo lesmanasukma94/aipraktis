@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 
 title: "25 Ide Bisnis AI yang Menghasilkan Uang di Tahun 2026"
 

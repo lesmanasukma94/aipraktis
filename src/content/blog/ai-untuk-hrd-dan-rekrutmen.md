@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 title: "AI untuk HRD dan Rekrutmen: Cara Merekrut Karyawan Lebih Efisien"
 description: "Pelajari cara menggunakan AI untuk HRD dan rekrutmen agar proses seleksi kandidat lebih cepat, efisien, dan akurat."
 pubDate: "2026-06-15"

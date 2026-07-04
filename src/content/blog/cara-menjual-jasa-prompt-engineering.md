@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "prompt-engineering"
 
 title: "Cara Menjual Jasa Prompt Engineering: Panduan Lengkap Mendapatkan Klien dan Penghasilan"
 description: "Pelajari cara menjual jasa Prompt Engineering, mendapatkan klien pertama, menentukan harga, membangun portofolio, dan menghasilkan uang dari AI."

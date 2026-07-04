@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-untuk-bisnis"
 title: "AI untuk Administrasi Perkantoran"
 description: "Cara Menggunakan AI untuk Membantu Pekerjaan Administrasi Kantor Lebih Cepat dan Efisien"
 pubDate: "2026-06-15"

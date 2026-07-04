@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "tutorial-ai"
 
 title: "Cara Menjadi Freelancer AI: Panduan Lengkap Mendapatkan Penghasilan dari Artificial Intelligence"
 description: "Pelajari cara menjadi Freelancer AI dari nol. Panduan lengkap memilih jasa AI, mencari klien, membangun portofolio, dan menghasilkan uang menggunakan Artificial Intelligence."

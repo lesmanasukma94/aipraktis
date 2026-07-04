@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 
 title: "20 Tools AI untuk Bisnis Terbaik 2026"
 

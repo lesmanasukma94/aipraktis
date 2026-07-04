@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 title: "Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari"
 description: "10 Cara Menghemat Waktu dan Meningkatkan Produktivitas"
 pubDate: "2026-06-12"

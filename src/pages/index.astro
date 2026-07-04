@@ -1,77 +1,38 @@
 ---
-import Layout from "../layouts/Layout.astro";
-
-import Hero from "@/components/home/Hero.astro";
-import QuickSearch from "@/components/home/QuickSearch.astro";
-import QuickStats from "@/components/home/QuickStats.astro";
-import HubSection from "@/components/home/HubSection.astro";
-import LearningPath from "@/components/home/LearningPath.astro";
-import ToolsSection from "@/components/home/ToolsSection.astro";
-import BusinessSection from "@/components/home/BusinessSection.astro";
-import CreatorSection from "@/components/home/CreatorSection.astro";
-import LatestPosts from "@/components/home/LatestPosts.astro";
-
+import Layout from "@/layouts/Layout.astro";
 import { getCollection } from "astro:content";
 
+import HeroSection from "@/components/home/HeroSection.astro";
+import CategoryGrid from "@/components/home/CategoryGrid.astro";
+import VendorSection from "@/components/home/VendorSection.astro";
+import ToolsSection from "@/components/home/ToolsSection.astro";
+import FeaturedArticles from "@/components/home/FeaturedArticles.astro";
+import ComparisonSection from "@/components/home/ComparisonSection.astro";
+import LeadMagnet from "@/components/home/LeadMagnet.astro";
+import CTASection from "@/components/home/CTASection.astro";
+
 const posts = await getCollection("blog");
-
-posts.sort(
-  (a, b) =>
-    new Date(b.data.pubDate).getTime() -
-    new Date(a.data.pubDate).getTime()
-);
-
-const latestPosts = posts.slice(0, 6);
 ---
 
-<Layout title="AI Praktis Indonesia | Belajar AI Praktis untuk Pemula, Pekerja, dan UMKM">
+<Layout
+  title="AI Praktis Indonesia - Belajar AI & Hasilkan Uang dengan AI"
+  description="Tutorial AI, ChatGPT, Claude, Gemini, AI Tools, Prompt Engineering, dan cara menghasilkan uang dengan AI"
+>
 
-<!-- ========================= -->
-<!-- HERO -->
-<!-- ========================= -->
+  <HeroSection />
 
-<Hero />
+  <CategoryGrid />
 
-<!-- ========================= -->
-<!-- QUICK SEARCH -->
-<!-- ========================= -->
+  <VendorSection />
 
-<QuickSearch />
+  <ToolsSection />
 
-<!-- ========================= -->
-<!-- QUICK STATS -->
-<!-- ========================= -->
+  <FeaturedArticles posts={posts} />
 
-<QuickStats />
+  <ComparisonSection />
 
-<!-- ===================================== -->
-<!-- AI HUB -->
-<!-- ===================================== -->
+  <LeadMagnet />
 
-<HubSection />
+  <CTASection />
 
-<!-- ===================================== -->
-<!-- LEARNING PATH -->
-<!-- ===================================== -->
-
-<LearningPath />
-
-<!-- ===================================== -->
-<!-- AI TOOLS CENTER -->
-<!-- ===================================== -->
-
-<ToolsSection />
-
-<!-- ===================================== -->
-<!-- AI UNTUK BISNIS -->
-<!-- ===================================== -->
-
-<BusinessSection />
-
-<!-- ===================================== -->
-<!-- CONTENT CREATOR -->
-<!-- ===================================== -->
-
-<CreatorSection />
-
-<LatestPosts posts={latestPosts} />
+</Layout>

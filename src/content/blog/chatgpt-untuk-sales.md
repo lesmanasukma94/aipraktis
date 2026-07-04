@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-chatbot"
 
 title: "ChatGPT untuk Sales: Cara Menggunakan AI untuk Meningkatkan Penjualan"
 description: "Pelajari cara menggunakan ChatGPT untuk sales, prospecting, follow up pelanggan, membuat skrip penjualan, dan meningkatkan produktivitas tim sales."

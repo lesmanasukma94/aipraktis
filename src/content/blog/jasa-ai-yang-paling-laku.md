@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "belajar-ai"
 
 title: "Jasa AI yang Paling Laku: 15 Layanan Artificial Intelligence dengan Permintaan Tinggi"
 description: "Daftar jasa AI yang paling laku dan banyak dicari perusahaan. Pelajari peluang bisnis AI, freelance AI, dan layanan Artificial Intelligence yang memiliki potensi penghasilan tinggi."

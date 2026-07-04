@@ -1,4 +1,7 @@
 ---
+author: "AI Praktis Indonesia"
+tags: []
+category: "ai-tools"
 title: "15 Tools AI untuk Mahasiswa Terbaik 2026"
 
 description: "Daftar tools AI terbaik untuk mahasiswa yang membantu belajar, membuat tugas, riset, skripsi, presentasi, dan meningkatkan produktivitas kuliah."
