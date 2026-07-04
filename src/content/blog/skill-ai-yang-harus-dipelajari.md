@@ -8,6 +8,8 @@ description: "Pelajari skill AI yang harus dipelajari tahun 2026 untuk meningkat
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Belajar Skill AI Menjadi Penting?

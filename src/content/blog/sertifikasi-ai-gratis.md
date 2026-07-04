@@ -8,6 +8,8 @@ description: "Pelajari berbagai sertifikasi AI gratis yang bisa diikuti secara o
 pubDate: "2026-06-24"
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence (AI) menjadi salah satu keterampilan yang paling dicari di dunia kerja saat ini.

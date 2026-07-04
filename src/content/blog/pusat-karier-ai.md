@@ -9,6 +9,8 @@ description: "Pelajari karier AI, skill AI yang harus dipelajari, pekerjaan masa
 pubDate: "2026-06-18"
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence (AI) sedang mengubah dunia kerja dengan sangat cepat. Saat ini hampir semua profesi mulai terpengaruh oleh AI, mulai dari administrasi, marketing, customer support, content creator, hingga berbagai pekerjaan profesional lainnya.

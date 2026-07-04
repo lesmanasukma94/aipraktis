@@ -10,6 +10,8 @@ description: "Daftar tools AI terbaik untuk guru yang membantu membuat materi aj
 pubDate: "2026-06-26"
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence (AI) mulai menjadi bagian penting dalam dunia pendidikan. Saat ini guru tidak hanya menggunakan AI untuk membuat materi pembelajaran, tetapi juga untuk menyusun soal, membuat presentasi, mengevaluasi tugas, hingga membantu personalisasi pembelajaran siswa.

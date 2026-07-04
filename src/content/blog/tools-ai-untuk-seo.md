@@ -11,6 +11,8 @@ pubDate: "2026-06-26"
 
 ---
 
+## Ringkasan
+
 ---
 
 SEO (Search Engine Optimization) terus berkembang. Jika dulu optimasi website dilakukan secara manual, sekarang banyak proses SEO dapat dipercepat menggunakan Artificial Intelligence (AI).

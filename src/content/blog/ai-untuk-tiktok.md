@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan AI untuk TikTok agar lebih mudah mencari
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Kreator TikTok Mulai Menggunakan AI?

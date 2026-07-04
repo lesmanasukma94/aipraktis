@@ -7,6 +7,8 @@ description: "Pelajari cara memanfaatkan AI untuk mahasiswa agar lebih produktif
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Mahasiswa Perlu Memahami AI?

@@ -6,7 +6,11 @@ category: "ai-chatbot"
 title: "Cara Menggunakan ChatGPT untuk UMKM: Panduan Praktis Meningkatkan Produktivitas dan Penjualan"
 description: "Pelajari cara menggunakan ChatGPT untuk UMKM Indonesia. Temukan cara membuat konten, melayani pelanggan, meningkatkan pemasaran, dan menghemat waktu kerja dengan AI."
 pubDate: "2026-06-19"
----------------------
+---
+
+## Ringkasan
+
+------------------
 
 # Cara Menggunakan ChatGPT untuk UMKM
 

@@ -11,6 +11,8 @@ pubDate: "2026-06-30"
 
 ---
 
+## Ringkasan
+
 ---
 
 Prompt Engineering menjadi salah satu keterampilan AI yang paling banyak dicari dalam beberapa tahun terakhir.

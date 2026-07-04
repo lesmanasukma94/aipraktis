@@ -8,6 +8,8 @@ description: "Pelajari kesalahan menggunakan AI dan ChatGPT yang paling sering d
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Banyak Orang Merasa AI Tidak Berguna?

@@ -7,6 +7,8 @@ description: "Pelajari cara menggunakan AI untuk customer service agar dapat mel
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa AI Semakin Banyak Digunakan dalam Customer Service?

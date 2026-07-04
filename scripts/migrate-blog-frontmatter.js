@@ -12,31 +12,106 @@ const DEFAULT_AUTHOR = "AI Praktis Indonesia";
 function detectCategory(filename) {
   const name = filename.toLowerCase();
 
-  if (name.includes("chatgpt")) return "chatgpt";
-  if (name.includes("gemini")) return "gemini";
-  if (name.includes("claude")) return "claude";
+  // AI Chatbot
+  if (
+    name.includes("chatgpt") ||
+    name.includes("gemini") ||
+    name.includes("claude") ||
+    name.includes("grok") ||
+    name.includes("deepseek") ||
+    name.includes("copilot") ||
+    name.includes("perplexity") ||
+    name.includes("mistral") ||
+    name.includes("qwen") ||
+    name.includes("le-chat")
+  ) {
+    return "ai-chatbot";
+  }
 
-  if (name.includes("prompt")) return "prompt-engineering";
+  // Prompt Engineering
+  if (name.includes("prompt")) {
+    return "prompt-engineering";
+  }
 
-  if (name.includes("tools-ai")) return "ai-tools";
+  // AI Tools
+  if (
+    name.includes("tool") ||
+    name.includes("midjourney") ||
+    name.includes("canva") ||
+    name.includes("cursor") ||
+    name.includes("notion") ||
+    name.includes("runway") ||
+    name.includes("elevenlabs")
+  ) {
+    return "ai-tools";
+  }
 
-  if (name.includes("cara-")) return "tutorial";
+  // Tutorial AI
+  if (
+    name.startsWith("cara-") ||
+    name.includes("tutorial")
+  ) {
+    return "tutorial-ai";
+  }
 
-  if (name.includes("roadmap")) return "roadmap";
+  // AI untuk Bisnis
+  if (
+    name.includes("umkm") ||
+    name.includes("bisnis") ||
+    name.includes("marketing") ||
+    name.includes("sales") ||
+    name.includes("customer-service") ||
+    name.includes("hr")
+  ) {
+    return "ai-untuk-bisnis";
+  }
 
-  if (name.includes("ai-untuk")) return "use-case";
+  // AI untuk Pendidikan
+  if (
+    name.includes("guru") ||
+    name.includes("mahasiswa") ||
+    name.includes("siswa") ||
+    name.includes("skripsi") ||
+    name.includes("pendidikan")
+  ) {
+    return "ai-untuk-pendidikan";
+  }
 
-  if (name.includes("umkm")) return "ai-bisnis";
+  // AI untuk Content Creator
+  if (
+    name.includes("youtube") ||
+    name.includes("tiktok") ||
+    name.includes("instagram") ||
+    name.includes("creator") ||
+    name.includes("thumbnail") ||
+    name.includes("konten")
+  ) {
+    return "ai-untuk-content-creator";
+  }
 
-  if (name.includes("bisnis")) return "ai-bisnis";
+  // Karier AI
+  if (
+    name.includes("karier") ||
+    name.includes("career") ||
+    name.includes("prompt-engineer") ||
+    name.includes("consultant") ||
+    name.includes("specialist") ||
+    name.includes("freelancer") ||
+    name.includes("sertifikasi")
+  ) {
+    return "karier-ai";
+  }
 
-  if (name.includes("guru")) return "ai-pendidikan";
+  // Studi Kasus AI
+  if (
+    name.includes("studi-kasus") ||
+    name.includes("case-study")
+  ) {
+    return "studi-kasus-ai";
+  }
 
-  if (name.includes("mahasiswa")) return "ai-pendidikan";
-
-  if (name.includes("siswa")) return "ai-pendidikan";
-
-  return "artificial-intelligence";
+  // Default
+  return "belajar-ai";
 }
 
 const files = fs.readdirSync(BLOG_DIR);
@@ -55,14 +130,16 @@ for (const file of files) {
 
   if (end === -1) continue;
 
-  const frontmatter = content.slice(0, end + 3);
-  const body = content.slice(end + 3);
+  let frontmatter = content.slice(0, end + 3);
+  let body = content.slice(end + 3);
 
-  let updated = frontmatter;
+  // ===========================
+  // FRONTMATTER
+  // ===========================
 
-  if (!updated.includes("category:")) {
+  if (!frontmatter.includes("category:")) {
 
-    updated = updated.replace(
+    frontmatter = frontmatter.replace(
       /^---/,
       `---
 category: "${detectCategory(file)}"`
@@ -70,9 +147,9 @@ category: "${detectCategory(file)}"`
 
   }
 
-  if (!updated.includes("tags:")) {
+  if (!frontmatter.includes("tags:")) {
 
-    updated = updated.replace(
+    frontmatter = frontmatter.replace(
       /^---/,
       `---
 tags: []`
@@ -80,9 +157,9 @@ tags: []`
 
   }
 
-  if (!updated.includes("author:")) {
+  if (!frontmatter.includes("author:")) {
 
-    updated = updated.replace(
+    frontmatter = frontmatter.replace(
       /^---/,
       `---
 author: "${DEFAULT_AUTHOR}"`
@@ -90,8 +167,34 @@ author: "${DEFAULT_AUTHOR}"`
 
   }
 
-  fs.writeFileSync(fullPath, updated + body);
+  // ===========================
+  // BODY ARTICLE
+  // ===========================
+
+  body = body.trimStart();
+
+  // Hilangkan H1 pertama
+  body = body.replace(
+    /^#\s+.+?\r?\n+/,
+    ""
+  );
+
+  // Tambahkan Ringkasan jika belum ada
+  if (!body.startsWith("## Ringkasan")) {
+    body = "## Ringkasan\n\n" + body;
+  }
+
+  // Rapikan baris kosong
+  body = body.replace(/\n{3,}/g, "\n\n");
+
+  fs.writeFileSync(
+    fullPath,
+    frontmatter + "\n\n" + body,
+    "utf8"
+  );
+
+  console.log("✓", file);
 
 }
 
-console.log("✅ Semua artikel berhasil dimigrasikan.");
+console.log("\n✅ Semua artikel berhasil dimigrasikan.");

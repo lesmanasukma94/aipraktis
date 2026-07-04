@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan ChatGPT untuk penelitian akademik, mulai
 pubDate: "2026-06-21"
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence (AI) mulai mengubah cara mahasiswa, dosen, peneliti, dan akademisi melakukan penelitian. Salah satu tools AI yang paling populer saat ini adalah ChatGPT.

@@ -8,6 +8,8 @@ description: "Pelajari roadmap lengkap menjadi AI Consultant dari nol. Panduan s
 pubDate: "2026-06-23"
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence (AI) telah mengubah cara bisnis beroperasi.

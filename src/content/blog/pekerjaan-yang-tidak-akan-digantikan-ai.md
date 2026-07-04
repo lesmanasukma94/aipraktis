@@ -8,6 +8,8 @@ description: "Pelajari pekerjaan yang tidak akan digantikan AI dan keterampilan 
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Apakah AI Akan Menggantikan Semua Pekerjaan?

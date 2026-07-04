@@ -8,6 +8,8 @@ description: "Kumpulan 20 prompt AI untuk guru yang dapat membantu membuat mater
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 AI dapat membantu guru menghemat waktu dalam membuat materi ajar, soal latihan, presentasi, dan administrasi pembelajaran.

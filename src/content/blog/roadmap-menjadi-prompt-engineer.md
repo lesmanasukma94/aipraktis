@@ -8,6 +8,8 @@ description: "Pelajari roadmap menjadi Prompt Engineer dari nol. Panduan lengkap
 pubDate: "2026-06-23"
 ---
 
+## Ringkasan
+
 ---
 
 Sejak kemunculan ChatGPT, Gemini, Claude, dan berbagai AI generatif lainnya, profesi Prompt Engineer menjadi salah satu pekerjaan baru yang paling banyak dibicarakan.

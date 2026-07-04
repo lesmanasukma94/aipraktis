@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan AI untuk sales agar dapat meningkatkan p
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Tim Sales Perlu Memahami AI?

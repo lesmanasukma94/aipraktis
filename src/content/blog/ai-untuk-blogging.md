@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan AI untuk blogging, membuat artikel SEO, 
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Blogger Perlu Memahami AI?

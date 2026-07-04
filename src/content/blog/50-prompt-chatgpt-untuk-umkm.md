@@ -8,6 +8,8 @@ description: "Kumpulan 50 prompt ChatGPT untuk UMKM yang dapat membantu pemasara
 pubDate: "2026-06-21"
 ---
 
+## Ringkasan
+
 ---
 
 ChatGPT dapat menjadi salah satu alat AI yang paling bermanfaat bagi pelaku UMKM. Dengan prompt yang tepat, ChatGPT dapat membantu membuat konten, menyusun strategi pemasaran, menjawab pelanggan, hingga membantu pengembangan bisnis.

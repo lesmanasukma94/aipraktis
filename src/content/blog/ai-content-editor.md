@@ -8,6 +8,8 @@ description: "Pelajari profesi AI Content Editor, tugas, skill yang dibutuhkan, 
 pubDate: "2026-06-25"
 ---
 
+## Ringkasan
+
 ---
 
 Perkembangan Artificial Intelligence telah mengubah cara konten dibuat.

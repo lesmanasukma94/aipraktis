@@ -8,6 +8,8 @@ description: "Pelajari studi kasus penggunaan AI pada UMKM. Temukan bagaimana Ch
 pubDate: "2026-06-19"
 ---
 
+## Ringkasan
+
 ---
 
 # Studi Kasus UMKM Menggunakan AI

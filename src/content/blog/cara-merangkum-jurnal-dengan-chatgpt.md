@@ -6,7 +6,11 @@ category: "ai-chatbot"
 title: "Cara Merangkum Jurnal dengan ChatGPT: Panduan Lengkap untuk Mahasiswa"
 description: "Pelajari cara merangkum jurnal dengan ChatGPT secara cepat, efektif, dan tetap akurat untuk membantu tugas kuliah, penelitian, dan skripsi."
 pubDate: "2026-06-21"
----------------------
+---
+
+## Ringkasan
+
+------------------
 
 # Cara Merangkum Jurnal dengan ChatGPT: Panduan Lengkap untuk Mahasiswa
 

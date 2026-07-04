@@ -8,6 +8,8 @@ description: "Pelajari cara UMKM memulai AI secara sederhana dan praktis untuk m
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ## Mengapa UMKM Perlu Memahami AI?
 
 Artificial Intelligence (AI) bukan lagi teknologi yang hanya digunakan perusahaan besar.

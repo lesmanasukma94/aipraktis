@@ -11,6 +11,8 @@ pubDate: "2026-06-28"
 
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence berkembang sangat cepat.

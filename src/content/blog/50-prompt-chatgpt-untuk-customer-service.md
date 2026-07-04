@@ -8,6 +8,8 @@ description: "Kumpulan 50 prompt ChatGPT untuk customer service yang dapat digun
 pubDate: "2026-06-20"
 ---
 
+## Ringkasan
+
 ---
 
 Customer service memiliki peran penting dalam membangun kepercayaan pelanggan dan meningkatkan loyalitas.

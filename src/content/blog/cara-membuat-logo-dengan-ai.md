@@ -11,6 +11,8 @@ pubDate: "2026-06-28"
 
 ---
 
+## Ringkasan
+
 ---
 
 Logo merupakan identitas visual yang sangat penting bagi sebuah bisnis, toko online, startup, maupun personal brand.

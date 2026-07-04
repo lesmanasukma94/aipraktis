@@ -8,6 +8,8 @@ description: "Pelajari cara memulai freelance menggunakan AI, layanan yang bisa 
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Apa Itu Freelance Menggunakan AI?

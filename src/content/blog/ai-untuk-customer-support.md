@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan AI untuk customer support agar dapat men
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Customer Support Perlu Memahami AI?

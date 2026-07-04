@@ -7,6 +7,8 @@ description: "Pelajari cara menggunakan AI untuk digital marketing, mulai dari p
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa AI Menjadi Penting dalam Digital Marketing?

@@ -8,7 +8,8 @@ description: "Pelajari cara menjual jasa Prompt Engineering, mendapatkan klien p
 pubDate: "2026-06-25"
 ---
 
-# Cara Menjual Jasa Prompt Engineering: Panduan Lengkap Mendapatkan Klien dan Penghasilan
+## Ringkasan
+
 
 Prompt Engineering menjadi salah satu skill yang paling banyak dibicarakan sejak munculnya ChatGPT dan Generative AI.
 

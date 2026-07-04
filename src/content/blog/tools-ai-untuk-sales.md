@@ -11,6 +11,8 @@ pubDate: "2026-06-30"
 
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence mulai menjadi senjata utama bagi tim penjualan modern.

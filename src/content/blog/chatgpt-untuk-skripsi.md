@@ -8,6 +8,8 @@ description: "Panduan lengkap menggunakan ChatGPT untuk skripsi, mulai dari menc
 pubDate: "2026-06-21"
 ---
 
+## Ringkasan
+
 ---
 
 Skripsi merupakan salah satu tantangan terbesar yang dihadapi mahasiswa sebelum lulus kuliah. Mulai dari menentukan topik, mencari referensi, menyusun proposal, melakukan penelitian, hingga menulis laporan akhir, seluruh proses membutuhkan waktu, konsistensi, dan kemampuan berpikir kritis.

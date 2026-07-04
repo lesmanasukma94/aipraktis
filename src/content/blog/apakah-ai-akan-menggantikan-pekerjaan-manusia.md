@@ -7,6 +7,8 @@ description: "Fakta, Risiko, dan Cara Beradaptasi di Era AI"
 pubDate: "2026-06-13"
 ---
 
+## Ringkasan
+
 ---
 
 Sejak kemunculan ChatGPT dan berbagai tools AI lainnya, satu pertanyaan terus muncul:

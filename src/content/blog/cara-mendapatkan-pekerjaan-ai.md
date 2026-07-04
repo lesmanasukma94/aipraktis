@@ -11,6 +11,8 @@ pubDate: "2026-06-29"
 
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence menjadi salah satu bidang dengan pertumbuhan karier tercepat di dunia.

@@ -8,6 +8,8 @@ description: "Pelajari apa itu Prompt Engineer, tugas, skill yang dibutuhkan, ga
 pubDate: "2026-06-23"
 ---
 
+## Ringkasan
+
 ---
 
 Perkembangan Artificial Intelligence (AI) menciptakan berbagai profesi baru yang sebelumnya tidak pernah ada.

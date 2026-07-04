@@ -8,6 +8,8 @@ description: "Kumpulan 20 prompt AI untuk mahasiswa yang dapat membantu belajar,
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 AI dapat membantu mahasiswa belajar lebih cepat dan produktif.

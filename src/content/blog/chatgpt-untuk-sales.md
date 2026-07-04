@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan ChatGPT untuk sales, prospecting, follow
 pubDate: "2026-06-19"
 ---
 
+## Ringkasan
+
 ---
 
 # ChatGPT untuk Sales

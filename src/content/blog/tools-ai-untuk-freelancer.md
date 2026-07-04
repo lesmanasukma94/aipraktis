@@ -11,6 +11,8 @@ pubDate: "2026-06-30"
 
 ---
 
+## Ringkasan
+
 ---
 
 Menjadi freelancer berarti harus mengerjakan banyak hal sekaligus.

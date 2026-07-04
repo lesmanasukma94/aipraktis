@@ -11,6 +11,8 @@ pubDate: "2026-06-30"
 
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence mulai mengubah cara divisi Human Resources (HRD) bekerja.

@@ -7,6 +7,8 @@ description: "Pelajari cara menulis prompt ChatGPT yang efektif agar mendapatkan
 pubDate: "2026-06-13"
 ---
 
+## Ringkasan
+
 ## Cara Menulis Prompt ChatGPT yang Efektif untuk Hasil Lebih Akurat dan Berkualitas
 
 Banyak orang menganggap ChatGPT tidak memberikan jawaban yang memuaskan. Padahal dalam banyak kasus, masalahnya bukan pada AI yang digunakan, melainkan pada prompt yang diberikan.

@@ -8,6 +8,8 @@ description: "Kumpulan 20 prompt AI untuk siswa yang dapat membantu belajar, mem
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 AI dapat membantu siswa memahami pelajaran dengan lebih mudah.

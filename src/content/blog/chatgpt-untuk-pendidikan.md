@@ -8,6 +8,8 @@ description: "Pelajari bagaimana ChatGPT dapat digunakan dalam dunia pendidikan 
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 Perkembangan Artificial Intelligence (AI) mulai mengubah berbagai aspek kehidupan, termasuk dunia pendidikan.

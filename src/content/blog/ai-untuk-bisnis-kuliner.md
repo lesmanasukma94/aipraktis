@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan AI untuk bisnis kuliner agar lebih mudah
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Bisnis Kuliner Perlu Memanfaatkan AI?

@@ -8,6 +8,8 @@ description: "Pelajari cara membuat prompt yang baik agar ChatGPT, Gemini, dan A
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Prompt Sangat Penting?

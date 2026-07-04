@@ -8,7 +8,8 @@ description: "Pelajari cara menggunakan ChatGPT untuk guru, mulai dari membuat R
 pubDate: "2026-06-22"
 ---
 
-# ChatGPT untuk Guru: Panduan Lengkap Menggunakan AI dalam Pembelajaran
+## Ringkasan
+
 
 Artificial Intelligence (AI) mulai mengubah dunia pendidikan dengan sangat cepat. Salah satu teknologi yang paling banyak digunakan saat ini adalah ChatGPT.
 

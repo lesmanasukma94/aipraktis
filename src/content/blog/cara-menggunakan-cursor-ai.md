@@ -11,6 +11,8 @@ pubDate: "2026-06-30"
 
 ---
 
+## Ringkasan
+
 ---
 
 Cursor AI menjadi salah satu editor kode berbasis Artificial Intelligence yang paling populer di kalangan developer.

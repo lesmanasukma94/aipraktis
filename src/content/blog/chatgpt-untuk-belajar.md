@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan ChatGPT untuk belajar, memahami materi, 
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ## ChatGPT untuk Belajar
 
 Belajar menjadi lebih mudah dibandingkan sebelumnya berkat perkembangan Artificial Intelligence (AI).

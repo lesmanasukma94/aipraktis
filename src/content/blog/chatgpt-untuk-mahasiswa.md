@@ -8,7 +8,8 @@ description: "Pelajari cara menggunakan ChatGPT untuk mahasiswa secara efektif, 
 pubDate: "2026-06-22"
 ---
 
-# ChatGPT untuk Mahasiswa: Panduan Lengkap Belajar, Tugas, Skripsi, dan Penelitian
+## Ringkasan
+
 
 Perkembangan Artificial Intelligence (AI) telah mengubah cara mahasiswa belajar, mencari informasi, mengerjakan tugas, hingga menyelesaikan skripsi.
 

@@ -7,6 +7,8 @@ description: "Panduan Lengkap Menggunakan AI dari Google"
 pubDate: "2026-06-13"
 ---
 
+## Ringkasan
+
 ---
 
 Selain ChatGPT, salah satu tools AI yang paling banyak digunakan saat ini adalah Gemini. Dikembangkan oleh Google, Gemini hadir sebagai asisten AI yang dapat membantu pengguna mencari informasi, membuat tulisan, merangkum dokumen, hingga membantu berbagai pekerjaan sehari-hari.

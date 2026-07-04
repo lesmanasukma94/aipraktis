@@ -8,6 +8,8 @@ description: "Kumpulan 50 prompt ChatGPT untuk marketing yang dapat digunakan un
 pubDate: "2026-06-20"
 ---
 
+## Ringkasan
+
 ---
 
 ChatGPT dapat menjadi salah satu alat marketing paling powerful jika digunakan dengan prompt yang tepat.

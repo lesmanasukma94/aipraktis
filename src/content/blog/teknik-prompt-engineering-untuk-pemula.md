@@ -8,6 +8,8 @@ description: "Pelajari teknik prompt engineering untuk pemula agar dapat menghas
 pubDate: "2026-06-15"
 ---
 
+## Ringkasan
+
 ---
 
 ## Apa Itu Prompt Engineering?

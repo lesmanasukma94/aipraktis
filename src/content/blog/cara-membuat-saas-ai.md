@@ -11,6 +11,8 @@ pubDate: "2026-06-29"
 
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence telah melahirkan gelombang bisnis baru yang berkembang sangat cepat.

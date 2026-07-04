@@ -7,6 +7,8 @@ description: "Pengertian, Cara Kerja, Manfaat, dan Contohnya dalam Kehidupan Seh
 pubDate: "2026-06-12"
 ---
 
+## Ringkasan
+
 ---
 
 ## Apa Itu Artificial Intelligence (AI)?

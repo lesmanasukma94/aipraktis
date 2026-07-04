@@ -11,6 +11,8 @@ pubDate: "2026-06-29"
 
 ---
 
+## Ringkasan
+
 ---
 
 Artificial Intelligence telah membuka peluang bisnis yang belum pernah ada sebelumnya.

@@ -8,6 +8,8 @@ description: "Pelajari cara menggunakan AI untuk YouTube, mulai dari mencari ide
 pubDate: "2026-06-16"
 ---
 
+## Ringkasan
+
 ---
 
 ## Mengapa Creator YouTube Mulai Menggunakan AI?
