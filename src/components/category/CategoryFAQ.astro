@@ -1,0 +1,82 @@
+---
+export interface Props {
+  category: {
+    name: string;
+  };
+}
+
+const { category } = Astro.props;
+
+const faqs = [
+  {
+    question: `Apa yang dipelajari dalam kategori ${category.name}?`,
+    answer: `Kategori ${category.name} berisi kumpulan artikel, tutorial, dan panduan yang membantu Anda memahami topik tersebut secara bertahap, mulai dari dasar hingga penerapan praktis.`
+  },
+  {
+    question: `Apakah artikel di kategori ini cocok untuk pemula?`,
+    answer:
+      "Ya. Sebagian besar artikel ditulis dengan bahasa yang mudah dipahami sehingga cocok untuk pemula, namun tetap bermanfaat bagi pengguna yang sudah berpengalaman."
+  },
+  {
+    question: "Apakah artikel akan terus diperbarui?",
+    answer:
+      "Ya. Seluruh artikel akan diperbarui secara berkala mengikuti perkembangan teknologi AI agar informasi tetap relevan."
+  }
+];
+---
+
+<section class="category-faq">
+
+  <h2>Pertanyaan yang Sering Diajukan</h2>
+
+  <div class="faq-list">
+
+    {
+      faqs.map((faq) => (
+
+        <details class="faq-item">
+
+          <summary>{faq.question}</summary>
+
+          <p>{faq.answer}</p>
+
+        </details>
+
+      ))
+    }
+
+  </div>
+
+</section>
+
+<style>
+.category-faq{
+  margin-top:64px;
+}
+
+.category-faq h2{
+  margin-bottom:24px;
+}
+
+.faq-list{
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+
+.faq-item{
+  border:1px solid #e5e7eb;
+  border-radius:12px;
+  padding:16px;
+}
+
+.faq-item summary{
+  cursor:pointer;
+  font-weight:600;
+}
+
+.faq-item p{
+  margin-top:12px;
+  line-height:1.8;
+}
+</style>

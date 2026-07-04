@@ -7,6 +7,7 @@ export interface Category {
   color: string;
   order: number;
   featured: boolean;
+  
 }
 
 export const categories: Category[] = [

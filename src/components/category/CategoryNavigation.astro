@@ -1,0 +1,100 @@
+---
+import { categories } from "@/data/categories";
+
+export interface Props {
+  currentSlug: string;
+}
+
+const { currentSlug } = Astro.props;
+
+const index = categories.findIndex(
+  (category) => category.slug === currentSlug
+);
+
+const previous =
+  index > 0 ? categories[index - 1] : null;
+
+const next =
+  index < categories.length - 1
+    ? categories[index + 1]
+    : null;
+---
+
+<nav class="category-navigation">
+
+  {
+    previous ? (
+
+      <a
+        class="nav-card"
+        href={`/${previous.slug}/`}
+      >
+
+        <span>Sebelumnya</span>
+
+        <strong>{previous.name}</strong>
+
+      </a>
+
+    ) : <div />
+  }
+
+  {
+    next ? (
+
+      <a
+        class="nav-card align-right"
+        href={`/${next.slug}/`}
+      >
+
+        <span>Selanjutnya</span>
+
+        <strong>{next.name}</strong>
+
+      </a>
+
+    ) : <div />
+  }
+
+</nav>
+
+<style>
+.category-navigation{
+  margin-top:64px;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:24px;
+}
+
+.nav-card{
+  display:block;
+  border:1px solid #e5e7eb;
+  border-radius:12px;
+  padding:20px;
+  text-decoration:none;
+  color:inherit;
+}
+
+.nav-card span{
+  display:block;
+  font-size:.9rem;
+  color:#6b7280;
+  margin-bottom:8px;
+}
+
+.align-right{
+  text-align:right;
+}
+
+@media (max-width:768px){
+
+  .category-navigation{
+    grid-template-columns:1fr;
+  }
+
+  .align-right{
+    text-align:left;
+  }
+
+}
+</style>

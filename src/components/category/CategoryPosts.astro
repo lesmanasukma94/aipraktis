@@ -1,0 +1,79 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+export interface Props {
+  posts: CollectionEntry<"blog">[];
+}
+
+const { posts } = Astro.props;
+---
+
+<section class="category-posts">
+
+  <div class="container">
+
+    <h2>Artikel</h2>
+
+    {
+      posts.length === 0 ? (
+
+        <p>Artikel akan segera hadir.</p>
+
+      ) : (
+
+        <div class="post-grid">
+
+          {
+            posts.map((post) => (
+
+              <article class="post-card">
+
+                <a href={`/blog/${post.id}/`}>
+
+                  <h3>{post.data.title}</h3>
+
+                  <p>{post.data.description}</p>
+
+                </a>
+
+              </article>
+
+            ))
+          }
+
+        </div>
+
+      )
+    }
+
+  </div>
+
+</section>
+
+<style>
+.category-posts{
+  padding:64px 0;
+}
+
+.container{
+  max-width:1200px;
+  margin:auto;
+  padding:0 24px;
+}
+
+.post-grid{
+  display:grid;
+  gap:24px;
+}
+
+.post-card{
+  border:1px solid #e5e7eb;
+  border-radius:12px;
+  padding:24px;
+}
+
+.post-card a{
+  text-decoration:none;
+  color:inherit;
+}
+</style>

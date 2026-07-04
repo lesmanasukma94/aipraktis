@@ -1,0 +1,64 @@
+---
+import type { CollectionEntry } from "astro:content";
+
+export interface Props {
+  post?: CollectionEntry<"blog">;
+}
+
+const { post } = Astro.props;
+---
+
+{
+  post && (
+
+    <section class="featured-post">
+
+      <div class="container">
+
+        <span class="badge">Artikel Utama</span>
+
+        <h2>
+          <a href={`/blog/${post.id}/`}>
+            {post.data.title}
+          </a>
+        </h2>
+
+        <p>{post.data.description}</p>
+
+      </div>
+
+    </section>
+
+  )
+}
+
+<style>
+.featured-post{
+  padding:48px 0;
+}
+
+.container{
+  max-width:1200px;
+  margin:auto;
+  padding:0 24px;
+}
+
+.badge{
+  display:inline-block;
+  margin-bottom:12px;
+  padding:4px 10px;
+  border-radius:999px;
+  background:#2563eb;
+  color:#fff;
+  font-size:.875rem;
+}
+
+.featured-post h2{
+  margin-bottom:12px;
+}
+
+.featured-post a{
+  color:inherit;
+  text-decoration:none;
+}
+</style>

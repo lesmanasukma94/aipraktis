@@ -2,6 +2,8 @@
 import { getCollection, render } from "astro:content";
 import BlogLayout from "../../layouts/BlogLayout.astro";
 import RelatedLinks from "@/components/blog/RelatedLinks.astro";
+import BackToCategory from "@/components/blog/BackToCategory.astro";
+import CategoryHubCard from "@/components/blog/CategoryHubCard.astro";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -21,8 +23,26 @@ const { Content } = await render(post);
 const allPosts = await getCollection("blog");
 
 const relatedPosts = allPosts
-  .filter((p) => p.id !== post.id)
+  .filter(
+    (p) =>
+      p.id !== post.id &&
+      p.data.category === post.data.category
+  )
   .slice(0, 5);
+
+if (relatedPosts.length < 5) {
+
+  const additionalPosts = allPosts
+    .filter(
+      (p) =>
+        p.id !== post.id &&
+        p.data.category !== post.data.category
+    )
+    .slice(0, 5 - relatedPosts.length);
+
+  relatedPosts.push(...additionalPosts);
+
+}
 
 const articleUrl =
   `https://www.aipraktis.co.id/blog/${post.id}/`;
@@ -106,6 +126,14 @@ const breadcrumbSchema = {
 
 <Content />
 
+<BackToCategory
+  slug={post.data.category}
+/>
+
+<CategoryHubCard
+  slug={post.data.category}
+/>
+
 <section class="related-posts">
 
   <h2>Artikel Terkait</h2>
@@ -125,24 +153,12 @@ const breadcrumbSchema = {
 </section>
 
 <RelatedLinks
-  links={[
-    {
-      title: "Apa Itu Artificial Intelligence (AI)?",
-      url: "/blog/apa-itu-ai/"
-    },
-    {
-      title: "ChatGPT untuk Pemula",
-      url: "/blog/chatgpt-untuk-pemula/"
-    },
-    {
-      title: "Cara Belajar AI dari Nol",
-      url: "/blog/cara-belajar-ai-dari-nol/"
-    },
-    {
-      title: "Cara Membuat Prompt yang Baik",
-      url: "/blog/cara-membuat-prompt-yang-baik/"
-    }
-  ]}
+  links={
+    relatedPosts.map((item) => ({
+      title: item.data.title,
+      url: `/blog/${item.id}/`
+    }))
+  }
 />
 
 </BlogLayout>

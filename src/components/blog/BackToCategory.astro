@@ -1,0 +1,51 @@
+---
+import { categories } from "@/data/categories";
+
+export interface Props {
+  slug: string;
+}
+
+const { slug } = Astro.props;
+
+const category = categories.find(
+  (c) => c.slug === slug
+);
+---
+
+{
+  category && (
+
+<section class="back-category">
+
+  <a href={`/${category.slug}/`}>
+
+    ← Kembali ke {category.name}
+
+  </a>
+
+</section>
+
+  )
+}
+
+<style>
+.back-category{
+  margin:48px 0;
+}
+
+.back-category a{
+  display:inline-flex;
+  align-items:center;
+  gap:.5rem;
+
+  text-decoration:none;
+
+  color:#2563eb;
+
+  font-weight:600;
+}
+
+.back-category a:hover{
+  text-decoration:underline;
+}
+</style>

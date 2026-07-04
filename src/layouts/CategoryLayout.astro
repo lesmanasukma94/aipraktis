@@ -1,0 +1,61 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import CategoryHero from "@/components/category/CategoryHero.astro";
+import CategorySidebar from "@/components/category/CategorySidebar.astro";
+
+export interface Props {
+  category: {
+    slug: string;
+    name: string;
+    description: string;
+  };
+}
+
+const { category } = Astro.props;
+---
+
+<BaseLayout
+  title={category.name}
+  description={category.description}
+>
+
+  <CategoryHero category={category} />
+
+  <div class="category-layout">
+
+    <main class="category-content">
+      <slot />
+    </main>
+
+    <CategorySidebar
+      currentSlug={category.slug}
+    />
+
+  </div>
+
+</BaseLayout>
+
+<style>
+.category-layout{
+  max-width:1200px;
+  margin:0 auto;
+  padding:48px 24px;
+
+  display:grid;
+  grid-template-columns:minmax(0,1fr) 320px;
+  gap:48px;
+}
+
+.category-content{
+  min-width:0;
+}
+
+@media (max-width:960px){
+
+  .category-layout{
+    grid-template-columns:1fr;
+    gap:32px;
+  }
+
+}
+</style>

@@ -1,0 +1,80 @@
+---
+export interface Props {
+  posts: any[];
+}
+
+const { posts } = Astro.props;
+
+const relatedPosts = posts.slice(0, 6);
+---
+
+<section class="related-articles">
+
+  <h2>Artikel Pilihan</h2>
+
+  <p class="section-description">
+    Mulailah dari artikel berikut untuk memahami topik ini secara bertahap.
+  </p>
+
+  <div class="article-grid">
+
+    {
+      relatedPosts.map((post) => (
+
+        <article class="article-card">
+
+          <a href={`/blog/${post.id}/`}>
+
+            <h3>{post.data.title}</h3>
+
+            <p>
+              {post.data.description}
+            </p>
+
+          </a>
+
+        </article>
+
+      ))
+    }
+
+  </div>
+
+</section>
+
+<style>
+.related-articles{
+  margin:64px 0;
+}
+
+.section-description{
+  margin-bottom:28px;
+  color:#6b7280;
+}
+
+.article-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+  gap:24px;
+}
+
+.article-card{
+  border:1px solid #e5e7eb;
+  border-radius:12px;
+  padding:20px;
+}
+
+.article-card a{
+  text-decoration:none;
+  color:inherit;
+}
+
+.article-card h3{
+  margin-bottom:12px;
+}
+
+.article-card p{
+  color:#6b7280;
+  line-height:1.6;
+}
+</style>

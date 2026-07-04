@@ -1,0 +1,42 @@
+---
+export interface Props {
+  category: {
+    name: string;
+    description: string;
+  };
+}
+
+const { category } = Astro.props;
+---
+
+<section class="category-hero">
+
+  <div class="container">
+
+    <h1>{category.name}</h1>
+
+    <p>{category.description}</p>
+
+  </div>
+
+</section>
+
+<style>
+.category-hero{
+  padding:64px 0;
+}
+
+.container{
+  max-width:1200px;
+  margin:auto;
+  padding:0 24px;
+}
+
+h1{
+  margin-bottom:16px;
+}
+
+p{
+  max-width:700px;
+}
+</style>
