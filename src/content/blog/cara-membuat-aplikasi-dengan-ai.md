@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 Membuat aplikasi dulu identik dengan kemampuan pemrograman yang rumit, tim developer yang mahal, dan proses pengembangan yang memakan waktu berbulan-bulan.
 
 Namun saat ini Artificial Intelligence (AI) telah mengubah semuanya.

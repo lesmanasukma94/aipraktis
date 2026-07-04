@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Apakah AI Akan Mengubah Dunia Kerja?
 
 Artificial Intelligence (AI) berkembang dengan sangat cepat.

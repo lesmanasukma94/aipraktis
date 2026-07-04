@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi salah satu teknologi yang membantu pemilik toko online meningkatkan efisiensi operasional, mempercepat pelayanan pelanggan, dan meningkatkan penjualan.
 
 Saat ini berbagai tools AI dapat digunakan untuk membuat deskripsi produk, menjawab pertanyaan pelanggan, membuat konten promosi, hingga menganalisis data penjualan. Bahkan banyak pelaku UMKM dan penjual marketplace mulai memanfaatkan AI untuk menghemat waktu dan meningkatkan produktivitas.

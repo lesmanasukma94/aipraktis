@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence mulai menjadi senjata utama bagi tim penjualan modern.
 
 Jika dahulu seorang sales harus mencari prospek secara manual, menulis email satu per satu, membuat proposal, hingga melakukan follow up secara berulang, kini hampir semua pekerjaan tersebut dapat dipercepat dengan bantuan AI.

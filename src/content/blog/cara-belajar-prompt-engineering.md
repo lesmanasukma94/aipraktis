@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Prompt Engineering menjadi salah satu keterampilan AI yang paling banyak dicari dalam beberapa tahun terakhir.
 
 Kemampuan membuat prompt yang efektif tidak hanya berguna saat menggunakan ChatGPT, tetapi juga pada berbagai model AI seperti Claude, Gemini, Copilot, Midjourney, hingga AI Agent modern.

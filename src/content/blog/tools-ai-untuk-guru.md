@@ -12,8 +12,6 @@ pubDate: "2026-06-26"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) mulai menjadi bagian penting dalam dunia pendidikan. Saat ini guru tidak hanya menggunakan AI untuk membuat materi pembelajaran, tetapi juga untuk menyusun soal, membuat presentasi, mengevaluasi tugas, hingga membantu personalisasi pembelajaran siswa.
 
 Dengan memanfaatkan tools AI yang tepat, guru dapat menghemat banyak waktu administratif dan lebih fokus pada proses mengajar.

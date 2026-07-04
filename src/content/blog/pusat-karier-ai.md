@@ -11,8 +11,6 @@ pubDate: "2026-06-18"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) sedang mengubah dunia kerja dengan sangat cepat. Saat ini hampir semua profesi mulai terpengaruh oleh AI, mulai dari administrasi, marketing, customer support, content creator, hingga berbagai pekerjaan profesional lainnya.
 
 Perubahan ini menciptakan tantangan sekaligus peluang baru. Mereka yang memahami AI dan mampu menggunakannya dalam pekerjaan sehari-hari akan memiliki keunggulan yang lebih besar dibandingkan mereka yang mengabaikan perkembangan teknologi.

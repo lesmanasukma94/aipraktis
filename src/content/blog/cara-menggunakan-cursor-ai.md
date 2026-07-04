@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Cursor AI menjadi salah satu editor kode berbasis Artificial Intelligence yang paling populer di kalangan developer.
 
 Banyak programmer mulai beralih dari Visual Studio Code ke Cursor karena kemampuannya memahami project, membantu menulis kode, memperbaiki bug, hingga melakukan refactoring hanya melalui percakapan.

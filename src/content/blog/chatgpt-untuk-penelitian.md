@@ -10,8 +10,6 @@ pubDate: "2026-06-21"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) mulai mengubah cara mahasiswa, dosen, peneliti, dan akademisi melakukan penelitian. Salah satu tools AI yang paling populer saat ini adalah ChatGPT.
 
 ChatGPT dapat membantu berbagai aktivitas penelitian, mulai dari mencari ide topik, memahami teori, merangkum jurnal, menyusun kerangka penelitian, hingga membantu proses penulisan akademik.

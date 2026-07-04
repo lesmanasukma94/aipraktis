@@ -10,8 +10,6 @@ pubDate: "2026-06-19"
 
 ## Ringkasan
 
----
-
 # ChatGPT untuk Sales
 
 ChatGPT telah menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh tim sales modern. Dengan bantuan AI, proses prospecting, komunikasi pelanggan, follow up, hingga penyusunan strategi penjualan dapat dilakukan lebih cepat dan efisien.

@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence telah mengubah cara programmer bekerja.
 
 Jika dahulu developer harus menulis seluruh kode secara manual, saat ini banyak pekerjaan coding dapat dipercepat menggunakan AI.

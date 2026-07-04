@@ -13,8 +13,6 @@ pubDate: "2026-06-29"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence telah melahirkan gelombang bisnis baru yang berkembang sangat cepat.
 
 Salah satu model bisnis yang paling banyak menghasilkan uang saat ini adalah SaaS AI.

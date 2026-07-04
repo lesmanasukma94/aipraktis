@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Kreator TikTok Mulai Menggunakan AI?
 
 TikTok telah menjadi salah satu platform media sosial dengan pertumbuhan tercepat di dunia.

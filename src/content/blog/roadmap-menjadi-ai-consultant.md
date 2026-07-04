@@ -10,8 +10,6 @@ pubDate: "2026-06-23"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah mengubah cara bisnis beroperasi.
 
 Banyak perusahaan ingin menggunakan AI untuk meningkatkan produktivitas, mengurangi biaya, dan mempercepat pertumbuhan bisnis.

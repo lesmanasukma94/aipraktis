@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) semakin banyak digunakan untuk membantu proses penjualan di berbagai jenis bisnis. Mulai dari UMKM, toko online, hingga perusahaan besar, AI dapat membantu meningkatkan produktivitas tim sales, mempercepat proses penjualan, dan memberikan pengalaman pelanggan yang lebih baik.
 
 Saat ini berbagai tools AI seperti ChatGPT, Gemini, Claude, dan CRM berbasis AI dapat membantu membuat penawaran, menjawab pertanyaan pelanggan, melakukan follow-up, hingga menganalisis peluang penjualan.

@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Menjadi freelancer berarti harus mengerjakan banyak hal sekaligus.
 
 Mulai dari mencari klien, membuat proposal, menyelesaikan proyek, mengatur jadwal, membuat invoice, hingga melakukan pemasaran diri.

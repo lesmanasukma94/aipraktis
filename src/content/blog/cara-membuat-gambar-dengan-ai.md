@@ -13,8 +13,6 @@ pubDate: "2026-06-27"
 
 ## Ringkasan
 
----
-
 Membuat gambar kini tidak lagi harus menggunakan software desain yang rumit atau memiliki kemampuan menggambar profesional. Dengan bantuan Artificial Intelligence (AI), siapa pun dapat menghasilkan gambar hanya dengan mengetikkan deskripsi dalam bentuk teks.
 
 Teknologi ini dikenal sebagai **Text-to-Image AI**, yaitu AI yang mampu mengubah perintah teks menjadi gambar dalam hitungan detik.

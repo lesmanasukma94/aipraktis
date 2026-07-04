@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Jasa Profesional Perlu Memanfaatkan AI?
 
 Perkembangan Artificial Intelligence (AI) telah mengubah cara banyak profesional bekerja.

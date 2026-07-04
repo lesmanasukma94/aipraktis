@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence mulai mengubah cara divisi Human Resources (HRD) bekerja.
 
 Jika dahulu proses rekrutmen membutuhkan waktu berminggu-minggu, kini AI mampu membantu menyaring ribuan CV dalam hitungan menit, membuat deskripsi pekerjaan, menyusun pertanyaan wawancara, hingga membantu pelatihan karyawan.

@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Banyak Orang Merasa AI Tidak Berguna?
 
 Sejak kemunculan ChatGPT, Gemini, Claude, dan berbagai tools AI lainnya, jutaan orang mulai mencoba menggunakan kecerdasan buatan untuk membantu pekerjaan dan aktivitas sehari-hari.

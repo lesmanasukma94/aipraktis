@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Customer Support Perlu Memahami AI?
 
 Customer support memiliki peran penting dalam menjaga kepuasan pelanggan.

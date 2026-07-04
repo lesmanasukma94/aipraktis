@@ -10,8 +10,6 @@ pubDate: "2026-06-21"
 
 ## Ringkasan
 
----
-
 ChatGPT dapat menjadi salah satu alat AI yang paling bermanfaat bagi pelaku UMKM. Dengan prompt yang tepat, ChatGPT dapat membantu membuat konten, menyusun strategi pemasaran, menjawab pelanggan, hingga membantu pengembangan bisnis.
 
 Dalam artikel ini Anda akan menemukan 50 prompt ChatGPT untuk UMKM yang dapat langsung digunakan dan dimodifikasi sesuai kebutuhan usaha Anda.

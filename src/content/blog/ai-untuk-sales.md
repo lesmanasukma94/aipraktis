@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Tim Sales Perlu Memahami AI?
 
 Profesi sales selalu menuntut produktivitas yang tinggi.

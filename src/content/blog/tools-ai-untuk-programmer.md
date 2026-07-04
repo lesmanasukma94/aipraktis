@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence telah mengubah cara programmer bekerja.
 
 Saat ini developer tidak lagi harus menulis seluruh kode dari nol. AI mampu membantu membuat fungsi, menjelaskan error, memperbaiki bug, membuat dokumentasi, hingga membantu deployment aplikasi.

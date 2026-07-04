@@ -10,8 +10,6 @@ pubDate: "2026-06-24"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi salah satu teknologi yang paling berpengaruh di dunia modern.
 
 Mulai dari ChatGPT, Gemini, hingga berbagai tools AI lainnya, teknologi ini mengubah cara manusia belajar, bekerja, dan menjalankan bisnis.

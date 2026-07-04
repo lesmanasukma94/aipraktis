@@ -13,8 +13,6 @@ pubDate: "2026-06-29"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence menjadi salah satu bidang dengan pertumbuhan karier tercepat di dunia.
 
 Hampir setiap industri mulai mencari talenta yang memahami AI, mulai dari perusahaan teknologi, startup, perbankan, pendidikan, manufaktur, hingga UMKM.

@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence telah mengubah cara desainer bekerja.
 
 Jika dahulu membuat ilustrasi, poster, logo, atau mockup membutuhkan waktu berjam-jam, kini banyak proses dapat diselesaikan hanya dalam beberapa menit menggunakan AI.

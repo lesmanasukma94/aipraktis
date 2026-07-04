@@ -10,8 +10,6 @@ pubDate: "2026-06-19"
 
 ## Ringkasan
 
----
-
 ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh tim marketing. Dengan bantuan AI, proses pembuatan konten, riset pasar, brainstorming ide kampanye, hingga penyusunan strategi pemasaran dapat dilakukan lebih cepat dan efisien.
 
 Saat ini banyak bisnis, UMKM, startup, hingga perusahaan besar mulai memanfaatkan ChatGPT untuk membantu aktivitas marketing sehari-hari.

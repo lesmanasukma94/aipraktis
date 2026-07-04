@@ -9,8 +9,6 @@ pubDate: "2026-06-13"
 
 ## Ringkasan
 
----
-
 Banyak pelaku UMKM menghadapi tantangan yang sama setiap hari: mencari ide promosi, membuat konten media sosial, menulis deskripsi produk, hingga membalas pertanyaan pelanggan.
 
 Masalahnya, tidak semua pemilik usaha memiliki waktu atau tim khusus untuk menangani pemasaran dan pembuatan konten.

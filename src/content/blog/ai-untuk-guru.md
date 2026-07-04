@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ## Mengapa Guru Perlu Memahami AI?
 
 Artificial Intelligence (AI) mulai mengubah berbagai bidang pekerjaan, termasuk dunia pendidikan.

@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 AI Agent menjadi salah satu perkembangan terbesar dalam dunia Artificial Intelligence.
 
 Jika sebelumnya kita hanya menggunakan ChatGPT untuk menjawab pertanyaan atau membuat konten, kini AI dapat menjalankan tugas secara mandiri melalui teknologi yang disebut AI Agent.

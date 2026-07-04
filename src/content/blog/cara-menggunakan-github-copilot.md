@@ -12,8 +12,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 GitHub Copilot menjadi salah satu tools Artificial Intelligence yang paling banyak digunakan oleh programmer di seluruh dunia.
 
 Dengan bantuan AI, GitHub Copilot mampu memberikan saran kode secara real-time, membuat fungsi lengkap, membantu debugging, hingga mempercepat proses pengembangan aplikasi.

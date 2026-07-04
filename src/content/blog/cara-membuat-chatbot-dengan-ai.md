@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 Chatbot telah menjadi salah satu teknologi yang paling banyak digunakan oleh bisnis modern.
 
 Mulai dari toko online, UMKM, perusahaan jasa, hingga startup teknologi menggunakan chatbot untuk melayani pelanggan selama 24 jam tanpa harus menambah staf customer service.

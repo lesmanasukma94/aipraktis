@@ -10,8 +10,6 @@ pubDate: "2026-06-25"
 
 ## Ringkasan
 
----
-
 Perkembangan Artificial Intelligence telah mengubah cara konten dibuat.
 
 Saat ini banyak perusahaan menggunakan AI untuk membantu:

@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ## Mengapa Mahasiswa Perlu Memahami AI?
 
 Artificial Intelligence (AI) telah menjadi salah satu teknologi yang paling berpengaruh dalam dunia pendidikan.

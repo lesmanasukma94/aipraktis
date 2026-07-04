@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi alat bantu yang banyak digunakan oleh mahasiswa untuk belajar, mengerjakan tugas, melakukan riset, dan meningkatkan produktivitas.
 
 Salah satu tools AI yang paling populer saat ini adalah ChatGPT.

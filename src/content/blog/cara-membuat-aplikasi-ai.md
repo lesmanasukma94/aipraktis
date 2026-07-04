@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence telah mengubah cara software dibuat.
 
 Jika dahulu membangun aplikasi membutuhkan tim developer besar dan waktu berbulan-bulan, kini teknologi AI memungkinkan pembuatan aplikasi menjadi lebih cepat, lebih murah, dan lebih mudah.

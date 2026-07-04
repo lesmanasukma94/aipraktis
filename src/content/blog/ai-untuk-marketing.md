@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah mengubah cara bisnis melakukan pemasaran. Jika sebelumnya banyak aktivitas marketing dilakukan secara manual, kini AI dapat membantu membuat konten, menganalisis data pelanggan, mengelola kampanye pemasaran, hingga meningkatkan konversi penjualan.
 
 Saat ini AI tidak hanya digunakan oleh perusahaan besar. UMKM, freelancer, content creator, dan bisnis lokal juga dapat memanfaatkan AI untuk meningkatkan efektivitas pemasaran dengan biaya yang lebih efisien.

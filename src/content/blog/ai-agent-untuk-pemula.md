@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence berkembang sangat cepat.
 
 Jika beberapa tahun terakhir dunia teknologi ramai membahas ChatGPT dan Generative AI, maka beberapa tahun ke depan perhatian akan beralih ke teknologi yang disebut AI Agent.

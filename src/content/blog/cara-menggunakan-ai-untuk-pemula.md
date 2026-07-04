@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) bukan lagi teknologi yang hanya digunakan oleh perusahaan besar atau ahli teknologi.
 
 Saat ini siapa saja dapat menggunakan AI untuk membantu belajar, bekerja, membuat konten, mengembangkan bisnis, hingga meningkatkan produktivitas sehari-hari.

@@ -13,8 +13,6 @@ pubDate: "2026-06-29"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence telah membuka peluang bisnis yang belum pernah ada sebelumnya.
 
 Jika dahulu membangun bisnis digital membutuhkan modal besar dan tim yang banyak, kini seseorang dapat menjalankan bisnis AI hanya dengan laptop dan koneksi internet.

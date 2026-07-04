@@ -10,8 +10,6 @@ pubDate: "2026-06-19"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) tidak lagi hanya digunakan oleh perusahaan besar. Saat ini, UMKM juga dapat memanfaatkan berbagai tools AI untuk meningkatkan produktivitas, mempercepat pekerjaan, dan mengembangkan bisnis dengan biaya yang relatif terjangkau.
 
 Mulai dari membuat konten pemasaran, melayani pelanggan, menyusun strategi bisnis, hingga membuat desain promosi, semuanya dapat dibantu oleh AI.

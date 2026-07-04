@@ -10,8 +10,6 @@ pubDate: "2026-06-23"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi salah satu teknologi yang paling banyak dibicarakan dalam dunia bisnis modern.
 
 Perusahaan dari berbagai sektor mulai menggunakan AI untuk meningkatkan produktivitas, mengurangi biaya operasional, dan mempercepat pertumbuhan bisnis.

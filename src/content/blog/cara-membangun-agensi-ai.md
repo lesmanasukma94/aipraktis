@@ -10,8 +10,6 @@ pubDate: "2026-06-25"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence menciptakan peluang bisnis baru yang sangat besar.
 
 Jika sebelumnya banyak orang menghasilkan uang sebagai freelancer AI, kini semakin banyak yang mulai membangun agensi AI.

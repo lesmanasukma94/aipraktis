@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) semakin banyak digunakan untuk membantu pekerjaan administrasi perkantoran. Berbagai tugas yang sebelumnya dilakukan secara manual kini dapat diselesaikan lebih cepat dengan bantuan AI.
 
 Mulai dari membuat email, menyusun laporan, merangkum dokumen, mengatur jadwal, hingga membuat notulen rapat, AI dapat membantu meningkatkan produktivitas karyawan dan mengurangi pekerjaan yang bersifat berulang.

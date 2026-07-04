@@ -9,8 +9,6 @@ pubDate: "2026-06-12"
 
 ## Ringkasan
 
----
-
 Kecerdasan buatan atau Artificial Intelligence (AI) semakin banyak digunakan dalam kehidupan sehari-hari. Salah satu teknologi AI yang paling populer saat ini adalah ChatGPT. Dengan ChatGPT, siapa saja dapat mencari informasi, membuat tulisan, merangkum dokumen, mencari ide bisnis, hingga membantu pekerjaan kantor hanya dengan mengetikkan pertanyaan atau perintah.
 
 Bagi banyak orang, terutama yang baru mengenal AI, ChatGPT mungkin terlihat rumit. Padahal, cara menggunakannya cukup sederhana dan tidak memerlukan kemampuan teknis khusus.

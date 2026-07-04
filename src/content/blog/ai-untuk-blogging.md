@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Blogger Perlu Memahami AI?
 
 Dunia blogging telah berubah sangat cepat dalam beberapa tahun terakhir.

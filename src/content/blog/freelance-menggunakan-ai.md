@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Apa Itu Freelance Menggunakan AI?
 
 Freelance menggunakan AI adalah aktivitas menawarkan jasa kepada klien dengan bantuan Artificial Intelligence (AI) untuk meningkatkan produktivitas dan kualitas pekerjaan.

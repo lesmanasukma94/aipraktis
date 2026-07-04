@@ -10,8 +10,6 @@ pubDate: "2026-06-25"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence tidak hanya mengubah cara orang bekerja.
 
 AI juga menciptakan berbagai peluang bisnis dan jasa baru yang sebelumnya tidak ada.

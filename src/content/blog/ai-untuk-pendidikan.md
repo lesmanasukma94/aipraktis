@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
---- 
-
 ## AI untuk Pendidikan
 
 Artificial Intelligence (AI) mulai mengubah cara manusia belajar, mengajar, dan mengakses informasi.

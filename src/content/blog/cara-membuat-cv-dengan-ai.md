@@ -13,8 +13,6 @@ pubDate: "2026-06-27"
 
 ## Ringkasan
 
----
-
 Curriculum Vitae (CV) merupakan salah satu dokumen paling penting dalam proses melamar pekerjaan. Namun banyak pencari kerja kesulitan membuat CV yang menarik, profesional, dan sesuai dengan kebutuhan perusahaan.
 
 Saat ini Artificial Intelligence (AI) dapat membantu membuat CV lebih cepat dan lebih baik.

@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Bisnis Fashion Perlu Memanfaatkan AI?
 
 Bisnis fashion merupakan salah satu sektor yang sangat kompetitif.

@@ -10,8 +10,6 @@ pubDate: "2026-06-24"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) menjadi salah satu keterampilan yang paling dicari di dunia kerja saat ini.
 
 Karena itu banyak orang mulai mencari sertifikasi AI untuk meningkatkan kompetensi dan memperkuat portofolio profesional.

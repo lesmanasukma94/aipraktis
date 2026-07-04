@@ -9,8 +9,6 @@ pubDate: "2026-06-13"
 
 ## Ringkasan
 
----
-
 ## AI untuk Bisnis: Cara Menggunakan Artificial Intelligence untuk Mengembangkan Usaha
 
 Artificial Intelligence (AI) bukan lagi teknologi yang hanya digunakan oleh perusahaan besar. Saat ini bisnis kecil, UMKM, startup, hingga perusahaan menengah dapat memanfaatkan AI untuk meningkatkan efisiensi kerja, mempercepat proses bisnis, dan membantu pengambilan keputusan.

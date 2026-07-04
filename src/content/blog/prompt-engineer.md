@@ -10,8 +10,6 @@ pubDate: "2026-06-23"
 
 ## Ringkasan
 
----
-
 Perkembangan Artificial Intelligence (AI) menciptakan berbagai profesi baru yang sebelumnya tidak pernah ada.
 
 Salah satu profesi yang paling banyak dibicarakan saat ini adalah Prompt Engineer.

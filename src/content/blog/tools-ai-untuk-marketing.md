@@ -12,8 +12,6 @@ pubDate: "2026-06-26"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah mengubah cara bisnis melakukan pemasaran. Tugas yang sebelumnya membutuhkan banyak waktu seperti membuat konten, menulis iklan, menganalisis data, hingga mengelola kampanye kini dapat dilakukan lebih cepat dengan bantuan AI.
 
 Tidak heran jika semakin banyak marketer, UMKM, freelancer, dan perusahaan mulai menggunakan tools AI untuk meningkatkan produktivitas sekaligus mengurangi biaya operasional.

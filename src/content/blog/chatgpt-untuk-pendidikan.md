@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Perkembangan Artificial Intelligence (AI) mulai mengubah berbagai aspek kehidupan, termasuk dunia pendidikan.
 
 Salah satu tools AI yang paling populer saat ini adalah ChatGPT.

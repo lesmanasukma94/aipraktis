@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa AI Menjadi Personal Assistant Modern?
 
 Dalam kehidupan yang semakin sibuk, banyak orang kesulitan mengelola berbagai tugas sekaligus.

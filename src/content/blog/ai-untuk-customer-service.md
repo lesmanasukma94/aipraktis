@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ## Mengapa AI Semakin Banyak Digunakan dalam Customer Service?
 
 Pelanggan saat ini menginginkan respon yang cepat dan akurat.

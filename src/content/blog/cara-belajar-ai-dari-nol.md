@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) menjadi salah satu keterampilan yang paling banyak dibicarakan saat ini.
 
 Banyak orang mulai menyadari bahwa AI dapat membantu pekerjaan, bisnis, pendidikan, dan berbagai aktivitas sehari-hari.

@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi salah satu alat paling efektif untuk meningkatkan produktivitas kerja. Saat ini AI digunakan oleh karyawan, guru, freelancer, HRD, manajer, hingga pemilik bisnis untuk menyelesaikan pekerjaan lebih cepat dan efisien.
 
 Mulai dari membuat email, menyusun laporan, merangkum dokumen, membuat presentasi, hingga mencari ide, AI dapat membantu mengurangi pekerjaan berulang dan menghemat waktu.

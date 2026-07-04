@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh pelaku usaha kecil dan menengah (UMKM). Dengan bantuan ChatGPT, berbagai pekerjaan yang sebelumnya memerlukan waktu berjam-jam kini dapat diselesaikan dalam hitungan menit.
 
 Mulai dari membuat konten media sosial, menulis deskripsi produk, membuat ide promosi, hingga membantu pelayanan pelanggan, ChatGPT dapat menjadi asisten digital yang membantu pemilik usaha menjalankan bisnis dengan lebih efisien.

@@ -13,8 +13,6 @@ pubDate: "2026-06-30"
 
 ## Ringkasan
 
----
-
 Pelayanan pelanggan menjadi salah satu faktor yang menentukan keberhasilan sebuah bisnis.
 
 Namun semakin banyak pelanggan berarti semakin banyak pertanyaan, komplain, permintaan informasi, hingga proses follow up yang harus ditangani.

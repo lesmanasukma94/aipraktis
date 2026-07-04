@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Prompt Sangat Penting?
 
 Banyak orang mencoba menggunakan ChatGPT, Gemini, Claude, atau tools AI lainnya, tetapi merasa hasil yang diperoleh kurang memuaskan.

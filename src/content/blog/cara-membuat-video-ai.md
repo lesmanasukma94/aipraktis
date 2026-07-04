@@ -13,8 +13,6 @@ pubDate: "2026-06-27"
 
 ## Ringkasan
 
----
-
 Teknologi Artificial Intelligence (AI) telah mengubah cara orang membuat video. Jika dulu membuat video membutuhkan kamera mahal, software editing yang rumit, dan waktu berjam-jam, sekarang proses tersebut dapat dilakukan jauh lebih cepat menggunakan AI.
 
 Banyak content creator, YouTuber, marketer, freelancer, dan pemilik bisnis mulai memanfaatkan AI untuk membuat video promosi, video edukasi, video YouTube, hingga konten media sosial.

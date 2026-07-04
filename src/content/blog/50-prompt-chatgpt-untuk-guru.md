@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) dapat membantu guru bekerja lebih cepat dan efisien.
 
 Salah satu tools AI yang paling banyak digunakan saat ini adalah ChatGPT.

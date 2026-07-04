@@ -10,8 +10,6 @@ pubDate: "2026-06-23"
 
 ## Ringkasan
 
----
-
 Sejak kemunculan ChatGPT, Gemini, Claude, dan berbagai AI generatif lainnya, profesi Prompt Engineer menjadi salah satu pekerjaan baru yang paling banyak dibicarakan.
 
 Banyak orang tertarik karena profesi ini tidak selalu membutuhkan kemampuan coding tingkat tinggi, tetapi tetap memiliki prospek yang menjanjikan.

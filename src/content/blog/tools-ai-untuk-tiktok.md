@@ -13,8 +13,6 @@ pubDate: "2026-06-26"
 
 ## Ringkasan
 
----
-
 TikTok telah menjadi salah satu platform media sosial terbesar di dunia. Banyak content creator, freelancer, UMKM, dan bisnis menggunakan TikTok untuk membangun audiens, meningkatkan brand awareness, dan menghasilkan penjualan.
 
 Namun membuat konten TikTok secara konsisten bukanlah hal mudah. Dibutuhkan ide konten, script, editing video, caption, hingga analisis performa.

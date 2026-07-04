@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Staff Keuangan Perlu Memahami AI?
 
 Perkembangan Artificial Intelligence (AI) mulai mengubah cara kerja berbagai profesi, termasuk bidang keuangan.

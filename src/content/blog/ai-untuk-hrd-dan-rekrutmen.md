@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ## Mengapa AI Mulai Digunakan dalam Rekrutmen?
 
 Proses rekrutmen sering memerlukan waktu, tenaga, dan biaya yang tidak sedikit.

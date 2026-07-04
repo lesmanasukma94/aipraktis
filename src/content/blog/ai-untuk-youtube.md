@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Creator YouTube Mulai Menggunakan AI?
 
 Membuat konten YouTube bukan hanya soal merekam video.

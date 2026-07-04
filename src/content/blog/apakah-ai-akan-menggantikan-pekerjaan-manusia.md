@@ -9,8 +9,6 @@ pubDate: "2026-06-13"
 
 ## Ringkasan
 
----
-
 Sejak kemunculan ChatGPT dan berbagai tools AI lainnya, satu pertanyaan terus muncul:
 
 > Apakah AI akan menggantikan pekerjaan manusia?

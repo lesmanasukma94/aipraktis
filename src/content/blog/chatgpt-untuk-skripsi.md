@@ -10,8 +10,6 @@ pubDate: "2026-06-21"
 
 ## Ringkasan
 
----
-
 Skripsi merupakan salah satu tantangan terbesar yang dihadapi mahasiswa sebelum lulus kuliah. Mulai dari menentukan topik, mencari referensi, menyusun proposal, melakukan penelitian, hingga menulis laporan akhir, seluruh proses membutuhkan waktu, konsistensi, dan kemampuan berpikir kritis.
 
 Dalam beberapa tahun terakhir, ChatGPT menjadi salah satu tools AI yang banyak digunakan mahasiswa untuk membantu proses penyusunan skripsi.

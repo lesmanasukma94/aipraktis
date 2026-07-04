@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa UMKM Indonesia Perlu Memahami AI?
 
 Artificial Intelligence (AI) telah menjadi salah satu teknologi yang paling banyak dibicarakan dalam beberapa tahun terakhir.

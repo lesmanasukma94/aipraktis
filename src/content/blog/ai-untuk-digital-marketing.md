@@ -9,8 +9,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ## Mengapa AI Menjadi Penting dalam Digital Marketing?
 
 Digital marketing terus berkembang dan semakin kompetitif.

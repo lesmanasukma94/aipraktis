@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 AI dapat membantu mahasiswa belajar lebih cepat dan produktif.
 
 Berikut 20 prompt yang dapat langsung digunakan.

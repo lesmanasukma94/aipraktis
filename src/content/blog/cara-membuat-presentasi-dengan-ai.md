@@ -13,8 +13,6 @@ pubDate: "2026-06-27"
 
 ## Ringkasan
 
----
-
 Membuat presentasi sering kali menjadi pekerjaan yang memakan waktu. Kita harus melakukan riset, menyusun struktur materi, membuat slide, memilih desain, dan memastikan presentasi mudah dipahami audiens.
 
 Saat ini Artificial Intelligence (AI) dapat membantu mempercepat seluruh proses tersebut.

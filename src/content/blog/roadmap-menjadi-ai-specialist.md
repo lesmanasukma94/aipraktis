@@ -10,8 +10,6 @@ pubDate: "2026-06-23"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi salah satu bidang dengan pertumbuhan tercepat di dunia.
 
 Perusahaan dari berbagai industri mulai mencari tenaga profesional yang memahami AI dan mampu menerapkannya untuk meningkatkan produktivitas serta efisiensi bisnis.

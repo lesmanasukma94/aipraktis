@@ -10,8 +10,6 @@ pubDate: "2026-06-23"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) berkembang sangat cepat dan mulai digunakan oleh individu, sekolah, universitas, UMKM, hingga perusahaan besar.
 
 Namun sebagian besar orang masih belum memahami cara menggunakan AI secara efektif.

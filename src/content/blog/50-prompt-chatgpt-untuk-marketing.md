@@ -10,8 +10,6 @@ pubDate: "2026-06-20"
 
 ## Ringkasan
 
----
-
 ChatGPT dapat menjadi salah satu alat marketing paling powerful jika digunakan dengan prompt yang tepat.
 
 Banyak pelaku bisnis menggunakan ChatGPT untuk membantu:

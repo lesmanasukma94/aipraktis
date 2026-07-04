@@ -10,8 +10,6 @@ pubDate: "2026-06-20"
 
 ## Ringkasan
 
----
-
 ChatGPT dapat membantu tim sales bekerja lebih cepat, lebih produktif, dan lebih efektif dalam berkomunikasi dengan calon pelanggan.
 
 Dengan prompt yang tepat, ChatGPT dapat membantu:

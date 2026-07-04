@@ -13,8 +13,6 @@ pubDate: "2026-06-28"
 
 ## Ringkasan
 
----
-
 Logo merupakan identitas visual yang sangat penting bagi sebuah bisnis, toko online, startup, maupun personal brand.
 
 Dulu pembuatan logo membutuhkan desainer profesional dengan biaya yang tidak sedikit. Namun sekarang Artificial Intelligence (AI) memungkinkan siapa saja membuat logo profesional dalam hitungan menit.

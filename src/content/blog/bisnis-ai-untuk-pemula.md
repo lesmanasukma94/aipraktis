@@ -10,8 +10,6 @@ pubDate: "2026-06-25"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence bukan lagi teknologi masa depan.
 
 Saat ini AI sudah digunakan oleh:

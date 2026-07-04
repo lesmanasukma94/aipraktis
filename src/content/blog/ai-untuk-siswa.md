@@ -10,8 +10,6 @@ pubDate: "2026-06-15"
 
 ## Ringkasan
 
----
-
 ## AI untuk Siswa
 
 Artificial Intelligence (AI) semakin banyak digunakan dalam dunia pendidikan.

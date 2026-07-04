@@ -10,8 +10,6 @@ pubDate: "2026-06-16"
 
 ## Ringkasan
 
----
-
 ## Mengapa Belajar Skill AI Menjadi Penting?
 
 Artificial Intelligence (AI) telah mengubah cara manusia bekerja, belajar, dan menjalankan bisnis.

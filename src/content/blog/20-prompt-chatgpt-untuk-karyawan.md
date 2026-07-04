@@ -9,8 +9,6 @@ pubDate: "2026-06-13"
 
 ## Ringkasan
 
----
-
 ChatGPT dapat membantu karyawan menyelesaikan berbagai pekerjaan lebih cepat, mulai dari membuat email, menyusun laporan, merangkum hasil rapat, hingga mencari ide presentasi.
 
 Namun, hasil yang diperoleh sangat bergantung pada prompt yang digunakan. Semakin jelas instruksi yang diberikan, semakin baik jawaban yang dihasilkan oleh AI.

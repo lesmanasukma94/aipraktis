@@ -13,8 +13,6 @@ pubDate: "2026-06-27"
 
 ## Ringkasan
 
----
-
 Dulu membuat website membutuhkan kemampuan coding, desain, dan pengalaman teknis yang cukup tinggi. Namun saat ini Artificial Intelligence (AI) telah mengubah proses tersebut secara drastis.
 
 Bahkan seseorang yang belum pernah membuat website sekalipun kini dapat memiliki website profesional dalam hitungan jam.

@@ -10,8 +10,6 @@ pubDate: "2026-06-18"
 
 ## Ringkasan
 
----
-
 Artificial Intelligence (AI) telah menjadi alat yang membantu bisnis meningkatkan produktivitas, menghemat biaya operasional, mempercepat pemasaran, dan meningkatkan pelayanan pelanggan. Saat ini AI tidak hanya digunakan oleh perusahaan besar, tetapi juga oleh UMKM, toko online, bisnis kuliner, freelancer, dan berbagai usaha lainnya di Indonesia.
 
 Melalui panduan lengkap ini, Anda dapat mempelajari berbagai cara menggunakan AI untuk bisnis, mulai dari pemasaran, penjualan, customer support, produktivitas kerja, hingga pengembangan usaha.

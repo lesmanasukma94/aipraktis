@@ -184,6 +184,12 @@ author: "${DEFAULT_AUTHOR}"`
     body = "## Ringkasan\n\n" + body;
   }
 
+// Hapus horizontal rule tepat setelah Ringkasan
+body = body.replace(
+  /^## Ringkasan\s*\n+\s*---\s*\n+/,
+  "## Ringkasan\n\n"
+);
+
   // Rapikan baris kosong
   body = body.replace(/\n{3,}/g, "\n\n");
 
