@@ -1,78 +1,27 @@
 ---
-const tools = [
-  {
-    name: "AI Writing",
-    slug: "/blog/category/ai-writing",
-    description:
-      "Tools AI untuk menulis artikel, email, copywriting, dan berbagai kebutuhan penulisan."
-  },
-  {
-    name: "AI Image",
-    slug: "/blog/category/ai-image",
-    description:
-      "Generator gambar AI untuk desain, ilustrasi, thumbnail, dan media sosial."
-  },
-  {
-    name: "AI Video",
-    slug: "/blog/category/ai-video",
-    description:
-      "Tools AI untuk membuat video, subtitle, avatar, dan editing otomatis."
-  },
-  {
-    name: "AI Coding",
-    slug: "/blog/category/ai-coding",
-    description:
-      "AI Assistant untuk programmer, developer, debugging, dan penulisan kode."
-  },
-  {
-    name: "AI Productivity",
-    slug: "/blog/category/ai-productivity",
-    description:
-      "Tools AI untuk meningkatkan produktivitas kerja, meeting, dan manajemen tugas."
-  },
-  {
-    name: "AI Marketing",
-    slug: "/blog/category/ai-marketing",
-    description:
-      "AI untuk SEO, digital marketing, social media, email marketing, dan iklan."
-  }
-];
+import { aiTools } from "@/data/ai-tools";
 ---
 
-<section class="tools">
+<section class="py-16">
 
-  <div class="container">
+  <div class="mx-auto max-w-7xl px-6">
 
-    <div class="heading">
+    <h2 class="text-3xl font-bold mb-8">
+      Kategori AI Tools
+    </h2>
 
-      <h2>Temukan AI Tools Sesuai Kebutuhan</h2>
-
-      <p>
-        Jelajahi berbagai kategori AI Tools yang dapat membantu pekerjaan,
-        bisnis, pendidikan, content creation, hingga software development.
-      </p>
-
-    </div>
-
-    <div class="grid">
+    <div class="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
 
       {
-        tools.map((tool) => (
+        aiTools.map((tool) => (
 
-          <a
-            href={tool.slug}
-            class="card"
-          >
+          <div class="rounded-xl border p-5">
 
-            <h3>{tool.name}</h3>
+            <h3 class="font-semibold">
+              {tool}
+            </h3>
 
-            <p>{tool.description}</p>
-
-            <span>
-              Jelajahi →
-            </span>
-
-          </a>
+          </div>
 
         ))
       }
@@ -82,117 +31,3 @@ const tools = [
   </div>
 
 </section>
-
-<style>
-
-.tools{
-
-padding:90px 20px;
-
-background:#f8fafc;
-
-}
-
-.container{
-
-max-width:1200px;
-
-margin:auto;
-
-}
-
-.heading{
-
-text-align:center;
-
-margin-bottom:50px;
-
-}
-
-.heading h2{
-
-font-size:2.2rem;
-
-margin-bottom:12px;
-
-}
-
-.heading p{
-
-max-width:720px;
-
-margin:auto;
-
-line-height:1.8;
-
-color:#666;
-
-}
-
-.grid{
-
-display:grid;
-
-grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
-
-gap:24px;
-
-}
-
-.card{
-
-display:block;
-
-padding:26px;
-
-background:white;
-
-border:1px solid #ececec;
-
-border-radius:16px;
-
-text-decoration:none;
-
-transition:.25s;
-
-}
-
-.card:hover{
-
-transform:translateY(-4px);
-
-border-color:#2563eb;
-
-box-shadow:0 12px 30px rgba(0,0,0,.08);
-
-}
-
-.card h3{
-
-margin-bottom:14px;
-
-font-size:1.3rem;
-
-color:#111827;
-
-}
-
-.card p{
-
-line-height:1.7;
-
-color:#666;
-
-margin-bottom:20px;
-
-}
-
-.card span{
-
-font-weight:700;
-
-color:#2563eb;
-
-}
-
-</style>

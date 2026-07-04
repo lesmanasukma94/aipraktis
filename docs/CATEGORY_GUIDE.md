@@ -1,38 +1,86 @@
-# Panduan Penempatan Kategori Artikel
+# CATEGORY GUIDE
+## AI Praktis Indonesia
 
-Website AI Praktis Indonesia menggunakan 10 kategori utama.
+Versi: 1.0
+
+Dokumen ini merupakan standar resmi penempatan kategori seluruh artikel di AI Praktis Indonesia.
+
+Tujuannya adalah memastikan:
+
+- Tidak ada artikel masuk kategori yang salah.
+- Tidak ada duplikasi topik.
+- Struktur website tetap konsisten.
+- Internal linking lebih mudah dibuat.
+- Cluster SEO berkembang secara benar.
 
 ---
 
-# 1. Belajar AI
+# Daftar Kategori
+
+Website menggunakan **10 kategori utama**.
+
+1. Belajar AI
+2. AI Chatbot
+3. Prompt Engineering
+4. AI Tools
+5. Tutorial AI
+6. AI untuk Bisnis
+7. AI untuk Pendidikan
+8. AI untuk Content Creator
+9. Karier AI
+10. Studi Kasus AI
+
+---
+
+# 1. BELAJAR AI
 
 Slug
 
 belajar-ai
 
-Tujuan
+## Tujuan
 
-Panduan dasar Artificial Intelligence.
+Mengajari orang yang benar-benar baru mengenal Artificial Intelligence.
 
-Contoh artikel
+Kategori ini merupakan pintu masuk seluruh website.
+
+## Target Pembaca
+
+- Pemula
+- Karyawan
+- Mahasiswa
+- UMKM
+- Masyarakat umum
+
+## Artikel yang Cocok
 
 - Apa Itu AI
 - Cara Belajar AI
 - Roadmap Belajar AI
+- Dasar Artificial Intelligence
 - AI untuk Pemula
-- Kesalahan Pemula Menggunakan AI
+- Sejarah AI
+- Istilah-istilah AI
+
+## Jangan Masuk Kategori Ini
+
+- Prompt
+- Review AI Tools
+- Tutorial penggunaan tools
 
 ---
 
-# 2. AI Chatbot
+# 2. AI CHATBOT
 
 Slug
 
 ai-chatbot
 
-Seluruh LLM/chatbot masuk kategori ini.
+## Tujuan
 
-Contoh
+Membahas seluruh chatbot AI dan Large Language Model (LLM).
+
+## Artikel yang Cocok
 
 - ChatGPT
 - Claude
@@ -41,140 +89,352 @@ Contoh
 - DeepSeek
 - Microsoft Copilot
 - Perplexity
-- Qwen
 - Mistral
 - Le Chat
+- Qwen
 
-Contoh artikel
+## Contoh Artikel
 
 - ChatGPT untuk Pemula
 - Claude vs ChatGPT
 - Gemini Advanced
-- Cara Menggunakan DeepSeek
+- DeepSeek Review
+
+## Jangan Masuk
+
+Pembahasan teknik prompt yang mendalam.
+
+Itu masuk Prompt Engineering.
 
 ---
 
-# 3. Prompt Engineering
+# 3. PROMPT ENGINEERING
 
 Slug
 
 prompt-engineering
 
-Contoh artikel
+## Tujuan
 
-- Cara Menulis Prompt
+Mengajari pengguna membuat prompt yang efektif.
+
+## Artikel yang Cocok
+
+- Teknik Prompt
+- Framework Prompt
 - Prompt ChatGPT
 - Prompt Claude
 - Prompt Gemini
-- Teknik Prompt
-- Template Prompt
+- Prompt Marketing
+- Prompt Guru
+- Prompt Bisnis
+- Prompt Coding
+
+## Jangan Masuk
+
+Review AI.
+
+Review chatbot.
 
 ---
 
-# 4. AI Tools
+# 4. AI TOOLS
 
 Slug
 
 ai-tools
 
-Seluruh tools AI.
+## Tujuan
 
-Contoh
+Review dan rekomendasi AI Tools.
 
+## Artikel yang Cocok
+
+- AI Writing
+- AI Image
+- AI Video
+- AI Coding
+- AI SEO
+- AI Design
 - Midjourney
-- Canva AI
 - Cursor
-- Notion AI
 - ElevenLabs
 - Runway
+- Canva AI
+- Notion AI
+
+## Jangan Masuk
+
+Tutorial panjang.
+
+Tutorial masuk kategori Tutorial AI.
 
 ---
 
-# 5. Tutorial AI
+# 5. TUTORIAL AI
 
 Slug
 
 tutorial-ai
 
-Semua artikel HOW TO.
+## Tujuan
 
-Contoh
+Seluruh artikel HOW TO.
 
+Semua artikel yang diawali:
+
+- Cara...
+- Cara Membuat...
+- Cara Menggunakan...
+- Cara Install...
+- Cara Menghubungkan...
+
+masuk kategori ini.
+
+## Contoh
+
+- Cara Menggunakan ChatGPT
 - Cara Membuat Website dengan AI
-- Cara Membuat Video AI
-- Cara Menggunakan Cursor
+- Cara Membuat AI Agent
+- Cara Install Ollama
+- Cara Menggunakan Claude
 
 ---
 
-# 6. AI untuk Bisnis
+# 6. AI UNTUK BISNIS
 
 Slug
 
 ai-untuk-bisnis
 
-Contoh
+## Tujuan
+
+Penggunaan AI dalam dunia bisnis.
+
+## Target
+
+- UMKM
+- Startup
+- Agency
+- Marketing
+- Sales
+- HR
+- Finance
+- Freelancer
+
+## Artikel
 
 - AI untuk UMKM
 - AI Marketing
 - AI Sales
 - AI HR
 - AI Customer Service
+- AI untuk Toko Online
 
 ---
 
-# 7. AI untuk Pendidikan
+# 7. AI UNTUK PENDIDIKAN
 
 Slug
 
 ai-untuk-pendidikan
 
-Contoh
+## Tujuan
+
+Penggunaan AI di dunia pendidikan.
+
+## Target
+
+- Guru
+- Mahasiswa
+- Siswa
+- Peneliti
+
+## Artikel
 
 - AI untuk Guru
 - AI untuk Mahasiswa
-- AI untuk Siswa
+- AI untuk Skripsi
 - AI untuk Penelitian
+- ChatGPT untuk Mahasiswa
 
 ---
 
-# 8. AI untuk Content Creator
+# 8. AI UNTUK CONTENT CREATOR
 
 Slug
 
 ai-untuk-content-creator
 
-Contoh
+## Tujuan
+
+Penggunaan AI untuk membuat konten.
+
+## Target
+
+- YouTube
+- TikTok
+- Instagram
+- Blogger
+- Copywriter
+- Content Writer
+
+## Artikel
 
 - AI YouTube
 - AI TikTok
-- AI Instagram
-- AI Blogging
+- AI Thumbnail
+- AI Script
+- AI Video
+- AI Caption
 
 ---
 
-# 9. Karier AI
+# 9. KARIER AI
 
 Slug
 
 karier-ai
 
-Contoh
+## Tujuan
 
-- AI Consultant
+Karier dan peluang kerja di bidang AI.
+
+## Artikel
+
 - Prompt Engineer
+- AI Consultant
+- AI Trainer
 - AI Specialist
-- Freelance AI
+- Freelancer AI
+- Skill AI
+- Sertifikasi AI
+- Roadmap Karier AI
 
 ---
 
-# 10. Studi Kasus AI
+# 10. STUDI KASUS AI
 
 Slug
 
 studi-kasus-ai
 
-Contoh
+## Tujuan
 
-- Studi Kasus UMKM
-- Implementasi AI
-- Success Story
+Implementasi AI pada dunia nyata.
+
+## Artikel
+
+- Studi Kasus AI di UMKM
+- Studi Kasus ChatGPT
+- Implementasi AI Marketing
+- AI di Perusahaan
+- AI Productivity
+
+---
+
+# Aturan Penempatan Artikel
+
+Sebelum membuat artikel, lakukan pengecekan berikut.
+
+## Langkah 1
+
+Apakah artikel membahas chatbot?
+
+→ AI Chatbot
+
+---
+
+## Langkah 2
+
+Apakah artikel membahas teknik prompt?
+
+→ Prompt Engineering
+
+---
+
+## Langkah 3
+
+Apakah artikel berupa tutorial langkah demi langkah?
+
+→ Tutorial AI
+
+---
+
+## Langkah 4
+
+Apakah artikel merupakan review tools?
+
+→ AI Tools
+
+---
+
+## Langkah 5
+
+Apakah artikel ditujukan untuk bisnis?
+
+→ AI untuk Bisnis
+
+---
+
+## Langkah 6
+
+Apakah artikel ditujukan untuk pendidikan?
+
+→ AI untuk Pendidikan
+
+---
+
+## Langkah 7
+
+Apakah artikel ditujukan untuk content creator?
+
+→ AI untuk Content Creator
+
+---
+
+## Langkah 8
+
+Apakah artikel membahas profesi AI?
+
+→ Karier AI
+
+---
+
+## Langkah 9
+
+Apakah artikel berupa implementasi nyata?
+
+→ Studi Kasus AI
+
+---
+
+## Langkah 10
+
+Jika tidak memenuhi semua kondisi di atas
+
+→ Belajar AI
+
+---
+
+# Aturan Editorial
+
+- Setiap artikel hanya memiliki **1 kategori utama**.
+- Artikel boleh memiliki banyak tag.
+- Jangan membuat kategori baru tanpa revisi arsitektur website.
+- Internal linking wajib mengarah ke Category Hub yang sesuai.
+- Artikel pilar harus dibuat lebih dahulu sebelum artikel turunan.
+- Hindari membuat dua artikel dengan intent pencarian yang sama (keyword cannibalization).
+- Semua slug kategori bersifat permanen dan tidak boleh diubah tanpa migrasi URL.
+
+---
+
+# Definition of Done
+
+Sebelum artikel dipublikasikan pastikan:
+
+- Kategori sudah benar.
+- Tag sudah sesuai.
+- Internal link menuju Category Hub sudah ada.
+- Artikel mendukung cluster SEO kategori tersebut.
+- Tidak terjadi keyword cannibalization.
