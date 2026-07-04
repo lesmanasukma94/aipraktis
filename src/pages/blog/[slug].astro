@@ -5,6 +5,8 @@ import RelatedLinks from "@/components/blog/RelatedLinks.astro";
 import BackToCategory from "@/components/blog/BackToCategory.astro";
 import CategoryHubCard from "@/components/blog/CategoryHubCard.astro";
 
+import { clusters } from "@/data/clusters";
+
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
 
@@ -43,6 +45,18 @@ if (relatedPosts.length < 5) {
   relatedPosts.push(...additionalPosts);
 
 }
+
+const clusterSlugs =
+  clusters[
+    post.data.category as keyof typeof clusters
+  ] ?? [];
+
+const clusterPosts = clusterSlugs
+  .filter((slug) => slug !== post.id)
+  .map((slug) =>
+    allPosts.find((p) => p.id === slug)
+  )
+  .filter(Boolean);
 
 const articleUrl =
   `https://www.aipraktis.co.id/blog/${post.id}/`;
@@ -154,9 +168,9 @@ const breadcrumbSchema = {
 
 <RelatedLinks
   links={
-    relatedPosts.map((item) => ({
-      title: item.data.title,
-      url: `/blog/${item.id}/`
+    clusterPosts.map((item) => ({
+      title: item!.data.title,
+      url: `/blog/${item!.id}/`
     }))
   }
 />
