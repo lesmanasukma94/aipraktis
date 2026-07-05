@@ -1,36 +1,30 @@
-import type { CollectionEntry } from "astro:content";
+import type {
+  BlogPost,
+} from "./content-types";
 
 import { topicClusters } from "@/data/clusters";
 import { learningPaths } from "@/data/learning-paths";
-
-export type BlogPost = CollectionEntry<"blog">;
+import { getInternalLinks } from "./link-engine";
+import {
+getContentMetadata,
+} from "./content-metadata";
 
 export function getRelatedPosts(
   posts: BlogPost[],
   currentPost: BlogPost,
   limit = 5
-) {
+): BlogPost[] {
 
-  const related = posts.filter(
-    (post) =>
-      post.id !== currentPost.id &&
-      post.data.category === currentPost.data.category
+  const metadata =
+    getContentMetadata(
+      currentPost
+    );
+
+  return getInternalLinks(
+    posts,
+    currentPost,
+    limit
   );
-
-  if (related.length >= limit) {
-    return related.slice(0, limit);
-  }
-
-  const additional = posts.filter(
-    (post) =>
-      post.id !== currentPost.id &&
-      post.data.category !== currentPost.data.category
-  );
-
-  return [
-    ...related,
-    ...additional,
-  ].slice(0, limit);
 
 }
 
@@ -81,6 +75,38 @@ export function getLearningPath(
 
 }
 
+export function getClusterByPost(
+  post: BlogPost
+) {
+
+  const metadata =
+    getContentMetadata(
+      post
+    );
+
+  return getCluster(
+    metadata.category,
+    metadata.slug
+  );
+
+}
+
+export function getLearningPathByPost(
+  post: BlogPost
+) {
+
+  const metadata =
+    getContentMetadata(
+      post
+    );
+
+  return getLearningPath(
+    metadata.category,
+    metadata.slug
+  );
+
+}
+
 export function getPreviousStep(
   path: typeof learningPaths[number] | undefined,
   slug: string
@@ -122,4 +148,26 @@ export function getNextStep(
 
 export function getCategoryPosts() {}
 
-export function getFeaturedPost() {}
+export function getFeaturedPost(
+  posts: any[]
+) {
+  return posts.length > 0
+    ? posts[0]
+    : undefined;
+}
+
+export function getCategoryMetadata(
+  post: BlogPost
+) {
+
+  return getContentMetadata(
+    post
+  );
+
+}
+
+export function getRemainingPosts(
+  posts: any[]
+) {
+  return posts.slice(1);
+}
