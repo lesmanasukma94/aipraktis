@@ -9,6 +9,7 @@ import CategoryCTA from "@/components/category/CategoryCTA.astro";
 import RelatedCategories from "@/components/category/RelatedCategories.astro";
 import RelatedArticles from "@/components/category/RelatedArticles.astro";
 import CategoryNavigation from "@/components/category/CategoryNavigation.astro";
+import CategoryTopicClusters from "@/components/category/CategoryTopicClusters.astro";
 
 import { categories } from "@/data/categories";
 
@@ -99,9 +100,13 @@ const breadcrumbSchema = {
   set:html={JSON.stringify(breadcrumbSchema)}
 />
 
-  <FeaturedPost
-    post={posts[0]}
-  />
+<FeaturedPost
+  post={posts[0]}
+/>
+
+<CategoryTopicClusters
+  category={category.slug}
+/>
 
 <RelatedArticles
   posts={posts.slice(1)}

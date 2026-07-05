@@ -1,0 +1,70 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+  links: {
+    title: string;
+    url: string;
+  }[];
+}
+
+const {
+  title,
+  description,
+  links,
+} = Astro.props;
+---
+
+{
+  links.length > 0 && (
+    <section class="topic-cluster">
+
+      <h2>{title}</h2>
+
+      <p>{description}</p>
+
+      <ul>
+
+        {
+          links.map((link) => (
+            <li>
+              <a href={link.url}>
+                {link.title}
+              </a>
+            </li>
+          ))
+        }
+
+      </ul>
+
+    </section>
+  )
+}
+
+<style>
+.topic-cluster{
+  margin:64px 0;
+  padding:32px;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  background:#f8fafc;
+}
+
+.topic-cluster h2{
+  margin-bottom:12px;
+}
+
+.topic-cluster p{
+  margin-bottom:20px;
+  color:#4b5563;
+}
+
+.topic-cluster ul{
+  margin:0;
+  padding-left:20px;
+}
+
+.topic-cluster li{
+  margin-bottom:10px;
+}
+</style>

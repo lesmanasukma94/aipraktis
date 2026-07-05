@@ -4,8 +4,9 @@ import BlogLayout from "../../layouts/BlogLayout.astro";
 import RelatedLinks from "@/components/blog/RelatedLinks.astro";
 import BackToCategory from "@/components/blog/BackToCategory.astro";
 import CategoryHubCard from "@/components/blog/CategoryHubCard.astro";
+import TopicClusterBox from "@/components/blog/TopicClusterBox.astro";
 
-import { clusters } from "@/data/clusters";
+import { topicClusters } from "@/data/clusters";
 
 export async function getStaticPaths() {
   const posts = await getCollection("blog");
@@ -46,10 +47,14 @@ if (relatedPosts.length < 5) {
 
 }
 
+const currentCluster = topicClusters.find(
+  (cluster) =>
+    cluster.category === post.data.category &&
+    cluster.articles.includes(post.id)
+);
+
 const clusterSlugs =
-  clusters[
-    post.data.category as keyof typeof clusters
-  ] ?? [];
+  currentCluster?.articles ?? [];
 
 const clusterPosts = clusterSlugs
   .filter((slug) => slug !== post.id)
@@ -146,6 +151,17 @@ const breadcrumbSchema = {
 
 <CategoryHubCard
   slug={post.data.category}
+/>
+
+<TopicClusterBox
+  title={currentCluster?.title ?? ""}
+  description={currentCluster?.description ?? ""}
+  links={
+    clusterPosts.map((item) => ({
+      title: item!.data.title,
+      url: `/blog/${item!.id}/`
+    }))
+  }
 />
 
 <section class="related-posts">

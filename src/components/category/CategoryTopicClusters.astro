@@ -1,0 +1,81 @@
+---
+import { getCollection } from "astro:content";
+import { topicClusters } from "@/data/clusters";
+
+export interface Props {
+  category: string;
+}
+
+const { category } = Astro.props;
+const posts = await getCollection("blog");
+
+const clusters = topicClusters.filter(
+  (cluster) => cluster.category === category
+);
+---
+
+{
+  clusters.length > 0 && (
+    <section class="category-topic-clusters">
+
+      <h2>Pelajari Topik AI Secara Bertahap</h2>
+
+      <div class="cluster-grid">
+
+        {
+          clusters.map((cluster) => (
+
+            <article class="cluster-card">
+
+  <h3>{cluster.title}</h3>
+
+  <p>{cluster.description}</p>
+
+  <ul>
+
+{
+  cluster.articles
+    .slice(0, 5)
+    .map((slug) => {
+
+      const article = posts.find(
+        (post) => post.id === slug
+      );
+
+      if (!article) return null;
+
+      return (
+
+        <li>
+
+          <a href={`/blog/${slug}/`}>
+
+            {article.data.title}
+
+          </a>
+
+        </li>
+
+      );
+
+    })
+}
+
+  </ul>
+
+  <p>
+
+    {cluster.articles.length} artikel
+
+  </p>
+
+</article>
+
+          ))
+        }
+
+      </div>
+
+    </section>
+  )
+}
