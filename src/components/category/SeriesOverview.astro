@@ -1,0 +1,47 @@
+---
+import { topicClusters } from "@/data/clusters";
+
+export interface Props {
+  category: string;
+}
+
+const { category } = Astro.props;
+
+const clusters = topicClusters.filter(
+  (cluster) => cluster.category === category
+);
+---
+
+{
+  clusters.length > 0 && (
+
+<section class="series-overview">
+
+  <h2>Semua Seri Pembelajaran</h2>
+
+  {
+    clusters.map((cluster) => (
+
+      <article class="series-card">
+
+        <h3>{cluster.title}</h3>
+
+        <p>{cluster.description}</p>
+
+        <p>
+          {cluster.articles.length} artikel
+        </p>
+
+        <a href={`/blog/${cluster.articles[0]}/`}>
+          Mulai Belajar →
+        </a>
+
+      </article>
+
+    ))
+  }
+
+</section>
+
+  )
+}

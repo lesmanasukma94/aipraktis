@@ -1,0 +1,87 @@
+---
+export interface Step {
+  title: string;
+  slug: string;
+}
+
+export interface Props {
+  steps: Step[];
+  currentSlug: string;
+}
+
+const {
+  steps,
+  currentSlug,
+} = Astro.props;
+---
+
+{
+  steps.length > 0 && (
+
+<section class="series-progress">
+
+  <h2>Progress Belajar</h2>
+
+  <ol>
+
+    {
+      steps.map((step) => {
+
+        const isCurrent =
+          step.slug === currentSlug;
+
+        const currentIndex =
+          steps.findIndex(
+            (s) => s.slug === currentSlug
+          );
+
+        const stepIndex =
+          steps.findIndex(
+            (s) => s.slug === step.slug
+          );
+
+        const isCompleted =
+          stepIndex < currentIndex;
+
+        return (
+
+<li>
+
+<a
+  href={`/blog/${step.slug}/`}
+  class:list={{
+    current: isCurrent,
+    completed: isCompleted,
+  }}
+>
+
+{isCompleted && "✓ "}
+
+{isCurrent && "➜ "}
+
+{!isCompleted && !isCurrent && "○ "}
+
+{step.title}
+
+</a>
+
+</li>
+
+        );
+
+      })
+    }
+
+  </ol>
+
+  <p>
+
+    Total {steps.length} artikel
+    dalam learning path ini.
+
+  </p>
+
+</section>
+
+  )
+}

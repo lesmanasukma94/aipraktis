@@ -1,0 +1,93 @@
+---
+export interface Props {
+  title: string;
+  description: string;
+
+  steps: {
+    slug: string;
+    title: string;
+  }[];
+
+  currentSlug: string;
+}
+
+const {
+  title,
+  description,
+  steps,
+  currentSlug,
+} = Astro.props;
+---
+
+{
+  steps.length > 0 && (
+
+    <section class="learning-path">
+
+      <h2>{title}</h2>
+
+      <p>{description}</p>
+
+      <ol>
+
+        {
+          steps.map((step) => (
+
+            <li>
+
+              {
+                step.slug === currentSlug
+                  ? (
+                    <strong>{step.title}</strong>
+                  )
+                  : (
+                    <a href={`/blog/${step.slug}/`}>
+                      {step.title}
+                    </a>
+                  )
+              }
+
+            </li>
+
+          ))
+        }
+
+      </ol>
+
+    </section>
+
+  )
+}
+
+<style>
+
+.learning-path{
+  margin:64px 0;
+  padding:32px;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  background:#eff6ff;
+}
+
+.learning-path h2{
+  margin-bottom:12px;
+}
+
+.learning-path p{
+  margin-bottom:20px;
+  color:#4b5563;
+}
+
+.learning-path ol{
+  padding-left:22px;
+}
+
+.learning-path li{
+  margin-bottom:10px;
+}
+
+.learning-path strong{
+  color:#2563eb;
+}
+
+</style>

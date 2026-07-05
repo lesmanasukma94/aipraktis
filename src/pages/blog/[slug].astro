@@ -5,6 +5,10 @@ import RelatedLinks from "@/components/blog/RelatedLinks.astro";
 import BackToCategory from "@/components/blog/BackToCategory.astro";
 import CategoryHubCard from "@/components/blog/CategoryHubCard.astro";
 import TopicClusterBox from "@/components/blog/TopicClusterBox.astro";
+import LearningPathBox from "@/components/blog/LearningPathBox.astro";
+import { learningPaths } from "@/data/learning-paths";
+import LearningPathNavigation from "@/components/blog/LearningPathNavigation.astro";
+import SeriesProgress from "@/components/blog/SeriesProgress.astro";
 
 import { topicClusters } from "@/data/clusters";
 
@@ -62,6 +66,28 @@ const clusterPosts = clusterSlugs
     allPosts.find((p) => p.id === slug)
   )
   .filter(Boolean);
+
+const currentLearningPath = learningPaths.find(
+  (path) =>
+    path.category === post.data.category &&
+    path.steps.some((step) => step.slug === post.id)
+);
+
+const currentStepIndex =
+  currentLearningPath?.steps.findIndex(
+    (step) => step.slug === post.id
+  ) ?? -1;
+
+const previousStep =
+  currentStepIndex > 0
+    ? currentLearningPath?.steps[currentStepIndex - 1]
+    : undefined;
+
+const nextStep =
+  currentLearningPath &&
+  currentStepIndex < currentLearningPath.steps.length - 1
+    ? currentLearningPath.steps[currentStepIndex + 1]
+    : undefined;
 
 const articleUrl =
   `https://www.aipraktis.co.id/blog/${post.id}/`;
@@ -151,6 +177,23 @@ const breadcrumbSchema = {
 
 <CategoryHubCard
   slug={post.data.category}
+/>
+
+<LearningPathBox
+  title={currentLearningPath?.title ?? ""}
+  description={currentLearningPath?.description ?? ""}
+  steps={currentLearningPath?.steps ?? []}
+  currentSlug={post.id}
+/>
+
+<LearningPathNavigation
+  previous={previousStep}
+  next={nextStep}
+/>
+
+<SeriesProgress
+  steps={currentLearningPath?.steps ?? []}
+  currentSlug={post.id}
 />
 
 <TopicClusterBox

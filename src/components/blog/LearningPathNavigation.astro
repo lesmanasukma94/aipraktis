@@ -1,0 +1,95 @@
+---
+export interface Props {
+  previous?: {
+    slug: string;
+    title: string;
+  };
+
+  next?: {
+    slug: string;
+    title: string;
+  };
+}
+
+const {
+  previous,
+  next,
+} = Astro.props;
+---
+
+{
+  (previous || next) && (
+
+    <nav class="learning-navigation">
+
+      {
+        previous && (
+
+          <a
+            class="previous"
+            href={`/blog/${previous.slug}/`}
+          >
+
+            ← {previous.title}
+
+          </a>
+
+        )
+      }
+
+      {
+        next && (
+
+          <a
+            class="next"
+            href={`/blog/${next.slug}/`}
+          >
+
+            {next.title} →
+
+          </a>
+
+        )
+      }
+
+    </nav>
+
+  )
+}
+
+<style>
+
+.learning-navigation{
+
+  display:flex;
+
+  justify-content:space-between;
+
+  gap:24px;
+
+  margin:48px 0;
+
+}
+
+.previous,
+.next{
+
+  flex:1;
+
+  padding:18px;
+
+  border:1px solid #e5e7eb;
+
+  border-radius:12px;
+
+  text-decoration:none;
+
+}
+
+.next{
+
+  text-align:right;
+
+}
+
+</style>

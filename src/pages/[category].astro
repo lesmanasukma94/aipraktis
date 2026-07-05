@@ -10,6 +10,8 @@ import RelatedCategories from "@/components/category/RelatedCategories.astro";
 import RelatedArticles from "@/components/category/RelatedArticles.astro";
 import CategoryNavigation from "@/components/category/CategoryNavigation.astro";
 import CategoryTopicClusters from "@/components/category/CategoryTopicClusters.astro";
+import CategoryLearningPaths from "@/components/category/CategoryLearningPaths.astro";
+import SeriesOverview from "@/components/category/SeriesOverview.astro";
 
 import { categories } from "@/data/categories";
 
@@ -102,6 +104,14 @@ const breadcrumbSchema = {
 
 <FeaturedPost
   post={posts[0]}
+/>
+
+<CategoryLearningPaths
+  category={category.slug}
+/>
+
+<SeriesOverview
+  category={category.slug}
 />
 
 <CategoryTopicClusters
