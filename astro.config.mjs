@@ -5,7 +5,7 @@ import { fileURLToPath } from "node:url";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  site: "https://aipraktis.co.id",
+  site: "https://www.aipraktis.co.id",
 
   integrations: [
     sitemap()
