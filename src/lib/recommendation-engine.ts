@@ -6,6 +6,19 @@ import { sortRecommendations } from "./recommendation-score";
 import { buildRecommendationContext } from "./recommendation-context";
 import { getInternalLinks } from "./link-engine";
 
+function getRecommendationCandidates(
+  posts: BlogPost[],
+  currentPost: BlogPost
+): BlogPost[] {
+
+  return getInternalLinks(
+    posts,
+    currentPost,
+    posts.length
+  );
+
+}
+
 export function getRecommendedArticles(
   posts: BlogPost[],
   currentPost: BlogPost,
@@ -16,11 +29,10 @@ export function getRecommendedArticles(
     buildRecommendationContext(currentPost);
 
   const candidates =
-    getInternalLinks(
-      posts,
-      currentPost,
-      posts.length
-    );
+  getRecommendationCandidates(
+    posts,
+    currentPost
+  );
 
   return sortRecommendations(
     context,

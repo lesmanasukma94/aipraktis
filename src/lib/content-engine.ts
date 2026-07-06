@@ -60,6 +60,30 @@ export function getClusterPosts(
 
 }
 
+export function getLearningPathPosts(
+  posts: BlogPost[],
+  learningPath:
+    | typeof learningPaths[number]
+    | undefined,
+  currentSlug: string
+) {
+
+  if (!learningPath) return [];
+
+  return learningPath.steps
+    .filter(
+      (step) => step.slug !== currentSlug
+    )
+    .map(
+      (step) =>
+        posts.find(
+          (post) => post.id === step.slug
+        )
+    )
+    .filter(Boolean);
+
+}
+
 export function getLearningPath(
   category: string,
   slug: string

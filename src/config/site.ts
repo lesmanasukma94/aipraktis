@@ -6,7 +6,7 @@ export const SITE = {
   description:
     "Belajar AI Praktis untuk Pemula, Pekerja, Freelancer, dan UMKM.",
 
-  url: "https://aipraktis.co.id",
+  url: "https://www.aipraktis.co.id",
 
   lang: "id",
 

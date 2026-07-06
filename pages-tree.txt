@@ -1,0 +1,118 @@
+ Volume in drive C is OS
+ Volume Serial Number is BC74-61DC
+
+ Directory of C:\Users\ardia\aipraktis\src\pages
+
+04/07/2026  18:15    <DIR>          .
+04/07/2026  08:03    <DIR>          ..
+04/07/2026  01:06    <DIR>          ai
+05/07/2026  00:04    <DIR>          ai-chatbot
+04/07/2026  09:31             5.950 ai-pekerja.astro
+05/07/2026  00:04    <DIR>          ai-tools
+04/07/2026  09:33             5.075 ai-umkm.astro
+05/07/2026  00:04    <DIR>          ai-untuk-bisnis
+05/07/2026  00:05    <DIR>          ai-untuk-content-creator
+05/07/2026  00:05    <DIR>          ai-untuk-pendidikan
+05/07/2026  00:04    <DIR>          belajar-ai
+04/07/2026  08:52    <DIR>          blog
+04/07/2026  09:39             2.354 disclaimer.astro
+04/07/2026  10:06             1.066 index.astro
+05/07/2026  00:05    <DIR>          karier-ai
+04/07/2026  09:40             1.125 kontak.astro
+04/07/2026  09:40             2.333 privacy-policy.astro
+04/07/2026  09:40             6.734 prompt-ai.astro
+05/07/2026  00:04    <DIR>          prompt-engineering
+05/07/2026  00:06    <DIR>          studi-kasus-ai
+04/07/2026  09:40             2.392 tentang.astro
+12/06/2026  16:36                59 tools-ai.astro
+05/07/2026  00:04    <DIR>          tutorial-ai
+29/06/2026  21:12             1.216 ui.astro
+05/07/2026  10:07             2.485 [category].astro
+              11 File(s)         30.789 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\ai
+
+04/07/2026  01:06    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+04/07/2026  16:24             2.886 [vendor].astro
+               1 File(s)          2.886 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\ai-chatbot
+
+05/07/2026  00:04    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\ai-tools
+
+05/07/2026  00:04    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\ai-untuk-bisnis
+
+05/07/2026  00:04    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\ai-untuk-content-creator
+
+05/07/2026  00:05    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\ai-untuk-pendidikan
+
+05/07/2026  00:05    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\belajar-ai
+
+05/07/2026  00:04    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\blog
+
+04/07/2026  08:52    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+03/07/2026  20:17    <DIR>          category
+03/07/2026  17:08               737 index.astro
+05/07/2026  16:56             3.739 [slug].astro
+               2 File(s)          4.476 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\blog\category
+
+03/07/2026  20:17    <DIR>          .
+04/07/2026  08:52    <DIR>          ..
+03/07/2026  21:26             1.423 [category].astro
+               1 File(s)          1.423 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\karier-ai
+
+05/07/2026  00:05    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\prompt-engineering
+
+05/07/2026  00:04    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\studi-kasus-ai
+
+05/07/2026  00:06    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\ardia\aipraktis\src\pages\tutorial-ai
+
+05/07/2026  00:04    <DIR>          .
+04/07/2026  18:15    <DIR>          ..
+               0 File(s)              0 bytes
+
+     Total Files Listed:
+              15 File(s)         39.574 bytes
+              41 Dir(s)  129.726.111.744 bytes free
