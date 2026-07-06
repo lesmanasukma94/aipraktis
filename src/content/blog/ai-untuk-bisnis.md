@@ -269,6 +269,8 @@ Jika Anda ingin memahami penerapan AI untuk berbagai jenis usaha secara lebih le
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [50 Prompt ChatGPT untuk UMKM](/blog/50-prompt-chatgpt-untuk-umkm/)
 
+Berbagai chatbot modern dapat membantu operasional bisnis, termasuk [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) yang dapat dimanfaatkan untuk membuat proposal, email, hingga ide pemasaran.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

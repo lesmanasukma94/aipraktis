@@ -248,6 +248,8 @@ Jika Anda pemula, fokus pada:
 
 Keterampilan ini memberikan manfaat nyata dalam kehidupan sehari-hari.
 
+Setelah memahami dasar-dasar AI, langkah berikutnya adalah mencoba AI chatbot secara langsung. Salah satu pilihan terbaik adalah [Claude untuk Pemula](/blog/claude-untuk-pemula/).
+
 ## FAQ
 
 ### Apakah saya harus bisa coding untuk belajar AI?

@@ -342,6 +342,8 @@ Biasanya karena prompt terlalu umum atau kurang memberikan konteks.
 
 Jelaskan tujuan, konteks, target audiens, format hasil, dan gaya bahasa yang diinginkan.
 
+Setelah memahami dasar-dasar membuat prompt, praktikkan langsung menggunakan [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) agar Anda terbiasa berinteraksi dengan AI chatbot.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

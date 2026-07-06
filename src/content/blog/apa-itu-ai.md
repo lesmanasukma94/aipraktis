@@ -239,6 +239,10 @@ Dengan memahami AI, Anda dapat:
 
 Semakin cepat memahami AI, semakin besar peluang untuk memanfaatkan teknologi ini secara maksimal.
 
+Salah satu AI chatbot yang semakin populer adalah [Claude](/blog/claude-untuk-pemula/), yang dikenal memiliki kemampuan analisis dokumen dan penulisan yang sangat baik.
+
+Selain ChatGPT, Claude, dan Gemini, kini tersedia juga [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) yang dapat membantu belajar, coding, membuat konten, dan meningkatkan produktivitas.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)

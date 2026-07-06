@@ -23,6 +23,8 @@ Claude menjadi salah satu chatbot AI paling populer selain ChatGPT. Anthropic me
 
 Pada artikel ini Anda akan mempelajari perbedaan Claude Pro dan Claude Gratis, mulai dari fitur, performa, batas penggunaan, hingga siapa yang paling cocok menggunakan versi berbayar.
 
+Jika Anda masih baru menggunakan Claude, sebaiknya pelajari terlebih dahulu panduan [Claude untuk Pemula](/blog/claude-untuk-pemula/) sebelum memutuskan berlangganan Claude Pro.
+
 ---
 
 ## Apa Itu Claude Gratis?
@@ -210,11 +212,16 @@ Jika AI telah menjadi bagian dari pekerjaan harian Anda, Claude Pro dapat menjad
 
 ## Artikel Terkait
 
-- Claude AI untuk Pemula
-- Cara Menggunakan Claude AI
-- Claude vs ChatGPT
-- ChatGPT Plus vs Gratis
-- Gemini AI untuk Pemula
-- AI Chatbot Terbaik
-- AI untuk Content Creator
-- AI Tools Terbaik
+[ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
+
+[Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
+
+[Alternatif ChatGPT Terbaik](/blog/alternatif-chatgpt-terbaik/)
+
+[Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
+
+[AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+
+[Tools AI untuk Programmer](/blog/tools-ai-untuk-programmer/)
+
+[Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)

@@ -281,6 +281,10 @@ Gemini cocok digunakan oleh:
 
 Karena kemudahan penggunaan dan integrasinya dengan layanan Google, Gemini menjadi salah satu tools AI yang layak dicoba oleh siapa saja.
 
+Ingin mencoba AI chatbot lain? Pelajari juga [Claude untuk Pemula](/blog/claude-untuk-pemula/) agar Anda dapat membandingkan kelebihan masing-masing.
+
+Untuk memperluas wawasan mengenai AI chatbot, pelajari juga [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) dan bandingkan karakteristiknya dengan Gemini AI.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
