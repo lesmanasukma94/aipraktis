@@ -188,6 +188,10 @@ Tersedia juga paket berbayar dengan fitur yang lebih lengkap.
 - Tidak memahami kondisi bisnis secara sempurna
 - Membutuhkan prompt yang baik
 
+Untuk meningkatkan layanan pelanggan UMKM, baca juga artikel [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/) yang membahas template, SOP, tools, dan prompt siap pakai.
+
+Jika UMKM Anda banyak menerima chat pelanggan lewat WhatsApp, baca artikel [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) untuk membuat template balasan, SOP admin, dan follow-up yang lebih rapi.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

@@ -716,6 +716,8 @@ Selain Microsoft Copilot, Anda juga dapat membandingkan dua AI chatbot populer l
 
 Setelah memahami Copilot, baca juga artikel [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) untuk melihat rekomendasi AI chatbot terbaik berdasarkan kebutuhan kerja, bisnis, belajar, dan konten.
 
+Jika Anda menggunakan Microsoft 365 untuk kerja, baca juga artikel [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) untuk membandingkan Copilot dengan tools AI lain yang cocok untuk bisnis.
+
 # Artikel Terkait
 
 Jika Anda ingin mengenal chatbot AI lainnya, baca juga artikel berikut.

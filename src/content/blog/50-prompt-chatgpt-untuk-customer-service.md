@@ -268,6 +268,10 @@ Agar hasil lebih relevan:
 
 Semakin jelas konteks yang diberikan, semakin baik hasil yang diperoleh.
 
+Jika Anda ingin memahami strategi dan tools pendukungnya, lanjutkan ke artikel [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/).
+
+Untuk penerapan khusus di WhatsApp, baca juga artikel [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) agar prompt customer service dapat digunakan dalam alur chat pelanggan yang lebih praktis.
+
 ## Artikel Terkait
 
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)

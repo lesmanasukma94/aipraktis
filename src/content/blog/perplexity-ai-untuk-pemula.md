@@ -212,7 +212,9 @@ Perplexity AI adalah alat AI yang sangat kuat untuk riset dan pencarian informas
 
 Namun, untuk kebutuhan kreatif seperti menulis artikel atau brainstorming ide, AI seperti ChatGPT atau Claude masih lebih unggul.
 
-Jika Anda menggunakan Perplexity untuk riset, baca juga artikel [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) untuk memahami kombinasi AI terbaik antara riset, penulisan, dan produktivitas.
+Jika Anda menggunakan Perplexity untuk riset, baca juga artikel 
+- [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) untuk memahami kombinasi AI terbaik antara riset, penulisan, dan produktivitas.
+- [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) untuk melihat cara menggabungkan riset AI dengan strategi marketing dan operasional.
 
 Setelah memahami dasar-dasar Perplexity AI, baca juga artikel [Perplexity vs ChatGPT](/blog/perplexity-vs-chatgpt/) untuk mengetahui perbedaan keduanya dan menentukan AI yang paling sesuai dengan kebutuhan Anda.
 
