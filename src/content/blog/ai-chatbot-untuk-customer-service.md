@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbot untuk Customer Service: Manfaat, Contoh, Tools, dan Cara Menggunakannya"
 description: "Pelajari cara menggunakan AI chatbot untuk customer service, mulai dari menjawab pelanggan, membuat template balasan, menangani komplain, hingga rekomendasi tools AI terbaik untuk bisnis."
-pubDate: "2026-07-07"
+pubDate: "2026-07-08"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"
 tags:
@@ -988,6 +988,7 @@ Pelajari juga panduan AI chatbot dan bisnis berikut:
 
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/)
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
+- [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 - [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)

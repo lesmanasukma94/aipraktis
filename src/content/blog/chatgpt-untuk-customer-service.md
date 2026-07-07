@@ -243,6 +243,8 @@ Meskipun demikian, AI sebaiknya digunakan sebagai alat bantu, bukan pengganti in
 
 Selain memakai ChatGPT, Anda juga bisa membandingkan berbagai tools lain di artikel [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/).
 
+ChatGPT dapat membantu menyiapkan FAQ dan alur percakapan chatbot. Untuk penerapan di website, baca panduan [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/).
+
 ## Artikel Terkait
 
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)

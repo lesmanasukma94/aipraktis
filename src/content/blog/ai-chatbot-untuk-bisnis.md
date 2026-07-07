@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbot untuk Bisnis: Rekomendasi Tools, Manfaat, dan Cara Menggunakannya"
 description: "Pelajari cara menggunakan AI chatbot untuk bisnis, mulai dari customer service, marketing, sales, operasional, riset, konten, hingga rekomendasi tools seperti ChatGPT, Copilot, Gemini, Claude, Perplexity, Grok, dan DeepSeek."
-pubDate: "2026-07-07"
+pubDate: "2026-07-08"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"
 tags:
@@ -1038,6 +1038,8 @@ Pelajari juga panduan AI chatbot dan AI untuk bisnis berikut:
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 
 Jika bisnis Anda ingin meningkatkan layanan pelanggan, baca juga artikel [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/) untuk memahami manfaat, tools, prompt, dan cara menerapkannya.
+
+Untuk penerapan yang lebih spesifik, baca juga artikel [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/) yang membahas manfaat, tools, flow percakapan, dan cara memasang chatbot di website bisnis.
 
 ---
 

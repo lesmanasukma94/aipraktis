@@ -272,6 +272,8 @@ Jika Anda ingin memahami strategi dan tools pendukungnya, lanjutkan ke artikel [
 
 Untuk penerapan khusus di WhatsApp, baca juga artikel [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) agar prompt customer service dapat digunakan dalam alur chat pelanggan yang lebih praktis.
 
+Setelah membuat prompt customer service, Anda dapat mengembangkannya menjadi chatbot website. Baca panduan [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/) untuk langkah penerapannya.
+
 ## Artikel Terkait
 
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
