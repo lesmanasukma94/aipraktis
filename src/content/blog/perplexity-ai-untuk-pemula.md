@@ -240,6 +240,7 @@ Untuk mendapatkan perspektif yang lebih luas mengenai AI chatbot, baca juga
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/)
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
+- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 
 dan bandingkan kelebihan masing-masing platform.
 

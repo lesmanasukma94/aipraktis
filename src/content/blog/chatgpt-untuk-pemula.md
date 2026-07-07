@@ -279,11 +279,13 @@ Kunci utama untuk mendapatkan hasil terbaik adalah memberikan prompt yang jelas,
 
 Jika Anda baru mulai mengenal dunia AI, ChatGPT adalah salah satu tempat terbaik untuk memulai perjalanan tersebut.
 
-Selain ChatGPT, Anda juga dapat mencoba [Claude untuk Pemula](/blog/claude-untuk-pemula/) sebagai alternatif AI chatbot yang unggul dalam memahami dokumen panjang dan menghasilkan tulisan yang natural.
+Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga dapat mencoba
 
-Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga dapat mencoba 
+- [Claude untuk Pemula](/blog/claude-untuk-pemula/) sebagai alternatif AI chatbot yang unggul dalam memahami dokumen panjang dan menghasilkan tulisan yang natural.
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/) untuk mengenal alternatif chatbot AI dengan gaya percakapan yang natural.
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) untuk memahami fitur dan cara menggunakannya.
+
+Jika Anda menggunakan produk Microsoft setiap hari, baca juga panduan [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/) untuk mengenal chatbot AI yang terintegrasi dengan Microsoft 365.
 
 ## FAQ
 

@@ -708,6 +708,7 @@ Jika Anda ingin mempelajari AI chatbot lainnya, baca juga artikel berikut:
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/)
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/) untuk memahami karakteristik dan fitur utamanya.
+- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
 - [Claude Pro vs Gratis](/blog/claude-pro-vs-gratis/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)

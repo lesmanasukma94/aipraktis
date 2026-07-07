@@ -607,6 +607,7 @@ Jika Anda ingin membandingkan Grok dengan chatbot AI lainnya, baca juga artikel 
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/)
 - [Perplexity AI untuk Pemula](/blog/perplexity-ai-untuk-pemula/)
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
+- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [ChatGPT Plus vs Gratis](/blog/chatgpt-plus-vs-gratis/)
 - [Claude Pro vs Gratis](/blog/claude-pro-vs-gratis/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
