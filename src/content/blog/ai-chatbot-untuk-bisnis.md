@@ -1041,6 +1041,8 @@ Jika bisnis Anda ingin meningkatkan layanan pelanggan, baca juga artikel [AI Cha
 
 Untuk penerapan yang lebih spesifik, baca juga artikel [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/) yang membahas manfaat, tools, flow percakapan, dan cara memasang chatbot di website bisnis.
 
+Untuk contoh penerapan yang lebih spesifik, baca panduan [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) agar Anda dapat melihat bagaimana AI chatbot membantu operasional ecommerce.
+
 ---
 
 # Jelajahi Panduan AI Lainnya

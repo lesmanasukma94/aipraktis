@@ -989,6 +989,7 @@ Pelajari juga panduan AI chatbot dan bisnis berikut:
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/)
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
 - [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/)
+- [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 - [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)

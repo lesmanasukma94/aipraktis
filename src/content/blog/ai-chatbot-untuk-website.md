@@ -766,6 +766,7 @@ Pelajari juga panduan berikut:
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/)
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/)
+- [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 - [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)

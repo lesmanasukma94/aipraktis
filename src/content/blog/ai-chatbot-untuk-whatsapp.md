@@ -1181,6 +1181,7 @@ Ya. AI chatbot dapat membantu membuat follow-up, menjawab pertanyaan produk, mer
 Pelajari juga panduan AI chatbot dan bisnis berikut:
 
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
+- [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/)
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
 - [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/)

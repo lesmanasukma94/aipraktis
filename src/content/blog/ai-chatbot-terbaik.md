@@ -886,6 +886,7 @@ Untuk penggunaan yang lebih spesifik, baca artikel:
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) yang membahas manfaat, tools, dan contoh penggunaan AI chatbot untuk berbagai kebutuhan usaha.
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/) yang membahas rekomendasi AI chatbot untuk layanan pelanggan, komplain, FAQ, dan support bisnis.
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) untuk penggunaan yang lebih spesifik pada channel WhatsApp Business.
+- [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) untuk mengetahui fitur chatbot yang paling relevan bagi toko online.
 
 Pelajari juga panduan AI chatbot lainnya:
 
