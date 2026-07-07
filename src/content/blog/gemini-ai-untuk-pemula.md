@@ -287,6 +287,7 @@ Ingin mencoba AI chatbot lain? Pelajari juga
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) dan bandingkan karakteristiknya dengan Gemini AI.
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/) sebagai alternatif chatbot AI untuk belajar, bekerja, dan membuat konten.
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
+- [Claude vs Gemini](/blog/claude-vs-gemini/)
 
 ## Jelajahi Panduan AI Lainnya
 

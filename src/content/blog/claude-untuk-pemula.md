@@ -716,6 +716,10 @@ Jika Anda ingin mempelajari AI chatbot lainnya, baca juga artikel berikut:
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
 
+Masih bingung memilih AI chatbot? Baca perbandingan lengkap pada artikel [Claude vs ChatGPT](/blog/claude-vs-chatgpt/) untuk mengetahui kelebihan dan kekurangan masing-masing.
+
+Jika Anda ingin mengetahui bagaimana Claude dibandingkan dengan AI dari Google, baca artikel [Claude vs Gemini](/blog/claude-vs-gemini/) untuk melihat perbandingan lengkapnya.
+
 ---
 
 ## Mulai Belajar AI Bersama AI Praktis Indonesia
