@@ -284,6 +284,7 @@ Selain mempelajari ChatGPT, Anda juga dapat membaca artikel
 - [DeepSeek vs ChatGPT](/blog/deepseek-vs-chatgpt/) untuk melihat perbandingan lengkapnya.
 - [Perplexity vs ChatGPT](/blog/perplexity-vs-chatgpt/) untuk mengetahui kapan sebaiknya menggunakan AI chatbot dan kapan lebih efektif menggunakan AI Search Engine.
 - [Microsoft Copilot vs ChatGPT](/blog/microsoft-copilot-vs-chatgpt/) untuk melihat perbedaan fitur, integrasi, dan rekomendasi penggunaannya.
+- [Grok vs ChatGPT](/blog/grok-vs-chatgpt/)
 
 Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga dapat mencoba
 

@@ -715,6 +715,7 @@ Pelajari juga berbagai AI chatbot lainnya melalui artikel berikut.
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [Microsoft Copilot vs ChatGPT](/blog/microsoft-copilot-vs-chatgpt/)
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/)
+- [Grok vs ChatGPT](/blog/grok-vs-chatgpt/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)

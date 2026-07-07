@@ -720,6 +720,7 @@ Pelajari juga panduan AI chatbot lainnya:
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/)
+- [Grok vs ChatGPT](/blog/grok-vs-chatgpt/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)

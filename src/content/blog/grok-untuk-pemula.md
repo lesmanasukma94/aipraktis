@@ -598,6 +598,8 @@ Ya. Grok dapat memahami dan menghasilkan jawaban dalam Bahasa Indonesia sehingga
 
 ---
 
+Setelah memahami dasar-dasar Grok, baca juga artikel [Grok vs ChatGPT](/blog/grok-vs-chatgpt/) untuk mengetahui perbedaan keduanya dari sisi fitur, pencarian real-time, kemampuan menulis, coding, dan rekomendasi penggunaannya.
+
 # Artikel Terkait
 
 Jika Anda ingin membandingkan Grok dengan chatbot AI lainnya, baca juga artikel berikut.
