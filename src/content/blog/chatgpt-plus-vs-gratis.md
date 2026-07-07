@@ -231,7 +231,10 @@ ChatGPT Gratis merupakan pilihan yang sangat baik bagi pemula dan pengguna denga
 
 Jika AI telah menjadi bagian penting dari pekerjaan Anda, ChatGPT Plus dapat menjadi investasi yang membantu meningkatkan produktivitas dan efisiensi kerja.
 
-Jika Anda sedang mempertimbangkan berlangganan ChatGPT, baca juga artikel [Claude vs ChatGPT](/blog/claude-vs-chatgpt/) untuk melihat perbandingannya dengan salah satu kompetitor utama.
+Jika Anda sedang mempertimbangkan berlangganan ChatGPT, baca juga artikel 
+- [Claude vs ChatGPT](/blog/claude-vs-chatgpt/) untuk melihat perbandingannya dengan salah satu kompetitor utama.
+- [Perplexity vs ChatGPT](/blog/perplexity-vs-chatgpt/) untuk membandingkannya dengan salah satu AI pencarian paling populer saat ini.
+- [Microsoft Copilot vs ChatGPT](/blog/microsoft-copilot-vs-chatgpt/) untuk membandingkannya dengan Copilot Pro dan ekosistem Microsoft 365.
 
 ---
 

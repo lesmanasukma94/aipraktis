@@ -708,6 +708,8 @@ Ya. Mahasiswa dapat memanfaatkan Copilot untuk membuat outline tugas, merangkum 
 
 Bisa. Copilot dapat menjelaskan kode, membantu memahami konsep pemrograman, memberikan contoh sintaks, dan membantu proses debugging sederhana.
 
+Setelah memahami dasar-dasar Copilot, baca juga artikel [Microsoft Copilot vs ChatGPT](/blog/microsoft-copilot-vs-chatgpt/) untuk mengetahui perbedaan keduanya dan memilih AI yang paling sesuai dengan kebutuhan kerja Anda.
+
 Selain Microsoft Copilot, Anda juga dapat membandingkan dua AI chatbot populer lainnya melalui artikel [Claude vs ChatGPT](/blog/claude-vs-chatgpt/).
 
 ---

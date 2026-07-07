@@ -704,6 +704,8 @@ Untuk memahami AI chatbot lainnya, baca juga artikel berikut:
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)
 - [Claude vs ChatGPT](/blog/claude-vs-chatgpt/)
 - [Claude vs Gemini](/blog/claude-vs-gemini/)
+- [Perplexity vs ChatGPT](/blog/perplexity-vs-chatgpt/)
+- [Microsoft Copilot vs ChatGPT](/blog/microsoft-copilot-vs-chatgpt/)
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 - [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
 - [Perplexity AI untuk Pemula](/blog/perplexity-ai-untuk-pemula/)

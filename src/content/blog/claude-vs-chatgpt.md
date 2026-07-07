@@ -744,7 +744,9 @@ Baik Claude maupun ChatGPT memiliki kemampuan coding yang sangat baik. Pilihan t
 
 Tidak harus. Namun, banyak profesional menggunakan Claude dan ChatGPT secara bersamaan agar dapat memanfaatkan keunggulan masing-masing.
 
-Selain membandingkan Claude dengan ChatGPT, Anda juga dapat membaca artikel [Claude vs Gemini](/blog/claude-vs-gemini/) untuk melihat perbedaannya dengan AI chatbot dari Google.
+Selain membandingkan Claude dengan ChatGPT, Anda juga dapat membaca artikel 
+- [Claude vs Gemini](/blog/claude-vs-gemini/) untuk melihat perbedaannya dengan AI chatbot dari Google.
+- [Perplexity vs ChatGPT](/blog/perplexity-vs-chatgpt/) untuk memahami perbedaan AI chatbot dan AI pencarian berbasis LLM.
 
 ---
 
