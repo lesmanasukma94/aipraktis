@@ -221,6 +221,8 @@ Gunakan AI untuk:
 * Membuat caption
 * Membuat deskripsi produk
 
+Chatbot AI seperti [Grok untuk Pemula](/blog/grok-untuk-pemula/) dapat dimanfaatkan untuk menyusun email, proposal, ide pemasaran, dan berbagai kebutuhan operasional bisnis.
+
 ### Pelajari Prompt yang Baik
 
 Semakin jelas instruksi yang diberikan, semakin baik hasil yang diperoleh.

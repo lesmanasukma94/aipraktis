@@ -281,7 +281,9 @@ Jika Anda baru mulai mengenal dunia AI, ChatGPT adalah salah satu tempat terbaik
 
 Selain ChatGPT, Anda juga dapat mencoba [Claude untuk Pemula](/blog/claude-untuk-pemula/) sebagai alternatif AI chatbot yang unggul dalam memahami dokumen panjang dan menghasilkan tulisan yang natural.
 
-Jika Anda ingin mencoba alternatif chatbot AI lainnya, baca juga panduan [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) untuk memahami fitur dan cara menggunakannya.
+Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga dapat mencoba 
+- [Grok untuk Pemula](/blog/grok-untuk-pemula/) untuk mengenal alternatif chatbot AI dengan gaya percakapan yang natural.
+- [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) untuk memahami fitur dan cara menggunakannya.
 
 ## FAQ
 
