@@ -867,6 +867,8 @@ Langkah pertama adalah mengumpulkan pertanyaan pelanggan yang paling sering munc
 
 ---
 
+Selain membantu penjualan toko online, chatbot juga dapat digunakan untuk menangkap prospek. Baca panduan [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) untuk strategi lengkapnya.
+
 # Kesimpulan
 
 AI chatbot untuk toko online dapat menjadi aset penting bagi bisnis ecommerce.

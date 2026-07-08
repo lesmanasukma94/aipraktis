@@ -194,6 +194,8 @@ Jika UMKM Anda banyak menerima chat pelanggan lewat WhatsApp, baca artikel [AI C
 
 UMKM yang menjalankan toko online juga dapat memanfaatkan chatbot untuk menjawab pelanggan lebih cepat. Pelajari panduan [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) untuk strategi lengkapnya.
 
+UMKM yang ingin mendapatkan calon pelanggan dari website, WhatsApp, atau media sosial dapat membaca [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) untuk membuat flow dan follow-up yang lebih rapi.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

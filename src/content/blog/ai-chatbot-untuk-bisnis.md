@@ -1043,6 +1043,8 @@ Untuk penerapan yang lebih spesifik, baca juga artikel [AI Chatbot untuk Website
 
 Untuk contoh penerapan yang lebih spesifik, baca panduan [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) agar Anda dapat melihat bagaimana AI chatbot membantu operasional ecommerce.
 
+Untuk bisnis yang ingin mengubah traffic menjadi calon pelanggan, pelajari artikel [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) agar chatbot tidak hanya menjawab pertanyaan, tetapi juga membantu menghasilkan prospek.
+
 ---
 
 # Jelajahi Panduan AI Lainnya
