@@ -815,6 +815,8 @@ Jangan membuat pelanggan terjebak dalam jawaban otomatis yang berulang.
 
 ---
 
+Selain membantu menjawab pertanyaan produk, chatbot juga dapat digunakan untuk mendorong penjualan. Pelajari panduan [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/) untuk strategi follow-up dan closing yang lebih terstruktur.
+
 # Checklist AI Chatbot untuk Toko Online
 
 Gunakan checklist ini sebelum meluncurkan chatbot.

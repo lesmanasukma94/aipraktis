@@ -843,6 +843,10 @@ CTA yang cocok:
 
 ---
 
+Setelah lead berhasil dikumpulkan, langkah berikutnya adalah mengubah prospek menjadi pelanggan. Pelajari strategi lengkapnya di artikel [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/).
+
+Jika Anda ingin menggunakan chatbot dalam strategi pemasaran yang lebih luas, lanjutkan ke artikel [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/) untuk memahami peran chatbot di funnel digital marketing.
+
 # FAQ
 
 ## Apa itu AI chatbot untuk lead generation?

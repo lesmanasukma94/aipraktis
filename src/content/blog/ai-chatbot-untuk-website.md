@@ -768,6 +768,8 @@ Pelajari juga panduan berikut:
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/)
 - [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)
+- [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
+- [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 - [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)

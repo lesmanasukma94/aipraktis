@@ -1045,6 +1045,10 @@ Untuk contoh penerapan yang lebih spesifik, baca panduan [AI Chatbot untuk Toko 
 
 Untuk bisnis yang ingin mengubah traffic menjadi calon pelanggan, pelajari artikel [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) agar chatbot tidak hanya menjawab pertanyaan, tetapi juga membantu menghasilkan prospek.
 
+Untuk penerapan yang lebih dekat dengan penjualan, baca juga artikel [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/) yang membahas kualifikasi lead, follow-up, objection handling, dan closing.
+
+Untuk penerapan yang lebih spesifik di pemasaran, baca juga artikel [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/) yang membahas campaign, lead generation, social media, WhatsApp, website, dan funnel marketing.
+
 ---
 
 # Jelajahi Panduan AI Lainnya

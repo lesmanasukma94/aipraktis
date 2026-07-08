@@ -888,6 +888,7 @@ Untuk penggunaan yang lebih spesifik, baca artikel:
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) untuk penggunaan yang lebih spesifik pada channel WhatsApp Business.
 - [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) untuk mengetahui fitur chatbot yang paling relevan bagi toko online.
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) agar chatbot dapat digunakan untuk menangkap dan mengkualifikasi calon pelanggan.
+- [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/).
 
 Pelajari juga panduan AI chatbot lainnya:
 

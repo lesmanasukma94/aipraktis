@@ -225,6 +225,8 @@ Sales yang mampu memanfaatkan AI biasanya akan:
 
 Karena itu, kemampuan menggunakan AI mulai menjadi keterampilan yang penting bagi profesional sales.
 
+Jika Anda ingin melihat penggunaan AI chatbot yang lebih luas untuk proses penjualan, baca juga artikel [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/).
+
 ## Kesimpulan
 
 ChatGPT merupakan alat yang sangat membantu bagi tim sales modern. Dengan bantuan AI, proses prospecting, komunikasi pelanggan, follow up, dan penyusunan strategi penjualan dapat dilakukan dengan lebih efisien.
