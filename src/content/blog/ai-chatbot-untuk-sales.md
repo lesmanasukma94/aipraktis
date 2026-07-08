@@ -1063,6 +1063,7 @@ Pelajari juga panduan berikut:
 - [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
 - [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/)
+- [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/)
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)

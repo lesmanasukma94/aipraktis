@@ -110,6 +110,7 @@ Baca juga:
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/)
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
+- [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/)
 
 ---
 

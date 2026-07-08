@@ -847,6 +847,8 @@ Setelah lead berhasil dikumpulkan, langkah berikutnya adalah mengubah prospek me
 
 Jika Anda ingin menggunakan chatbot dalam strategi pemasaran yang lebih luas, lanjutkan ke artikel [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/) untuk memahami peran chatbot di funnel digital marketing.
 
+Untuk menangkap lead dari media sosial, pelajari juga panduan [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/) agar komentar dan DM dapat diarahkan menjadi prospek yang siap di-follow-up.
+
 # FAQ
 
 ## Apa itu AI chatbot untuk lead generation?

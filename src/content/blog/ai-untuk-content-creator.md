@@ -127,6 +127,8 @@ AI membantu membuat:
 - Hook video
 - Call to action
 
+Content creator yang ingin mengubah followers menjadi database audiens dapat membaca panduan [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/) untuk membuat automation DM, lead magnet, dan distribusi produk digital.
+
 Dengan demikian creator dapat lebih konsisten dalam membuat konten.
 
 ## Tools AI yang Populer untuk Content Creator
