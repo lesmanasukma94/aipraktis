@@ -873,6 +873,8 @@ Selain membantu penjualan toko online, chatbot juga dapat digunakan untuk menang
 
 Jika toko online Anda aktif di Instagram, baca juga [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/) untuk mengelola DM, komentar, katalog, promo, dan follow-up pelanggan.
 
+Toko online yang aktif di TikTok dapat membaca [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk memahami strategi komentar keyword, katalog, TikTok Shop, dan follow-up pelanggan.
+
 # Kesimpulan
 
 AI chatbot untuk toko online dapat menjadi aset penting bagi bisnis ecommerce.

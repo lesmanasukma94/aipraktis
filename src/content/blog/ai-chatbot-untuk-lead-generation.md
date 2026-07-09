@@ -849,6 +849,8 @@ Jika Anda ingin menggunakan chatbot dalam strategi pemasaran yang lebih luas, la
 
 Untuk menangkap lead dari media sosial, pelajari juga panduan [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/) agar komentar dan DM dapat diarahkan menjadi prospek yang siap di-follow-up.
 
+TikTok dapat menjadi sumber lead yang kuat jika memiliki funnel yang jelas. Baca panduan [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk membuat flow komentar, DM, lead capture, dan follow-up.
+
 # FAQ
 
 ## Apa itu AI chatbot untuk lead generation?

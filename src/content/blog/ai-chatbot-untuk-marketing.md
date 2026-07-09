@@ -1026,6 +1026,8 @@ Gunakan chatbot untuk:
 - membagikan bonus,
 - menjalankan campaign komentar kata kunci.
 
+Untuk strategi marketing berbasis video pendek, pelajari juga artikel [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) agar konten TikTok dapat diarahkan menjadi percakapan, lead, dan peluang penjualan.
+
 ---
 
 # FAQ

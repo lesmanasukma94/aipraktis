@@ -21,6 +21,8 @@ draft: false
 
 AI chatbot untuk Instagram dapat membantu bisnis dan content creator membalas DM lebih cepat, menjawab komentar, mengirim link otomatis, menangkap lead, menjalankan campaign, mengirim katalog, melakukan follow-up, dan mengarahkan calon pelanggan ke WhatsApp, website, atau halaman checkout. Artikel ini membahas manfaat, contoh penggunaan, rekomendasi tools, strategi penerapan, prompt siap pakai, kesalahan yang harus dihindari, dan cara menggunakan AI chatbot Instagram secara aman dan efektif.
 
+Jika Anda juga menggunakan TikTok sebagai channel konten dan penjualan, baca panduan [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk memahami cara mengubah views, komentar, dan DM menjadi lead atau sales.
+
 # AI Chatbot untuk Instagram
 
 Instagram bukan hanya platform untuk upload foto dan video.
