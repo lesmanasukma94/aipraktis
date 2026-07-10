@@ -1,28 +1,36 @@
 ---
+export interface Props {
+  articleCount: number;
+  categoryCount: number;
+}
+
+const {
+  articleCount,
+  categoryCount,
+} = Astro.props;
+
+const numberFormat = new Intl.NumberFormat("id-ID");
 
 const stats = [
   {
-    value: "100+",
-    label: "Artikel AI"
+    value: numberFormat.format(articleCount),
+    label: "Artikel AI",
   },
   {
-    value: "50+",
-    label: "AI Tools"
+    value: numberFormat.format(categoryCount),
+    label: "Kategori",
   },
   {
-    value: "10",
-    label: "Kategori"
-  }
+    value: "100%",
+    label: "Bahasa Indonesia",
+  },
 ];
-
 ---
 
 <section class="hero">
-
   <div class="container">
-
     <span class="badge">
-      🇮🇩 AI Praktis Indonesia
+      AI Praktis Indonesia
     </span>
 
     <h1>
@@ -36,224 +44,140 @@ const stats = [
     </p>
 
     <div class="buttons">
-
       <a
-        href="/belajar-ai"
+        href="/belajar-ai/"
         class="btn btn-primary"
       >
         Mulai Belajar AI
       </a>
 
       <a
-        href="/ai-tools"
+        href="/ai-tools/"
         class="btn btn-secondary"
       >
         Jelajahi AI Tools
       </a>
-
     </div>
 
     <div class="stats">
-
       {
         stats.map((item) => (
-
           <div class="stat">
-
             <strong>{item.value}</strong>
-
             <span>{item.label}</span>
-
           </div>
-
         ))
       }
-
     </div>
-
   </div>
-
 </section>
 
 <style>
-
-.hero{
-
-padding:90px 20px;
-
-background:
-linear-gradient(
-180deg,
-#f8fbff,
-#ffffff
-);
-
-}
-
-.container{
-
-max-width:1100px;
-
-margin:auto;
-
-text-align:center;
-
-}
-
-.badge{
-
-display:inline-block;
-
-padding:8px 14px;
-
-border-radius:999px;
-
-background:#eef6ff;
-
-color:#2563eb;
-
-font-size:.85rem;
-
-font-weight:600;
-
-margin-bottom:20px;
-
-}
-
-h1{
-
-font-size:clamp(2.3rem,5vw,4rem);
-
-line-height:1.15;
-
-font-weight:800;
-
-margin-bottom:24px;
-
-}
-
-.subtitle{
-
-max-width:760px;
-
-margin:auto;
-
-font-size:1.15rem;
-
-color:#555;
-
-line-height:1.8;
-
-}
-
-.buttons{
-
-margin-top:36px;
-
-display:flex;
-
-justify-content:center;
-
-gap:16px;
-
-flex-wrap:wrap;
-
-}
-
-.btn{
-
-padding:14px 26px;
-
-border-radius:10px;
-
-text-decoration:none;
-
-font-weight:700;
-
-transition:.2s;
-
-}
-
-.btn-primary{
-
-background:#2563eb;
-
-color:white;
-
-}
-
-.btn-primary:hover{
-
-background:#1d4ed8;
-
-}
-
-.btn-secondary{
-
-background:white;
-
-border:1px solid #dcdcdc;
-
-color:#222;
-
-}
-
-.btn-secondary:hover{
-
-border-color:#2563eb;
-
-color:#2563eb;
-
-}
-
-.stats{
-
-margin-top:60px;
-
-display:grid;
-
-grid-template-columns:repeat(3,1fr);
-
-gap:24px;
-
-}
-
-.stat{
-
-padding:22px;
-
-border:1px solid #ececec;
-
-border-radius:14px;
-
-background:white;
-
-}
-
-.stat strong{
-
-display:block;
-
-font-size:2rem;
-
-margin-bottom:8px;
-
-}
-
-.stat span{
-
-color:#666;
-
-}
-
-@media(max-width:768px){
-
-.stats{
-
-grid-template-columns:1fr;
-
-}
-
-}
-
+  .hero {
+    padding: 90px 20px;
+    background:
+      linear-gradient(
+        180deg,
+        #f8fbff,
+        #ffffff
+      );
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: 8px 14px;
+    border-radius: 999px;
+    background: #eef6ff;
+    color: #2563eb;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  h1 {
+    font-size: clamp(2.3rem, 5vw, 4rem);
+    line-height: 1.15;
+    font-weight: 800;
+    margin-bottom: 24px;
+  }
+
+  .subtitle {
+    max-width: 760px;
+    margin: auto;
+    font-size: 1.15rem;
+    color: #555;
+    line-height: 1.8;
+  }
+
+  .buttons {
+    margin-top: 36px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .btn {
+    padding: 14px 26px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 700;
+    transition: 0.2s;
+  }
+
+  .btn-primary {
+    background: #2563eb;
+    color: white;
+  }
+
+  .btn-primary:hover {
+    background: #1d4ed8;
+  }
+
+  .btn-secondary {
+    background: white;
+    border: 1px solid #dcdcdc;
+    color: #222;
+  }
+
+  .btn-secondary:hover {
+    border-color: #2563eb;
+    color: #2563eb;
+  }
+
+  .stats {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .stat {
+    padding: 22px;
+    border: 1px solid #ececec;
+    border-radius: 14px;
+    background: white;
+  }
+
+  .stat strong {
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 8px;
+  }
+
+  .stat span {
+    color: #666;
+  }
+
+  @media (max-width: 768px) {
+    .stats {
+      grid-template-columns: 1fr;
+    }
+  }
 </style>

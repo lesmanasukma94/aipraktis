@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
 import BlogLayout from "../../layouts/BlogLayout.astro";
-import RelatedLinks from "@/components/blog/RelatedLinks.astro";
 import BackToCategory from "@/components/blog/BackToCategory.astro";
 import CategoryHubCard from "@/components/blog/CategoryHubCard.astro";
 import TopicClusterBox from "@/components/blog/TopicClusterBox.astro";
@@ -27,7 +26,10 @@ import {
 } from "@/lib/recommendation-engine";
 
 export async function getStaticPaths() {
-  const posts = await getCollection("blog");
+  const posts = await getCollection(
+    "blog",
+    ({ data }) => !data.draft
+  );
 
   return posts.map((post) => ({
     params: {
@@ -41,77 +43,112 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const allPosts = await getCollection("blog");
 
-const relatedPosts =
-  getRecommendedArticles(
-    allPosts,
-    post
-  );
+const allPosts = await getCollection(
+  "blog",
+  ({ data }) => !data.draft
+);
 
-const currentCluster =
-  getCluster(
-    post.data.category,
-    post.id
-  );
+const calculateReadingTime = (
+  markdown: string,
+  wordsPerMinute = 200
+): number => {
+  const readableText = markdown
+    // Hilangkan penanda pembuka dan penutup code fence,
+    // tetapi pertahankan isi prompt agar ikut dihitung.
+    .replace(/```[\w-]*\r?\n?/g, " ")
 
-const clusterPosts =
-  getClusterPosts(
-    allPosts,
-    currentCluster,
-    post.id
-  );
+    // Ubah gambar dan tautan Markdown menjadi anchor text.
+    .replace(/!\[([^\]]*)\]\([^)]+\)/g, "$1")
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
 
-const currentLearningPath =
-  getLearningPath(
-    post.data.category,
-    post.id
-  );
+    // Hilangkan tag HTML dan simbol pemformatan Markdown.
+    .replace(/<[^>]+>/g, " ")
+    .replace(/[`#>*_~|]/g, " ")
 
-const previousStep =
-  getPreviousStep(
-    currentLearningPath,
-    post.id
-  );
+    // Normalisasi spasi.
+    .replace(/\s+/g, " ")
+    .trim();
 
-const nextStep =
-  getNextStep(
-    currentLearningPath,
-    post.id
+  const wordCount = readableText
+    ? readableText.split(/\s+/u).length
+    : 0;
+
+  return Math.max(
+    1,
+    Math.ceil(wordCount / wordsPerMinute)
   );
+};
+
+const readingTime = calculateReadingTime(
+  post.body ?? ""
+);
+
+const relatedPosts = getRecommendedArticles(
+  allPosts,
+  post
+);
+
+const currentCluster = getCluster(
+  post.data.category,
+  post.id
+);
+
+const clusterPosts = getClusterPosts(
+  allPosts,
+  currentCluster,
+  post.id
+);
+
+const currentLearningPath = getLearningPath(
+  post.data.category,
+  post.id
+);
+
+const previousStep = getPreviousStep(
+  currentLearningPath,
+  post.id
+);
+
+const nextStep = getNextStep(
+  currentLearningPath,
+  post.id
+);
 
 const articleUrl =
   `https://www.aipraktis.co.id/blog/${post.id}/`;
 
-const articleSchema =
-  buildArticleSchema(
-    post,
-    articleUrl
-  );
+const articleSchema = buildArticleSchema(
+  post,
+  articleUrl
+);
 
-const breadcrumbSchema =
-  buildBreadcrumbSchema([
-    {
-      name: "Home",
-      url: "https://www.aipraktis.co.id/",
-    },
-    {
-      name: "Blog",
-      url: "https://www.aipraktis.co.id/blog/",
-    },
-    {
-      name: post.data.title,
-      url: articleUrl,
-    },
-  ]);
-
+const breadcrumbSchema = buildBreadcrumbSchema([
+  {
+    name: "Home",
+    url: "https://www.aipraktis.co.id/",
+  },
+  {
+    name: "Blog",
+    url: "https://www.aipraktis.co.id/blog/",
+  },
+  {
+    name: post.data.title,
+    url: articleUrl,
+  },
+]);
 ---
 
 <BlogLayout
   title={post.data.title}
   description={post.data.description}
+  pubDate={post.data.pubDate}
+  updatedDate={post.data.updatedDate}
+  category={post.data.category}
+  tags={post.data.tags}
+  author={post.data.author}
+  readingTime={readingTime}
 >
-
   <script
     slot="head"
     type="application/ld+json"
@@ -124,69 +161,61 @@ const breadcrumbSchema =
     set:html={JSON.stringify(breadcrumbSchema)}
   />
 
-<Content />
+  <Content />
 
-<BackToCategory
-  slug={post.data.category}
-/>
+  <BackToCategory
+    slug={post.data.category}
+  />
 
-<CategoryHubCard
-  slug={post.data.category}
-/>
+  <CategoryHubCard
+    slug={post.data.category}
+  />
 
-<LearningPathBox
-  title={currentLearningPath?.title ?? ""}
-  description={currentLearningPath?.description ?? ""}
-  steps={currentLearningPath?.steps ?? []}
-  currentSlug={post.id}
-/>
+  <LearningPathBox
+    title={currentLearningPath?.title ?? ""}
+    description={currentLearningPath?.description ?? ""}
+    steps={currentLearningPath?.steps ?? []}
+    currentSlug={post.id}
+  />
 
-<LearningPathNavigation
-  previous={previousStep}
-  next={nextStep}
-/>
+  <LearningPathNavigation
+    previous={previousStep}
+    next={nextStep}
+  />
 
-<SeriesProgress
-  steps={currentLearningPath?.steps ?? []}
-  currentSlug={post.id}
-/>
+  <SeriesProgress
+    steps={currentLearningPath?.steps ?? []}
+    currentSlug={post.id}
+  />
 
-<TopicClusterBox
-  title={currentCluster?.title ?? ""}
-  description={currentCluster?.description ?? ""}
-  links={
-    clusterPosts.map((item) => ({
-      title: item!.data.title,
-      url: `/blog/${item!.id}/`
-    }))
-  }
-/>
-
-<section class="related-posts">
-
-  <h2>Artikel Terkait</h2>
-
-  <ul>
-    {
-      relatedPosts.map((related) => (
-        <li>
-          <a href={`/blog/${related.id}/`}>
-            {related.data.title}
-          </a>
-        </li>
-      ))
+  <TopicClusterBox
+    title={currentCluster?.title ?? ""}
+    description={currentCluster?.description ?? ""}
+    links={
+      clusterPosts.map((item) => ({
+        title: item!.data.title,
+        url: `/blog/${item!.id}/`,
+      }))
     }
-  </ul>
+  />
 
-</section>
+  {
+    relatedPosts.length > 0 && (
+      <section class="related-posts">
+        <h2>Artikel Terkait</h2>
 
-<RelatedLinks
-  links={
-    clusterPosts.map((item) => ({
-      title: item!.data.title,
-      url: `/blog/${item!.id}/`
-    }))
+        <ul>
+          {
+            relatedPosts.map((related) => (
+              <li>
+                <a href={`/blog/${related.id}/`}>
+                  {related.data.title}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </section>
+    )
   }
-/>
-
 </BlogLayout>

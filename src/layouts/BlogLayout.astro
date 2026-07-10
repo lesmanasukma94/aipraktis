@@ -21,7 +21,7 @@ const {
   category,
   tags = [],
   author = "AI Praktis Indonesia",
-  readingTime = 5,
+  readingTime,
 } = Astro.props;
 ---
 
@@ -34,7 +34,6 @@ const {
   </Fragment>
 
   <article class="article-shell">
-
     <BlogHero
       title={title}
       description={description}
@@ -49,6 +48,5 @@ const {
     <div class="article-content">
       <slot />
     </div>
-
   </article>
 </BaseLayout>
