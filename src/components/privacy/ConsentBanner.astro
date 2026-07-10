@@ -1,0 +1,366 @@
+<div
+  class="consent-banner"
+  data-consent-banner
+  role="dialog"
+  aria-labelledby="consent-title"
+  aria-describedby="consent-description"
+  hidden
+>
+  <div class="consent-banner__content">
+
+    <div class="consent-banner__text">
+      <h2 id="consent-title">
+        Pengaturan privasi
+      </h2>
+
+      <p id="consent-description">
+        Kami menggunakan Google Analytics dan Microsoft Clarity untuk
+        memahami penggunaan website dan meningkatkan pengalaman pembaca.
+        Anda dapat menerima atau menolak penyimpanan analitik.
+      </p>
+
+      <p class="consent-banner__links">
+        Baca
+        <a href="/privacy-policy/">
+          Kebijakan Privasi
+        </a>
+        dan
+        <a href="/cookie-policy/">
+          Kebijakan Cookie
+        </a>.
+      </p>
+    </div>
+
+    <div class="consent-banner__actions">
+
+      <button
+        type="button"
+        class="consent-button consent-button--secondary"
+        data-consent-reject
+      >
+        Tolak analitik
+      </button>
+
+      <button
+        type="button"
+        class="consent-button consent-button--primary"
+        data-consent-accept
+      >
+        Terima analitik
+      </button>
+
+    </div>
+
+  </div>
+</div>
+
+<button
+  type="button"
+  class="privacy-settings-button"
+  data-consent-settings
+  aria-label="Buka pengaturan privasi"
+  hidden
+>
+  Privasi
+</button>
+
+<script is:inline>
+  (function () {
+    const STORAGE_KEY = "aipraktis-consent-v1";
+
+    const banner =
+      document.querySelector("[data-consent-banner]");
+
+    const acceptButton =
+      document.querySelector("[data-consent-accept]");
+
+    const rejectButton =
+      document.querySelector("[data-consent-reject]");
+
+    const settingsButton =
+      document.querySelector("[data-consent-settings]");
+
+    if (
+      !banner ||
+      !acceptButton ||
+      !rejectButton ||
+      !settingsButton
+    ) {
+      return;
+    }
+
+    function readConsent() {
+      try {
+        return window.localStorage.getItem(STORAGE_KEY);
+      } catch (error) {
+        return null;
+      }
+    }
+
+    function saveConsent(value) {
+      try {
+        window.localStorage.setItem(
+          STORAGE_KEY,
+          value
+        );
+      } catch (error) {
+        console.warn(
+          "Pilihan privasi tidak dapat disimpan.",
+          error
+        );
+      }
+    }
+
+    function updateGoogleConsent(value) {
+      const analyticsGranted =
+        value === "granted";
+
+      if (typeof window.gtag === "function") {
+        window.gtag("consent", "update", {
+          analytics_storage:
+            analyticsGranted
+              ? "granted"
+              : "denied",
+
+          ad_storage: "denied",
+          ad_user_data: "denied",
+          ad_personalization: "denied",
+        });
+      }
+    }
+
+    function showBanner() {
+      banner.hidden = false;
+      settingsButton.hidden = true;
+
+      window.setTimeout(() => {
+        rejectButton.focus();
+      }, 0);
+    }
+
+    function hideBanner() {
+      banner.hidden = true;
+      settingsButton.hidden = false;
+    }
+
+    function setConsent(value) {
+      saveConsent(value);
+      updateGoogleConsent(value);
+      hideBanner();
+    }
+
+    acceptButton.addEventListener(
+      "click",
+      function () {
+        setConsent("granted");
+      }
+    );
+
+    rejectButton.addEventListener(
+      "click",
+      function () {
+        setConsent("denied");
+      }
+    );
+
+    settingsButton.addEventListener(
+      "click",
+      function () {
+        showBanner();
+      }
+    );
+
+    const storedConsent = readConsent();
+
+    if (
+      storedConsent === "granted" ||
+      storedConsent === "denied"
+    ) {
+      settingsButton.hidden = false;
+    } else {
+      showBanner();
+    }
+  })();
+</script>
+
+<style>
+  .consent-banner {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    left: 1rem;
+    z-index: 100;
+
+    max-width: 760px;
+    margin-inline: auto;
+
+    border: 1px solid #cbd5e1;
+    border-radius: 1rem;
+
+    background: #ffffff;
+    box-shadow:
+      0 20px 50px rgba(15, 23, 42, 0.18);
+
+    color: #334155;
+  }
+
+  .consent-banner__content {
+    display: grid;
+    gap: 1.5rem;
+
+    padding: 1.25rem;
+  }
+
+  .consent-banner__text h2 {
+    margin: 0;
+
+    color: #0f172a;
+
+    font-size: 1.125rem;
+    font-weight: 800;
+    line-height: 1.4;
+  }
+
+  .consent-banner__text p {
+    margin: 0.625rem 0 0;
+
+    font-size: 0.9375rem;
+    line-height: 1.65;
+  }
+
+  .consent-banner__links {
+    color: #64748b;
+  }
+
+  .consent-banner__links a {
+    color: #2563eb;
+
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .consent-banner__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .consent-button {
+    min-height: 44px;
+    padding: 0.7rem 1rem;
+
+    border-radius: 0.65rem;
+
+    font: inherit;
+    font-size: 0.9rem;
+    font-weight: 700;
+
+    cursor: pointer;
+    transition:
+      background-color 150ms ease,
+      border-color 150ms ease,
+      color 150ms ease;
+  }
+
+  .consent-button:focus-visible,
+  .privacy-settings-button:focus-visible {
+    outline: 3px solid rgba(37, 99, 235, 0.35);
+    outline-offset: 3px;
+  }
+
+  .consent-button--primary {
+    border: 1px solid #2563eb;
+
+    background: #2563eb;
+    color: #ffffff;
+  }
+
+  .consent-button--primary:hover {
+    border-color: #1d4ed8;
+    background: #1d4ed8;
+  }
+
+  .consent-button--secondary {
+    border: 1px solid #cbd5e1;
+
+    background: #ffffff;
+    color: #334155;
+  }
+
+  .consent-button--secondary:hover {
+    border-color: #94a3b8;
+    background: #f8fafc;
+  }
+
+  .privacy-settings-button {
+    position: fixed;
+    bottom: 1rem;
+    left: 1rem;
+    z-index: 90;
+
+    min-height: 40px;
+    padding: 0.5rem 0.8rem;
+
+    border: 1px solid #cbd5e1;
+    border-radius: 999px;
+
+    background: #ffffff;
+    box-shadow:
+      0 8px 24px rgba(15, 23, 42, 0.12);
+
+    color: #475569;
+
+    font: inherit;
+    font-size: 0.8rem;
+    font-weight: 700;
+
+    cursor: pointer;
+  }
+
+  .privacy-settings-button:hover {
+    border-color: #2563eb;
+    color: #2563eb;
+  }
+
+  @media (min-width: 760px) {
+    .consent-banner__content {
+      grid-template-columns:
+        minmax(0, 1fr)
+        auto;
+      align-items: end;
+
+      padding: 1.5rem;
+    }
+
+    .consent-banner__actions {
+      flex-direction: column-reverse;
+      min-width: 160px;
+    }
+
+    .consent-button {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .consent-banner {
+      right: 0.625rem;
+      bottom: 0.625rem;
+      left: 0.625rem;
+    }
+
+    .consent-banner__actions {
+      flex-direction: column-reverse;
+    }
+
+    .consent-button {
+      width: 100%;
+    }
+
+    .privacy-settings-button {
+      bottom: 0.75rem;
+      left: 0.75rem;
+    }
+  }
+</style>
