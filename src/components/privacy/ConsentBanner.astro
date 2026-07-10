@@ -67,6 +67,7 @@
 <script is:inline>
   (function () {
     const STORAGE_KEY = "aipraktis-consent-v1";
+    const CMP_FALLBACK_DELAY = 8000;
 
     const banner =
       document.querySelector("[data-consent-banner]");
@@ -89,9 +90,14 @@
       return;
     }
 
+    let consentSystem = "pending";
+    let fallbackTimer;
+
     function readConsent() {
       try {
-        return window.localStorage.getItem(STORAGE_KEY);
+        return window.localStorage.getItem(
+          STORAGE_KEY
+        );
       } catch (error) {
         return null;
       }
@@ -111,25 +117,31 @@
       }
     }
 
-    function updateGoogleConsent(value) {
+    /*
+      Banner lokal hanya mengatur persetujuan analitik.
+
+      Persetujuan iklan untuk pengguna yang berada di bawah
+      regulasi Eropa dikelola oleh Google CMP.
+    */
+    function updateAnalyticsConsent(value) {
       const analyticsGranted =
         value === "granted";
 
       if (typeof window.gtag === "function") {
-        window.gtag("consent", "update", {
-          analytics_storage:
-            analyticsGranted
-              ? "granted"
-              : "denied",
-
-          ad_storage: "denied",
-          ad_user_data: "denied",
-          ad_personalization: "denied",
-        });
+        window.gtag(
+          "consent",
+          "update",
+          {
+            analytics_storage:
+              analyticsGranted
+                ? "granted"
+                : "denied",
+          }
+        );
       }
     }
 
-    function showBanner() {
+    function showLocalBanner() {
       banner.hidden = false;
       settingsButton.hidden = true;
 
@@ -138,48 +150,139 @@
       }, 0);
     }
 
-    function hideBanner() {
+    function hideLocalBanner() {
       banner.hidden = true;
       settingsButton.hidden = false;
     }
 
-    function setConsent(value) {
+    function setLocalConsent(value) {
       saveConsent(value);
-      updateGoogleConsent(value);
-      hideBanner();
+      updateAnalyticsConsent(value);
+      hideLocalBanner();
+    }
+
+    function initializeLocalConsent() {
+      if (consentSystem === "google-cmp") {
+        return;
+      }
+
+      consentSystem = "local";
+
+      if (fallbackTimer) {
+        window.clearTimeout(fallbackTimer);
+      }
+
+      const storedConsent = readConsent();
+
+      if (
+        storedConsent === "granted" ||
+        storedConsent === "denied"
+      ) {
+        updateAnalyticsConsent(storedConsent);
+        hideLocalBanner();
+        return;
+      }
+
+      showLocalBanner();
+    }
+
+    /*
+      Google CMP digunakan ketika GDPR atau European
+      regulations berlaku untuk pengunjung saat ini.
+
+      Google menampilkan tautan pencabutan consent sendiri,
+      sehingga tombol Privasi lokal harus disembunyikan.
+    */
+    function handleGoogleCmp() {
+      consentSystem = "google-cmp";
+
+      if (fallbackTimer) {
+        window.clearTimeout(fallbackTimer);
+      }
+
+      banner.hidden = true;
+      settingsButton.hidden = true;
     }
 
     acceptButton.addEventListener(
       "click",
       function () {
-        setConsent("granted");
+        if (consentSystem === "local") {
+          setLocalConsent("granted");
+        }
       }
     );
 
     rejectButton.addEventListener(
       "click",
       function () {
-        setConsent("denied");
+        if (consentSystem === "local") {
+          setLocalConsent("denied");
+        }
       }
     );
 
     settingsButton.addEventListener(
       "click",
       function () {
-        showBanner();
+        if (consentSystem === "local") {
+          showLocalBanner();
+        }
       }
     );
 
-    const storedConsent = readConsent();
+    /*
+      Siapkan API Privacy & Messaging sebelum tag Google
+      selesai dimuat.
+    */
+    window.googlefc =
+      window.googlefc || {};
 
-    if (
-      storedConsent === "granted" ||
-      storedConsent === "denied"
-    ) {
-      settingsButton.hidden = false;
-    } else {
-      showBanner();
-    }
+    window.googlefc.callbackQueue =
+      window.googlefc.callbackQueue || [];
+
+    window.googlefc.callbackQueue.push({
+      CONSENT_API_READY: function () {
+        if (typeof window.__tcfapi !== "function") {
+          initializeLocalConsent();
+          return;
+        }
+
+        window.__tcfapi(
+          "addEventListener",
+          0,
+          function (tcData, success) {
+            if (
+              !success ||
+              !tcData ||
+              typeof tcData.gdprApplies !== "boolean"
+            ) {
+              return;
+            }
+
+            if (tcData.gdprApplies) {
+              handleGoogleCmp();
+              return;
+            }
+
+            initializeLocalConsent();
+          }
+        );
+      },
+    });
+
+    /*
+      Jika script Google CMP diblokir atau tidak tersedia,
+      banner lokal tetap muncul setelah batas waktu.
+    */
+    fallbackTimer = window.setTimeout(
+      function () {
+        if (consentSystem === "pending") {
+          initializeLocalConsent();
+        }
+      },
+      CMP_FALLBACK_DELAY
+    );
   })();
 </script>
 

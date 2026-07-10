@@ -129,6 +129,11 @@ const {
     content={Astro.generator}
   />
 
+  <meta
+    name="google-adsense-account"
+    content="ca-pub-6452984733262559"
+  />
+
   <script
     type="application/ld+json"
     set:html={JSON.stringify({
@@ -146,8 +151,8 @@ const {
   <slot name="head" />
 
   <!--
-    Consent Mode harus ditetapkan sebelum Google Analytics
-    dan layanan pengukuran lain dimuat.
+    Consent Mode v2 harus ditetapkan sebelum Google Analytics,
+    AdSense, dan layanan pengukuran lain dimuat.
   -->
 
   <script is:inline>
@@ -158,6 +163,54 @@ const {
       window.dataLayer.push(arguments);
     };
 
+    window.googlefc =
+      window.googlefc || {};
+
+    window.googlefc.callbackQueue =
+      window.googlefc.callbackQueue || [];
+
+    const regulatedRegions = [
+      "AT",
+      "BE",
+      "BG",
+      "HR",
+      "CY",
+      "CZ",
+      "DK",
+      "EE",
+      "FI",
+      "FR",
+      "DE",
+      "GR",
+      "HU",
+      "IE",
+      "IT",
+      "LV",
+      "LT",
+      "LU",
+      "MT",
+      "NL",
+      "PL",
+      "PT",
+      "RO",
+      "SK",
+      "SI",
+      "ES",
+      "SE",
+      "IS",
+      "LI",
+      "NO",
+      "GB",
+      "CH",
+    ];
+
+    /*
+      Default untuk EEA, Inggris, dan Swiss.
+
+      Google CMP akan memperbarui nilai ini setelah pengguna
+      memilih Consent, Do not consent, atau Manage options.
+    */
+
     window.gtag(
       "consent",
       "default",
@@ -166,6 +219,27 @@ const {
         ad_storage: "denied",
         ad_user_data: "denied",
         ad_personalization: "denied",
+        wait_for_update: 1000,
+        region: regulatedRegions,
+      }
+    );
+
+    /*
+      Default untuk wilayah lain.
+
+      Penyimpanan iklan dapat digunakan di luar wilayah
+      European regulations, sedangkan analitik tetap menunggu
+      pilihan dari banner privasi lokal.
+    */
+
+    window.gtag(
+      "consent",
+      "default",
+      {
+        analytics_storage: "denied",
+        ad_storage: "granted",
+        ad_user_data: "granted",
+        ad_personalization: "granted",
       }
     );
 
@@ -174,32 +248,15 @@ const {
       "ads_data_redaction",
       true
     );
-
-    try {
-      const savedConsent =
-        window.localStorage.getItem(
-          "aipraktis-consent-v1"
-        );
-
-      if (savedConsent === "granted") {
-        window.gtag(
-          "consent",
-          "update",
-          {
-            analytics_storage: "granted",
-            ad_storage: "denied",
-            ad_user_data: "denied",
-            ad_personalization: "denied",
-          }
-        );
-      }
-    } catch (error) {
-      console.warn(
-        "Status consent tidak dapat dibaca.",
-        error
-      );
-    }
   </script>
+
+  <!-- Google AdSense dan Google CMP -->
+
+  <script
+    async
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6452984733262559"
+    crossorigin="anonymous"
+  ></script>
 
   <!-- Google Analytics -->
 
@@ -218,8 +275,8 @@ const {
   </script>
 
   <!--
-    Microsoft Clarity otomatis membaca sinyal
-    Google Consent Mode.
+    Microsoft Clarity membaca sinyal Google Consent Mode
+    untuk analytics_storage dan ad_storage.
   -->
 
   <script is:inline>
@@ -244,11 +301,6 @@ const {
       "x7b9xggz5m"
     );
   </script>
-
-  <meta
-  name="google-adsense-account"
-  content="ca-pub-6452984733262559"
-/>
 
 </head>
 
