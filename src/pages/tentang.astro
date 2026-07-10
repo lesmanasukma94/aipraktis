@@ -1,89 +1,162 @@
 ---
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
 ---
 
-<BaseLayout title="Tentang AI Praktis Indonesia">
+<StaticPageLayout
+  title="Tentang AI Praktis Indonesia"
+  heading="Tentang AI Praktis Indonesia"
+  description="Mengenal misi, fokus, dan komitmen AI Praktis Indonesia dalam membantu masyarakat menggunakan artificial intelligence secara praktis."
+  eyebrow="Tentang Kami"
+  updatedDate="2026-07-10"
+  pageType="AboutPage"
+>
 
-<h1>Tentang AI Praktis Indonesia</h1>
+  <p>
+    AI Praktis Indonesia adalah website edukasi berbahasa Indonesia yang
+    membantu pembaca memahami dan menggunakan artificial intelligence
+    secara sederhana, praktis, dan relevan dengan kebutuhan sehari-hari.
+  </p>
 
-<p>
-Selamat datang di AI Praktis Indonesia.
-</p>
+  <p>
+    Kami percaya AI tidak hanya berguna bagi programmer atau perusahaan
+    teknologi. Teknologi ini juga dapat dimanfaatkan oleh pemula,
+    pekerja, freelancer, pelaku UMKM, guru, mahasiswa, dan content
+    creator.
+  </p>
 
-<p>
-AI Praktis Indonesia adalah website edukasi yang membantu masyarakat Indonesia memahami dan memanfaatkan teknologi Artificial Intelligence (AI) dengan cara yang sederhana, praktis, dan mudah diterapkan.
-</p>
+  <h2>Misi AI Praktis Indonesia</h2>
 
-<p>
-Kami percaya bahwa AI bukan hanya untuk programmer, ilmuwan, atau perusahaan teknologi besar. AI dapat digunakan oleh siapa saja, termasuk pemula, karyawan, freelancer, pelaku UMKM, content creator, mahasiswa, dan profesional dari berbagai bidang.
-</p>
+  <p>
+    Misi kami adalah membuat pengetahuan tentang AI menjadi lebih mudah
+    dipahami dan lebih mudah diterapkan oleh masyarakat Indonesia.
+  </p>
 
-<h2>Misi Kami</h2>
+  <ul>
+    <li>Membantu pembaca memahami dasar-dasar AI.</li>
+    <li>Menyediakan tutorial yang dapat langsung dipraktikkan.</li>
+    <li>Meningkatkan produktivitas kerja dan proses belajar.</li>
+    <li>Membantu UMKM menggunakan AI secara lebih efektif.</li>
+    <li>Membantu pembaca memilih tools AI yang sesuai kebutuhan.</li>
+  </ul>
 
-<p>Membantu masyarakat Indonesia memanfaatkan AI untuk:</p>
+  <h2>Topik yang Kami Bahas</h2>
 
-<ul>
-<li>Meningkatkan produktivitas kerja</li>
-<li>Mengembangkan bisnis dan UMKM</li>
-<li>Membuat konten lebih efisien</li>
-<li>Belajar keterampilan baru</li>
-<li>Memahami perkembangan teknologi AI</li>
-</ul>
+  <div class="static-page-grid">
 
-<h2>Apa yang Akan Anda Temukan di Website Ini?</h2>
+    <section class="static-page-card">
+      <h3>
+        <a href="/belajar-ai/">
+          Belajar AI
+        </a>
+      </h3>
 
-<h3>Belajar AI</h3>
+      <p>
+        Panduan dasar untuk memahami AI, istilah penting, manfaat,
+        keterbatasan, dan cara memulainya.
+      </p>
+    </section>
 
-<p>
-Panduan dasar untuk memahami Artificial Intelligence dan berbagai tools AI populer.
-</p>
+    <section class="static-page-card">
+      <h3>
+        <a href="/ai-chatbot/">
+          AI Chatbot
+        </a>
+      </h3>
 
-<h3>Prompt AI</h3>
+      <p>
+        Tutorial dan perbandingan ChatGPT, Claude, Gemini, DeepSeek,
+        serta chatbot AI populer lainnya.
+      </p>
+    </section>
 
-<p>
-Kumpulan prompt yang dapat langsung digunakan untuk pekerjaan, bisnis, dan aktivitas sehari-hari.
-</p>
+    <section class="static-page-card">
+      <h3>
+        <a href="/prompt-engineering/">
+          Prompt Engineering
+        </a>
+      </h3>
 
-<h3>AI untuk UMKM</h3>
+      <p>
+        Panduan menulis prompt yang jelas dan efektif untuk pekerjaan,
+        bisnis, pendidikan, dan pembuatan konten.
+      </p>
+    </section>
 
-<p>
-Panduan memanfaatkan AI untuk pemasaran, penjualan, dan pengembangan bisnis.
-</p>
+    <section class="static-page-card">
+      <h3>
+        <a href="/ai-tools/">
+          AI Tools
+        </a>
+      </h3>
 
-<h3>AI untuk Pekerja</h3>
+      <p>
+        Pembahasan dan panduan penggunaan tools AI untuk berbagai
+        aktivitas dan profesi.
+      </p>
+    </section>
 
-<p>
-Tips dan strategi menggunakan AI untuk meningkatkan produktivitas kerja.
-</p>
+    <section class="static-page-card">
+      <h3>
+        <a href="/ai-untuk-bisnis/">
+          AI untuk Bisnis
+        </a>
+      </h3>
 
-<h3>Review dan Panduan Tools AI</h3>
+      <p>
+        Strategi praktis menggunakan AI untuk pemasaran, penjualan,
+        pelayanan pelanggan, dan operasional bisnis.
+      </p>
+    </section>
 
-<p>
-Pembahasan berbagai tools AI yang dapat membantu aktivitas sehari-hari.
-</p>
+    <section class="static-page-card">
+      <h3>
+        <a href="/ai-untuk-pendidikan/">
+          AI untuk Pendidikan
+        </a>
+      </h3>
 
-<h2>Komitmen Kami</h2>
+      <p>
+        Panduan penggunaan AI bagi guru, siswa, mahasiswa, dan kegiatan
+        pembelajaran.
+      </p>
+    </section>
 
-<p>
-Kami berusaha menyajikan informasi yang mudah dipahami, praktis untuk diterapkan, relevan dengan kebutuhan pengguna Indonesia, dan terus diperbarui mengikuti perkembangan teknologi AI.
-</p>
+  </div>
 
-<p>
-Meskipun kami berupaya memberikan informasi yang akurat, perkembangan AI berlangsung sangat cepat sehingga beberapa informasi dapat berubah seiring waktu.
-</p>
+  <h2>Prinsip Penyusunan Konten</h2>
 
-<h2>Visi Jangka Panjang</h2>
+  <p>
+    Kami berusaha menyajikan konten yang mudah dipahami, berorientasi
+    pada praktik, dan relevan bagi pembaca Indonesia.
+  </p>
 
-<p>
-Menjadi salah satu sumber pembelajaran AI berbahasa Indonesia yang terpercaya, praktis, dan bermanfaat bagi masyarakat luas.
-</p>
+  <p>
+    Karena teknologi AI berkembang cepat, fitur, harga, kebijakan, dan
+    kemampuan suatu layanan dapat berubah. Pembaca tetap disarankan
+    memeriksa informasi terbaru dari penyedia layanan terkait sebelum
+    mengambil keputusan penting.
+  </p>
 
-<p>
-Terima kasih telah mengunjungi AI Praktis Indonesia.
-</p>
+  <h2>Visi Jangka Panjang</h2>
 
-<p>
-Mari belajar dan berkembang bersama di era Artificial Intelligence.
-</p>
+  <p>
+    Visi kami adalah menjadikan AI Praktis Indonesia sebagai salah satu
+    pusat pembelajaran AI praktis berbahasa Indonesia yang dapat
+    digunakan oleh pembaca dari berbagai latar belakang.
+  </p>
 
-</BaseLayout>
+  <div class="static-page-panel">
+    <h2>Hubungi Kami</h2>
+
+    <p>
+      Menemukan kesalahan informasi, memiliki saran, atau ingin membahas
+      peluang kerja sama?
+    </p>
+
+    <p>
+      Silakan kunjungi
+      <a href="/kontak/">halaman kontak</a>.
+    </p>
+  </div>
+
+</StaticPageLayout>

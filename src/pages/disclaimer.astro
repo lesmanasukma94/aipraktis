@@ -1,94 +1,288 @@
 ---
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
+import { SITE } from "@/config/site";
+
+const contactEmail = SITE.contactEmail;
 ---
 
-<BaseLayout title="Disclaimer">
+<StaticPageLayout
+  title="Disclaimer | AI Praktis Indonesia"
+  heading="Disclaimer"
+  description="Penjelasan mengenai sifat informasi, penggunaan teknologi AI, tautan pihak ketiga, afiliasi, iklan, dan batas tanggung jawab AI Praktis Indonesia."
+  eyebrow="Legal"
+  updatedDate="2026-07-10"
+  pageType="WebPage"
+>
 
-<h1>Disclaimer</h1>
+  <p>
+    Seluruh informasi di AI Praktis Indonesia disediakan untuk tujuan
+    edukasi dan informasi umum.
+  </p>
 
-<p>
-Terakhir diperbarui: 13 Juni 2026
-</p>
+  <p>
+    Kami berusaha menyajikan materi yang praktis dan bermanfaat, tetapi
+    tidak menjamin bahwa seluruh informasi selalu lengkap, akurat,
+    bebas kesalahan, atau sesuai dengan kondisi terbaru.
+  </p>
 
-<p>
-Seluruh informasi yang tersedia di AI Praktis Indonesia disediakan untuk tujuan edukasi dan informasi umum.
-</p>
+  <h2>Bukan Nasihat Profesional</h2>
 
-<p>
-Kami berusaha menyajikan informasi yang akurat dan bermanfaat, namun tidak memberikan jaminan bahwa seluruh informasi selalu lengkap, akurat, atau terbaru.
-</p>
+  <p>
+    Konten website bukan merupakan nasihat profesional, termasuk namun
+    tidak terbatas pada:
+  </p>
 
-<h2>Bukan Nasihat Profesional</h2>
+  <ul>
+    <li>Nasihat hukum.</li>
+    <li>Nasihat keuangan atau investasi.</li>
+    <li>Nasihat perpajakan.</li>
+    <li>Nasihat medis atau kesehatan.</li>
+    <li>Nasihat keamanan informasi.</li>
+    <li>Konsultasi bisnis profesional.</li>
+    <li>Konsultasi ketenagakerjaan atau sumber daya manusia.</li>
+  </ul>
 
-<p>
-Konten yang tersedia di website ini bukan merupakan nasihat profesional dalam bidang:
-</p>
+  <p>
+    Untuk keputusan yang memiliki dampak hukum, finansial, kesehatan,
+    keamanan, atau bisnis yang penting, konsultasikan kebutuhan Anda
+    dengan tenaga profesional yang berkualifikasi.
+  </p>
 
-<ul>
-<li>Hukum</li>
-<li>Keuangan</li>
-<li>Investasi</li>
-<li>Pajak</li>
-<li>Medis</li>
-<li>Konsultasi bisnis profesional</li>
-</ul>
+  <h2>Informasi Mengenai Artificial Intelligence</h2>
 
-<p>
-Setiap keputusan yang diambil berdasarkan informasi dari website ini sepenuhnya menjadi tanggung jawab pengguna.
-</p>
+  <p>
+    Teknologi AI berkembang dengan cepat. Model, fitur, antarmuka, harga,
+    batas penggunaan, kebijakan privasi, dan ketersediaan layanan dapat
+    berubah tanpa pemberitahuan kepada kami.
+  </p>
 
-<h2>Penggunaan Informasi</h2>
+  <p>
+    Artikel yang akurat saat diterbitkan dapat menjadi tidak lengkap
+    atau tidak lagi sesuai setelah terjadi pembaruan layanan.
+  </p>
 
-<p>
-Penggunaan informasi dari website ini dilakukan atas risiko masing-masing pengguna.
-</p>
+  <p>
+    Pembaca disarankan memeriksa dokumentasi, halaman harga, kebijakan,
+    dan pengumuman resmi penyedia layanan sebelum mengambil keputusan.
+  </p>
 
-<p>
-AI Praktis Indonesia tidak bertanggung jawab atas kerugian atau kerusakan yang mungkin timbul akibat penggunaan informasi yang tersedia di website ini.
-</p>
+  <h2>Hasil yang Diberikan AI</h2>
 
-<h2>Informasi tentang AI</h2>
+  <p>
+    Sistem AI dapat menghasilkan jawaban yang tidak tepat, tidak lengkap,
+    bias, tidak relevan, atau terlihat meyakinkan meskipun informasinya
+    salah.
+  </p>
 
-<p>
-Teknologi Artificial Intelligence berkembang dengan sangat cepat.
-</p>
+  <p>
+    Prompt, template, tutorial, dan contoh pada website tidak menjamin
+    hasil tertentu. Hasil dapat berbeda berdasarkan model, versi,
+    pengaturan, bahasa, data masukan, dan konteks penggunaan.
+  </p>
 
-<p>
-Beberapa informasi, fitur, harga, atau kebijakan dari tools AI yang dibahas dapat berubah sewaktu-waktu tanpa pemberitahuan.
-</p>
+  <p>
+    Pengguna bertanggung jawab melakukan pemeriksaan manusia sebelum
+    menggunakan hasil AI untuk publikasi, pekerjaan, bisnis, pendidikan,
+    pengambilan keputusan, atau komunikasi dengan pihak lain.
+  </p>
 
-<p>
-Pengguna disarankan untuk selalu memverifikasi informasi langsung melalui sumber resmi masing-masing layanan.
-</p>
+  <h2>Keamanan dan Kerahasiaan Data</h2>
 
-<h2>Tautan Eksternal</h2>
+  <p>
+    Jangan memasukkan informasi rahasia atau sensitif ke dalam layanan
+    AI tanpa memahami bagaimana layanan tersebut mengumpulkan,
+    menyimpan, menggunakan, dan membagikan data.
+  </p>
 
-<p>
-Website ini dapat berisi tautan ke website pihak ketiga.
-</p>
+  <p>
+    Informasi sensitif dapat mencakup kata sandi, dokumen identitas,
+    data keuangan, data kesehatan, informasi pelanggan, rahasia dagang,
+    dan data internal perusahaan.
+  </p>
 
-<p>
-Kami tidak memiliki kendali atas isi maupun kebijakan website tersebut dan tidak bertanggung jawab atas informasi yang disediakan oleh pihak ketiga.
-</p>
+  <p>
+    Setiap pengguna bertanggung jawab memastikan penggunaan layanan AI
+    sesuai dengan kebijakan organisasi, kontrak, dan hukum yang berlaku.
+  </p>
 
-<h2>Affiliate Disclosure</h2>
+  <h2>Penggunaan Informasi</h2>
 
-<p>
-Di masa mendatang, beberapa tautan pada website ini mungkin merupakan tautan afiliasi.
-</p>
+  <p>
+    Setiap keputusan dan tindakan berdasarkan informasi dari website
+    dilakukan atas pertimbangan dan risiko pengguna sendiri.
+  </p>
 
-<p>
-Artinya, kami dapat menerima komisi tanpa biaya tambahan bagi pengguna apabila terjadi pembelian melalui tautan tersebut.
-</p>
+  <p>
+    Kami tidak menjamin bahwa strategi, prompt, tools, peluang kerja,
+    metode bisnis, atau rekomendasi yang dibahas akan menghasilkan
+    keuntungan, peningkatan produktivitas, pekerjaan, klien, trafik,
+    penjualan, atau hasil tertentu.
+  </p>
 
-<p>
-Kami hanya merekomendasikan produk atau layanan yang dianggap relevan dan bermanfaat bagi pembaca.
-</p>
+  <h2>Tautan Eksternal</h2>
 
-<h2>Persetujuan</h2>
+  <p>
+    Website dapat memuat tautan menuju website, aplikasi, produk, dan
+    layanan pihak ketiga.
+  </p>
 
-<p>
-Dengan menggunakan website AI Praktis Indonesia, Anda dianggap telah memahami dan menyetujui isi disclaimer ini.
-</p>
+  <p>
+    Kami tidak mengendalikan isi, keamanan, ketersediaan, harga,
+    kebijakan, atau praktik dari website pihak ketiga.
+  </p>
 
-</BaseLayout>
+  <p>
+    Pengguna bertanggung jawab membaca syarat penggunaan dan kebijakan
+    privasi layanan pihak ketiga sebelum menggunakannya.
+  </p>
+
+  <h2>Affiliate Disclosure</h2>
+
+  <p>
+    Beberapa tautan pada website dapat berupa tautan afiliasi. Apabila
+    pembaca mendaftar atau melakukan pembelian melalui tautan tersebut,
+    AI Praktis Indonesia dapat menerima komisi tanpa biaya tambahan
+    bagi pembaca.
+  </p>
+
+  <p>
+    Komisi afiliasi dapat membantu mendukung operasional dan pengembangan
+    website.
+  </p>
+
+  <p>
+    Keberadaan hubungan afiliasi tidak menjamin bahwa suatu produk atau
+    layanan cocok untuk setiap pengguna. Pembaca tetap bertanggung jawab
+    melakukan evaluasi sebelum membeli atau berlangganan.
+  </p>
+
+  <h2>Sponsorship dan Konten Komersial</h2>
+
+  <p>
+    Website dapat menerbitkan sponsorship, advertorial, kerja sama
+    konten, atau materi promosi.
+  </p>
+
+  <p>
+    Hubungan komersial akan diungkapkan secara wajar apabila relevan.
+    Namun, pembaca tetap perlu melakukan penilaian sendiri terhadap
+    klaim, harga, manfaat, dan risiko produk atau layanan.
+  </p>
+
+  <h2>Iklan</h2>
+
+  <p>
+    Website dapat menampilkan iklan melalui Google AdSense atau jaringan
+    periklanan lainnya.
+  </p>
+
+  <p>
+    Iklan dapat dipilih dan ditayangkan oleh pihak ketiga. Kehadiran
+    iklan tidak berarti bahwa AI Praktis Indonesia mendukung atau
+    menjamin pengiklan, produk, maupun layanan yang ditampilkan.
+  </p>
+
+  <p>
+    Informasi mengenai cookie dan pemrosesan data periklanan dijelaskan
+    dalam
+    <a href="/privacy-policy/">
+      Kebijakan Privasi
+    </a>
+    dan
+    <a href="/cookie-policy/">
+      Kebijakan Cookie
+    </a>.
+  </p>
+
+  <h2>Merek dan Hak Pihak Ketiga</h2>
+
+  <p>
+    Nama produk, logo, merek dagang, tangkapan layar, dan identitas
+    layanan pihak ketiga merupakan hak dari pemiliknya masing-masing.
+  </p>
+
+  <p>
+    Penyebutan merek seperti ChatGPT, Claude, Gemini, DeepSeek, Microsoft
+    Copilot, dan layanan lainnya digunakan untuk tujuan informasi dan
+    tidak selalu menunjukkan hubungan resmi, sponsorship, atau dukungan
+    dari pemilik merek.
+  </p>
+
+  <h2>Ketersediaan Website</h2>
+
+  <p>
+    Kami tidak menjamin bahwa website akan selalu tersedia tanpa
+    gangguan, kesalahan, serangan, kehilangan data, atau masalah teknis.
+  </p>
+
+  <p>
+    Bagian website dapat diperbarui, dipindahkan, dibatasi, atau
+    dihentikan sewaktu-waktu.
+  </p>
+
+  <h2>Batas Tanggung Jawab</h2>
+
+  <p>
+    Sejauh diizinkan oleh hukum, AI Praktis Indonesia tidak bertanggung
+    jawab atas kerugian langsung maupun tidak langsung yang timbul
+    akibat:
+  </p>
+
+  <ul>
+    <li>Penggunaan atau ketergantungan pada informasi website.</li>
+    <li>Penggunaan prompt, template, rekomendasi, atau hasil AI.</li>
+    <li>Kesalahan, kelalaian, atau informasi yang sudah berubah.</li>
+    <li>Penggunaan layanan dan transaksi dengan pihak ketiga.</li>
+    <li>Gangguan teknis atau tidak tersedianya website.</li>
+    <li>Kehilangan data, pendapatan, keuntungan, peluang, atau reputasi.</li>
+  </ul>
+
+  <p>
+    Ketentuan ini tidak membatasi tanggung jawab yang tidak dapat
+    dikecualikan berdasarkan hukum yang berlaku.
+  </p>
+
+  <h2>Koreksi Informasi</h2>
+
+  <p>
+    Apabila Anda menemukan kesalahan fakta, tautan rusak, informasi
+    usang, atau materi yang berpotensi melanggar hak pihak lain, silakan
+    menghubungi kami dengan menyertakan alamat halaman dan penjelasan
+    yang relevan.
+  </p>
+
+  <h2>Persetujuan</h2>
+
+  <p>
+    Dengan menggunakan website, Anda dianggap telah membaca dan
+    memahami Disclaimer ini beserta
+    <a href="/terms/">
+      Syarat dan Ketentuan
+    </a>
+    yang berlaku.
+  </p>
+
+  <h2>Perubahan Disclaimer</h2>
+
+  <p>
+    Disclaimer dapat diperbarui apabila terdapat perubahan pada konten,
+    layanan, teknologi, hubungan komersial, atau ketentuan hukum.
+  </p>
+
+  <p>
+    Versi terbaru akan ditampilkan pada halaman ini beserta tanggal
+    pembaruannya.
+  </p>
+
+  <h2>Hubungi Kami</h2>
+
+  <div class="static-page-panel">
+    <p>
+      Email:
+      <a href={`mailto:${contactEmail}`}>
+        {contactEmail}
+      </a>
+    </p>
+  </div>
+
+</StaticPageLayout>

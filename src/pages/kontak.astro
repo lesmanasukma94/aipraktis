@@ -1,61 +1,101 @@
 ---
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
+import { SITE } from "@/config/site";
+
+const contactEmail = SITE.contactEmail;
 ---
 
-<BaseLayout title="Kontak">
+<StaticPageLayout
+  title="Kontak AI Praktis Indonesia"
+  heading="Hubungi AI Praktis Indonesia"
+  description="Hubungi AI Praktis Indonesia untuk pertanyaan, koreksi konten, saran, kolaborasi, dan keperluan kerja sama."
+  eyebrow="Kontak"
+  updatedDate="2026-07-10"
+  pageType="ContactPage"
+>
 
-<h1>Hubungi Kami</h1>
+  <p>
+    Terima kasih telah mengunjungi AI Praktis Indonesia. Anda dapat
+    menghubungi kami untuk pertanyaan, koreksi informasi, saran,
+    maupun pembahasan kerja sama.
+  </p>
 
-<p>
-Terima kasih telah mengunjungi AI Praktis Indonesia.
-</p>
+  <div class="static-page-panel">
+    <h2>Email</h2>
 
-<p>
-Jika Anda memiliki pertanyaan, saran, masukan, atau ingin bekerja sama dengan kami, silakan menghubungi melalui email berikut.
-</p>
+    <p>
+      <a href={`mailto:${contactEmail}`}>
+        {contactEmail}
+      </a>
+    </p>
 
-<h2>Kontak</h2>
+    <p>
+      Sertakan subjek yang jelas agar pesan lebih mudah dipahami dan
+      ditindaklanjuti.
+    </p>
+  </div>
 
-<p>
-Email:
-</p>
+  <h2>Keperluan yang Dapat Disampaikan</h2>
 
-<p>
-admin@aipraktisindonesia.com
-</p>
+  <div class="static-page-grid">
 
-<h2>Keperluan yang Dapat Dihubungi</h2>
+    <section class="static-page-card">
+      <h3>Pertanyaan Umum</h3>
 
-<h3>Pertanyaan Umum</h3>
+      <p>
+        Pertanyaan mengenai artikel, panduan, navigasi website, atau
+        topik AI yang dibahas.
+      </p>
+    </section>
 
-<p>
-Pertanyaan terkait artikel, panduan, atau penggunaan AI.
-</p>
+    <section class="static-page-card">
+      <h3>Koreksi Konten</h3>
 
-<h3>Saran dan Masukan</h3>
+      <p>
+        Pelaporan kesalahan, tautan rusak, informasi yang sudah berubah,
+        atau bagian artikel yang memerlukan penjelasan tambahan.
+      </p>
+    </section>
 
-<p>
-Kami sangat menghargai masukan yang membantu meningkatkan kualitas website.
-</p>
+    <section class="static-page-card">
+      <h3>Saran dan Masukan</h3>
 
-<h3>Kerja Sama</h3>
+      <p>
+        Saran mengenai topik baru, pengalaman pengguna, dan peningkatan
+        kualitas website.
+      </p>
+    </section>
 
-<p>
-Untuk kebutuhan kolaborasi, sponsorship, media partnership, atau kerja sama lainnya.
-</p>
+    <section class="static-page-card">
+      <h3>Kerja Sama</h3>
 
-<h3>Pelaporan Konten</h3>
+      <p>
+        Pembahasan kolaborasi konten, media partnership, sponsorship,
+        pelatihan, atau kerja sama lain yang relevan.
+      </p>
+    </section>
 
-<p>
-Jika Anda menemukan kesalahan informasi atau masalah pada konten website, silakan hubungi kami melalui email.
-</p>
+  </div>
 
-<p>
-Kami akan berusaha merespons setiap pesan dalam waktu secepat mungkin.
-</p>
+  <h2>Sebelum Mengirim Pesan</h2>
 
-<p>
-Terima kasih atas dukungan Anda terhadap AI Praktis Indonesia.
-</p>
+  <p>
+    Jelaskan kebutuhan Anda secara ringkas dan sertakan alamat halaman
+    yang dimaksud apabila pesan berkaitan dengan artikel tertentu.
+  </p>
 
-</BaseLayout>
+  <p>
+    Kami tidak dapat menjamin semua proposal kerja sama akan diterima,
+    tetapi setiap pesan yang relevan akan dipertimbangkan.
+  </p>
+
+  <h2>Privasi Pesan</h2>
+
+  <p>
+    Informasi yang Anda kirim melalui email akan digunakan untuk
+    membaca dan merespons keperluan yang disampaikan. Hindari
+    mengirimkan kata sandi, data keuangan, atau informasi pribadi
+    sensitif melalui email.
+  </p>
+
+</StaticPageLayout>

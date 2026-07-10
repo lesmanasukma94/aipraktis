@@ -10,6 +10,8 @@ export const SITE = {
 
   lang: "id",
 
+  contactEmail: "lesmanasukma94@gmail.com",
+
   navigation: [
     {
       label: "Beranda",
@@ -33,18 +35,37 @@ export const SITE = {
     },
   ],
 
-  legalNavigation: [
+  companyNavigation: [
     {
-      label: "Tentang",
+      label: "Tentang Kami",
       href: "/tentang/",
     },
     {
       label: "Kontak",
       href: "/kontak/",
     },
+  ],
+
+  legalNavigation: [
+    {
+      label: "Kebijakan Editorial",
+      href: "/editorial-policy/",
+    },
+    {
+      label: "Pengungkapan AI",
+      href: "/ai-disclosure/",
+    },
     {
       label: "Kebijakan Privasi",
       href: "/privacy-policy/",
+    },
+    {
+      label: "Kebijakan Cookie",
+      href: "/cookie-policy/",
+    },
+    {
+      label: "Syarat & Ketentuan",
+      href: "/terms/",
     },
     {
       label: "Disclaimer",

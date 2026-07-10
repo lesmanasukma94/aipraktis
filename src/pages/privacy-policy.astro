@@ -1,103 +1,315 @@
 ---
-import BaseLayout from "@/layouts/BaseLayout.astro";
+import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
+import { SITE } from "@/config/site";
+
+const contactEmail = SITE.contactEmail;
 ---
 
-<BaseLayout title="Kebijakan Privasi">
+<StaticPageLayout
+  title="Kebijakan Privasi | AI Praktis Indonesia"
+  heading="Kebijakan Privasi"
+  description="Penjelasan mengenai pengumpulan, penggunaan, penyimpanan, dan perlindungan informasi ketika Anda menggunakan website AI Praktis Indonesia."
+  eyebrow="Legal"
+  updatedDate="2026-07-10"
+  pageType="WebPage"
+>
 
-<h1>Kebijakan Privasi</h1>
+  <p>
+    AI Praktis Indonesia menghargai privasi setiap pengunjung. Kebijakan
+    ini menjelaskan informasi yang dapat diproses ketika Anda mengakses
+    website, tujuan penggunaannya, layanan pihak ketiga yang digunakan,
+    serta pilihan yang tersedia bagi Anda.
+  </p>
 
-<p>
-Terakhir diperbarui: 13 Juni 2026
-</p>
+  <p>
+    Dengan menggunakan website ini, Anda memahami bahwa informasi dapat
+    diproses sebagaimana dijelaskan dalam kebijakan ini dan sesuai dengan
+    ketentuan hukum yang berlaku.
+  </p>
 
-<p>
-Di AI Praktis Indonesia, privasi pengunjung merupakan hal yang penting bagi kami.
-</p>
+  <h2>Pengelola Website</h2>
 
-<p>
-Halaman ini menjelaskan bagaimana informasi dikumpulkan, digunakan, dan dilindungi saat Anda mengunjungi website ini.
-</p>
+  <p>
+    Website ini dikelola dengan nama AI Praktis Indonesia dan dapat
+    diakses melalui:
+  </p>
 
-<h2>Informasi yang Kami Kumpulkan</h2>
+  <ul>
+    <li>
+      Website:
+      <a href={SITE.url}>
+        {SITE.url}
+      </a>
+    </li>
 
-<p>
-Kami dapat mengumpulkan informasi tertentu secara otomatis, termasuk:
-</p>
+    <li>
+      Email:
+      <a href={`mailto:${contactEmail}`}>
+        {contactEmail}
+      </a>
+    </li>
+  </ul>
 
-<ul>
-<li>Alamat IP</li>
-<li>Jenis browser</li>
-<li>Halaman yang dikunjungi</li>
-<li>Waktu kunjungan</li>
-<li>Informasi perangkat</li>
-</ul>
+  <h2>Informasi yang Dapat Diproses</h2>
 
-<p>
-Informasi ini digunakan untuk analisis dan peningkatan kualitas layanan website.
-</p>
+  <p>
+    Bergantung pada cara Anda menggunakan website, kami atau penyedia
+    layanan yang kami gunakan dapat memproses beberapa kategori
+    informasi berikut.
+  </p>
 
-<h2>Cookies</h2>
+  <h3>Informasi teknis dan penggunaan</h3>
 
-<p>
-Website ini dapat menggunakan cookies untuk meningkatkan pengalaman pengguna.
-</p>
+  <ul>
+    <li>Jenis browser dan sistem operasi.</li>
+    <li>Jenis perangkat dan ukuran layar.</li>
+    <li>Alamat IP atau informasi lokasi umum yang diturunkan darinya.</li>
+    <li>Halaman yang dibuka dan waktu kunjungan.</li>
+    <li>Sumber kunjungan atau halaman perujuk.</li>
+    <li>Interaksi dengan tombol, tautan, dan bagian halaman.</li>
+    <li>Informasi kesalahan dan performa website.</li>
+  </ul>
 
-<p>
-Cookies membantu memahami bagaimana pengunjung menggunakan website sehingga kami dapat memberikan pengalaman yang lebih baik.
-</p>
+  <h3>Informasi yang Anda kirimkan</h3>
 
-<p>
-Pengguna dapat menonaktifkan cookies melalui pengaturan browser masing-masing.
-</p>
+  <p>
+    Apabila Anda menghubungi kami melalui email, kami dapat menerima
+    nama, alamat email, isi pesan, serta informasi lain yang Anda
+    sertakan secara sukarela.
+  </p>
 
-<h2>Google AdSense</h2>
+  <p>
+    Hindari mengirimkan kata sandi, data keuangan, dokumen identitas,
+    informasi kesehatan, atau data pribadi sensitif melalui email.
+  </p>
 
-<p>
-Di masa mendatang, website ini dapat menampilkan iklan melalui Google AdSense.
-</p>
+  <h2>Tujuan Penggunaan Informasi</h2>
 
-<p>
-Google dapat menggunakan cookies untuk menampilkan iklan yang relevan berdasarkan kunjungan pengguna ke website ini maupun website lainnya.
-</p>
+  <p>
+    Informasi dapat digunakan untuk:
+  </p>
 
-<p>
-Informasi lebih lanjut dapat dilihat pada kebijakan privasi Google.
-</p>
+  <ul>
+    <li>Menyediakan dan menjaga fungsi website.</li>
+    <li>Memahami cara pengunjung menggunakan website.</li>
+    <li>Mengukur performa artikel dan halaman.</li>
+    <li>Memperbaiki navigasi, desain, dan pengalaman pengguna.</li>
+    <li>Mendeteksi gangguan teknis, penyalahgunaan, atau ancaman keamanan.</li>
+    <li>Menanggapi pertanyaan, koreksi, dan permintaan kerja sama.</li>
+    <li>Memenuhi kewajiban hukum atau kebijakan layanan yang digunakan.</li>
+    <li>Menampilkan dan mengukur iklan apabila layanan iklan diaktifkan.</li>
+  </ul>
 
-<h2>Tautan ke Website Lain</h2>
+  <h2>Google Analytics</h2>
 
-<p>
-Website ini dapat berisi tautan menuju website pihak ketiga.
-</p>
+  <p>
+    Website ini menggunakan Google Analytics untuk mengukur trafik dan
+    memahami pola penggunaan website. Google Analytics dapat menggunakan
+    cookie atau teknologi serupa untuk membedakan pengguna dan sesi.
+  </p>
 
-<p>
-Kami tidak bertanggung jawab atas kebijakan privasi atau isi dari website tersebut.
-</p>
+  <p>
+    Informasi analitik membantu kami mengetahui halaman yang dikunjungi,
+    perkiraan durasi kunjungan, jenis perangkat, sumber trafik, dan
+    interaksi umum dengan website.
+  </p>
 
-<h2>Keamanan Data</h2>
+  <p>
+    Informasi mengenai cara Google memproses data dapat dibaca melalui
+    <a
+      href="https://policies.google.com/privacy"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Kebijakan Privasi Google
+    </a>.
+  </p>
 
-<p>
-Kami berupaya menjaga keamanan informasi yang dikumpulkan, namun tidak ada metode transmisi data melalui internet yang dapat dijamin 100% aman.
-</p>
+  <p>
+    Google juga menyediakan
+    <a
+      href="https://tools.google.com/dlpage/gaoptout"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      add-on browser untuk menonaktifkan Google Analytics
+    </a>.
+  </p>
 
-<h2>Persetujuan</h2>
+  <h2>Microsoft Clarity</h2>
 
-<p>
-Dengan menggunakan website ini, Anda dianggap telah menyetujui Kebijakan Privasi yang berlaku.
-</p>
+  <p>
+    Website ini menggunakan Microsoft Clarity untuk memahami bagaimana
+    pengunjung berinteraksi dengan halaman melalui data seperti heatmap,
+    rekaman sesi, navigasi, klik, dan pola penggunaan.
+  </p>
 
-<h2>Perubahan Kebijakan</h2>
+  <p>
+    Clarity dapat menggunakan cookie atau pengenal pseudonim untuk
+    menghubungkan aktivitas dalam satu atau beberapa kunjungan. Informasi
+    tersebut digunakan untuk membantu meningkatkan desain, konten, dan
+    pengalaman pengguna.
+  </p>
 
-<p>
-Kebijakan privasi ini dapat diperbarui sewaktu-waktu tanpa pemberitahuan sebelumnya.
-</p>
+  <p>
+    Informasi lebih lanjut tersedia dalam
+    <a
+      href="https://privacy.microsoft.com/privacystatement"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Pernyataan Privasi Microsoft
+    </a>.
+  </p>
 
-<p>
-Perubahan akan ditampilkan pada halaman ini.
-</p>
+  <h2>Google AdSense dan Periklanan</h2>
 
-<p>
-Jika Anda memiliki pertanyaan terkait kebijakan privasi, silakan menghubungi kami melalui halaman kontak.
-</p>
+  <p>
+    Website ini dapat menggunakan Google AdSense atau penyedia iklan
+    lainnya untuk menampilkan dan mengukur iklan.
+  </p>
 
-</BaseLayout>
+  <p>
+    Ketika iklan diaktifkan, Google dan vendor pihak ketiga dapat
+    menggunakan cookie, web beacon, alamat IP, atau teknologi serupa
+    untuk menayangkan, membatasi, mengukur, dan menyesuaikan iklan.
+  </p>
+
+  <p>
+    Vendor pihak ketiga, termasuk Google, dapat menggunakan cookie
+    periklanan berdasarkan kunjungan pengguna ke website ini atau
+    website lain. Penggunaan cookie tersebut dapat memungkinkan
+    penayangan iklan yang lebih relevan.
+  </p>
+
+  <p>
+    Pengguna dapat mengelola personalisasi iklan melalui
+    <a
+      href="https://adssettings.google.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Pengaturan Iklan Google
+    </a>.
+  </p>
+
+  <h2>Cookies dan Penyimpanan Lokal</h2>
+
+  <p>
+    Website dan layanan pihak ketiga dapat menggunakan cookies atau
+    teknologi penyimpanan lokal untuk menjaga fungsi website, mengukur
+    penggunaan, mengingat pilihan, dan mendukung penayangan iklan.
+  </p>
+
+  <p>
+    Penjelasan lebih lengkap mengenai kategori dan pengelolaan cookie
+    tersedia pada
+    <a href="/cookie-policy/">
+      Kebijakan Cookie
+    </a>.
+  </p>
+
+  <h2>Tautan Eksternal</h2>
+
+  <p>
+    Artikel dapat memuat tautan menuju website atau layanan pihak ketiga.
+    Kami tidak mengendalikan cara pihak ketiga mengumpulkan, menggunakan,
+    atau melindungi informasi setelah Anda meninggalkan website ini.
+  </p>
+
+  <p>
+    Anda disarankan membaca kebijakan privasi setiap layanan pihak ketiga
+    yang digunakan.
+  </p>
+
+  <h2>Penyimpanan Informasi</h2>
+
+  <p>
+    Informasi disimpan selama diperlukan untuk mencapai tujuan
+    pemrosesan, menangani komunikasi, memenuhi kewajiban hukum, menjaga
+    keamanan, atau sesuai dengan periode penyimpanan penyedia layanan
+    pihak ketiga.
+  </p>
+
+  <p>
+    Durasi penyimpanan dapat berbeda bergantung pada kategori data dan
+    layanan yang digunakan.
+  </p>
+
+  <h2>Keamanan Informasi</h2>
+
+  <p>
+    Kami berupaya menggunakan langkah teknis dan organisasi yang wajar
+    untuk menjaga informasi dari akses, perubahan, penggunaan, atau
+    pengungkapan yang tidak sah.
+  </p>
+
+  <p>
+    Meskipun demikian, tidak ada metode transmisi atau penyimpanan data
+    melalui internet yang dapat dijamin sepenuhnya aman.
+  </p>
+
+  <h2>Pemrosesan oleh Penyedia Layanan</h2>
+
+  <p>
+    Beberapa informasi dapat diproses oleh penyedia layanan teknologi,
+    analitik, hosting, keamanan, dan periklanan. Pemrosesan tersebut dapat
+    berlangsung pada infrastruktur yang berlokasi di luar Indonesia,
+    sesuai kebijakan dan ketentuan penyedia terkait.
+  </p>
+
+  <h2>Hak dan Permintaan Pengguna</h2>
+
+  <p>
+    Sesuai ketentuan hukum yang berlaku, Anda dapat menghubungi kami
+    untuk meminta informasi, koreksi, pembaruan, atau penghapusan data
+    pribadi yang berada dalam kendali kami.
+  </p>
+
+  <p>
+    Permintaan akan ditinjau berdasarkan sifat data, kemampuan teknis,
+    kepentingan keamanan, kewajiban penyimpanan, dan hukum yang berlaku.
+  </p>
+
+  <h2>Privasi Anak</h2>
+
+  <p>
+    Website ini ditujukan untuk menyediakan informasi edukatif umum dan
+    tidak dirancang untuk meminta data pribadi anak secara sengaja.
+  </p>
+
+  <p>
+    Orang tua atau wali yang meyakini bahwa seorang anak telah
+    mengirimkan informasi pribadi kepada kami dapat menghubungi alamat
+    email yang tercantum di bawah.
+  </p>
+
+  <h2>Perubahan Kebijakan</h2>
+
+  <p>
+    Kebijakan Privasi dapat diperbarui apabila terdapat perubahan pada
+    fitur website, layanan pihak ketiga, praktik pemrosesan data, atau
+    ketentuan hukum.
+  </p>
+
+  <p>
+    Tanggal pembaruan terbaru akan ditampilkan pada bagian atas halaman
+    ini.
+  </p>
+
+  <h2>Hubungi Kami</h2>
+
+  <p>
+    Pertanyaan atau permintaan terkait privasi dapat dikirimkan melalui:
+  </p>
+
+  <div class="static-page-panel">
+    <p>
+      Email:
+      <a href={`mailto:${contactEmail}`}>
+        {contactEmail}
+      </a>
+    </p>
+  </div>
+
+</StaticPageLayout>

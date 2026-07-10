@@ -1,0 +1,336 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import { SITE } from "@/config/site";
+
+export interface Props {
+  title: string;
+  heading?: string;
+  description: string;
+  eyebrow?: string;
+  updatedDate?: string;
+  canonical?: string;
+  pageType?: "WebPage" | "AboutPage" | "ContactPage";
+}
+
+const {
+  title,
+  heading = title,
+  description,
+  eyebrow,
+  updatedDate,
+  canonical,
+  pageType = "WebPage",
+} = Astro.props;
+
+const resolvedCanonical =
+  canonical ??
+  new URL(Astro.url.pathname, SITE.url).toString();
+
+const formattedUpdatedDate = updatedDate
+  ? new Intl.DateTimeFormat("id-ID", {
+      day: "numeric",
+      month: "long",
+      year: "numeric",
+      timeZone: "UTC",
+    }).format(new Date(updatedDate))
+  : undefined;
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": pageType,
+  "@id": `${resolvedCanonical}#webpage`,
+  url: resolvedCanonical,
+  name: heading,
+  description,
+  inLanguage: "id-ID",
+  isPartOf: {
+    "@id": `${SITE.url}/#website`,
+  },
+  ...(updatedDate
+    ? {
+        dateModified: updatedDate,
+      }
+    : {}),
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Beranda",
+      item: `${SITE.url}/`,
+    },
+    {
+      "@type": "ListItem",
+      position: 2,
+      name: heading,
+      item: resolvedCanonical,
+    },
+  ],
+};
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={resolvedCanonical}
+>
+  <Fragment slot="head">
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(webPageSchema)}
+    />
+
+    <script
+      type="application/ld+json"
+      set:html={JSON.stringify(breadcrumbSchema)}
+    />
+
+    <slot name="head" />
+  </Fragment>
+
+  <article class="static-page-shell">
+
+    <nav
+      class="static-page-breadcrumb"
+      aria-label="Breadcrumb"
+    >
+      <a href="/">Beranda</a>
+
+      <span aria-hidden="true">/</span>
+
+      <span aria-current="page">
+        {heading}
+      </span>
+    </nav>
+
+    <header class="static-page-header">
+
+      {
+        eyebrow && (
+          <p class="static-page-eyebrow">
+            {eyebrow}
+          </p>
+        )
+      }
+
+      <h1>{heading}</h1>
+
+      <p class="static-page-description">
+        {description}
+      </p>
+
+      {
+        formattedUpdatedDate && (
+          <p class="static-page-updated">
+            Terakhir diperbarui: {formattedUpdatedDate}
+          </p>
+        )
+      }
+
+    </header>
+
+    <div class="static-page-content">
+      <slot />
+    </div>
+
+  </article>
+</BaseLayout>
+
+<style is:global>
+  .static-page-shell {
+    width: min(calc(100% - 2rem), 820px);
+    margin-inline: auto;
+    padding-block: 3rem 5rem;
+  }
+
+  .static-page-breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    color: #64748b;
+    font-size: 0.875rem;
+  }
+
+  .static-page-breadcrumb a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+
+  .static-page-breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .static-page-header {
+    margin-bottom: 3rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 1px solid #e2e8f0;
+  }
+
+  .static-page-eyebrow {
+    margin: 0 0 0.75rem;
+    color: #2563eb;
+    font-size: 0.875rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .static-page-header h1 {
+    margin: 0;
+    color: #0f172a;
+    font-size: clamp(2.25rem, 6vw, 3.5rem);
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -0.035em;
+    text-wrap: balance;
+  }
+
+  .static-page-description {
+    max-width: 720px;
+    margin: 1.25rem 0 0;
+    color: #64748b;
+    font-size: clamp(1.0625rem, 2vw, 1.25rem);
+    line-height: 1.7;
+  }
+
+  .static-page-updated {
+    margin: 1.25rem 0 0;
+    color: #64748b;
+    font-size: 0.875rem;
+  }
+
+  .static-page-content {
+    color: #334155;
+    font-size: 1.0625rem;
+    line-height: 1.8;
+  }
+
+  .static-page-content > :first-child {
+    margin-top: 0;
+  }
+
+  .static-page-content p {
+    margin: 0 0 1.35rem;
+  }
+
+  .static-page-content h2 {
+    margin: 3rem 0 1rem;
+    color: #0f172a;
+    font-size: clamp(1.625rem, 3vw, 2rem);
+    font-weight: 800;
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+  }
+
+  .static-page-content h3 {
+    margin: 2rem 0 0.75rem;
+    color: #0f172a;
+    font-size: 1.3rem;
+    font-weight: 750;
+    line-height: 1.35;
+  }
+
+  .static-page-content ul,
+  .static-page-content ol {
+    margin: 0 0 1.5rem;
+    padding-left: 1.5rem;
+  }
+
+  .static-page-content ul {
+    list-style: disc;
+  }
+
+  .static-page-content ol {
+    list-style: decimal;
+  }
+
+  .static-page-content li {
+    margin-bottom: 0.6rem;
+    padding-left: 0.2rem;
+  }
+
+  .static-page-content a {
+    color: #2563eb;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .static-page-content a:hover {
+    color: #1d4ed8;
+  }
+
+  .static-page-panel {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 1px solid #dbeafe;
+    border-radius: 1rem;
+    background: #eff6ff;
+  }
+
+  .static-page-panel h2,
+  .static-page-panel h3 {
+    margin-top: 0;
+  }
+
+  .static-page-panel > :last-child {
+    margin-bottom: 0;
+  }
+
+  .static-page-grid {
+    display: grid;
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .static-page-card {
+    padding: 1.25rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.875rem;
+    background: #ffffff;
+  }
+
+  .static-page-card h3 {
+    margin-top: 0;
+  }
+
+  .static-page-card > :last-child {
+    margin-bottom: 0;
+  }
+
+  @media (min-width: 700px) {
+    .static-page-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 640px) {
+    .static-page-shell {
+      width: min(calc(100% - 1.25rem), 820px);
+      padding-block: 2rem 4rem;
+    }
+
+    .static-page-header {
+      margin-bottom: 2.25rem;
+      padding-bottom: 2rem;
+    }
+
+    .static-page-header h1 {
+      font-size: 2.25rem;
+    }
+
+    .static-page-content {
+      font-size: 1rem;
+      line-height: 1.75;
+    }
+
+    .static-page-content h2 {
+      margin-top: 2.5rem;
+    }
+  }
+</style>

@@ -7,19 +7,29 @@ import { SITE } from "@/config/site";
   <Container>
     <div class="py-12">
 
-      <div class="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr]">
+      <div
+        class="grid gap-10 md:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr_1.25fr]"
+      >
 
         <div>
-          <h2 class="text-xl font-bold text-slate-900">
+          <a
+            href="/"
+            class="text-xl font-bold text-slate-900"
+            aria-label={`${SITE.name} — Beranda`}
+          >
             {SITE.name}
-          </h2>
+          </a>
 
           <p class="mt-3 max-w-md leading-7 text-slate-600">
             {SITE.description}
           </p>
+
+          <p class="mt-4 text-sm leading-6 text-slate-500">
+            Panduan AI praktis untuk pembaca Indonesia.
+          </p>
         </div>
 
-        <nav aria-label="Navigasi footer">
+        <nav aria-label="Navigasi utama footer">
           <h2 class="font-semibold text-slate-900">
             Jelajahi
           </h2>
@@ -30,7 +40,7 @@ import { SITE } from "@/config/site";
                 <li>
                   <a
                     href={item.href}
-                    class="text-slate-600 transition-colors hover:text-blue-600"
+                    class="text-slate-600 transition-colors hover:text-blue-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2"
                   >
                     {item.label}
                   </a>
@@ -40,9 +50,30 @@ import { SITE } from "@/config/site";
           </ul>
         </nav>
 
-        <nav aria-label="Informasi dan kebijakan">
+        <nav aria-label="Informasi perusahaan">
           <h2 class="font-semibold text-slate-900">
-            Informasi
+            Tentang
+          </h2>
+
+          <ul class="mt-4 space-y-3">
+            {
+              SITE.companyNavigation.map((item) => (
+                <li>
+                  <a
+                    href={item.href}
+                    class="text-slate-600 transition-colors hover:text-blue-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2"
+                  >
+                    {item.label}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+
+        <nav aria-label="Kebijakan dan transparansi">
+          <h2 class="font-semibold text-slate-900">
+            Kebijakan
           </h2>
 
           <ul class="mt-4 space-y-3">
@@ -51,7 +82,7 @@ import { SITE } from "@/config/site";
                 <li>
                   <a
                     href={item.href}
-                    class="text-slate-600 transition-colors hover:text-blue-600"
+                    class="text-slate-600 transition-colors hover:text-blue-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2"
                   >
                     {item.label}
                   </a>
@@ -64,9 +95,18 @@ import { SITE } from "@/config/site";
       </div>
 
       <div
-        class="mt-10 border-t border-slate-200 pt-6 text-sm text-slate-500"
+        class="mt-10 flex flex-col gap-3 border-t border-slate-200 pt-6 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between"
       >
-        © {new Date().getFullYear()} {SITE.name}. Hak cipta dilindungi.
+        <p>
+          © {new Date().getFullYear()} {SITE.name}. Hak cipta dilindungi.
+        </p>
+
+        <a
+          href={`mailto:${SITE.contactEmail}`}
+          class="transition-colors hover:text-blue-600"
+        >
+          {SITE.contactEmail}
+        </a>
       </div>
 
     </div>

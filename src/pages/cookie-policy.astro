@@ -1,0 +1,195 @@
+---
+import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
+import { SITE } from "@/config/site";
+
+const contactEmail = SITE.contactEmail;
+---
+
+<StaticPageLayout
+  title="Kebijakan Cookie | AI Praktis Indonesia"
+  heading="Kebijakan Cookie"
+  description="Penjelasan mengenai penggunaan cookies dan teknologi serupa pada website AI Praktis Indonesia."
+  eyebrow="Legal"
+  updatedDate="2026-07-10"
+  pageType="WebPage"
+>
+
+  <p>
+    Kebijakan Cookie ini menjelaskan bagaimana AI Praktis Indonesia dan
+    layanan pihak ketiga menggunakan cookies serta teknologi serupa saat
+    Anda mengakses website.
+  </p>
+
+  <h2>Apa Itu Cookie?</h2>
+
+  <p>
+    Cookie adalah file data berukuran kecil yang dapat disimpan oleh
+    browser ketika Anda mengunjungi website. Cookie dapat digunakan
+    untuk menjalankan fungsi tertentu, mengingat pilihan, membedakan
+    sesi, mengukur penggunaan, dan mendukung penayangan iklan.
+  </p>
+
+  <p>
+    Teknologi serupa dapat mencakup penyimpanan lokal, pixel, tag, web
+    beacon, dan pengenal perangkat atau browser.
+  </p>
+
+  <h2>Kategori Cookie yang Dapat Digunakan</h2>
+
+  <h3>Cookie yang diperlukan</h3>
+
+  <p>
+    Cookie atau penyimpanan teknis tertentu dapat diperlukan untuk
+    keamanan, pengiriman halaman, dan fungsi dasar website.
+  </p>
+
+  <h3>Cookie analitik</h3>
+
+  <p>
+    Cookie analitik membantu memahami jumlah kunjungan, sumber trafik,
+    halaman yang dibuka, perangkat yang digunakan, dan pola interaksi
+    secara umum.
+  </p>
+
+  <p>
+    Website ini menggunakan Google Analytics dan Microsoft Clarity untuk
+    tujuan pengukuran serta peningkatan pengalaman pengguna.
+  </p>
+
+  <h3>Cookie periklanan</h3>
+
+  <p>
+    Apabila layanan iklan seperti Google AdSense diaktifkan, Google dan
+    vendor pihak ketiga dapat menggunakan cookie untuk menayangkan,
+    membatasi, mengukur, atau menyesuaikan iklan.
+  </p>
+
+  <p>
+    Cookie periklanan dapat mempertimbangkan kunjungan pengguna ke
+    website ini dan website lain, tergantung pada pilihan privasi dan
+    konfigurasi layanan yang berlaku.
+  </p>
+
+  <h2>Layanan Pihak Ketiga</h2>
+
+  <h3>Google Analytics</h3>
+
+  <p>
+    Google Analytics dapat menggunakan cookie seperti
+    <code>_ga</code> untuk membedakan pengguna dan sesi serta menghasilkan
+    laporan penggunaan website.
+  </p>
+
+  <p>
+    Informasi selengkapnya tersedia dalam
+    <a
+      href="https://policies.google.com/privacy"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Kebijakan Privasi Google
+    </a>.
+  </p>
+
+  <h3>Microsoft Clarity</h3>
+
+  <p>
+    Microsoft Clarity dapat menggunakan cookie dengan pengenal pseudonim
+    untuk menghubungkan tampilan halaman dan data interaksi, termasuk
+    data yang digunakan untuk heatmap dan rekaman sesi.
+  </p>
+
+  <p>
+    Informasi lebih lanjut tersedia dalam
+    <a
+      href="https://privacy.microsoft.com/privacystatement"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Pernyataan Privasi Microsoft
+    </a>.
+  </p>
+
+  <h3>Google AdSense</h3>
+
+  <p>
+    Ketika Google AdSense digunakan, Google dan mitra periklanannya dapat
+    menggunakan cookie atau teknologi serupa untuk penayangan,
+    pengukuran, pencegahan penyalahgunaan, dan personalisasi iklan.
+  </p>
+
+  <p>
+    Pilihan personalisasi iklan dapat dikelola melalui
+    <a
+      href="https://adssettings.google.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      Pengaturan Iklan Google
+    </a>.
+  </p>
+
+  <h2>Cara Mengelola Cookie</h2>
+
+  <p>
+    Sebagian besar browser memungkinkan Anda melihat, menghapus,
+    memblokir, atau membatasi cookie melalui pengaturan privasi browser.
+  </p>
+
+  <p>
+    Memblokir seluruh cookie dapat memengaruhi fungsi website atau
+    layanan tertentu. Langkah pengelolaan cookie berbeda pada setiap
+    browser dan perangkat.
+  </p>
+
+  <p>
+    Google menyediakan
+    <a
+      href="https://tools.google.com/dlpage/gaoptout"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      add-on browser untuk menonaktifkan Google Analytics
+    </a>.
+  </p>
+
+  <h2>Persetujuan untuk Wilayah Tertentu</h2>
+
+  <p>
+    Untuk pengguna dari wilayah yang mewajibkan persetujuan sebelum
+    penggunaan cookie non-esensial, website dapat menampilkan mekanisme
+    persetujuan atau pengelolaan pilihan privasi.
+  </p>
+
+  <p>
+    Pilihan yang tersedia dapat berbeda berdasarkan lokasi pengguna,
+    layanan yang aktif, dan ketentuan hukum yang berlaku.
+  </p>
+
+  <h2>Perubahan Kebijakan</h2>
+
+  <p>
+    Kebijakan Cookie dapat diperbarui apabila terdapat perubahan pada
+    teknologi, penyedia layanan, penggunaan iklan, atau ketentuan hukum.
+  </p>
+
+  <p>
+    Tanggal pembaruan terbaru akan ditampilkan pada bagian atas halaman.
+  </p>
+
+  <h2>Hubungi Kami</h2>
+
+  <p>
+    Pertanyaan mengenai penggunaan cookie dapat dikirimkan melalui:
+  </p>
+
+  <div class="static-page-panel">
+    <p>
+      Email:
+      <a href={`mailto:${contactEmail}`}>
+        {contactEmail}
+      </a>
+    </p>
+  </div>
+
+</StaticPageLayout>
