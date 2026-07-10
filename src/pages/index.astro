@@ -1,6 +1,7 @@
 ---
-import Layout from "@/layouts/Layout.astro";
 import { getCollection } from "astro:content";
+
+import BaseLayout from "@/layouts/BaseLayout.astro";
 
 import HeroSection from "@/components/home/HeroSection.astro";
 import CategoryGrid from "@/components/home/CategoryGrid.astro";
@@ -11,13 +12,38 @@ import ComparisonSection from "@/components/home/ComparisonSection.astro";
 import LeadMagnet from "@/components/home/LeadMagnet.astro";
 import CTASection from "@/components/home/CTASection.astro";
 
-const posts = await getCollection("blog");
+const posts = await getCollection(
+  "blog",
+  ({ data }) => !data.draft
+);
+
+const homepageUrl =
+  "https://www.aipraktis.co.id/";
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": `${homepageUrl}#organization`,
+  name: "AI Praktis Indonesia",
+  url: homepageUrl,
+  logo: {
+    "@type": "ImageObject",
+    url: `${homepageUrl}og-image.jpg`,
+  },
+};
 ---
 
-<Layout
-  title="AI Praktis Indonesia - Belajar AI & Hasilkan Uang dengan AI"
-  description="Tutorial AI, ChatGPT, Claude, Gemini, AI Tools, Prompt Engineering, dan cara menghasilkan uang dengan AI"
+<BaseLayout
+  title="AI Praktis Indonesia — Belajar AI dan Hasilkan Uang dengan AI"
+  description="Tutorial AI, ChatGPT, Claude, Gemini, AI Tools, Prompt Engineering, dan strategi praktis memanfaatkan AI untuk pekerjaan, bisnis, pendidikan, dan content creator."
+  canonical={homepageUrl}
 >
+
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify(organizationSchema)}
+  />
 
   <HeroSection />
 
@@ -35,4 +61,4 @@ const posts = await getCollection("blog");
 
   <CTASection />
 
-</Layout>
+</BaseLayout>

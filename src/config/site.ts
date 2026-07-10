@@ -11,11 +11,45 @@ export const SITE = {
   lang: "id",
 
   navigation: [
-    { label: "Home", href: "/" },
-    { label: "Blog", href: "/blog" },
-    { label: "AI Tools", href: "/ai-tools" },
-    { label: "Prompts", href: "/prompts" },
-    { label: "Templates", href: "/templates" },
+    {
+      label: "Beranda",
+      href: "/",
+    },
+    {
+      label: "Blog",
+      href: "/blog/",
+    },
+    {
+      label: "Belajar AI",
+      href: "/belajar-ai/",
+    },
+    {
+      label: "AI Tools",
+      href: "/ai-tools/",
+    },
+    {
+      label: "Prompt Engineering",
+      href: "/prompt-engineering/",
+    },
+  ],
+
+  legalNavigation: [
+    {
+      label: "Tentang",
+      href: "/tentang/",
+    },
+    {
+      label: "Kontak",
+      href: "/kontak/",
+    },
+    {
+      label: "Kebijakan Privasi",
+      href: "/privacy-policy/",
+    },
+    {
+      label: "Disclaimer",
+      href: "/disclaimer/",
+    },
   ],
 
   social: {},

@@ -1,5 +1,4 @@
 ---
-
 import BlogBreadcrumb from "./BlogBreadcrumb.astro";
 import BlogReadingTime from "./BlogReadingTime.astro";
 
@@ -24,6 +23,16 @@ const {
   author = "AI Praktis Indonesia",
   readingTime,
 } = Astro.props;
+
+const dateFormat: Intl.DateTimeFormatOptions = {
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+};
+
+const categoryLabel = category
+  ?.replaceAll("-", " ")
+  .replace(/\b\w/g, (letter) => letter.toUpperCase());
 ---
 
 <BlogBreadcrumb
@@ -31,66 +40,70 @@ const {
   category={category}
 />
 
----
-
 <header class="article-hero">
 
-  {category && (
-    <div class="article-meta">
-      <span class="article-category">
-        {category}
-      </span>
-    </div>
-  )}
+  {
+    categoryLabel && (
+      <div class="article-meta">
+        <span class="article-category">
+          {categoryLabel}
+        </span>
+      </div>
+    )
+  }
 
   <h1>{title}</h1>
 
-  {description && (
-    <p class="article-description">
-      {description}
-    </p>
-  )}
+  {
+    description && (
+      <p class="article-description">
+        {description}
+      </p>
+    )
+  }
 
   <div class="article-info">
 
-    {pubDate && (
-      <span>
-        📅 {pubDate.toLocaleDateString("id-ID")}
-      </span>
-    )}
+    {
+      pubDate && (
+        <time datetime={pubDate.toISOString()}>
+          Terbit {pubDate.toLocaleDateString("id-ID", dateFormat)}
+        </time>
+      )
+    }
 
-    {updatedDate && (
-      <span>
-        • Update {updatedDate.toLocaleDateString("id-ID")}
-      </span>
-    )}
+    {
+      updatedDate && (
+        <time datetime={updatedDate.toISOString()}>
+          Diperbarui {updatedDate.toLocaleDateString("id-ID", dateFormat)}
+        </time>
+      )
+    }
 
     <span>
-      • {author}
+      Oleh {author}
     </span>
 
     {
-  readingTime && (
-    <BlogReadingTime
-      minutes={readingTime}
-    />
-  )
-}
+      readingTime && (
+        <BlogReadingTime minutes={readingTime} />
+      )
+    }
 
   </div>
 
-  {tags.length > 0 && (
-    <div class="article-tags">
-
-      {tags.map(tag => (
-
-        <span class="article-tag">
-          {tag}
-        </span>
-
-      ))}
-
-    </div>
-  )}
+  {
+    tags.length > 0 && (
+      <div class="article-tags">
+        {
+          tags.map((tag) => (
+            <span class="article-tag">
+              {tag}
+            </span>
+          ))
+        }
+      </div>
+    )
+  }
 
 </header>

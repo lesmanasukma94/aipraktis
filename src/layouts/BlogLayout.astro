@@ -1,81 +1,54 @@
 ---
 import BaseLayout from "./BaseLayout.astro";
 import BlogHero from "@/components/blog/BlogHero.astro";
-import BlogReadingTime from "@/components/blog/BlogReadingTime.astro";
 
 export interface Props {
-
   title: string;
-
   description?: string;
-
   pubDate?: Date;
-
   updatedDate?: Date;
-
   category?: string;
-
   tags?: string[];
-
   author?: string;
-
   readingTime?: number;
-
 }
 
 const {
   title,
   description,
-
   pubDate,
   updatedDate,
-
   category,
-
   tags = [],
-
   author = "AI Praktis Indonesia",
-
   readingTime = 5,
-
 } = Astro.props;
-
 ---
 
 <BaseLayout
   title={title}
   description={description}
 >
+  <Fragment slot="head">
+    <slot name="head" />
+  </Fragment>
 
-  <!--
-    H1 artikel dibuat DI SINI melalui BlogHero.
-    Jangan lagi membuat "# Judul" di dalam file Markdown.
-  -->
+  <article class="article-shell">
 
-<article class="mx-auto max-w-4xl px-6 py-12">
+    <BlogHero
+      title={title}
+      description={description}
+      pubDate={pubDate}
+      updatedDate={updatedDate}
+      category={category}
+      tags={tags}
+      author={author}
+      readingTime={readingTime}
+    />
 
-  <BlogHero
+    <div class="article-content">
+      <slot />
+    </div>
 
-    title={title}
-
-    description={description}
-
-    pubDate={pubDate}
-
-    updatedDate={updatedDate}
-
-    category={category}
-
-    tags={tags}
-
-    author={author}
-
-    readingTime={readingTime}
-
-  />
-
-  <slot />
-
-</article>
-
+  </article>
 </BaseLayout>
