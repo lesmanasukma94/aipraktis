@@ -342,6 +342,10 @@ Biasanya karena prompt terlalu umum atau kurang memberikan konteks.
 
 Jelaskan tujuan, konteks, target audiens, format hasil, dan gaya bahasa yang diinginkan.
 
+Jika Anda ingin membuat prompt yang lebih konsisten, baca juga [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/) untuk memahami format prompt yang bisa digunakan berulang kali.
+
+Jika Anda masih baru mengenal konsep prompt, mulai dari panduan [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/) untuk memahami dasar, struktur, contoh, dan teknik awal sebelum masuk ke praktik yang lebih spesifik.
+
 Setelah memahami dasar-dasar membuat prompt, praktikkan langsung menggunakan [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) agar Anda terbiasa berinteraksi dengan AI chatbot.
 
 ## Jelajahi Panduan AI Lainnya

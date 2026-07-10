@@ -700,6 +700,8 @@ Dengan memahami cara kerja, fitur, kelebihan, dan keterbatasannya, Anda dapat me
 
 ---
 
+Agar hasil ChatGPT lebih relevan, pelajari juga [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/) untuk memahami cara memberi instruksi yang jelas, kontekstual, dan siap pakai.
+
 Jika Anda ingin melihat posisi Claude dibandingkan AI chatbot lain, baca artikel [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) sebagai panduan memilih tools sesuai kebutuhan.
 
 ## Artikel Terkait

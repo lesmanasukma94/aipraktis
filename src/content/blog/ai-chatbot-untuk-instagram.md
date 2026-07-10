@@ -1115,6 +1115,8 @@ Jika digunakan dengan strategi yang benar, AI chatbot Instagram dapat menjadi ba
 
 ---
 
+Selain Instagram, YouTube juga bisa menjadi sumber lead dan komunitas. Pelajari [AI Chatbot untuk YouTube](/blog/ai-chatbot-untuk-youtube/) untuk membuat funnel dari video, komentar, live chat, dan landing page.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

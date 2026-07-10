@@ -279,6 +279,8 @@ Kunci utama untuk mendapatkan hasil terbaik adalah memberikan prompt yang jelas,
 
 Jika Anda baru mulai mengenal dunia AI, ChatGPT adalah salah satu tempat terbaik untuk memulai perjalanan tersebut.
 
+Agar hasil ChatGPT tidak terlalu umum, pelajari [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/) untuk membuat prompt dengan konteks, format, gaya bahasa, dan batasan yang jelas.
+
 Setelah memahami dasar-dasar ChatGPT, baca juga artikel 
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) untuk membandingkan ChatGPT dengan Claude, Gemini, Copilot, Perplexity, Grok, dan DeepSeek.
 - [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) untuk melihat cara menggunakan AI dalam marketing, sales, customer service, dan operasional bisnis.
@@ -295,8 +297,7 @@ Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga 
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/) sebagai alternatif AI chatbot yang unggul dalam memahami dokumen panjang dan menghasilkan tulisan yang natural.
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/) untuk mengenal alternatif chatbot AI dengan gaya percakapan yang natural.
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) untuk memahami fitur dan cara menggunakannya.
-
-Jika Anda menggunakan produk Microsoft setiap hari, baca juga panduan [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/) untuk mengenal chatbot AI yang terintegrasi dengan Microsoft 365.
+- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/) untuk mengenal chatbot AI yang terintegrasi dengan Microsoft 365.
 
 ## FAQ
 

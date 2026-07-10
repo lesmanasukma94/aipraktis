@@ -196,6 +196,10 @@ Tidak. Siapa pun dapat memanfaatkan teknik ini, termasuk pelajar, karyawan, UMKM
 
 Tidak selalu. Yang terpenting adalah jelas dan relevan.
 
+Untuk fondasi awal sebelum mempelajari teknik lanjutan, baca dulu [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/) yang membahas pengertian, struktur prompt, framework sederhana, dan contoh prompt dasar.
+
+Sebelum masuk ke teknik prompting yang lebih lanjut, pastikan Anda memahami [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/) agar setiap instruksi kepada AI lebih jelas dan terarah.
+
 ## Artikel Terkait
 
 * [Prompt Engineer](/blog/prompt-engineer/)

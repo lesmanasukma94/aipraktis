@@ -131,6 +131,8 @@ Content creator yang ingin mengubah followers menjadi database audiens dapat mem
 
 Content creator yang ingin mengubah views TikTok menjadi database audiens dapat membaca panduan [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk membuat automation, lead magnet, dan funnel produk digital.
 
+Content creator yang ingin mengubah penonton menjadi aset jangka panjang dapat membaca panduan [AI Chatbot untuk YouTube](/blog/ai-chatbot-untuk-youtube/) untuk membangun funnel dari video ke newsletter, komunitas, produk digital, atau konsultasi.
+
 Dengan demikian creator dapat lebih konsisten dalam membuat konten.
 
 ## Tools AI yang Populer untuk Content Creator

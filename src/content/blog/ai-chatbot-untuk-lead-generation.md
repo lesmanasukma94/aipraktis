@@ -851,6 +851,14 @@ Untuk menangkap lead dari media sosial, pelajari juga panduan [AI Chatbot untuk 
 
 TikTok dapat menjadi sumber lead yang kuat jika memiliki funnel yang jelas. Baca panduan [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk membuat flow komentar, DM, lead capture, dan follow-up.
 
+YouTube dapat menjadi sumber lead jangka panjang jika memiliki CTA dan funnel yang jelas. Baca panduan [AI Chatbot untuk YouTube](/blog/ai-chatbot-untuk-youtube/) untuk membuat alur dari video ke landing page, email, WhatsApp, atau CRM.
+
+Setelah lead berhasil dikumpulkan, email dapat digunakan untuk nurturing dan follow-up. Pelajari panduan [AI Chatbot untuk Email](/blog/ai-chatbot-untuk-email/) untuk membuat sequence email yang lebih efektif.
+
+Landing page adalah salah satu tempat terbaik untuk menangkap lead. Pelajari panduan [AI Chatbot untuk Landing Page](/blog/ai-chatbot-untuk-landing-page/) agar flow chatbot, CTA, dan kualifikasi prospek lebih terstruktur.
+
+Setelah lead berhasil dikumpulkan, data perlu dikelola agar tidak hilang. Baca panduan [AI Chatbot untuk CRM](/blog/ai-chatbot-untuk-crm/) untuk memahami cara menyimpan lead, membuat scoring, pipeline, dan follow-up yang lebih rapi.
+
 # FAQ
 
 ## Apa itu AI chatbot untuk lead generation?

@@ -756,29 +756,34 @@ Yang terpenting, gunakan AI chatbot untuk membantu pengunjung mengambil langkah 
 
 Semakin mudah pengunjung mendapatkan jawaban, semakin besar peluang mereka menjadi lead, pelanggan, atau pembeli.
 
+Sebelum memasang chatbot di website, baca dulu panduan [Cara Memilih AI Chatbot](/blog/cara-memilih-ai-chatbot/) agar tools yang dipilih sesuai dengan tujuan website, lead capture, customer service, dan budget.
+
+Sebelum memasang chatbot di website, baca [Kesalahan Menggunakan AI Chatbot](/blog/kesalahan-menggunakan-ai-chatbot/) agar flow, FAQ, data lead, dan handoff ke admin lebih aman.
+
 ---
 
 # Artikel Terkait
 
 Pelajari juga panduan berikut:
 
-- [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
-- [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/)
-- [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
-- [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/)
-- [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
-- [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)
-- [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
-- [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/)
-- [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
-- [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
-- [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
-- [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
-- [Perplexity AI untuk Pemula](/blog/perplexity-ai-untuk-pemula/)
-- [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
-- [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
+- [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) 
+- [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) 
+- [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/) 
+- [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) 
+- [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) 
+- [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) 
+- [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/) 
+- [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/) 
+- [AI Chatbot untuk Landing Page](/blog/ai-chatbot-untuk-landing-page/)  
+- [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/) 
+- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/) 
+- [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/) 
+- [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/) 
+- [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/) 
+- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/) 
+- [Perplexity AI untuk Pemula](/blog/perplexity-ai-untuk-pemula/) 
+- [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/) 
+- [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/) 
 
 ---
 
