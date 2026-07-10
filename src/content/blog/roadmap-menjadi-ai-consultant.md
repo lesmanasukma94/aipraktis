@@ -281,28 +281,23 @@ Mendampingi proses transformasi digital.
 
 Semakin banyak praktik nyata, semakin cepat berkembang.
 
-## Berapa Penghasilan AI Consultant?
+## Potensi Pendapatan AI Consultant
 
-Potensi penghasilan sangat bervariasi.
+Pendapatan AI consultant berbeda-beda karena model pekerjaannya dapat berupa karyawan, freelancer, kontraktor, pemilik agensi, atau penasihat bisnis.
 
-### Konsultan Pemula
+### Tahap Awal
 
-Rp5 juta – Rp15 juta per bulan
+Pada tahap awal, fokus utama adalah membangun kompetensi, studi kasus, portofolio, dan kepercayaan calon klien. Pendapatan proyek dapat belum stabil.
 
-### Konsultan Menengah
+### Konsultan Berkembang
 
-Rp15 juta – Rp50 juta per bulan
+Konsultan yang mulai memiliki spesialisasi dan rekam jejak dapat menawarkan audit, strategi implementasi, pelatihan, atau pendampingan dengan cakupan yang lebih besar.
 
 ### Konsultan Profesional
 
-Rp50 juta – Rp100 juta+ per bulan
+Konsultan berpengalaman dapat menangani proyek bernilai lebih tinggi atau bekerja dengan beberapa klien. Namun, pendapatan bergantung pada reputasi, kemampuan menjual layanan, kompleksitas proyek, anggaran klien, durasi kerja, dan biaya operasional.
 
-Pendapatan bergantung pada:
-
-* Jumlah klien
-* Pengalaman
-* Reputasi
-* Hasil yang diberikan
+Tidak ada jaminan bahwa mengikuti roadmap ini akan menghasilkan klien atau tingkat pendapatan tertentu.
 
 ## Kesalahan yang Harus Dihindari
 

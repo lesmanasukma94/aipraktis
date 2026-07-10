@@ -217,7 +217,7 @@ Tidak. Cursor membantu meningkatkan produktivitas, tetapi keputusan desain siste
 Baca juga:
 
 - [Tools AI untuk Programmer](/blog/tools-ai-untuk-programmer/)
-- [Cara Belajar Coding dengan AI](/blog/cara-belajar-coding-dengan-ai/)
+- [Tools AI untuk Coding](/blog/tools-ai-untuk-coding/)
 - [Cara Membuat Aplikasi dengan AI](/blog/cara-membuat-aplikasi-dengan-ai/)
 - [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-ai/)
 - [Cara Membuat SaaS AI](/blog/cara-membuat-saas-ai/)

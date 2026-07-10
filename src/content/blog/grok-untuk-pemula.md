@@ -141,7 +141,7 @@ Untuk menghasilkan ide konten, membuat outline video, menyusun caption media sos
 
 Untuk menjelaskan kode, membantu memahami algoritma, serta memberikan contoh implementasi sederhana.
 
-Jika pekerjaan Anda banyak berhubungan dengan pemrograman, Anda juga dapat membaca artikel [Cursor AI](/blog/cursor-ai/) dan [GitHub Copilot](/blog/github-copilot/).
+Jika pekerjaan Anda banyak berhubungan dengan pemrograman, Anda juga dapat membaca artikel [Cursor AI](/blog/cara-menggunakan-cursor-ai/) dan [GitHub Copilot](/blog/cara-menggunakan-github-copilot/).
 
 ---
 

@@ -262,7 +262,7 @@ Baca juga:
 
 - [Cara Menggunakan Cursor AI](/blog/cara-menggunakan-cursor-ai/)
 - [Tools AI untuk Programmer](/blog/tools-ai-untuk-programmer/)
-- [Cara Belajar Coding dengan AI](/blog/cara-belajar-coding-dengan-ai/)
+- [Tools AI untuk Coding](/blog/tools-ai-untuk-coding/)
 - [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-ai/)
 - [Cara Membuat SaaS AI](/blog/cara-membuat-saas-ai/)
 - [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)

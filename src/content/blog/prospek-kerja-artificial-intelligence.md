@@ -133,23 +133,23 @@ Mengelola dan mengoptimalkan konten yang dibuat menggunakan AI.
 
 Membangun workflow dan otomatisasi berbasis AI.
 
-## Gaji Profesi AI
+## Gaji dan Penghasilan di Bidang AI
 
-Besarnya gaji bergantung pada pengalaman dan lokasi.
+Gaji di bidang artificial intelligence tidak memiliki satu angka yang berlaku untuk semua orang. Nilainya dapat berbeda berdasarkan:
 
-### Entry Level
+- posisi dan tanggung jawab;
+- pengalaman kerja;
+- kemampuan teknis dan nonteknis;
+- lokasi perusahaan dan pekerja;
+- ukuran dan industri perusahaan;
+- status karyawan, kontraktor, konsultan, atau freelancer;
+- tingkat permintaan terhadap keahlian tertentu.
 
-Rp5 juta – Rp12 juta per bulan
+Posisi pemula biasanya memiliki tanggung jawab yang lebih terbatas dan bekerja di bawah arahan tim yang lebih berpengalaman. Pada tingkat menengah, nilai profesional meningkat seiring kemampuan menangani proyek dan menyelesaikan masalah secara mandiri.
 
-### Mid Level
+Pada tingkat senior, kompensasi dapat meningkat karena tanggung jawab kepemimpinan, arsitektur sistem, pengambilan keputusan, dan dampak bisnis. Konsultan dan freelancer dapat menetapkan tarif berbeda, tetapi juga menghadapi ketidakpastian proyek dan biaya operasional sendiri.
 
-Rp12 juta – Rp30 juta per bulan
-
-### Senior Level
-
-Rp30 juta – Rp100 juta+ per bulan
-
-Untuk konsultan dan freelancer, penghasilan dapat jauh lebih tinggi.
+Untuk mengetahui kisaran terbaru, periksa lowongan kerja, laporan kompensasi, dan platform rekrutmen yang relevan dengan lokasi serta posisi yang Anda incar. Angka gaji dapat berubah dari waktu ke waktu dan tidak menjamin pendapatan seseorang.
 
 ## Skill yang Dibutuhkan di Bidang AI
 

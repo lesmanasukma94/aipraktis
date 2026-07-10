@@ -144,8 +144,8 @@ Microsoft Copilot juga banyak dimanfaatkan untuk membantu memahami kode, menjela
 
 Untuk AI yang lebih fokus pada pengembangan perangkat lunak, baca juga:
 
-- [Cursor AI](/blog/cursor-ai/)
-- [GitHub Copilot](/blog/github-copilot/)
+- [Cursor AI](/blog/cara-menggunakan-cursor-ai/)
+- [GitHub Copilot](/blog/cara-menggunakan-github-copilot/)
 
 ---
 
@@ -311,8 +311,8 @@ Microsoft Copilot dapat membantu memahami konsep pemrograman, menjelaskan kode, 
 
 Namun, untuk pengembangan perangkat lunak secara intensif, Anda juga dapat mempertimbangkan:
 
-- [Cursor AI](/blog/cursor-ai/)
-- [GitHub Copilot](/blog/github-copilot/)
+- [Cursor AI](/blog/cara-menggunakan-cursor-ai/)
+- [GitHub Copilot](/blog/cara-menggunakan-github-copilot/)
 
 ---
 
@@ -734,8 +734,8 @@ Jika Anda ingin mengenal chatbot AI lainnya, baca juga artikel berikut.
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
-- [Cursor AI](/blog/cursor-ai/)
-- [GitHub Copilot](/blog/github-copilot/)
+- [Cursor AI](/blog/cara-menggunakan-cursor-ai/)
+- [GitHub Copilot](/blog/cara-menggunakan-github-copilot/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 
 ---

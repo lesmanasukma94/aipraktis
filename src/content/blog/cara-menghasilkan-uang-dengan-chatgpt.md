@@ -247,21 +247,23 @@ Setelah memiliki pengalaman:
 
 Kemudian bangun bisnis berbasis AI.
 
-## Berapa Penghasilan dari ChatGPT?
+## Berapa Penghasilan yang Bisa Diperoleh?
 
-Sangat bervariasi.
+Tidak ada angka penghasilan yang dapat dijamin hanya karena seseorang menggunakan ChatGPT. ChatGPT merupakan alat bantu, sedangkan nilai ekonomi tetap berasal dari keterampilan, pengalaman, kualitas pekerjaan, kemampuan mendapatkan klien, dan masalah yang berhasil diselesaikan.
 
-### Pemula
+### Tahap Awal
 
-Rp500 ribu – Rp5 juta per bulan
+Pada tahap awal, penghasilan biasanya berasal dari proyek kecil sambil membangun portofolio dan mempelajari kebutuhan pasar. Pendapatan dapat tidak konsisten dan berbeda pada setiap orang.
 
-### Menengah
+### Tahap Berkembang
 
-Rp5 juta – Rp20 juta per bulan
+Setelah memiliki pengalaman, testimoni, dan spesialisasi yang lebih jelas, seseorang dapat meningkatkan tarif atau menawarkan layanan yang lebih kompleks.
 
-### Profesional
+### Tahap Profesional
 
-Rp20 juta – Rp100 juta+ per bulan
+Profesional yang memiliki reputasi, jaringan, proses kerja, dan sumber pendapatan yang beragam dapat memperoleh pendapatan lebih tinggi. Namun, hasilnya tetap dipengaruhi kondisi pasar, tingkat persaingan, waktu yang tersedia, dan kualitas layanan.
+
+ChatGPT tidak menjamin keuntungan, klien, pekerjaan, maupun tingkat pendapatan tertentu.
 
 Penghasilan bergantung pada:
 

@@ -3,7 +3,7 @@ title: "Claude untuk Pemula: Panduan Lengkap Menggunakan Claude AI untuk Belajar
 description: "Panduan lengkap Claude AI untuk pemula, mulai dari pengertian, fitur, cara menggunakan, kelebihan, kekurangan, hingga tips memaksimalkan Claude untuk belajar dan bekerja."
 pubDate: 2026-07-06
 author: "AI Praktis Indonesia"
-category: "AI Chatbot"
+category: "ai-chatbot"
 tags:
   - Claude AI
   - AI Chatbot
@@ -324,7 +324,7 @@ Claude mampu membantu developer dalam berbagai aktivitas seperti:
 - mengoptimalkan algoritma,
 - membuat dokumentasi.
 
-Untuk kebutuhan coding yang lebih spesifik, Anda juga dapat membaca artikel [Cursor AI](/blog/cursor-ai/) dan [GitHub Copilot](/blog/github-copilot/) yang membahas AI khusus untuk pengembangan perangkat lunak.
+Untuk kebutuhan coding yang lebih spesifik, Anda juga dapat membaca artikel [Cursor AI](/blog/cara-menggunakan-cursor-ai/) dan [GitHub Copilot](/blog/cara-menggunakan-github-copilot/) yang membahas AI khusus untuk pengembangan perangkat lunak.
 
 ---
 

@@ -74,7 +74,7 @@ DeepSeek dapat membantu:
 
 Karena itu, banyak developer menjadikan DeepSeek sebagai asisten ketika belajar maupun bekerja.
 
-Jika fokus Anda adalah AI khusus untuk pengembangan perangkat lunak, baca juga artikel [Cursor AI](/blog/cursor-ai/) dan [GitHub Copilot](/blog/github-copilot/).
+Jika fokus Anda adalah AI khusus untuk pengembangan perangkat lunak, baca juga artikel [Cursor AI](/blog/cara-menggunakan-cursor-ai/) dan [GitHub Copilot](/blog/cara-menggunakan-github-copilot/).
 
 ### 3. Mudah Digunakan
 

@@ -5,7 +5,7 @@ pubDate: "2026-07-07"
 updatedDate:
 author: "AI Praktis Indonesia"
 
-category: "AI Chatbot"
+category: "ai-chatbot"
 tags:
   - Claude
   - Claude Pro

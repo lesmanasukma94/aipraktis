@@ -268,15 +268,17 @@ Idealnya kombinasikan beberapa model sekaligus.
 
 ### Tahap Awal
 
-Rp5 juta – Rp20 juta per bulan
+Pada tahap awal, pendapatan agensi biasanya belum stabil. Fokus utamanya adalah mendapatkan klien pertama, membangun portofolio, menguji layanan, dan memahami biaya operasional.
 
 ### Tahap Berkembang
 
-Rp20 juta – Rp100 juta per bulan
+Setelah memiliki beberapa klien dan proses kerja yang lebih terstruktur, agensi dapat mulai memperoleh pendapatan berulang dari proyek, retainer, pemeliharaan sistem, atau layanan konsultasi.
 
 ### Agensi Mapan
 
-Rp100 juta – Rp500 juta+ per bulan
+Agensi yang memiliki tim, sistem penjualan, reputasi, dan basis klien yang kuat berpotensi menangani proyek dengan nilai lebih besar. Namun, pendapatan kotor tidak sama dengan keuntungan karena masih ada biaya tenaga kerja, software, pemasaran, pajak, dan operasional.
+
+Pendapatan setiap agensi dapat berbeda secara signifikan. Tidak ada jaminan bahwa membangun agensi AI akan menghasilkan jumlah pendapatan tertentu.
 
 Pendapatan bergantung pada:
 

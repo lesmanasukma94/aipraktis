@@ -249,23 +249,23 @@ Banyak perusahaan membutuhkan pelatihan dasar.
 
 Membantu tim bekerja lebih cepat.
 
-## Berapa Penghasilan Freelancer AI?
+## Potensi Penghasilan Freelancer AI
 
-Penghasilan sangat bervariasi.
+Penghasilan freelancer AI sangat bervariasi. Besarnya pendapatan dipengaruhi oleh jenis layanan, pengalaman, lokasi klien, kompleksitas proyek, kemampuan pemasaran, dan jumlah waktu yang tersedia.
 
-### Pemula
+### Freelancer Pemula
 
-Rp1 juta – Rp5 juta per bulan
+Freelancer pemula biasanya mengerjakan proyek kecil untuk membangun portofolio, testimoni, dan pemahaman mengenai kebutuhan klien. Pada tahap ini, pendapatan dapat belum stabil.
 
-### Menengah
+### Freelancer Berkembang
 
-Rp5 juta – Rp20 juta per bulan
+Setelah memiliki keahlian dan hasil kerja yang terbukti, freelancer dapat memilih niche, meningkatkan tarif, dan membangun hubungan jangka panjang dengan klien.
 
-### Profesional
+### Freelancer Profesional
 
-Rp20 juta – Rp100 juta+ per bulan
+Freelancer berpengalaman dapat memperoleh pendapatan dari proyek, retainer, konsultasi, produk digital, atau pelatihan. Namun, pendapatan tinggi tidak terjadi secara otomatis dan tidak dapat dijamin.
 
-Banyak freelancer AI menggabungkan:
+Banyak freelancer AI menggabungkan beberapa sumber pendapatan, tetapi setiap model memiliki biaya, risiko, persaingan, dan kebutuhan keterampilan yang berbeda.
 
 * Jasa
 * Kursus

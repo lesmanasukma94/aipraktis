@@ -355,7 +355,7 @@ Karena itu, keterampilan yang paling penting bukan hanya menulis, tetapi juga me
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
-- [AI untuk Pekerja: Cara Meningkatkan Produktivitas dengan AI](/blog/ai-untuk-pekerja/)
+- [AI untuk Pekerja: Cara Meningkatkan Produktivitas dengan AI](/ai-pekerja/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 * [AI untuk Blogging](/blog/ai-untuk-blogging/)
 * [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)

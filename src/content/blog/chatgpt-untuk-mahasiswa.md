@@ -255,7 +255,7 @@ Mahasiswa yang memahami AI akan lebih siap menghadapi:
 * [Cara Merangkum Jurnal dengan ChatGPT](/blog/cara-merangkum-jurnal-dengan-chatgpt/)
 * [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-* [Belajar AI Tanpa Coding](/blog/belajar-ai-tanpa-coding/)
+* [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 
 ## Kesimpulan
 
