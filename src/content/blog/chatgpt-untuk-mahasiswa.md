@@ -50,6 +50,8 @@ Mahasiswa yang memahami AI memiliki beberapa keuntungan:
 
 AI bukan pengganti kemampuan berpikir, tetapi alat yang membantu proses belajar menjadi lebih efisien.
 
+Mahasiswa yang ingin memakai AI secara lebih terarah dapat membaca [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) untuk membuat rangkuman, latihan soal, kerangka esai, riset awal, dan persiapan ujian.
+
 ## Cara Menggunakan ChatGPT untuk Belajar
 
 ### Memahami Materi Kuliah

@@ -1181,6 +1181,8 @@ Setelah proses lebih matang, gunakan tools email marketing, CRM, helpdesk, atau 
 
 Jika digunakan dengan benar, AI chatbot untuk email dapat membantu bisnis menghemat waktu, meningkatkan respons, memperbaiki komunikasi, dan mengubah lead menjadi pelanggan dengan cara yang lebih konsisten.
 
+Sebelum mengotomasi email dengan chatbot atau AI, gunakan [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) untuk menyusun newsletter, sequence, follow-up, onboarding, dan audit email yang lebih rapi.
+
 Email follow-up akan lebih efektif jika lead berasal dari landing page yang jelas. Baca panduan [AI Chatbot untuk Landing Page](/blog/ai-chatbot-untuk-landing-page/) untuk membuat alur lead capture yang lebih baik.
 
 Email follow-up akan lebih efektif jika datanya tersimpan di CRM. Pelajari [AI Chatbot untuk CRM](/blog/ai-chatbot-untuk-crm/) untuk mengelola kontak, status lead, dan riwayat percakapan dengan lebih rapi.

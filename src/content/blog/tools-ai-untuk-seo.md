@@ -273,6 +273,8 @@ Banyak pemilik website melakukan kesalahan berikut:
 
 Google tidak melarang AI, tetapi tetap mengutamakan konten yang memberikan nilai nyata kepada pengguna.
 
+Selain memilih tools, Anda juga perlu prompt yang tepat. Baca [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) untuk membantu riset keyword, outline artikel, internal link, audit konten, dan optimasi SEO.
+
 Baca juga:
 
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)

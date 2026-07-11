@@ -74,6 +74,8 @@ Teori dan metode penelitian yang kompleks dapat dijelaskan dengan bahasa yang le
 
 Banyak pekerjaan administratif dalam penelitian dapat dilakukan lebih cepat.
 
+Agar penggunaan ChatGPT untuk penelitian lebih terstruktur, baca juga [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/) yang membahas pertanyaan riset, ringkasan sumber, analisis, bias, dan verifikasi.
+
 ## Cara Menggunakan ChatGPT untuk Penelitian
 
 ### Menemukan Ide Penelitian

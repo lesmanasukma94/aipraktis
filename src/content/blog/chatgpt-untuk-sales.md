@@ -233,6 +233,10 @@ ChatGPT merupakan alat yang sangat membantu bagi tim sales modern. Dengan bantua
 
 Namun AI bukan pengganti kemampuan membangun hubungan dan kepercayaan. Kombinasi antara kemampuan sales profesional dan teknologi AI dapat menghasilkan proses penjualan yang lebih efektif dan produktif.
 
+Untuk daftar prompt sales yang lebih lengkap, lanjutkan ke [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) yang membahas prospecting, follow-up, WhatsApp sales, sales email, proposal, CRM, dan closing.
+
+Untuk membantu proses penjualan, baca juga [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/) yang berisi prompt objection handling, follow-up, WhatsApp closing, dan sales page.
+
 ## Artikel Terkait
 
 * [AI untuk Sales](/blog/ai-untuk-sales/)

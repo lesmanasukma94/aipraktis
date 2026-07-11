@@ -718,6 +718,10 @@ Setelah memahami Copilot, baca juga artikel [AI Chatbot Terbaik](/blog/ai-chatbo
 
 Jika Anda menggunakan Microsoft 365 untuk kerja, baca juga artikel [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) untuk membandingkan Copilot dengan tools AI lain yang cocok untuk bisnis.
 
+Jika ingin membandingkan Copilot dengan tools produktivitas AI lain, baca [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) untuk melihat kapan perlu memakai Copilot, Gemini, ChatGPT, Notion AI, dan tools otomasi.
+
+Untuk membuat isi presentasi sebelum dipindahkan ke PowerPoint atau tools lain, pelajari juga [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) agar outline, narasi, dan Q&A lebih rapi.
+
 # Artikel Terkait
 
 Jika Anda ingin mengenal chatbot AI lainnya, baca juga artikel berikut.

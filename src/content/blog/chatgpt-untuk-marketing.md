@@ -212,6 +212,10 @@ ChatGPT merupakan alat yang sangat membantu bagi marketer modern. Dengan bantuan
 
 Namun AI sebaiknya digunakan sebagai alat bantu, bukan pengganti strategi dan kreativitas manusia. Dengan kombinasi yang tepat antara kemampuan marketer dan teknologi AI, bisnis dapat meningkatkan produktivitas serta efektivitas pemasaran secara signifikan.
 
+Marketer yang ingin membuat copy promosi lebih cepat dapat membaca [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/) untuk membuat headline, iklan, email marketing, landing page, dan CTA.
+
+Marketer yang ingin memakai AI untuk channel email dapat membaca [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) agar campaign email lebih terstruktur dari subject line sampai evaluasi performa.
+
 ## Artikel Terkait
 
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)

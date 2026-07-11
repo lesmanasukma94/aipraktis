@@ -32,6 +32,8 @@ Manfaatnya antara lain:
 
 Semakin jelas instruksi yang diberikan, semakin baik pula hasil yang diperoleh.
 
+Jika ingin daftar prompt yang lebih khusus untuk platform social media, lanjutkan ke [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/) agar produksi konten lebih konsisten dan terarah.
+
 ## Prompt untuk Mencari Ide Konten
 
 ### Prompt 1

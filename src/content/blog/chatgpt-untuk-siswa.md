@@ -48,6 +48,8 @@ Namun, AI harus digunakan untuk membantu belajar, bukan menggantikan proses bela
 
 ## Cara Menggunakan ChatGPT untuk Belajar
 
+Agar penggunaan AI tidak hanya menjadi jalan pintas, siswa bisa membaca [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) untuk belajar dengan metode tanya jawab, latihan, flashcard, dan review mandiri.
+
 ### Memahami Materi yang Sulit
 
 Jika siswa kesulitan memahami suatu pelajaran, ChatGPT dapat menjelaskan dengan bahasa yang lebih sederhana.

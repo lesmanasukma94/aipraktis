@@ -184,6 +184,10 @@ Agar hasil yang diperoleh lebih maksimal, gunakan beberapa kebiasaan berikut:
 
 Semakin sering menggunakan ChatGPT, semakin mudah Anda memahami cara membuat prompt yang efektif.
 
+Untuk daftar yang lebih luas dan terstruktur, baca juga [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) yang membahas prompt untuk email, laporan, meeting, Excel, presentasi, sales, customer service, dan produktivitas.
+
+Untuk daftar prompt produktivitas yang lebih lengkap, baca [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/) yang membahas prioritas, time blocking, email, meeting, laporan, deep work, dan evaluasi mingguan.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

@@ -270,6 +270,8 @@ Semakin jelas konteks yang diberikan, semakin baik hasil yang diperoleh.
 
 Jika Anda ingin memahami strategi dan tools pendukungnya, lanjutkan ke artikel [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/).
 
+Untuk panduan yang lebih lengkap dan terstruktur, baca [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) yang membahas template CS, komplain, refund, WhatsApp, chatbot, ticketing, SOP, dan laporan layanan.
+
 Untuk penerapan khusus di WhatsApp, baca juga artikel [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/) agar prompt customer service dapat digunakan dalam alur chat pelanggan yang lebih praktis.
 
 Setelah membuat prompt customer service, Anda dapat mengembangkannya menjadi chatbot website. Baca panduan [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/) untuk langkah penerapannya.

@@ -200,6 +200,8 @@ Untuk fondasi awal sebelum mempelajari teknik lanjutan, baca dulu [Prompt Engine
 
 Sebelum masuk ke teknik prompting yang lebih lanjut, pastikan Anda memahami [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/) agar setiap instruksi kepada AI lebih jelas dan terarah.
 
+Agar teknik prompting lebih mudah dipahami, pelajari contoh konkretnya di [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) mulai dari email, notulen, laporan, presentasi, sampai SOP.
+
 ## Artikel Terkait
 
 * [Prompt Engineer](/blog/prompt-engineer/)

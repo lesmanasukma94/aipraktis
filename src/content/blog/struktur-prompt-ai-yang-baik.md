@@ -1322,6 +1322,16 @@ Dengan membiasakan struktur prompt yang rapi, Anda bisa memakai AI lebih efektif
 
 ---
 
+Jika ingin melihat penerapan struktur prompt dalam pekerjaan nyata, baca [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) yang berisi prompt siap pakai untuk email, laporan, meeting, presentasi, dan customer service.
+
+Untuk melihat penerapan struktur prompt dalam konteks usaha, baca [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/) yang menyediakan template prompt siap pakai untuk berbagai proses bisnis.
+
+Untuk melihat penerapan struktur prompt dalam konteks pendidikan, baca [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) agar prompt belajar lebih jelas, aktif, dan tidak sekadar meminta jawaban instan.
+
+Contoh penerapan struktur prompt untuk aktivitas harian bisa dilihat di [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/), mulai dari prompt prioritas, jadwal, meeting, sampai review akhir hari.
+
+Penerapan struktur prompt untuk penulisan bisa dipelajari di [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/), mulai dari ide, outline, draft, revisi, hingga finalisasi tulisan.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

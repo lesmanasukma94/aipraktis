@@ -1147,6 +1147,8 @@ Lead dari landing page akan lebih bernilai jika langsung masuk ke CRM. Baca arti
 
 Lead dari landing page sebaiknya tidak hanya masuk form, tetapi juga terhubung ke workflow follow-up. Pelajari [AI Chatbot untuk Otomasi Bisnis](/blog/ai-chatbot-untuk-otomasi-bisnis/) untuk membuat alur dari pengunjung ke CRM dan sales.
 
+Agar landing page lebih kuat sebelum dipasangi chatbot, baca [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/) untuk menyusun headline, subheadline, manfaat, FAQ, CTA, dan objection handling.
+
 ---
 
 # Artikel Terkait

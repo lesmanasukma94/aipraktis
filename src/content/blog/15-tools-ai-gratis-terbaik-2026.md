@@ -393,6 +393,8 @@ Pilih tools berdasarkan kebutuhan utama Anda.
 
 Mulailah dari 2–3 tools terlebih dahulu, lalu pelajari secara bertahap sesuai kebutuhan.
 
+Untuk rekomendasi yang lebih fokus pada pekerjaan harian dan bisnis, baca juga [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) yang membahas tools berdasarkan workflow produktivitas.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

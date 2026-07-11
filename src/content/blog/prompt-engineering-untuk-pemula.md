@@ -1038,6 +1038,16 @@ Jika dilakukan konsisten, prompt engineering dapat menjadi salah satu skill pali
 
 Setelah memahami dasar prompting, lanjutkan ke panduan [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/) untuk mempelajari susunan prompt yang lebih rapi, mulai dari peran, tugas, konteks, format, gaya bahasa, batasan, hingga contoh.
 
+Setelah memahami dasar prompt engineering, lanjutkan ke kumpulan [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) agar Anda bisa langsung mempraktikkan AI untuk email, laporan, meeting, presentasi, Excel, dan produktivitas harian.
+
+Jika ingin langsung mempraktikkan prompt untuk kebutuhan usaha, lanjutkan ke [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/) yang berisi prompt marketing, sales, customer service, WhatsApp, CRM, SOP, dan laporan bisnis.
+
+Jika ingin langsung mempraktikkan prompt untuk belajar, lanjutkan ke [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) yang berisi prompt rangkuman, latihan soal, flashcard, riset, jadwal belajar, dan persiapan ujian.
+
+Untuk praktik langsung dalam pekerjaan harian, lanjutkan ke [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/) agar AI bisa membantu mengatur prioritas, jadwal, fokus, dan evaluasi kerja.
+
+Jika ingin langsung mempraktikkan prompt untuk membuat tulisan, baca [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/) yang berisi contoh prompt artikel, email, caption, copywriting, dan editing.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

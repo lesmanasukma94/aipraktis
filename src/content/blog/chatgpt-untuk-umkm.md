@@ -188,6 +188,8 @@ Tersedia juga paket berbayar dengan fitur yang lebih lengkap.
 - Tidak memahami kondisi bisnis secara sempurna
 - Membutuhkan prompt yang baik
 
+UMKM yang ingin memakai ChatGPT lebih praktis dapat membaca [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/) untuk mendapatkan prompt marketing, WhatsApp, sales, customer service, dan laporan.
+
 UMKM yang ingin memakai ChatGPT secara lebih praktis dapat memulai dari [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/) agar prompt untuk marketing, sales, customer service, dan operasional lebih terarah.
 
 UMKM yang ingin memakai ChatGPT untuk marketing, sales, dan customer service sebaiknya memahami [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/) agar output AI lebih praktis dan sesuai kebutuhan bisnis.
@@ -199,6 +201,8 @@ Jika UMKM Anda banyak menerima chat pelanggan lewat WhatsApp, baca artikel [AI C
 UMKM yang menjalankan toko online juga dapat memanfaatkan chatbot untuk menjawab pelanggan lebih cepat. Pelajari panduan [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/) untuk strategi lengkapnya.
 
 UMKM yang ingin mendapatkan calon pelanggan dari website, WhatsApp, atau media sosial dapat membaca [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/) untuk membuat flow dan follow-up yang lebih rapi.
+
+UMKM yang ingin membuat promosi lebih rapi dapat memakai [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/) untuk membuat caption, broadcast WhatsApp, deskripsi produk, CTA, dan copy promo.
 
 ## Artikel Terkait
 

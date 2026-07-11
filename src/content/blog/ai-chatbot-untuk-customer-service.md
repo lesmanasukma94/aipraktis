@@ -992,6 +992,8 @@ Untuk customer service, chatbot harus memiliki knowledge base, handoff ke manusi
 
 Customer service berbasis AI harus tetap memiliki knowledge base dan handoff ke manusia. Baca panduan [Kesalahan Menggunakan AI Chatbot](/blog/kesalahan-menggunakan-ai-chatbot/) agar chatbot tidak membuat pelanggan frustrasi.
 
+Agar chatbot customer service punya jawaban yang lebih aman dan konsisten, gunakan [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) untuk membuat knowledge base, FAQ, aturan eskalasi, dan template balasan.
+
 # Artikel Terkait
 
 Pelajari juga panduan AI chatbot dan bisnis berikut:

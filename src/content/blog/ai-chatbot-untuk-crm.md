@@ -1249,6 +1249,10 @@ CRM akan lebih efektif jika chatbot yang dipilih sesuai dengan pipeline dan work
 
 Jika CRM sudah mulai rapi, langkah berikutnya adalah menghubungkannya dengan workflow bisnis lain. Pelajari panduan [AI Chatbot untuk Otomasi Bisnis](/blog/ai-chatbot-untuk-otomasi-bisnis/) untuk membuat alur lead, follow-up, customer service, dan laporan lebih otomatis.
 
+CRM akan lebih berguna jika data sales dicatat dengan rapi. Gunakan [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) untuk membuat CRM note, pipeline update, next best action, dan laporan sales.
+
+CRM akan lebih kuat jika follow-up emailnya terstruktur. Baca [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) untuk membuat segmentasi, personalisasi, lead nurturing, dan follow-up berdasarkan tahap funnel.
+
 ---
 
 # Artikel Terkait

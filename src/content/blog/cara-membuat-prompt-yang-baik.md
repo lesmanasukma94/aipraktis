@@ -346,6 +346,8 @@ Jika Anda ingin membuat prompt yang lebih konsisten, baca juga [Struktur Prompt 
 
 Jika Anda masih baru mengenal konsep prompt, mulai dari panduan [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/) untuk memahami dasar, struktur, contoh, dan teknik awal sebelum masuk ke praktik yang lebih spesifik.
 
+Untuk praktik langsung, lihat juga [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) yang menyediakan template prompt siap pakai untuk berbagai kebutuhan pekerjaan harian.
+
 Setelah memahami dasar-dasar membuat prompt, praktikkan langsung menggunakan [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) agar Anda terbiasa berinteraksi dengan AI chatbot.
 
 ## Jelajahi Panduan AI Lainnya

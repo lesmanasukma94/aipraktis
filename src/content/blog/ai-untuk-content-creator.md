@@ -209,6 +209,8 @@ Sangat cocok untuk membantu riset, struktur artikel, dan optimasi SEO.
 
 Tidak. Kreativitas, pengalaman, dan hubungan dengan audiens tetap menjadi keunggulan manusia.
 
+Untuk praktik langsung membuat konten harian, baca [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/) yang berisi prompt ide konten, carousel, Reels, TikTok, Shorts, caption, story, dan kalender posting.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)

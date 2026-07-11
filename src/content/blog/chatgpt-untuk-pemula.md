@@ -299,6 +299,8 @@ Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga 
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) untuk memahami fitur dan cara menggunakannya.
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/) untuk mengenal chatbot AI yang terintegrasi dengan Microsoft 365.
 
+Jika Anda ingin memakai ChatGPT untuk pekerjaan sehari-hari, baca [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) untuk mendapatkan prompt email, meeting, laporan, presentasi, dan produktivitas.
+
 ## FAQ
 
 ### Apakah ChatGPT bisa digunakan secara gratis?

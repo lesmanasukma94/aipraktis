@@ -255,6 +255,8 @@ AI membantu proses kerja, tetapi tidak menggantikan pemahaman bisnis yang dimili
 
 Jika Anda ingin memahami penerapan AI untuk berbagai jenis usaha secara lebih lengkap, baca juga **[Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)** yang berisi kumpulan panduan AI untuk UMKM, marketing, sales, customer support, toko online, bisnis kuliner, dan produktivitas bisnis.
 
+Untuk praktik langsung, gunakan daftar [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/) agar AI dapat membantu marketing, sales, customer service, WhatsApp, laporan, SOP, dan strategi usaha.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
