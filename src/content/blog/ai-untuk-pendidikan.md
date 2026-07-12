@@ -262,6 +262,8 @@ AI akan membantu:
 
 Institusi pendidikan yang mampu memanfaatkan AI secara bijak akan memiliki keunggulan dalam meningkatkan kualitas pembelajaran.
 
+Guru, dosen, dan mahasiswa yang ingin membuat materi ajar lebih cepat dapat membaca [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) untuk memilih tools slide, speaker notes, diagram, dan presentasi edukasi.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)

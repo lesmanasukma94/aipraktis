@@ -216,6 +216,8 @@ Marketer yang ingin membuat copy promosi lebih cepat dapat membaca [Prompt AI un
 
 Marketer yang ingin memakai AI untuk channel email dapat membaca [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) agar campaign email lebih terstruktur dari subject line sampai evaluasi performa.
 
+Agar materi marketing tidak hanya kuat secara teks, gunakan [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) untuk membuat visual campaign, poster, banner, carousel, dan konten promosi.
+
 ## Artikel Terkait
 
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)

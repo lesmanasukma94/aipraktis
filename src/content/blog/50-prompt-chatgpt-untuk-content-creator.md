@@ -266,6 +266,8 @@ Agar hasil lebih maksimal:
 
 Semakin spesifik informasi yang diberikan, semakin relevan hasil yang akan diperoleh.
 
+Creator yang ingin mempercepat produksi video dapat membaca [AI Tools untuk Video](/blog/ai-tools-untuk-video/) untuk memilih tools AI editing, subtitle, avatar, voice-over, B-roll, dan short clips.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)

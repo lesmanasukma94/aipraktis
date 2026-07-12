@@ -395,6 +395,8 @@ Mulailah dari 2–3 tools terlebih dahulu, lalu pelajari secara bertahap sesuai 
 
 Untuk rekomendasi yang lebih fokus pada pekerjaan harian dan bisnis, baca juga [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) yang membahas tools berdasarkan workflow produktivitas.
 
+Untuk rekomendasi yang lebih fokus pada visual, lanjutkan ke [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) yang membahas tools AI untuk gambar, logo, poster, carousel, thumbnail, dan desain konten.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

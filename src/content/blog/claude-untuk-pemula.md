@@ -704,6 +704,8 @@ Agar hasil ChatGPT lebih relevan, pelajari juga [Prompt Engineering untuk Pemula
 
 Jika Anda ingin melihat posisi Claude dibandingkan AI chatbot lain, baca artikel [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) sebagai panduan memilih tools sesuai kebutuhan.
 
+Jika ingin memakai Claude khusus untuk penulisan panjang, editing, dan dokumen, baca juga [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk membandingkan Claude dengan ChatGPT, Gemini, Grammarly, Jasper, dan tools lain.
+
 ## Artikel Terkait
 
 Jika Anda ingin mempelajari AI chatbot lainnya, baca juga artikel berikut:

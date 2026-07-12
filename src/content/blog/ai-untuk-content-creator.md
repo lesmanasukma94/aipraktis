@@ -211,6 +211,10 @@ Tidak. Kreativitas, pengalaman, dan hubungan dengan audiens tetap menjadi keungg
 
 Untuk praktik langsung membuat konten harian, baca [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/) yang berisi prompt ide konten, carousel, Reels, TikTok, Shorts, caption, story, dan kalender posting.
 
+Content creator yang ingin membuat visual lebih cepat dapat membaca [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) untuk memilih tools gambar, poster, thumbnail, carousel, dan brand visual.
+
+Untuk produksi konten video yang lebih cepat, baca [AI Tools untuk Video](/blog/ai-tools-untuk-video/) yang membahas tools untuk script, editing, subtitle, voice-over, avatar, dan repurposing video panjang.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)

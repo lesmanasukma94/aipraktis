@@ -1288,6 +1288,8 @@ Setelah struktur SEO dan search intent jelas, lanjutkan ke [Prompt AI untuk Copy
 
 Untuk mengubah tulisan menjadi konten pendek, lanjutkan ke [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/) agar artikel, caption, script, carousel, Reels, dan story bisa dibuat lebih terstruktur.
 
+Jika ingin membuat artikel SEO lebih cepat, gunakan panduan [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools riset, outline, draft, editing, dan proofreading.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

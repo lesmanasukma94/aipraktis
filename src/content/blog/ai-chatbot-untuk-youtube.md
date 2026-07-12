@@ -1115,6 +1115,8 @@ Dengan cara ini, YouTube tidak hanya menjadi channel konten, tetapi juga aset bi
 
 ---
 
+Agar workflow YouTube lebih lengkap, gunakan [AI Tools untuk Video](/blog/ai-tools-untuk-video/) untuk membuat script, editing, subtitle, B-roll, voice-over, video pendek, dan repurposing konten.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

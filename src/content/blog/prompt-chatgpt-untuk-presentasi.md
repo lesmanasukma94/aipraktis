@@ -1208,6 +1208,8 @@ Jika digunakan dengan prompt yang jelas, ChatGPT dapat membantu Anda membuat pre
 
 ---
 
+Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) untuk membandingkan Copilot PowerPoint, Canva AI, Gamma, Beautiful.ai, Google Slides, Pitch, Tome, dan tools lain.
+
 Jika materi presentasi ingin dikembangkan menjadi artikel blog, gunakan panduan [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) untuk membuat outline SEO, FAQ, content brief, dan strategi internal link.
 
 # Artikel Terkait

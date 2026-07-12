@@ -722,6 +722,8 @@ Jika ingin membandingkan Copilot dengan tools produktivitas AI lain, baca [AI To
 
 Untuk membuat isi presentasi sebelum dipindahkan ke PowerPoint atau tools lain, pelajari juga [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) agar outline, narasi, dan Q&A lebih rapi.
 
+Jika ingin memakai Copilot khusus untuk slide, baca juga [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) yang membahas Copilot PowerPoint dan alternatif seperti Canva AI, Gamma, Beautiful.ai, Google Slides, dan Pitch.
+
 # Artikel Terkait
 
 Jika Anda ingin mengenal chatbot AI lainnya, baca juga artikel berikut.

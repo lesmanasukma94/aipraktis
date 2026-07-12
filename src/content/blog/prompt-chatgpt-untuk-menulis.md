@@ -1015,6 +1015,8 @@ Jika digunakan dengan prompt yang jelas dan proses editing yang baik, ChatGPT da
 
 ---
 
+Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk membandingkan ChatGPT, Claude, Gemini, Grammarly, Notion AI, Jasper, Copy.ai, Canva AI, QuillBot, dan Hemingway.
+
 Jika tulisan Anda akan diubah menjadi slide, lanjutkan ke [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) untuk membuat outline slide, speaker notes, script pembicara, visual direction, dan Q&A.
 
 Untuk tulisan yang ditujukan ke traffic organik, baca juga [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) agar artikel memiliki riset keyword, search intent, struktur heading, meta title, meta description, dan internal link yang lebih rapi.
