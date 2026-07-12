@@ -12,7 +12,7 @@ export const SOCIAL_LINKS = [
     href: "https://www.youtube.com/@aipraktiscoid",
     handle: "@aipraktiscoid",
     showInFooter: true,
-    showInSchema: false,
+    showInSchema: true,
   },
   {
     platform: "instagram",
@@ -28,7 +28,7 @@ export const SOCIAL_LINKS = [
     href: "https://www.tiktok.com/@aipraktiscoid",
     handle: "@aipraktiscoid",
     showInFooter: true,
-    showInSchema: false,
+    showInSchema: true,
   },
   {
     platform: "threads",
@@ -44,7 +44,7 @@ export const SOCIAL_LINKS = [
     href: "https://www.facebook.com/aipraktiscoid",
     handle: "@aipraktiscoid",
     showInFooter: true,
-    showInSchema: false,
+    showInSchema: true,
   },
 ] as const;
 
