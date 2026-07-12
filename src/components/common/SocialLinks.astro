@@ -1,0 +1,176 @@
+﻿---
+import {
+  FOOTER_SOCIAL_LINKS,
+  SOCIAL_IDENTITY,
+} from "@/config/socialLinks";
+
+export interface Props {
+  variant?: "compact" | "panel";
+  showHandle?: boolean;
+  ariaLabel?: string;
+}
+
+const {
+  variant = "compact",
+  showHandle = false,
+  ariaLabel = "Akun media sosial resmi AI Praktis Indonesia",
+} = Astro.props;
+---
+
+<nav
+  class:list={[
+    "social-links",
+    `social-links--${variant}`,
+  ]}
+  aria-label={ariaLabel}
+>
+  {
+    showHandle && (
+      <p class="social-links__identity">
+        Akun resmi:
+        <strong>{SOCIAL_IDENTITY.handle}</strong>
+      </p>
+    )
+  }
+
+  <ul class="social-links__list">
+    {
+      FOOTER_SOCIAL_LINKS.map((socialLink) => (
+        <li class="social-links__item">
+          <a
+            class="social-links__link"
+            href={socialLink.href}
+            target="_blank"
+            rel="me noopener noreferrer"
+            aria-label={`${socialLink.label} resmi AI Praktis Indonesia, membuka tab baru`}
+          >
+            <span class="social-links__platform">
+              {socialLink.label}
+            </span>
+
+            <span
+              class="social-links__external"
+              aria-hidden="true"
+            >
+              ↗
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</nav>
+
+<style>
+  .social-links {
+    width: 100%;
+  }
+
+  .social-links__identity {
+    margin: 0 0 0.875rem;
+    color: #475569;
+    font-size: 0.9375rem;
+    line-height: 1.6;
+  }
+
+  .social-links__identity strong {
+    margin-left: 0.35rem;
+    color: #0f172a;
+    font-weight: 700;
+  }
+
+  .social-links__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.625rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .social-links__item {
+    margin: 0;
+    padding: 0;
+  }
+
+  .social-links__link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.45rem;
+    min-height: 2.75rem;
+    padding: 0.65rem 0.9rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 0.75rem;
+    background: #ffffff;
+    color: #334155;
+    font-size: 0.875rem;
+    font-weight: 700;
+    line-height: 1;
+    text-decoration: none;
+    transition:
+      border-color 160ms ease,
+      background-color 160ms ease,
+      color 160ms ease,
+      transform 160ms ease;
+  }
+
+  .social-links__link:hover {
+    border-color: #93c5fd;
+    background: #eff6ff;
+    color: #1d4ed8;
+    transform: translateY(-1px);
+  }
+
+  .social-links__link:focus-visible {
+    outline: 2px solid #2563eb;
+    outline-offset: 3px;
+  }
+
+  .social-links__external {
+    color: #64748b;
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  .social-links--compact .social-links__link {
+    min-height: 2.5rem;
+    padding: 0.6rem 0.8rem;
+    border-radius: 0.625rem;
+    background: transparent;
+  }
+
+  .social-links--compact .social-links__link:hover {
+    background: #ffffff;
+  }
+
+  .social-links--panel {
+    margin: 1.5rem 0;
+    padding: 1.25rem;
+    border: 1px solid #dbeafe;
+    border-radius: 1rem;
+    background: #f8fbff;
+  }
+
+  .social-links--panel .social-links__link {
+    min-width: 7.5rem;
+  }
+
+  @media (max-width: 520px) {
+    .social-links--panel .social-links__list {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .social-links--panel .social-links__link {
+      width: 100%;
+      min-width: 0;
+    }
+  }
+
+  @media (max-width: 360px) {
+    .social-links--panel .social-links__list {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

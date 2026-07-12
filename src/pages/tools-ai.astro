@@ -1,5 +1,145 @@
-<html>
-  <body>
-    <h1>Tools AI</h1>
-  </body>
-</html>
+﻿---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { SITE } from "@/config/site";
+---
+
+<BaseLayout
+  title="Tools AI | AI Praktis Indonesia"
+  description="Temukan panduan dan rekomendasi tools AI untuk pekerjaan, bisnis, pendidikan, pembuatan konten, dan produktivitas."
+  canonical={`${SITE.url}/ai-tools/`}
+>
+  <article class="tools-alias-page">
+
+    <p class="tools-alias-eyebrow">
+      AI Tools
+    </p>
+
+    <h1>
+      Temukan Tools AI Sesuai Kebutuhan
+    </h1>
+
+    <p class="tools-alias-intro">
+      Pusat AI Tools AI Praktis Indonesia menyediakan panduan,
+      perbandingan, dan rekomendasi tools untuk berbagai aktivitas
+      dan profesi.
+    </p>
+
+    <a
+      href="/ai-tools/"
+      class="tools-alias-primary"
+    >
+      Buka Pusat AI Tools
+    </a>
+
+    <section class="tools-alias-grid">
+
+      <article>
+        <h2>Produktivitas</h2>
+        <p>
+          Temukan tools untuk menulis, merangkum, melakukan riset,
+          membuat presentasi, dan menyelesaikan pekerjaan rutin.
+        </p>
+      </article>
+
+      <article>
+        <h2>Bisnis</h2>
+        <p>
+          Pelajari tools AI untuk pemasaran, penjualan, layanan
+          pelanggan, analisis, dan operasional bisnis.
+        </p>
+      </article>
+
+      <article>
+        <h2>Content Creator</h2>
+        <p>
+          Jelajahi tools untuk membuat teks, gambar, video,
+          audio, desain, dan konten media sosial.
+        </p>
+      </article>
+
+    </section>
+
+  </article>
+</BaseLayout>
+
+<style>
+  .tools-alias-page {
+    width: min(calc(100% - 2rem), 1000px);
+    margin-inline: auto;
+    padding-block: clamp(3rem, 8vw, 7rem);
+  }
+
+  .tools-alias-eyebrow {
+    margin: 0 0 0.75rem;
+    color: #2563eb;
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .tools-alias-page > h1 {
+    max-width: 800px;
+    margin: 0;
+    color: #0f172a;
+    font-size: clamp(2.25rem, 6vw, 4rem);
+    font-weight: 850;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+  }
+
+  .tools-alias-intro {
+    max-width: 720px;
+    margin: 1.5rem 0 0;
+    color: #475569;
+    font-size: 1.125rem;
+    line-height: 1.75;
+  }
+
+  .tools-alias-primary {
+    display: inline-flex;
+    margin-top: 1.75rem;
+    padding: 0.85rem 1.15rem;
+    border-radius: 0.75rem;
+    background: #2563eb;
+    color: #ffffff;
+    font-weight: 750;
+    text-decoration: none;
+  }
+
+  .tools-alias-primary:hover {
+    background: #1d4ed8;
+  }
+
+  .tools-alias-grid {
+    display: grid;
+    gap: 1.25rem;
+    margin-top: 4rem;
+  }
+
+  .tools-alias-grid article {
+    padding: 1.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 1rem;
+    background: #ffffff;
+  }
+
+  .tools-alias-grid h2 {
+    margin: 0;
+    color: #0f172a;
+    font-size: 1.35rem;
+  }
+
+  .tools-alias-grid p {
+    margin: 0.75rem 0 0;
+    color: #64748b;
+    line-height: 1.7;
+  }
+
+  @media (min-width: 760px) {
+    .tools-alias-grid {
+      grid-template-columns:
+        repeat(3, minmax(0, 1fr));
+    }
+  }
+</style>

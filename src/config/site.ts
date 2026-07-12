@@ -1,4 +1,4 @@
-export const SITE = {
+﻿export const SITE = {
   name: "AI Praktis Indonesia",
 
   title: "AI Praktis Indonesia",
@@ -10,7 +10,7 @@ export const SITE = {
 
   lang: "id",
 
-  contactEmail: "lesmanasukma94@gmail.com",
+  contactEmail: "haloaipraktis@gmail.com",
 
   navigation: [
     {
@@ -72,6 +72,4 @@ export const SITE = {
       href: "/disclaimer/",
     },
   ],
-
-  social: {},
 } as const;

@@ -1,8 +1,10 @@
----
-import Layout from "@/layouts/Layout.astro";
+﻿---
 import { getCollection } from "astro:content";
 
-export async function getStaticPaths() {
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import { SITE } from "@/config/site";
+
+export function getStaticPaths() {
   const vendors = [
     "chatgpt",
     "claude",
@@ -13,142 +15,348 @@ export async function getStaticPaths() {
     "copilot",
     "mistral",
     "qwen",
-    "grok"
+    "grok",
   ];
 
   return vendors.map((vendor) => ({
-    params: { vendor }
+    params: {
+      vendor,
+    },
   }));
 }
 
-const { vendor } = Astro.params;
+const { vendor = "ai" } = Astro.params;
 
-const posts = await getCollection("blog");
+const vendorNames: Record<string, string> = {
+  chatgpt: "ChatGPT",
+  claude: "Claude",
+  gemini: "Gemini",
+  cursor: "Cursor",
+  perplexity: "Perplexity",
+  deepseek: "DeepSeek",
+  copilot: "Microsoft Copilot",
+  mistral: "Mistral",
+  qwen: "Qwen",
+  grok: "Grok",
+};
 
-const relatedPosts = posts
-  .filter((post) =>
+const displayName =
+  vendorNames[vendor] ?? vendor.toUpperCase();
+
+const posts = await getCollection(
+  "blog",
+  ({ data }) => !data.draft
+);
+
+const vendorQuery = vendor.toLowerCase();
+const displayQuery = displayName.toLowerCase();
+
+const directPosts = posts.filter((post) => {
+  const title = post.data.title.toLowerCase();
+  const id = post.id.toLowerCase();
+
+  return (
+    id.includes(vendorQuery) ||
+    title.includes(vendorQuery) ||
+    title.includes(displayQuery)
+  );
+});
+
+const fallbackPosts = posts.filter((post) => {
+  const isRelevantCategory =
     post.data.category === "ai-chatbot" ||
-    post.data.category === "ai-tools"
-  )
-  .slice(0, 6);
+    post.data.category === "ai-tools";
+
+  const alreadyIncluded =
+    directPosts.some(
+      (directPost) => directPost.id === post.id
+    );
+
+  return isRelevantCategory && !alreadyIncluded;
+});
+
+const relatedPosts = [
+  ...directPosts,
+  ...fallbackPosts,
+].slice(0, 6);
+
+const canonical =
+  `${SITE.url}/ai/${vendor}/`;
+
+const primaryArticleUrl =
+  relatedPosts.length > 0
+    ? `/blog/${relatedPosts[0].id}/`
+    : "/blog/";
 ---
 
-<Layout
-  title={`Panduan ${vendor.toUpperCase()} - Review, Cara Pakai & Alternatif`}
-  description={`Tutorial lengkap ${vendor}, cara menggunakan, fitur, harga, dan alternatif terbaik`}
+<BaseLayout
+  title={`Panduan ${displayName} | AI Praktis Indonesia`}
+  description={`Kumpulan panduan, tutorial, perbandingan, dan artikel tentang ${displayName} untuk pembaca Indonesia.`}
+  canonical={canonical}
 >
+  <article class="vendor-page">
 
-  <!-- HERO SECTION -->
-  <section class="hero">
-    <h1>{vendor.toUpperCase()}</h1>
+    <nav
+      class="vendor-breadcrumb"
+      aria-label="Breadcrumb"
+    >
+      <a href="/">Beranda</a>
+      <span aria-hidden="true">/</span>
+      <span aria-current="page">{displayName}</span>
+    </nav>
 
-    <p>
-      Panduan lengkap penggunaan {vendor}, fitur, kelebihan, kekurangan, dan cara menghasilkan uang dengan AI ini.
-    </p>
+    <header class="vendor-hero">
+      <p class="vendor-eyebrow">
+        Panduan AI
+      </p>
 
-    <a href={`/blog/category/ai-chatbot`} class="cta">
-      Coba {vendor} Sekarang
-    </a>
-  </section>
+      <h1>
+        Panduan {displayName}
+      </h1>
 
-  <!-- OVERVIEW -->
-  <section>
-    <h2>Apa itu {vendor}?</h2>
+      <p>
+        Pelajari cara menggunakan {displayName}, memahami fitur,
+        membandingkannya dengan tools lain, dan menerapkannya
+        sesuai kebutuhan.
+      </p>
 
-    <p>
-      {vendor} adalah salah satu AI tools terbaik yang digunakan untuk produktivitas, automation, dan content creation.
-    </p>
-  </section>
-
-  <!-- FEATURES -->
-  <section>
-    <h2>Fitur Utama</h2>
-
-    <ul>
-      <li>AI Chat</li>
-      <li>Automation</li>
-      <li>Content Generation</li>
-      <li>Productivity Tools</li>
-    </ul>
-  </section>
-
-  <!-- USE CASE -->
-  <section>
-    <h2>Cara Menggunakan {vendor}</h2>
-
-    <p>
-      Tutorial step-by-step penggunaan {vendor} untuk pemula.
-    </p>
-  </section>
-
-  <!-- AFFILIATE CTA (💰 CORE MONEY ZONE) -->
-  <section class="cta-box">
-    <h2>Mulai Gunakan {vendor}</h2>
-
-    <p>
-      Gunakan {vendor} untuk meningkatkan produktivitas dan hasil kerja Anda.
-    </p>
-
-    <a href="https://" class="cta-button">
-      Coba {vendor} Sekarang
-    </a>
-  </section>
-
-  <!-- ALTERNATIVES -->
-  <section>
-    <h2>Alternatif {vendor}</h2>
-
-    <ul>
-      <li>ChatGPT</li>
-      <li>Claude</li>
-      <li>Gemini</li>
-      <li>Perplexity</li>
-    </ul>
-  </section>
-
-  <!-- RELATED POSTS -->
-  <section>
-    <h2>Artikel Terkait</h2>
-
-    {relatedPosts.map((post) => (
-      <a href={`/blog/${post.id}/`}>
-        {post.data.title}
+      <a
+        href={primaryArticleUrl}
+        class="vendor-primary-link"
+      >
+        Mulai membaca panduan
       </a>
-    ))}
-  </section>
+    </header>
 
-</Layout>
+    <section class="vendor-section">
+      <h2>
+        Artikel tentang {displayName}
+      </h2>
+
+      {
+        relatedPosts.length > 0 ? (
+          <div class="vendor-grid">
+            {
+              relatedPosts.map((post) => (
+                <article class="vendor-card">
+                  <p class="vendor-card-category">
+                    {post.data.category}
+                  </p>
+
+                  <h3>
+                    <a href={`/blog/${post.id}/`}>
+                      {post.data.title}
+                    </a>
+                  </h3>
+
+                  <p>
+                    {post.data.description}
+                  </p>
+                </article>
+              ))
+            }
+          </div>
+        ) : (
+          <div class="vendor-empty">
+            <p>
+              Panduan khusus untuk {displayName} sedang
+              dikembangkan.
+            </p>
+
+            <a href="/blog/">
+              Jelajahi seluruh artikel AI
+            </a>
+          </div>
+        )
+      }
+    </section>
+
+    <section class="vendor-section vendor-topics">
+      <h2>
+        Topik yang dapat dipelajari
+      </h2>
+
+      <ul>
+        <li>Cara menggunakan {displayName} untuk pemula.</li>
+        <li>Fitur, manfaat, dan keterbatasannya.</li>
+        <li>Perbandingan dengan chatbot atau tools AI lain.</li>
+        <li>Penggunaan untuk pekerjaan, bisnis, dan belajar.</li>
+        <li>Keamanan, privasi, dan penggunaan yang bertanggung jawab.</li>
+      </ul>
+    </section>
+
+  </article>
+</BaseLayout>
 
 <style>
-.hero{
-  text-align:center;
-  padding:60px 20px;
-}
+  .vendor-page {
+    width: min(calc(100% - 2rem), 1100px);
+    margin-inline: auto;
+    padding-block: 2rem 5rem;
+  }
 
-.cta{
-  display:inline-block;
-  margin-top:20px;
-  padding:12px 20px;
-  background:#2563eb;
-  color:white;
-  border-radius:8px;
-  text-decoration:none;
-}
+  .vendor-breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 2rem;
+    color: #64748b;
+    font-size: 0.875rem;
+  }
 
-.cta-box{
-  background:#111;
-  color:white;
-  padding:40px;
-  text-align:center;
-  margin:40px 0;
-}
+  .vendor-breadcrumb a {
+    color: #2563eb;
+    text-decoration: none;
+  }
 
-.cta-button{
-  display:inline-block;
-  padding:12px 20px;
-  background:#22c55e;
-  color:white;
-  border-radius:8px;
-  text-decoration:none;
-}
+  .vendor-breadcrumb a:hover {
+    text-decoration: underline;
+  }
+
+  .vendor-hero {
+    padding: clamp(2rem, 5vw, 4rem);
+    border: 1px solid #dbeafe;
+    border-radius: 1.5rem;
+    background:
+      linear-gradient(
+        135deg,
+        #eff6ff 0%,
+        #ffffff 70%
+      );
+  }
+
+  .vendor-eyebrow {
+    margin: 0 0 0.75rem;
+    color: #2563eb;
+    font-size: 0.875rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .vendor-hero h1 {
+    margin: 0;
+    color: #0f172a;
+    font-size: clamp(2.25rem, 6vw, 4rem);
+    font-weight: 850;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+  }
+
+  .vendor-hero > p:not(.vendor-eyebrow) {
+    max-width: 720px;
+    margin: 1.25rem 0 0;
+    color: #475569;
+    font-size: 1.125rem;
+    line-height: 1.75;
+  }
+
+  .vendor-primary-link {
+    display: inline-flex;
+    margin-top: 1.75rem;
+    padding: 0.85rem 1.15rem;
+    border-radius: 0.75rem;
+    background: #2563eb;
+    color: #ffffff;
+    font-weight: 750;
+    text-decoration: none;
+  }
+
+  .vendor-primary-link:hover {
+    background: #1d4ed8;
+  }
+
+  .vendor-primary-link:focus-visible {
+    outline: 3px solid #93c5fd;
+    outline-offset: 3px;
+  }
+
+  .vendor-section {
+    margin-top: 4rem;
+  }
+
+  .vendor-section h2 {
+    margin: 0 0 1.5rem;
+    color: #0f172a;
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 800;
+    letter-spacing: -0.025em;
+  }
+
+  .vendor-grid {
+    display: grid;
+    gap: 1.25rem;
+  }
+
+  .vendor-card {
+    padding: 1.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 1rem;
+    background: #ffffff;
+  }
+
+  .vendor-card-category {
+    margin: 0 0 0.65rem;
+    color: #2563eb;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .vendor-card h3 {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .vendor-card h3 a {
+    color: #0f172a;
+    text-decoration: none;
+  }
+
+  .vendor-card h3 a:hover {
+    color: #2563eb;
+  }
+
+  .vendor-card > p:last-child {
+    margin: 0.75rem 0 0;
+    color: #64748b;
+    line-height: 1.7;
+  }
+
+  .vendor-empty,
+  .vendor-topics {
+    padding: 1.5rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 1rem;
+    background: #f8fafc;
+  }
+
+  .vendor-empty p {
+    margin-top: 0;
+  }
+
+  .vendor-empty a {
+    color: #2563eb;
+    font-weight: 700;
+  }
+
+  .vendor-topics ul {
+    margin: 0;
+    padding-left: 1.25rem;
+    color: #475569;
+    line-height: 1.8;
+  }
+
+  .vendor-topics li + li {
+    margin-top: 0.5rem;
+  }
+
+  @media (min-width: 720px) {
+    .vendor-grid {
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+    }
+  }
 </style>

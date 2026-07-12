@@ -1,0 +1,31 @@
+﻿---
+import { SITE } from "@/config/site";
+
+import {
+  SCHEMA_SOCIAL_LINKS,
+  SOCIAL_IDENTITY,
+} from "@/config/socialLinks";
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": `${SITE.url}/#organization`,
+  name: SITE.name,
+  url: `${SITE.url}/`,
+  description: SITE.description,
+  email: SOCIAL_IDENTITY.publicEmail,
+  logo: {
+    "@type": "ImageObject",
+    "@id": `${SITE.url}/#logo`,
+    url: `${SITE.url}/og-image.jpg`,
+    contentUrl: `${SITE.url}/og-image.jpg`,
+    caption: SITE.name,
+  },
+  sameAs: SCHEMA_SOCIAL_LINKS,
+};
+---
+
+<script
+  type="application/ld+json"
+  set:html={JSON.stringify(organizationSchema)}
+/>

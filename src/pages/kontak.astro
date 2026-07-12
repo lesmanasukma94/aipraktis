@@ -1,6 +1,9 @@
----
+﻿---
 import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
+import SocialLinks from "@/components/common/SocialLinks.astro";
+
 import { SITE } from "@/config/site";
+import { SOCIAL_IDENTITY } from "@/config/socialLinks";
 
 const contactEmail = SITE.contactEmail;
 ---
@@ -8,20 +11,21 @@ const contactEmail = SITE.contactEmail;
 <StaticPageLayout
   title="Kontak AI Praktis Indonesia"
   heading="Hubungi AI Praktis Indonesia"
-  description="Hubungi AI Praktis Indonesia untuk pertanyaan, koreksi konten, saran, kolaborasi, dan keperluan kerja sama."
+  description="Hubungi AI Praktis Indonesia untuk pertanyaan, koreksi konten, kolaborasi, konsultasi, pelatihan, sponsorship, dan keperluan kerja sama."
   eyebrow="Kontak"
-  updatedDate="2026-07-10"
+  updatedDate="2026-07-12"
   pageType="ContactPage"
 >
 
   <p>
     Terima kasih telah mengunjungi AI Praktis Indonesia. Anda dapat
     menghubungi kami untuk pertanyaan, koreksi informasi, saran,
-    maupun pembahasan kerja sama.
+    kolaborasi, konsultasi, pelatihan, maupun pembahasan kerja sama
+    yang relevan.
   </p>
 
   <div class="static-page-panel">
-    <h2>Email</h2>
+    <h2>Email Resmi</h2>
 
     <p>
       <a href={`mailto:${contactEmail}`}>
@@ -30,10 +34,30 @@ const contactEmail = SITE.contactEmail;
     </p>
 
     <p>
-      Sertakan subjek yang jelas agar pesan lebih mudah dipahami dan
-      ditindaklanjuti.
+      Gunakan alamat tersebut untuk komunikasi resmi dengan
+      AI Praktis Indonesia. Sertakan subjek yang jelas agar pesan
+      lebih mudah dipahami dan ditindaklanjuti.
     </p>
   </div>
+
+  <h2>Media Sosial Resmi</h2>
+
+  <p>
+    AI Praktis Indonesia menggunakan handle resmi
+    <strong>{SOCIAL_IDENTITY.handle}</strong>
+    pada kanal media sosial berikut.
+  </p>
+
+  <SocialLinks
+    variant="panel"
+    showHandle={true}
+    ariaLabel="Akun media sosial resmi AI Praktis Indonesia pada halaman kontak"
+  />
+
+  <p>
+    Gunakan tautan di atas untuk memastikan Anda mengikuti akun
+    AI Praktis Indonesia yang benar.
+  </p>
 
   <h2>Keperluan yang Dapat Disampaikan</h2>
 
@@ -43,8 +67,9 @@ const contactEmail = SITE.contactEmail;
       <h3>Pertanyaan Umum</h3>
 
       <p>
-        Pertanyaan mengenai artikel, panduan, navigasi website, atau
-        topik AI yang dibahas.
+        Pertanyaan mengenai artikel, panduan, navigasi website,
+        penggunaan AI, atau topik yang dibahas oleh AI Praktis
+        Indonesia.
       </p>
     </section>
 
@@ -52,8 +77,9 @@ const contactEmail = SITE.contactEmail;
       <h3>Koreksi Konten</h3>
 
       <p>
-        Pelaporan kesalahan, tautan rusak, informasi yang sudah berubah,
-        atau bagian artikel yang memerlukan penjelasan tambahan.
+        Pelaporan kesalahan informasi, tautan rusak, perubahan fitur,
+        perubahan harga, atau bagian artikel yang memerlukan
+        pembaruan.
       </p>
     </section>
 
@@ -61,17 +87,55 @@ const contactEmail = SITE.contactEmail;
       <h3>Saran dan Masukan</h3>
 
       <p>
-        Saran mengenai topik baru, pengalaman pengguna, dan peningkatan
-        kualitas website.
+        Saran mengenai topik baru, pengalaman pengguna, fitur website,
+        dan peningkatan kualitas konten AI Praktis Indonesia.
       </p>
     </section>
 
     <section class="static-page-card">
-      <h3>Kerja Sama</h3>
+      <h3>Kolaborasi Konten</h3>
 
       <p>
-        Pembahasan kolaborasi konten, media partnership, sponsorship,
-        pelatihan, atau kerja sama lain yang relevan.
+        Pembahasan kolaborasi artikel, video, webinar, riset, media
+        partnership, atau kegiatan edukasi AI yang relevan.
+      </p>
+    </section>
+
+    <section class="static-page-card">
+      <h3>Konsultasi</h3>
+
+      <p>
+        Pembahasan kebutuhan penerapan AI untuk individu, pekerja,
+        content creator, UMKM, bisnis, atau organisasi.
+      </p>
+    </section>
+
+    <section class="static-page-card">
+      <h3>Pelatihan dan Workshop</h3>
+
+      <p>
+        Permintaan webinar, workshop, training, atau pendampingan
+        penggunaan AI untuk tim, sekolah, komunitas, perusahaan,
+        dan organisasi.
+      </p>
+    </section>
+
+    <section class="static-page-card">
+      <h3>Sponsorship</h3>
+
+      <p>
+        Penawaran sponsorship, publikasi berbayar, pengenalan produk,
+        atau kerja sama komersial yang relevan dengan audiens
+        AI Praktis Indonesia.
+      </p>
+    </section>
+
+    <section class="static-page-card">
+      <h3>Media dan Narasumber</h3>
+
+      <p>
+        Permintaan wawancara, komentar, materi edukasi, atau kontribusi
+        sebagai narasumber untuk pembahasan AI praktis.
       </p>
     </section>
 
@@ -85,17 +149,44 @@ const contactEmail = SITE.contactEmail;
   </p>
 
   <p>
-    Kami tidak dapat menjamin semua proposal kerja sama akan diterima,
-    tetapi setiap pesan yang relevan akan dipertimbangkan.
+    Untuk proposal kerja sama, sertakan informasi mengenai organisasi,
+    tujuan kegiatan, bentuk kolaborasi, target audiens, jadwal, serta
+    ruang lingkup yang diharapkan.
   </p>
+
+  <p>
+    Kami tidak dapat menjamin seluruh proposal akan diterima, tetapi
+    setiap pesan yang relevan akan dipertimbangkan.
+  </p>
+
+  <h2>Keamanan Komunikasi</h2>
+
+  <div class="static-page-panel">
+    <h3>Jangan Berikan Informasi Rahasia</h3>
+
+    <p>
+      AI Praktis Indonesia tidak akan meminta kata sandi, kode OTP,
+      kode pemulihan, PIN, nomor kartu pembayaran, atau akses ke akun
+      pribadi Anda melalui email maupun media sosial.
+    </p>
+
+    <p>
+      Jangan mengirimkan data keuangan, dokumen identitas, kredensial
+      akun, atau informasi pribadi sensitif melalui pesan.
+    </p>
+  </div>
 
   <h2>Privasi Pesan</h2>
 
   <p>
-    Informasi yang Anda kirim melalui email akan digunakan untuk
-    membaca dan merespons keperluan yang disampaikan. Hindari
-    mengirimkan kata sandi, data keuangan, atau informasi pribadi
-    sensitif melalui email.
+    Informasi yang Anda kirim akan digunakan untuk membaca,
+    mengevaluasi, dan merespons keperluan yang disampaikan sesuai
+    dengan kebijakan privasi AI Praktis Indonesia.
+  </p>
+
+  <p>
+    Informasi lebih lanjut tersedia pada
+    <a href="/privacy-policy/">Kebijakan Privasi</a>.
   </p>
 
 </StaticPageLayout>

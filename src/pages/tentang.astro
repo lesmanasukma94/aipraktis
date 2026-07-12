@@ -1,34 +1,39 @@
----
+﻿---
 import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
+import SocialLinks from "@/components/common/SocialLinks.astro";
+
+import { SOCIAL_IDENTITY } from "@/config/socialLinks";
 ---
 
 <StaticPageLayout
   title="Tentang AI Praktis Indonesia"
   heading="Tentang AI Praktis Indonesia"
-  description="Mengenal misi, fokus, dan komitmen AI Praktis Indonesia dalam membantu masyarakat menggunakan artificial intelligence secara praktis."
+  description="Mengenal misi, fokus, prinsip editorial, dan akun media sosial resmi AI Praktis Indonesia dalam membantu masyarakat menggunakan AI secara praktis."
   eyebrow="Tentang Kami"
-  updatedDate="2026-07-10"
+  updatedDate="2026-07-12"
   pageType="AboutPage"
 >
 
   <p>
-    AI Praktis Indonesia adalah website edukasi berbahasa Indonesia yang
-    membantu pembaca memahami dan menggunakan artificial intelligence
-    secara sederhana, praktis, dan relevan dengan kebutuhan sehari-hari.
+    AI Praktis Indonesia adalah website edukasi berbahasa Indonesia
+    yang membantu pembaca memahami dan menggunakan artificial
+    intelligence secara sederhana, praktis, dan relevan dengan
+    kebutuhan sehari-hari.
   </p>
 
   <p>
     Kami percaya AI tidak hanya berguna bagi programmer atau perusahaan
     teknologi. Teknologi ini juga dapat dimanfaatkan oleh pemula,
-    pekerja, freelancer, pelaku UMKM, guru, mahasiswa, dan content
-    creator.
+    pekerja, freelancer, pelaku UMKM, guru, siswa, mahasiswa, content
+    creator, dan profesional dari berbagai bidang.
   </p>
 
   <h2>Misi AI Praktis Indonesia</h2>
 
   <p>
     Misi kami adalah membuat pengetahuan tentang AI menjadi lebih mudah
-    dipahami dan lebih mudah diterapkan oleh masyarakat Indonesia.
+    dipahami, lebih mudah ditemukan, dan lebih mudah diterapkan oleh
+    masyarakat Indonesia.
   </p>
 
   <ul>
@@ -36,7 +41,8 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
     <li>Menyediakan tutorial yang dapat langsung dipraktikkan.</li>
     <li>Meningkatkan produktivitas kerja dan proses belajar.</li>
     <li>Membantu UMKM menggunakan AI secara lebih efektif.</li>
-    <li>Membantu pembaca memilih tools AI yang sesuai kebutuhan.</li>
+    <li>Membantu pembaca memilih tools AI sesuai kebutuhan.</li>
+    <li>Mendorong penggunaan AI yang aman dan bertanggung jawab.</li>
   </ul>
 
   <h2>Topik yang Kami Bahas</h2>
@@ -52,7 +58,7 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
 
       <p>
         Panduan dasar untuk memahami AI, istilah penting, manfaat,
-        keterbatasan, dan cara memulainya.
+        keterbatasan, risiko, dan langkah memulainya.
       </p>
     </section>
 
@@ -65,7 +71,7 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
 
       <p>
         Tutorial dan perbandingan ChatGPT, Claude, Gemini, DeepSeek,
-        serta chatbot AI populer lainnya.
+        Copilot, serta chatbot AI populer lainnya.
       </p>
     </section>
 
@@ -78,7 +84,7 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
 
       <p>
         Panduan menulis prompt yang jelas dan efektif untuk pekerjaan,
-        bisnis, pendidikan, dan pembuatan konten.
+        bisnis, pendidikan, riset, dan pembuatan konten.
       </p>
     </section>
 
@@ -90,8 +96,8 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
       </h3>
 
       <p>
-        Pembahasan dan panduan penggunaan tools AI untuk berbagai
-        aktivitas dan profesi.
+        Pembahasan, perbandingan, dan panduan penggunaan tools AI untuk
+        berbagai aktivitas dan profesi.
       </p>
     </section>
 
@@ -104,7 +110,7 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
 
       <p>
         Strategi praktis menggunakan AI untuk pemasaran, penjualan,
-        pelayanan pelanggan, dan operasional bisnis.
+        pelayanan pelanggan, produktivitas, dan operasional bisnis.
       </p>
     </section>
 
@@ -117,24 +123,99 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
 
       <p>
         Panduan penggunaan AI bagi guru, siswa, mahasiswa, dan kegiatan
-        pembelajaran.
+        pembelajaran yang bertanggung jawab.
       </p>
     </section>
 
   </div>
 
+  <h2>Media Sosial Resmi</h2>
+
+  <p>
+    Selain melalui website, AI Praktis Indonesia membagikan edukasi,
+    tutorial singkat, ringkasan artikel, demonstrasi tools, pembaruan
+    teknologi, dan konten praktis melalui media sosial.
+  </p>
+
+  <p>
+    Seluruh akun resmi menggunakan handle
+    <strong>{SOCIAL_IDENTITY.handle}</strong>.
+    Gunakan tautan berikut untuk memastikan Anda mengikuti akun yang
+    benar.
+  </p>
+
+  <SocialLinks
+    variant="panel"
+    showHandle={true}
+    ariaLabel="Akun media sosial resmi AI Praktis Indonesia pada halaman tentang"
+  />
+
+  <h2>Hubungan Website dan Konten Media Sosial</h2>
+
+  <p>
+    Website menjadi pusat informasi utama AI Praktis Indonesia.
+    Artikel yang diterbitkan di website dapat dikembangkan menjadi
+    video YouTube, YouTube Shorts, TikTok, Instagram Reels, carousel,
+    Threads, dan konten Facebook.
+  </p>
+
+  <p>
+    Konten media sosial berfungsi sebagai pengantar yang lebih singkat.
+    Untuk penjelasan yang lebih lengkap, pembaca akan diarahkan kembali
+    ke artikel terkait di website AI Praktis Indonesia.
+  </p>
+
   <h2>Prinsip Penyusunan Konten</h2>
 
   <p>
     Kami berusaha menyajikan konten yang mudah dipahami, berorientasi
-    pada praktik, dan relevan bagi pembaca Indonesia.
+    pada praktik, relevan bagi pembaca Indonesia, dan tidak menggunakan
+    klaim yang menyesatkan.
+  </p>
+
+  <ul>
+    <li>Mengutamakan manfaat nyata bagi pembaca.</li>
+    <li>Memeriksa informasi terbaru dari sumber yang relevan.</li>
+    <li>Membedakan fakta, pendapat, dan estimasi.</li>
+    <li>Tidak membuat statistik, kutipan, atau studi kasus fiktif.</li>
+    <li>Memperbarui konten ketika fitur atau kebijakan berubah.</li>
+    <li>Mengungkapkan hubungan komersial yang relevan.</li>
+  </ul>
+
+  <h2>Penggunaan AI dalam Produksi Konten</h2>
+
+  <p>
+    AI Praktis Indonesia dapat menggunakan teknologi AI untuk membantu
+    riset, penyusunan struktur, pembuatan draf, pengolahan visual,
+    voice-over, repurposing, dan proses produksi lainnya.
   </p>
 
   <p>
-    Karena teknologi AI berkembang cepat, fitur, harga, kebijakan, dan
-    kemampuan suatu layanan dapat berubah. Pembaca tetap disarankan
-    memeriksa informasi terbaru dari penyedia layanan terkait sebelum
-    mengambil keputusan penting.
+    Penggunaan AI tidak menghilangkan proses pemeriksaan manusia.
+    Konten tetap ditinjau untuk memastikan kejelasan, relevansi,
+    konsistensi, keamanan, dan kesesuaian dengan standar editorial
+    AI Praktis Indonesia.
+  </p>
+
+  <p>
+    Informasi lebih lengkap tersedia pada
+    <a href="/editorial-policy/">Kebijakan Editorial</a>
+    dan
+    <a href="/ai-disclosure/">Pengungkapan AI</a>.
+  </p>
+
+  <h2>Perubahan Informasi tentang AI</h2>
+
+  <p>
+    Teknologi AI berkembang dengan cepat. Fitur, harga, kebijakan,
+    model, batas penggunaan, serta tampilan suatu layanan dapat berubah
+    setelah artikel atau konten diterbitkan.
+  </p>
+
+  <p>
+    Pembaca tetap disarankan memeriksa informasi terbaru dari penyedia
+    layanan terkait sebelum mengambil keputusan penting atau melakukan
+    pembayaran.
   </p>
 
   <h2>Visi Jangka Panjang</h2>
@@ -145,17 +226,23 @@ import StaticPageLayout from "@/layouts/StaticPageLayout.astro";
     digunakan oleh pembaca dari berbagai latar belakang.
   </p>
 
+  <p>
+    Dalam jangka panjang, AI Praktis Indonesia akan dikembangkan melalui
+    artikel, video, newsletter, template, produk digital, konsultasi,
+    pelatihan, dan sumber belajar lain yang relevan.
+  </p>
+
   <div class="static-page-panel">
-    <h2>Hubungi Kami</h2>
+    <h2>Hubungi AI Praktis Indonesia</h2>
 
     <p>
-      Menemukan kesalahan informasi, memiliki saran, atau ingin membahas
-      peluang kerja sama?
+      Menemukan kesalahan informasi, memiliki saran, ingin berkolaborasi,
+      atau ingin membahas konsultasi dan pelatihan?
     </p>
 
     <p>
       Silakan kunjungi
-      <a href="/kontak/">halaman kontak</a>.
+      <a href="/kontak/">halaman Kontak AI Praktis Indonesia</a>.
     </p>
   </div>
 

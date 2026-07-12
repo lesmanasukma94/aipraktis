@@ -1,5 +1,7 @@
----
+﻿---
 import Container from "./Container.astro";
+import SocialLinks from "@/components/common/SocialLinks.astro";
+
 import { SITE } from "@/config/site";
 ---
 
@@ -15,7 +17,7 @@ import { SITE } from "@/config/site";
           <a
             href="/"
             class="text-xl font-bold text-slate-900"
-            aria-label={`${SITE.name} — Beranda`}
+            aria-label={`${SITE.name} - Beranda`}
           >
             {SITE.name}
           </a>
@@ -27,6 +29,17 @@ import { SITE } from "@/config/site";
           <p class="mt-4 text-sm leading-6 text-slate-500">
             Panduan AI praktis untuk pembaca Indonesia.
           </p>
+
+          <div class="mt-6">
+            <h2 class="mb-3 font-semibold text-slate-900">
+              Ikuti Kami
+            </h2>
+
+            <SocialLinks
+              variant="compact"
+              ariaLabel="Akun media sosial resmi AI Praktis Indonesia di footer"
+            />
+          </div>
         </div>
 
         <nav aria-label="Navigasi utama footer">
@@ -98,12 +111,12 @@ import { SITE } from "@/config/site";
         class="mt-10 flex flex-col gap-3 border-t border-slate-200 pt-6 text-sm text-slate-500 sm:flex-row sm:items-center sm:justify-between"
       >
         <p>
-          © {new Date().getFullYear()} {SITE.name}. Hak cipta dilindungi.
+          &copy; {new Date().getFullYear()} {SITE.name}. Hak cipta dilindungi.
         </p>
 
         <a
           href={`mailto:${SITE.contactEmail}`}
-          class="transition-colors hover:text-blue-600"
+          class="transition-colors hover:text-blue-600 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-600 focus-visible:ring-offset-2"
         >
           {SITE.contactEmail}
         </a>
