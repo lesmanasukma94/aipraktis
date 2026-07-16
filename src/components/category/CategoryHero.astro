@@ -1,4 +1,4 @@
----
+﻿---
 export interface Props {
   category: {
     name: string;
@@ -10,33 +10,79 @@ const { category } = Astro.props;
 ---
 
 <section class="category-hero">
+  <div class="category-hero__container">
 
-  <div class="container">
+    <p class="category-hero__eyebrow">
+      Pusat Pembelajaran AI
+    </p>
 
     <h1>{category.name}</h1>
 
-    <p>{category.description}</p>
+    <p class="category-hero__description">
+      {category.description}
+    </p>
 
   </div>
-
 </section>
 
 <style>
-.category-hero{
-  padding:64px 0;
-}
+  .category-hero {
+    border-bottom: 1px solid #e2e8f0;
+    background:
+      linear-gradient(
+        180deg,
+        #f8fbff 0%,
+        #ffffff 100%
+      );
+  }
 
-.container{
-  max-width:1200px;
-  margin:auto;
-  padding:0 24px;
-}
+  .category-hero__container {
+    width: min(calc(100% - 3rem), 1200px);
+    margin-inline: auto;
+    padding-block: 48px 32px;
+  }
 
-h1{
-  margin-bottom:16px;
-}
+  .category-hero__eyebrow {
+    margin: 0 0 10px;
+    color: #2563eb;
+    font-size: 0.8125rem;
+    font-weight: 800;
+    letter-spacing: 0.09em;
+    line-height: 1.4;
+    text-transform: uppercase;
+  }
 
-p{
-  max-width:700px;
-}
+  .category-hero h1 {
+    max-width: 780px;
+    margin: 0;
+    color: #0f172a;
+    font-size: clamp(2.5rem, 5vw, 3.75rem);
+    font-weight: 850;
+    line-height: 1.05;
+    letter-spacing: -0.04em;
+    text-wrap: balance;
+  }
+
+  .category-hero__description {
+    max-width: 720px;
+    margin: 16px 0 0;
+    color: #475569;
+    font-size: clamp(1rem, 2vw, 1.125rem);
+    line-height: 1.7;
+  }
+
+  @media (max-width: 640px) {
+    .category-hero__container {
+      width: min(calc(100% - 1.5rem), 1200px);
+      padding-block: 36px 26px;
+    }
+
+    .category-hero h1 {
+      font-size: 2.5rem;
+    }
+
+    .category-hero__description {
+      margin-top: 12px;
+    }
+  }
 </style>

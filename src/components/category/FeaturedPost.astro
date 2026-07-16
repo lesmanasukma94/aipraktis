@@ -1,4 +1,4 @@
----
+﻿---
 import type { CollectionEntry } from "astro:content";
 
 export interface Props {
@@ -10,55 +10,139 @@ const { post } = Astro.props;
 
 {
   post && (
+    <section
+      class="featured-post"
+      aria-labelledby="featured-post-title"
+    >
+      <div class="featured-post__content">
 
-    <section class="featured-post">
+        <span class="featured-post__badge">
+          Artikel Utama
+        </span>
 
-      <div class="container">
-
-        <span class="badge">Artikel Utama</span>
-
-        <h2>
+        <h2 id="featured-post-title">
           <a href={`/blog/${post.id}/`}>
             {post.data.title}
           </a>
         </h2>
 
-        <p>{post.data.description}</p>
+        <p class="featured-post__description">
+          {post.data.description}
+        </p>
+
+        <a
+          class="featured-post__link"
+          href={`/blog/${post.id}/`}
+          aria-label={`Baca artikel utama: ${post.data.title}`}
+        >
+          Baca artikel utama
+          <span aria-hidden="true">→</span>
+        </a>
 
       </div>
-
     </section>
-
   )
 }
 
 <style>
-.featured-post{
-  padding:48px 0;
-}
+  .featured-post {
+    overflow: hidden;
+    border: 1px solid #bfdbfe;
+    border-radius: 20px;
+    background:
+      linear-gradient(
+        135deg,
+        #eff6ff 0%,
+        #ffffff 72%
+      );
+    box-shadow:
+      0 12px 32px rgba(37, 99, 235, 0.07);
+  }
 
-.container{
-  max-width:1200px;
-  margin:auto;
-  padding:0 24px;
-}
+  .featured-post__content {
+    padding: clamp(24px, 5vw, 38px);
+  }
 
-.badge{
-  display:inline-block;
-  margin-bottom:12px;
-  padding:4px 10px;
-  border-radius:999px;
-  background:#2563eb;
-  color:#fff;
-  font-size:.875rem;
-}
+  .featured-post__badge {
+    display: inline-flex;
+    margin-bottom: 16px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: #2563eb;
+    color: #ffffff;
+    font-size: 0.8125rem;
+    font-weight: 750;
+    line-height: 1;
+  }
 
-.featured-post h2{
-  margin-bottom:12px;
-}
+  .featured-post h2 {
+    max-width: 820px;
+    margin: 0;
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 800;
+    line-height: 1.18;
+    letter-spacing: -0.025em;
+    text-wrap: balance;
+  }
 
-.featured-post a{
-  color:inherit;
-  text-decoration:none;
-}
+  .featured-post h2 a {
+    color: #0f172a;
+    text-decoration: none;
+    transition: color 160ms ease;
+  }
+
+  .featured-post h2 a:hover {
+    color: #1d4ed8;
+  }
+
+  .featured-post h2 a:focus-visible {
+    border-radius: 4px;
+    outline: 3px solid #93c5fd;
+    outline-offset: 4px;
+  }
+
+  .featured-post__description {
+    max-width: 760px;
+    margin: 16px 0 0;
+    color: #475569;
+    font-size: 1rem;
+    line-height: 1.75;
+  }
+
+  .featured-post__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 22px;
+    color: #1d4ed8;
+    font-size: 0.9375rem;
+    font-weight: 750;
+    text-decoration: none;
+  }
+
+  .featured-post__link:hover {
+    color: #1e40af;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .featured-post__link:focus-visible {
+    border-radius: 4px;
+    outline: 3px solid #93c5fd;
+    outline-offset: 4px;
+  }
+
+  @media (max-width: 640px) {
+    .featured-post {
+      border-radius: 16px;
+    }
+
+    .featured-post h2 {
+      font-size: 1.75rem;
+    }
+
+    .featured-post__description {
+      line-height: 1.65;
+    }
+  }
 </style>

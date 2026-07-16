@@ -1,4 +1,4 @@
----
+﻿---
 import { topicClusters } from "@/data/clusters";
 
 export interface Props {
@@ -14,34 +14,178 @@ const clusters = topicClusters.filter(
 
 {
   clusters.length > 0 && (
+    <section
+      class="series-overview"
+      aria-labelledby="series-overview-title"
+    >
+      <header class="series-header">
 
-<section class="series-overview">
-
-  <h2>Semua Seri Pembelajaran</h2>
-
-  {
-    clusters.map((cluster) => (
-
-      <article class="series-card">
-
-        <h3>{cluster.title}</h3>
-
-        <p>{cluster.description}</p>
-
-        <p>
-          {cluster.articles.length} artikel
+        <p class="series-eyebrow">
+          Jelajahi Materi
         </p>
 
-        <a href={`/blog/${cluster.articles[0]}/`}>
-          Mulai Belajar →
-        </a>
+        <h2 id="series-overview-title">
+          Semua Seri Pembelajaran
+        </h2>
 
-      </article>
+        <p>
+          Pilih seri yang paling sesuai dengan tujuan belajar Anda.
+        </p>
 
-    ))
-  }
+      </header>
 
-</section>
+      <div class="series-grid">
+        {
+          clusters.map((cluster) => (
+            <article class="series-card">
 
+              <div class="series-card__content">
+
+                <span class="series-card__count">
+                  {cluster.articles.length} artikel
+                </span>
+
+                <h3>{cluster.title}</h3>
+
+                <p>{cluster.description}</p>
+
+              </div>
+
+              {
+                cluster.articles.length > 0 && (
+                  <a
+                    class="series-card__link"
+                    href={`/blog/${cluster.articles[0]}/`}
+                  >
+                    Mulai belajar
+                    <span aria-hidden="true">→</span>
+                  </a>
+                )
+              }
+
+            </article>
+          ))
+        }
+      </div>
+    </section>
   )
 }
+
+<style>
+  .series-header {
+    margin-bottom: 20px;
+  }
+
+  .series-eyebrow {
+    margin: 0 0 6px;
+    color: #2563eb;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    line-height: 1.4;
+    text-transform: uppercase;
+  }
+
+  .series-header h2 {
+    margin: 0;
+    color: #0f172a;
+    font-size: clamp(1.75rem, 3vw, 2.25rem);
+    font-weight: 800;
+    line-height: 1.2;
+    letter-spacing: -0.025em;
+  }
+
+  .series-header > p:last-child {
+    max-width: 680px;
+    margin: 10px 0 0;
+    color: #64748b;
+    font-size: 1rem;
+    line-height: 1.7;
+  }
+
+  .series-grid {
+    display: grid;
+    gap: 16px;
+  }
+
+  .series-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 22px;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    background: #ffffff;
+    transition:
+      border-color 160ms ease,
+      box-shadow 160ms ease,
+      transform 160ms ease;
+  }
+
+  .series-card:hover {
+    border-color: #bfdbfe;
+    box-shadow:
+      0 12px 28px rgba(15, 23, 42, 0.07);
+    transform: translateY(-2px);
+  }
+
+  .series-card__content {
+    flex: 1;
+  }
+
+  .series-card__count {
+    display: inline-flex;
+    padding: 5px 9px;
+    border-radius: 999px;
+    background: #eff6ff;
+    color: #1d4ed8;
+    font-size: 0.75rem;
+    font-weight: 750;
+    line-height: 1;
+  }
+
+  .series-card h3 {
+    margin: 14px 0 0;
+    color: #0f172a;
+    font-size: 1.25rem;
+    font-weight: 800;
+    line-height: 1.35;
+  }
+
+  .series-card__content > p {
+    margin: 9px 0 0;
+    color: #64748b;
+    font-size: 0.9375rem;
+    line-height: 1.65;
+  }
+
+  .series-card__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 7px;
+    margin-top: 18px;
+    color: #1d4ed8;
+    font-size: 0.9375rem;
+    font-weight: 750;
+    text-decoration: none;
+  }
+
+  .series-card__link:hover {
+    color: #1e40af;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .series-card__link:focus-visible {
+    border-radius: 4px;
+    outline: 3px solid #93c5fd;
+    outline-offset: 3px;
+  }
+
+  @media (min-width: 680px) {
+    .series-grid {
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+    }
+  }
+</style>
