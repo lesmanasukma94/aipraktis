@@ -1710,6 +1710,8 @@ Dengan workflow yang benar, AI tools untuk presentasi dapat membantu Anda membua
 
 ---
 
+Presentasi yang kuat membutuhkan riset yang kuat. Baca [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) untuk mencari sumber, data, referensi, dan insight sebelum membuat slide.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

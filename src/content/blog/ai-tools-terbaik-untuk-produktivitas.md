@@ -1697,6 +1697,8 @@ Jika kebutuhan utama Anda adalah produksi konten video, lanjutkan ke [AI Tools u
 
 Jika kebutuhan utama Anda adalah membuat slide, lanjutkan ke [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) untuk memilih tools AI yang cocok untuk outline, desain slide, pitch deck, speaker notes, laporan, dan presentasi bisnis atau edukasi.
 
+Jika kebutuhan utama Anda adalah mencari referensi, data, dan insight, lanjutkan ke [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) untuk memilih tools seperti ChatGPT Deep Research, Gemini Deep Research, Perplexity, NotebookLM, Elicit, Semantic Scholar, ResearchRabbit, Litmaps, Zotero, dan Mendeley.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

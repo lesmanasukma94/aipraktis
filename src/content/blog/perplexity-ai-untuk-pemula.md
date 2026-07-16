@@ -220,6 +220,8 @@ Setelah memahami dasar-dasar Perplexity AI, baca juga artikel [Perplexity vs Cha
 
 Perplexity dapat membantu menemukan sumber, tetapi proses analisis tetap perlu diarahkan. Baca [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/) untuk membuat kerangka riset, membandingkan sumber, dan menyusun insight.
 
+Jika ingin membandingkan Perplexity dengan tools riset lain, baca [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) yang membahas Perplexity, ChatGPT Deep Research, Gemini Deep Research, NotebookLM, Elicit, dan Semantic Scholar.
+
 ---
 
 ## FAQ

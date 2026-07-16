@@ -1064,6 +1064,8 @@ Dengan cara ini, ChatGPT dapat menjadi alat riset yang sangat praktis untuk kerj
 
 ---
 
+Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) untuk membandingkan Perplexity, NotebookLM, Elicit, Semantic Scholar, ResearchRabbit, Litmaps, Zotero, dan tools riset lain.
+
 Setelah riset selesai, langkah berikutnya adalah mengubah catatan menjadi tulisan yang rapi. Baca [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/) untuk membuat outline, draft artikel, email, caption, copywriting, dan editing tulisan.
 
 Setelah riset selesai, hasilnya bisa diubah menjadi slide. Baca [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) untuk membuat struktur presentasi, slide data, executive summary, dan narasi pembicara.

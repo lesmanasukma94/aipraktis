@@ -1290,6 +1290,8 @@ Untuk mengubah tulisan menjadi konten pendek, lanjutkan ke [Prompt AI untuk Soci
 
 Jika ingin membuat artikel SEO lebih cepat, gunakan panduan [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools riset, outline, draft, editing, dan proofreading.
 
+Untuk memperkuat riset konten SEO, gunakan [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) agar pencarian sumber, data, search intent, kompetitor, dan insight artikel lebih terstruktur.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

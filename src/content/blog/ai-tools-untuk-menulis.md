@@ -1654,6 +1654,8 @@ Setelah script selesai, Anda bisa mengubahnya menjadi video dengan [AI Tools unt
 
 Setelah materi tulisan siap, Anda bisa mengubahnya menjadi slide dengan [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) agar artikel, laporan, proposal, atau catatan riset lebih mudah dipresentasikan.
 
+Sebelum menulis artikel, laporan, atau newsletter, gunakan [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) agar proses mencari sumber, memahami topik, dan menyusun insight menjadi lebih rapi.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:
