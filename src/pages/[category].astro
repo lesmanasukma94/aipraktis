@@ -20,65 +20,58 @@ import {
   buildBreadcrumbSchema,
 } from "@/lib/schema-engine";
 
-const CATEGORY_ARTICLE_PRIORITY = {
-  "belajar-ai": [
-    "ai-untuk-pemula",
-    "apa-itu-ai",
-    "cara-belajar-ai-dari-nol",
-    "roadmap-belajar-ai",
-    "skill-ai",
-    "apakah-ai-aman",
-    "kesalahan-pemula-saat-belajar-ai",
-    "kursus-ai-gratis-terbaik",
-    "ai-agent-untuk-pemula",
-  ],
-};
-
-function getPostSlug(post) {
-  return post.slug ?? post.id?.replace(/\.mdx?$/, "");
-}
-
-function getPriorityRank(categorySlug, post) {
-  const priorityList = CATEGORY_ARTICLE_PRIORITY[categorySlug] ?? [];
-  const postSlug = getPostSlug(post);
-  const index = priorityList.indexOf(postSlug);
-
-  return index === -1 ? Number.POSITIVE_INFINITY : index;
-}
-
-function getPostDate(post) {
-  return new Date(post.data.pubDate).getTime();
-}
-
-function sortCategoryPosts(posts, categorySlug) {
-  return [...posts].sort((a, b) => {
-    const rankA = getPriorityRank(categorySlug, a);
-    const rankB = getPriorityRank(categorySlug, b);
-
-    if (rankA !== rankB) {
-      return rankA - rankB;
-    }
-
-    if ((a.data.featured ?? false) !== (b.data.featured ?? false)) {
-      return Number(b.data.featured ?? false) - Number(a.data.featured ?? false);
-    }
-
-    return getPostDate(b) - getPostDate(a);
-  });
-}
-
 export async function getStaticPaths() {
   const allPosts = await getCollection("blog");
 
-  return categories.map((category) => {
-    const categoryPosts = allPosts.filter(
-      (post) => post.data.category === category.slug
-    );
+  const categoryArticlePriority = {
+    "belajar-ai": [
+      "ai-untuk-pemula",
+      "apa-itu-ai",
+      "cara-belajar-ai-dari-nol",
+      "roadmap-belajar-ai",
+      "skill-ai",
+      "apakah-ai-aman",
+      "kesalahan-pemula-saat-belajar-ai",
+      "kursus-ai-gratis-terbaik",
+      "ai-agent-untuk-pemula",
+    ],
+  };
 
-    const sortedPosts = sortCategoryPosts(
-      categoryPosts,
-      category.slug
-    );
+  return categories.map((category) => {
+    const priorityList = categoryArticlePriority[category.slug] ?? [];
+
+    const posts = allPosts
+      .filter((post) => post.data.category === category.slug)
+      .sort((a, b) => {
+        const slugA =
+          a.slug ?? a.id?.replace(/\.mdx?$/, "");
+
+        const slugB =
+          b.slug ?? b.id?.replace(/\.mdx?$/, "");
+
+        const rankA =
+          priorityList.includes(slugA)
+            ? priorityList.indexOf(slugA)
+            : Number.POSITIVE_INFINITY;
+
+        const rankB =
+          priorityList.includes(slugB)
+            ? priorityList.indexOf(slugB)
+            : Number.POSITIVE_INFINITY;
+
+        if (rankA !== rankB) {
+          return rankA - rankB;
+        }
+
+        if ((a.data.featured ?? false) !== (b.data.featured ?? false)) {
+          return Number(b.data.featured ?? false) - Number(a.data.featured ?? false);
+        }
+
+        return (
+          new Date(b.data.pubDate).getTime() -
+          new Date(a.data.pubDate).getTime()
+        );
+      });
 
     return {
       params: {
@@ -87,7 +80,7 @@ export async function getStaticPaths() {
 
       props: {
         category,
-        posts: sortedPosts,
+        posts,
       },
     };
   });
