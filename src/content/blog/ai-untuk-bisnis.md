@@ -223,6 +223,8 @@ Gunakan AI untuk:
 * Membuat caption
 * Membuat deskripsi produk
 
+Untuk contoh penerapan AI pada bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) yang menunjukkan bagaimana AI membantu promosi, customer service, stok, order, laporan, dan SOP.
+
 Salah satu penerapan AI paling penting dalam bisnis adalah penjualan. Baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami prospecting, follow-up, CRM, proposal, objection handling, pipeline, dan closing.
 
 Salah satu penerapan AI paling penting dalam bisnis adalah layanan pelanggan. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk memahami chatbot, ticketing, FAQ, knowledge base, komplain, dan quality control.

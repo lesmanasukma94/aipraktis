@@ -1544,6 +1544,8 @@ Setelah closing, pengalaman pelanggan perlu dijaga. Lanjutkan ke [AI untuk Custo
 
 Jika penjualan toko banyak terjadi lewat chat, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk membuat follow-up WhatsApp, template order, katalog, promosi, dan repeat order lebih konsisten.
 
+Penjualan UMKM sering terjadi lewat chat dan follow-up manual. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh template WhatsApp, analisis channel, produk terlaris, dan follow-up order.
+
 Agency yang menjual layanan retainer atau project dapat membaca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk membuat proposal, pitch deck, follow-up klien, reporting, dan workflow account management lebih rapi.
 
 Sales juga bisa menjadi jalur karier AI. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami bagaimana AI sales assistant dan AI workflow specialist dapat dibangun dari skill follow-up, CRM, proposal, dan pipeline.

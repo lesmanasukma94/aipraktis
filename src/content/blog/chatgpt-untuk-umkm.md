@@ -192,6 +192,8 @@ Tersedia juga paket berbayar dengan fitur yang lebih lengkap.
 - Tidak memahami kondisi bisnis secara sempurna
 - Membutuhkan prompt yang baik
 
+Jika ingin melihat contoh penggunaan ChatGPT dalam bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk memahami penerapan AI pada promosi, customer service, katalog, stok, dan laporan penjualan.
+
 UMKM yang ingin memakai ChatGPT lebih praktis dapat membaca [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/) untuk mendapatkan prompt marketing, WhatsApp, sales, customer service, dan laporan.
 
 UMKM yang ingin memakai ChatGPT secara lebih praktis dapat memulai dari [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/) agar prompt untuk marketing, sales, customer service, dan operasional lebih terarah.

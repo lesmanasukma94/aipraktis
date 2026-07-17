@@ -269,6 +269,8 @@ Contohnya:
 
 Versi berbayar biasanya memberikan kapasitas dan fitur tambahan.
 
+Untuk melihat contoh penerapan yang lebih konkret, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) yang membahas workflow deskripsi produk, caption, WhatsApp, FAQ, stok, laporan penjualan, SOP komplain, dan evaluasi hasil.
+
 ## Artikel Terkait
 
 * [Cara Menggunakan ChatGPT untuk UMKM](/blog/cara-menggunakan-chatgpt-untuk-umkm/)

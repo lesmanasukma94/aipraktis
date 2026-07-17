@@ -1184,6 +1184,8 @@ Jika WhatsApp menjadi channel utama toko, baca [AI untuk UMKM Online Shop](/blog
 
 Sebelum memakai automation yang lebih kompleks, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memahami kapan cukup memakai WhatsApp Business, kapan perlu quick replies, dan kapan perlu chatbot atau CRM.
 
+WhatsApp Business bisa menjadi pintu masuk AI untuk UMKM. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh template WhatsApp, FAQ, away message, quick replies, dan SOP respons pelanggan.
+
 # Artikel Terkait
 
 Pelajari juga panduan AI chatbot dan bisnis berikut:

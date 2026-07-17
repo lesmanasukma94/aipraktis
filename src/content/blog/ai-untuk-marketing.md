@@ -2013,6 +2013,8 @@ Digital marketing agency dapat menerapkan strategi AI secara lebih sistematis le
 
 Marketing bisa menjadi jalur karier AI yang realistis untuk pemula. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk melihat bagaimana AI marketing specialist masuk dalam pilihan profesi AI non-teknis.
 
+UMKM bisa memakai AI untuk marketing secara praktis. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh kalender konten, caption, promo, dan analisis channel penjualan.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

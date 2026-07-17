@@ -190,6 +190,8 @@ Agar manfaat yang diperoleh lebih besar, gunakan ChatGPT untuk:
 
 Semakin sering digunakan, semakin banyak waktu yang dapat dihemat.
 
+Prompt UMKM akan lebih mudah diterapkan jika dikaitkan dengan workflow. Lanjutkan ke [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh prompt deskripsi produk, caption, FAQ, WhatsApp, dan laporan penjualan.
+
 Setelah mencoba prompt untuk UMKM, baca artikel [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/) agar layanan pelanggan bisnis Anda lebih cepat, rapi, dan konsisten.
 
 Untuk penggunaan yang lebih luas, baca artikel [AI Chatbot untuk Bisnis](/blog/ai-chatbot-untuk-bisnis/) yang membahas manfaat, tools, dan contoh penggunaan AI chatbot untuk berbagai kebutuhan usaha.

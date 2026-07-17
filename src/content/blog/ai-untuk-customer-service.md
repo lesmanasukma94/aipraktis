@@ -1659,6 +1659,8 @@ Agency yang mengelola inbox, komentar, atau community management klien dapat mem
 
 Customer service dapat menjadi pintu masuk karier AI melalui chatbot, FAQ, knowledge base, dan SOP layanan. Lanjutkan ke [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami jalur profesinya.
 
+Untuk contoh layanan pelanggan di bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) yang membahas FAQ, template WhatsApp, SOP komplain, escalation flow, dan quality control.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

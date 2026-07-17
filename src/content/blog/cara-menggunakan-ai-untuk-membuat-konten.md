@@ -1560,6 +1560,8 @@ Konten harian akan lebih berdampak jika punya strategi marketing. Baca [AI untuk
 
 Jika konten dibuat untuk menjual produk online shop, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk mengubah ide konten menjadi caption produk, Reels, katalog, promo, dan follow-up WhatsApp.
 
+Jika konten dibuat untuk bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh kalender konten, caption promosi, ide visual, dan campaign sederhana berbasis AI.
+
 Jika konten dibuat untuk banyak klien, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) agar produksi konten, brief visual, approval, reporting, dan QC berjalan lebih sistematis.
 
 # Artikel Terkait

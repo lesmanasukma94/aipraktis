@@ -1745,6 +1745,8 @@ Jika meeting membahas data spreadsheet atau laporan, baca [Cara Menggunakan AI u
 
 UMKM yang mencatat stok dan order di spreadsheet dapat membaca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk workflow order, stok, laporan penjualan, produk laris, dan rekomendasi promo.
 
+Spreadsheet UMKM bisa menjadi dasar analisis bisnis. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh struktur stok, order, dashboard, dan laporan penjualan mingguan.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:
