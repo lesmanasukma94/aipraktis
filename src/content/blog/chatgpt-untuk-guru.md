@@ -138,6 +138,8 @@ ChatGPT dapat membantu membuat:
 
 Sehingga pembelajaran lebih sesuai dengan kebutuhan siswa.
 
+Jika ingin memilih tools pendukung selain ChatGPT, baca [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) untuk melihat rekomendasi tools materi ajar, soal, rubrik, presentasi, kuis, diferensiasi, dan feedback siswa.
+
 Guru yang ingin membantu siswa belajar lebih aktif dapat menggunakan [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) sebagai referensi membuat latihan, kuis, rubrik, flashcard, dan aktivitas kelas.
 
 ## Kelebihan ChatGPT untuk Guru

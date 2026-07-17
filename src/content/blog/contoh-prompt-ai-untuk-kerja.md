@@ -963,6 +963,8 @@ Dengan kebiasaan ini, AI dapat menjadi asisten kerja yang sangat berguna untuk m
 
 ---
 
+Jika ingin memahami workflow lengkapnya, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) agar prompt email, laporan, meeting, riset, presentasi, spreadsheet, sales, dan admin bisa diterapkan dalam pekerjaan harian.
+
 Jika kebutuhan Anda lebih spesifik untuk usaha, penjualan, marketing, customer service, dan operasional, lanjutkan ke [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/).
 
 Jika Anda ingin memakai AI untuk belajar skill baru atau memahami materi kerja, baca juga [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) untuk membuat jadwal, rangkuman, latihan, dan simulasi pemahaman.
@@ -976,6 +978,12 @@ Untuk pekerjaan yang membutuhkan analisis informasi, lanjutkan ke [Prompt ChatGP
 Untuk kebutuhan menulis yang lebih spesifik, lanjutkan ke [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/) yang membahas prompt artikel, email, caption, copywriting, script, newsletter, dan editing.
 
 Untuk kebutuhan presentasi kerja, lanjutkan ke [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) yang berisi prompt outline, isi slide, script pembicara, laporan, proposal, dan Q&A.
+
+Salah satu penggunaan prompt kerja paling praktis adalah email. Lanjutkan ke [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) untuk contoh prompt email profesional, follow-up, meeting, customer service, dan sales.
+
+Salah satu penggunaan prompt kerja paling praktis adalah spreadsheet. Baca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) untuk contoh prompt rumus, data cleaning, analisis, dashboard, dan laporan.
+
+Untuk contoh prompt kerja yang berhubungan dengan meeting, lanjutkan ke [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) agar catatan rapat bisa diubah menjadi keputusan, tugas, PIC, deadline, dan follow-up.
 
 # Artikel Terkait
 

@@ -1581,6 +1581,8 @@ Untuk lead yang sudah menunjukkan minat dan siap diarahkan ke penjualan, lanjutk
 
 Email marketing membutuhkan writing tools yang tepat. Baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools subject line, newsletter, sequence, proofreading, dan tone email.
 
+Untuk workflow email yang lebih luas, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) yang membahas email profesional, subject line, newsletter, follow-up, sequence, dan audit email sebelum dikirim.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

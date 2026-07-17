@@ -26,6 +26,8 @@ Setiap prompt dilengkapi dengan konteks penggunaan dan bagian yang dapat disesua
 
 Untuk memahami penggunaan AI dalam kegiatan akademik secara lebih luas, baca juga [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/) dan [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/).
 
+Mahasiswa yang ingin belajar lebih terarah dapat membaca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) untuk membuat roadmap belajar, rangkuman, latihan, review, dan riset akademik dengan AI.
+
 ## Cara Menggunakan Prompt AI untuk Mahasiswa
 
 Prompt yang terlalu singkat biasanya menghasilkan jawaban umum. Agar hasil AI lebih relevan, berikan konteks yang cukup tentang tugas, tingkat pemahaman, format keluaran, dan batasan yang harus diikuti.

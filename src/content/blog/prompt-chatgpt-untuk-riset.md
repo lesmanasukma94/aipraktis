@@ -21,6 +21,8 @@ draft: false
 
 Prompt ChatGPT untuk riset dapat membantu Anda mencari arah riset, menyusun pertanyaan, merangkum sumber, membandingkan informasi, menemukan pola, membuat kerangka laporan, dan mengecek kelemahan argumen. Namun, ChatGPT tidak boleh dijadikan satu-satunya sumber kebenaran. Untuk riset serius, informasi tetap harus diverifikasi dari sumber resmi, jurnal, laporan, data primer, atau dokumen terpercaya. Artikel ini berisi kumpulan prompt siap pakai untuk riset kerja, bisnis, akademik, konten, kompetitor, pasar, produk, dan pengambilan keputusan.
 
+Untuk workflow lengkap dari prompt menjadi hasil riset yang rapi, lanjutkan ke [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) agar proses pertanyaan riset, sumber, ringkasan, perbandingan, dan verifikasi lebih terarah.
+
 # Prompt ChatGPT untuk Riset
 
 Riset adalah bagian penting dari banyak pekerjaan.
@@ -1071,6 +1073,8 @@ Setelah riset selesai, langkah berikutnya adalah mengubah catatan menjadi tulisa
 Setelah riset selesai, hasilnya bisa diubah menjadi slide. Baca [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) untuk membuat struktur presentasi, slide data, executive summary, dan narasi pembicara.
 
 Jika riset Anda digunakan untuk artikel blog atau website, lanjutkan ke [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) agar riset bisa diubah menjadi keyword, search intent, content brief, outline artikel, dan internal link.
+
+Riset akan lebih berguna jika diubah menjadi artikel yang rapi. Baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk mengubah hasil riset menjadi konten blog yang jelas dan SEO-friendly.
 
 # Artikel Terkait
 

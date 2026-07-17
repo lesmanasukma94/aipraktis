@@ -774,6 +774,8 @@ Topik literasi AI dapat mencakup:
 
 Literasi AI membantu siswa menggunakan teknologi dengan lebih kritis, bukan hanya lebih cepat.
 
+Prompt akan lebih efektif jika dipakai bersama tools yang tepat. Lanjutkan ke [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) untuk memilih tools AI yang cocok untuk lesson plan, soal, rubrik, worksheet, presentasi, kuis, dan administrasi pembelajaran.
+
 ## FAQ tentang Prompt AI untuk Guru
 
 ### Apakah AI dapat menggantikan guru?

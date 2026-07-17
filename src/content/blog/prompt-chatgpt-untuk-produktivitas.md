@@ -1153,6 +1153,10 @@ Jika pekerjaan harian Anda banyak melibatkan tulisan, baca juga [Prompt ChatGPT 
 
 Jika pekerjaan Anda sering melibatkan presentasi, baca juga [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) agar proses membuat outline, slide, speaker notes, dan Q&A lebih cepat.
 
+Untuk penerapan yang lebih praktis dalam pekerjaan harian, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) yang membahas workflow email, meeting, laporan, riset, presentasi, spreadsheet, dan admin.
+
+Salah satu prompt produktivitas paling praktis adalah prompt notulen. Baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) untuk template agenda, ringkasan, action items, dan email follow-up.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

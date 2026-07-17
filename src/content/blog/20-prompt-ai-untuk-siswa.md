@@ -20,6 +20,8 @@ AI dapat membantu siswa memahami pelajaran, membuat rangkuman, berlatih mengerja
 
 Namun, AI sebaiknya digunakan sebagai **teman belajar**, bukan sebagai alat untuk menyalin jawaban tanpa memahami prosesnya. Jawaban AI juga tidak selalu benar. Siswa tetap perlu memeriksa hasilnya menggunakan buku pelajaran, catatan guru, materi sekolah, dan sumber tepercaya lainnya.
 
+Siswa yang ingin memakai prompt secara lebih aman dapat membaca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar AI digunakan sebagai tutor, bukan sekadar pemberi jawaban tugas.
+
 Artikel ini menyediakan 20 prompt AI yang dapat digunakan pada ChatGPT, Gemini, Claude, Microsoft Copilot, atau chatbot AI lainnya.
 
 Teks dalam tanda kurung siku seperti `[TOPIK]`, `[KELAS]`, dan `[MATERI]` perlu diganti sesuai kebutuhan.

@@ -301,6 +301,8 @@ Jika Anda ingin mencoba alternatif chatbot AI lainnya selain ChatGPT, Anda juga 
 
 Jika Anda ingin memakai ChatGPT untuk pekerjaan sehari-hari, baca [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/) untuk mendapatkan prompt email, meeting, laporan, presentasi, dan produktivitas.
 
+Setelah memahami dasar ChatGPT, lanjutkan ke [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) agar AI bisa digunakan untuk email, laporan, meeting, riset, presentasi, spreadsheet, dan tugas profesional sehari-hari.
+
 ## FAQ
 
 ### Apakah ChatGPT bisa digunakan secara gratis?

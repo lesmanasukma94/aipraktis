@@ -22,6 +22,8 @@ draft: false
 
 Prompt AI untuk SEO dapat membantu mempercepat riset keyword, analisis search intent, pembuatan topical map, outline artikel, content brief, meta title, meta description, internal link, FAQ, audit konten, dan optimasi artikel. Namun, AI tidak boleh digunakan hanya untuk membuat konten massal yang dangkal. SEO yang baik tetap harus fokus pada pembaca, kualitas konten, pengalaman, kejelasan struktur, akurasi informasi, dan nilai tambah yang nyata.
 
+Untuk workflow lengkap dari prompt menjadi optimasi artikel yang siap dipakai, lanjutkan ke [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) agar riset keyword, search intent, content brief, internal link, dan update artikel lebih terarah.
+
 # Prompt AI untuk SEO
 
 SEO adalah salah satu area yang sangat terbantu oleh AI.
@@ -1291,6 +1293,10 @@ Untuk mengubah tulisan menjadi konten pendek, lanjutkan ke [Prompt AI untuk Soci
 Jika ingin membuat artikel SEO lebih cepat, gunakan panduan [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools riset, outline, draft, editing, dan proofreading.
 
 Untuk memperkuat riset konten SEO, gunakan [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) agar pencarian sumber, data, search intent, kompetitor, dan insight artikel lebih terstruktur.
+
+Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) untuk membandingkan Google Search Console, GA4, Semrush, Ahrefs, Screaming Frog, Surfer SEO, Rank Math, Yoast, dan tools pendukung lain.
+
+Jika ingin memakai prompt SEO untuk menulis artikel dari nol, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) yang membahas workflow riset, outline, draft, editing, dan fact-checking.
 
 # Artikel Terkait
 

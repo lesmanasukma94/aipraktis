@@ -1212,6 +1212,8 @@ Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Presentasi](/b
 
 Jika materi presentasi ingin dikembangkan menjadi artikel blog, gunakan panduan [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) untuk membuat outline SEO, FAQ, content brief, dan strategi internal link.
 
+Untuk workflow lengkap dari prompt menjadi slide siap pakai, lanjutkan ke [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) agar proses outline, isi slide, speaker notes, desain, dan latihan Q&A lebih terarah.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

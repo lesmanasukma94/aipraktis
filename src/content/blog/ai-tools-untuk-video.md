@@ -63,6 +63,8 @@ Anda perlu membuat ide, script, rekaman, voice-over, subtitle, editing, B-roll, 
 
 Di sinilah AI tools untuk video sangat membantu.
 
+Jika ingin membuat video pendek secara konsisten, baca [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) untuk menyusun ide, script, storyboard, caption, visual, dan workflow repurposing.
+
 Dengan tools yang tepat, AI bisa membantu:
 
 - membuat ide video,
@@ -1765,6 +1767,12 @@ Dengan cara ini, AI video tools tidak hanya menjadi tren, tetapi menjadi sistem 
 ---
 
 Presentasi juga bisa menjadi dasar video edukasi. Gunakan [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) untuk membuat outline dan slide, lalu lanjutkan ke tools video untuk voice-over, subtitle, dan editing.
+
+Jika video ingin didistribusikan ke Reels, TikTok, dan Shorts, gunakan [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk memilih tools caption, scheduling, repurposing, analytics, dan kalender konten.
+
+UMKM yang ingin membuat video promosi sederhana dapat membaca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk melihat bagaimana CapCut, Canva AI, ChatGPT, dan social media tools digunakan dalam workflow jualan.
+
+Slide juga bisa menjadi bahan video edukasi. Gunakan [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk membuat deck, lalu lanjutkan ke workflow video untuk voice-over, subtitle, dan editing.
 
 # Artikel Terkait
 

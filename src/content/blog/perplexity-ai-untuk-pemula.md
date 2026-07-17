@@ -222,6 +222,8 @@ Perplexity dapat membantu menemukan sumber, tetapi proses analisis tetap perlu d
 
 Jika ingin membandingkan Perplexity dengan tools riset lain, baca [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) yang membahas Perplexity, ChatGPT Deep Research, Gemini Deep Research, NotebookLM, Elicit, dan Semantic Scholar.
 
+Jika ingin memakai Perplexity dalam proses riset yang lebih lengkap, baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) agar hasil pencarian tidak berhenti di ringkasan, tetapi dicek, dibandingkan, dan diubah menjadi insight.
+
 ---
 
 ## FAQ

@@ -2002,6 +2002,22 @@ Dengan workflow yang benar, AI tools untuk riset dapat membantu Anda bekerja leb
 
 ---
 
+Jika ingin menerapkan tools riset ke workflow nyata, baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) untuk memahami langkah dari pertanyaan riset, pencarian sumber, ringkasan, perbandingan, insight, fact-checking, sampai output akhir.
+
+Setelah riset sumber selesai, lanjutkan ke [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) untuk mengubah hasil riset menjadi keyword cluster, content brief, artikel SEO, dan strategi update konten.
+
+Jika riset digunakan untuk artikel SEO, lanjutkan ke [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) agar hasil riset bisa diubah menjadi keyword cluster, outline, artikel, FAQ, internal link, dan content refresh.
+
+Guru yang sering membuat materi dari modul, PDF, atau sumber belajar dapat membaca [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) untuk melihat cara memakai AI dalam merangkum dokumen, membuat soal, dan menyusun bahan ajar.
+
+Untuk mengubah riset menjadi output kerja yang rapi, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) agar hasil riset bisa menjadi laporan, presentasi, insight, dan action items.
+
+Setelah sumber terkumpul, gunakan panduan [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk mengubah riset menjadi outline, draft artikel, FAQ, internal link, dan konten siap publish.
+
+Setelah riset selesai, gunakan [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk mengubah hasil riset menjadi slide, insight, rekomendasi, dan Q&A presentasi.
+
+Jika hasil riset Anda berupa data tabel, gunakan [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) untuk membersihkan data, membuat ringkasan, menemukan pola, dan mengubah data menjadi insight.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

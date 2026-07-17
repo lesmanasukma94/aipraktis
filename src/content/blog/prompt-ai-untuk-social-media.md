@@ -1360,6 +1360,8 @@ Konten menjadi lebih terarah, lebih konsisten, dan lebih mudah dikembangkan menj
 
 ---
 
+Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk membandingkan ChatGPT, Canva AI, CapCut, Buffer, Hootsuite, Later, Metricool, Meta Business Suite, dan tools lain.
+
 Setelah konten social media menarik audiens baru, Anda bisa melanjutkan hubungan lewat email. Gunakan [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) untuk membuat newsletter, welcome email, dan nurturing sequence.
 
 Agar produksi konten lebih cepat, gunakan juga panduan [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) untuk memilih tools desain, writing, riset, kalender konten, dan otomasi.

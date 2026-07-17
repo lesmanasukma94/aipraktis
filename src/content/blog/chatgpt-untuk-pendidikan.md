@@ -250,6 +250,10 @@ Ya. Banyak guru menggunakan ChatGPT untuk membuat materi, soal, dan aktivitas pe
 
 Tidak. ChatGPT membantu proses belajar, tetapi tidak dapat menggantikan usaha dan pemahaman siswa.
 
+Untuk penerapan yang lebih spesifik bagi guru, baca [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) agar ChatGPT, Gemini, Copilot, Khanmigo, Canva Education, Brisk, Quizizz, dan tools lain bisa digunakan secara tepat.
+
+Untuk penerapan yang lebih spesifik pada proses belajar, baca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar AI digunakan untuk tutor, rangkuman, latihan soal, flashcard, dan evaluasi pemahaman.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)

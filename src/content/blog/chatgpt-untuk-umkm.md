@@ -43,6 +43,8 @@ Pemilik usaha dituntut untuk:
 
 ChatGPT dapat membantu menghemat waktu sehingga pemilik usaha dapat fokus pada pengembangan bisnis.
 
+Jika ingin memilih tools pendukung selain ChatGPT, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk melihat rekomendasi tools promosi, WhatsApp, desain, video, admin, sales, CRM, dan otomasi bisnis kecil.
+
 Beberapa manfaat utama:
 
 ### Menghemat Waktu

@@ -724,6 +724,14 @@ Untuk membuat isi presentasi sebelum dipindahkan ke PowerPoint atau tools lain, 
 
 Jika ingin memakai Copilot khusus untuk slide, baca juga [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) yang membahas Copilot PowerPoint dan alternatif seperti Canva AI, Gamma, Beautiful.ai, Google Slides, dan Pitch.
 
+Untuk memahami penerapan AI di pekerjaan kantor secara lebih luas, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) yang membahas email, dokumen, meeting, presentasi, data, dan produktivitas harian.
+
+Jika ingin memakai Copilot untuk slide kerja, baca [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) agar proses membuat outline, slide, speaker notes, dan final review lebih sistematis.
+
+Jika ingin memakai Copilot untuk spreadsheet, baca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) agar Anda memahami workflow rumus, format tabel, analisis data, grafik, dan laporan sederhana.
+
+Jika ingin memakai AI untuk meeting di lingkungan Microsoft, baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) agar recap, action items, keputusan, dan follow-up meeting lebih mudah dicek.
+
 # Artikel Terkait
 
 Jika Anda ingin mengenal chatbot AI lainnya, baca juga artikel berikut.

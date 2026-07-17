@@ -262,7 +262,11 @@ AI akan membantu:
 
 Institusi pendidikan yang mampu memanfaatkan AI secara bijak akan memiliki keunggulan dalam meningkatkan kualitas pembelajaran.
 
+Pelajar yang ingin memakai AI secara praktis dapat membaca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) untuk memahami workflow belajar aktif dengan AI, mulai dari materi sulit sampai simulasi ujian.
+
 Guru, dosen, dan mahasiswa yang ingin membuat materi ajar lebih cepat dapat membaca [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/) untuk memilih tools slide, speaker notes, diagram, dan presentasi edukasi.
+
+Guru yang ingin menerapkan AI secara praktis di kelas dapat membaca [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) untuk memilih tools pembuatan materi, soal, rubrik, presentasi, feedback, dan diferensiasi pembelajaran.
 
 ## Artikel Terkait
 

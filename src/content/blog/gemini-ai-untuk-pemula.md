@@ -330,6 +330,8 @@ Ya. Gemini dirancang agar mudah digunakan bahkan oleh pengguna yang belum pernah
 
 Keduanya memiliki kelebihan masing-masing. Pemilihan tool yang tepat bergantung pada kebutuhan dan preferensi pengguna.
 
+Jika memakai Google Meet atau Google Workspace, baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) untuk memahami workflow catatan meeting, recap, action items, dan privasi rapat.
+
 ## Artikel Terkait
 
 - [Apa Itu AI?](/blog/apa-itu-ai/)

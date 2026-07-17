@@ -22,6 +22,8 @@ draft: false
 
 Prompt AI untuk belajar dapat membantu siswa, mahasiswa, guru, karyawan, dan siapa pun yang ingin memahami materi lebih cepat. Dengan prompt yang tepat, AI bisa membantu menjelaskan konsep sulit, membuat rangkuman, menyusun jadwal belajar, membuat latihan soal, membuat flashcard, menguji pemahaman, membantu riset awal, dan mempersiapkan ujian. Artikel ini berisi contoh prompt AI untuk belajar yang siap dipakai, lengkap dengan cara penggunaan, tips, checklist, dan peringatan agar AI tidak menjadi jalan pintas yang melemahkan pemahaman.
 
+Jika ingin menerapkan prompt belajar ke workflow yang lebih lengkap, baca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) untuk memahami cara memakai AI sebagai tutor, membuat jadwal belajar, rangkuman, latihan soal, flashcard, dan review.
+
 # Contoh Prompt AI untuk Belajar
 
 AI bisa menjadi teman belajar yang sangat berguna.
@@ -1002,6 +1004,8 @@ Dengan kebiasaan ini, AI bisa menjadi tutor pribadi yang membantu Anda belajar l
 Jika ingin belajar lebih teratur, baca juga [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/) untuk mengatur jadwal belajar, prioritas, review, dan fokus harian.
 
 Jika Anda memakai AI untuk memahami materi atau mengerjakan riset akademik, baca [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/) agar proses riset lebih kritis dan tidak sekadar menyalin jawaban AI.
+
+Jika Anda guru dan ingin membuat aktivitas belajar untuk siswa, baca juga [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) yang membahas tools untuk materi, soal, rubrik, kuis, worksheet, dan diferensiasi pembelajaran.
 
 # Artikel Terkait
 

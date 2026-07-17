@@ -33,6 +33,8 @@ Contohnya:
 
 Dengan bantuan AI, pekerjaan tersebut dapat diselesaikan lebih cepat sehingga pemilik usaha dapat lebih fokus pada pengembangan bisnis.
 
+Untuk rekomendasi yang lebih spesifik bagi bisnis kecil, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) yang membahas tools praktis untuk promosi, admin, WhatsApp, customer service, penjualan, konten, dan otomasi.
+
 ## Cara Menggunakan Prompt dengan Efektif
 
 Sebelum menggunakan prompt, pastikan Anda memberikan informasi yang cukup kepada ChatGPT.

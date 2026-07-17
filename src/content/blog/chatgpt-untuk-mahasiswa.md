@@ -52,6 +52,8 @@ AI bukan pengganti kemampuan berpikir, tetapi alat yang membantu proses belajar 
 
 Mahasiswa yang ingin memakai AI secara lebih terarah dapat membaca [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) untuk membuat rangkuman, latihan soal, kerangka esai, riset awal, dan persiapan ujian.
 
+Mahasiswa dapat membaca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) untuk memakai AI dalam memahami materi kuliah, membuat catatan, riset, presentasi, latihan, dan review mingguan.
+
 ## Cara Menggunakan ChatGPT untuk Belajar
 
 ### Memahami Materi Kuliah

@@ -237,6 +237,8 @@ Untuk daftar prompt sales yang lebih lengkap, lanjutkan ke [Prompt AI untuk Sale
 
 Untuk membantu proses penjualan, baca juga [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/) yang berisi prompt objection handling, follow-up, WhatsApp closing, dan sales page.
 
+Jika ingin membuat email sales yang lebih sopan dan tidak terlalu hard selling, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) untuk workflow cold email, follow-up, objection handling, dan CTA.
+
 ## Artikel Terkait
 
 * [AI untuk Sales](/blog/ai-untuk-sales/)

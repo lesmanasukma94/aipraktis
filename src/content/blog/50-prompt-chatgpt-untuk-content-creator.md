@@ -18,6 +18,8 @@ ChatGPT dapat membantu mempercepat proses brainstorming, riset, penulisan, hingg
 
 Dalam artikel ini Anda akan menemukan 50 prompt ChatGPT untuk content creator yang dapat langsung digunakan dan dimodifikasi sesuai kebutuhan.
 
+Jika ingin memakai prompt secara lebih sistematis, lanjutkan ke [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) agar prompt ide, caption, script, visual, dan repurposing masuk ke workflow produksi harian.
+
 ## Mengapa Content Creator Perlu Menggunakan Prompt yang Baik?
 
 Prompt yang baik membantu ChatGPT memahami kebutuhan secara lebih spesifik.

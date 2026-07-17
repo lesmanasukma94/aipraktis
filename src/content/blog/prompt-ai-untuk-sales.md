@@ -1430,6 +1430,12 @@ Jika digunakan dengan benar, AI dapat menjadi asisten sales yang membantu tim be
 
 Untuk mempercepat follow-up, CRM note, call summary, dan proposal, baca juga [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) agar tim sales bisa memilih tools yang tepat.
 
+Jika ingin menerapkan prompt sales dalam bisnis kecil, gunakan [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memilih tools follow-up, WhatsApp Business, CRM sederhana, Google Sheets, HubSpot, Zoho, dan otomasi penjualan.
+
+Jika ingin memakai AI untuk pekerjaan sales sehari-hari, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) untuk contoh follow-up, objection handling, CRM note, proposal, dan ringkasan call.
+
+Untuk memakai AI dalam email sales, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) agar cold email, follow-up lead, objection handling, dan proposal follow-up lebih profesional.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

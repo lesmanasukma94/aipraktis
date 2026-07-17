@@ -1176,6 +1176,8 @@ Ya. AI chatbot dapat membantu membuat follow-up, menjawab pertanyaan produk, mer
 
 ---
 
+Sebelum memakai automation yang lebih kompleks, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memahami kapan cukup memakai WhatsApp Business, kapan perlu quick replies, dan kapan perlu chatbot atau CRM.
+
 # Artikel Terkait
 
 Pelajari juga panduan AI chatbot dan bisnis berikut:

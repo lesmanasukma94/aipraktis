@@ -1017,6 +1017,10 @@ Jika digunakan dengan prompt yang jelas dan proses editing yang baik, ChatGPT da
 
 Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk membandingkan ChatGPT, Claude, Gemini, Grammarly, Notion AI, Jasper, Copy.ai, Canva AI, QuillBot, dan Hemingway.
 
+Untuk workflow lengkap dari prompt menjadi artikel siap publish, lanjutkan ke [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) agar proses ide, outline, draft, editing, dan SEO lebih terarah.
+
+Riset akan lebih kuat jika diterapkan ke strategi SEO. Baca [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) untuk mengubah hasil riset menjadi keyword cluster, content brief, outline, dan artikel SEO.
+
 Jika tulisan Anda akan diubah menjadi slide, lanjutkan ke [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/) untuk membuat outline slide, speaker notes, script pembicara, visual direction, dan Q&A.
 
 Untuk tulisan yang ditujukan ke traffic organik, baca juga [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) agar artikel memiliki riset keyword, search intent, struktur heading, meta title, meta description, dan internal link yang lebih rapi.
@@ -1026,6 +1030,10 @@ Jika tulisan Anda bertujuan menjual produk, mengajak daftar, atau mendorong klik
 Untuk mengubah tulisan menjadi konten pendek, lanjutkan ke [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/) agar artikel, caption, script, carousel, Reels, dan story bisa dibuat lebih terstruktur.
 
 Untuk kebutuhan menulis email yang lebih strategis, lanjutkan ke [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) yang membahas newsletter, sequence, follow-up, subject line, preview text, dan audit email.
+
+Untuk mengubah draft tulisan menjadi artikel yang lebih SEO-friendly, gunakan [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) sebagai panduan memilih tools optimasi konten, audit artikel, dan monitoring performa.
+
+Jika ingin memakai prompt menulis untuk kebutuhan email, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) agar prompt email kerja, follow-up, customer service, sales, dan email marketing lebih terarah.
 
 # Artikel Terkait
 

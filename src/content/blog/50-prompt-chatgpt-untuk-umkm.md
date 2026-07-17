@@ -25,6 +25,8 @@ Prompt yang jelas akan menghasilkan:
 * Konten yang lebih siap digunakan
 * Waktu kerja yang lebih hemat
 
+Prompt akan lebih efektif jika dipakai bersama tools yang tepat. Lanjutkan ke [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memilih tools AI yang cocok untuk promosi, chat pelanggan, katalog, konten, laporan, dan follow-up.
+
 ## Prompt ChatGPT untuk Ide Bisnis
 
 ### Prompt 1

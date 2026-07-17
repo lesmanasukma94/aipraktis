@@ -1656,6 +1656,24 @@ Setelah materi tulisan siap, Anda bisa mengubahnya menjadi slide dengan [AI Tool
 
 Sebelum menulis artikel, laporan, atau newsletter, gunakan [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) agar proses mencari sumber, memahami topik, dan menyusun insight menjadi lebih rapi.
 
+Agar tulisan lebih siap bersaing di Google, gunakan juga [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) untuk riset keyword, optimasi artikel, meta title, meta description, internal link, dan update konten lama.
+
+Setelah draft caption atau script siap, gunakan [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk mengubah tulisan menjadi konten Instagram, TikTok, YouTube Shorts, Facebook, Threads, dan LinkedIn.
+
+Untuk kebutuhan menulis materi ajar, instruksi tugas, feedback siswa, dan email orang tua, lanjutkan ke [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) agar workflow menulis guru lebih praktis.
+
+Jika writing tools ingin diterapkan langsung ke pekerjaan kantor, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) untuk contoh penggunaan AI dalam email, laporan, notulen, proposal, dan komunikasi profesional.
+
+Jika ingin menerapkan writing tools ke workflow artikel blog, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk memahami langkah dari riset, outline, draft, editing, SEO, fact-checking, sampai publish.
+
+Agar tulisan tidak hanya rapi tetapi juga berbasis sumber yang kuat, baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) sebelum mengubah ide menjadi artikel, laporan, atau konten panjang.
+
+Jika tulisan ingin dioptimalkan untuk pencarian Google, gunakan [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) agar proses keyword, outline, meta description, FAQ, internal link, dan audit konten lebih rapi.
+
+Untuk penerapan writing tools dalam komunikasi kerja, lanjutkan ke [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) agar proses menulis, memperbaiki tone, membuat follow-up, dan menyusun template email lebih praktis.
+
+Jika writing tools ingin dipakai untuk produksi konten harian, lanjutkan ke [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) agar ide, hook, caption, script, artikel, newsletter, dan repurposing bisa dibuat lebih konsisten.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

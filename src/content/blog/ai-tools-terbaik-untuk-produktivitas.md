@@ -1699,6 +1699,20 @@ Jika kebutuhan utama Anda adalah membuat slide, lanjutkan ke [AI Tools untuk Pre
 
 Jika kebutuhan utama Anda adalah mencari referensi, data, dan insight, lanjutkan ke [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) untuk memilih tools seperti ChatGPT Deep Research, Gemini Deep Research, Perplexity, NotebookLM, Elicit, Semantic Scholar, ResearchRabbit, Litmaps, Zotero, dan Mendeley.
 
+Jika kebutuhan utama Anda adalah meningkatkan traffic organik, lanjutkan ke [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) untuk memilih tools keyword research, content optimization, technical audit, rank tracking, backlink analysis, dan monitoring performa website.
+
+Jika kebutuhan utama Anda adalah produksi konten dan distribusi social media, lanjutkan ke [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk memilih tools ide konten, caption, desain, video, scheduling, analytics, dan repurposing.
+
+Untuk rekomendasi yang lebih spesifik bagi bisnis kecil, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) yang membahas tools praktis untuk promosi, admin, WhatsApp, customer service, penjualan, konten, dan otomasi.
+
+Untuk rekomendasi yang lebih spesifik bagi pendidik, baca [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) yang membahas tools praktis untuk materi ajar, soal, rubrik, presentasi, kuis, feedback siswa, dan administrasi guru.
+
+Setelah memilih tools produktivitas, lanjutkan ke [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) untuk memahami langkah praktis memakai AI dalam email, laporan, meeting, riset, presentasi, spreadsheet, dan workflow harian.
+
+Untuk workflow spreadsheet yang lebih praktis, lanjutkan ke [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) agar AI bisa membantu rumus, data cleaning, PivotTable, grafik, laporan, dan dashboard sederhana.
+
+Untuk workflow meeting yang lebih produktif, baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) agar AI membantu agenda, ringkasan, action items, dan follow-up.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

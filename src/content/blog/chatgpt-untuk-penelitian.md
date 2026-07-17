@@ -259,6 +259,8 @@ Namun kemampuan berpikir kritis tetap menjadi faktor yang paling penting.
 
 Untuk workflow riset yang lebih lengkap, lanjutkan ke [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) agar proses mencari paper, membaca dokumen, menyimpan referensi, dan membuat sintesis lebih rapi.
 
+Untuk workflow penelitian yang lebih sistematis, baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) agar proses pertanyaan riset, sumber, literature review awal, catatan, dan verifikasi lebih rapi.
+
 ## Jelajahi Panduan AI Lainnya
 
 * [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)

@@ -218,6 +218,12 @@ Marketer yang ingin memakai AI untuk channel email dapat membaca [Prompt AI untu
 
 Agar materi marketing tidak hanya kuat secara teks, gunakan [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) untuk membuat visual campaign, poster, banner, carousel, dan konten promosi.
 
+SEO adalah salah satu channel marketing jangka panjang. Baca [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) untuk memahami tools yang membantu riset keyword, audit website, optimasi artikel, dan monitoring traffic organik.
+
+Social media adalah salah satu channel marketing utama. Gunakan [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk mempercepat ide konten, caption, desain, video pendek, scheduling, dan analisis performa.
+
+Untuk memakai ChatGPT dalam produksi konten marketing harian, baca [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) agar proses ide, hook, caption, script, kalender, dan repurposing lebih rapi.
+
 ## Artikel Terkait
 
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)

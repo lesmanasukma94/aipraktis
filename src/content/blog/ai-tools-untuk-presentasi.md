@@ -1712,6 +1712,14 @@ Dengan workflow yang benar, AI tools untuk presentasi dapat membantu Anda membua
 
 Presentasi yang kuat membutuhkan riset yang kuat. Baca [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/) untuk mencari sumber, data, referensi, dan insight sebelum membuat slide.
 
+Jika presentasi digunakan untuk pembelajaran di kelas, baca juga [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) agar slide, aktivitas, kuis, dan materi ajar lebih sesuai dengan kebutuhan siswa.
+
+Agar presentasi menjadi bagian dari workflow kerja yang utuh, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) untuk menghubungkan riset, laporan, outline slide, speaker notes, dan follow-up meeting.
+
+Jika ingin menerapkan tools presentasi ke workflow nyata, baca [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk memahami langkah dari tujuan, audiens, outline, slide, speaker notes, visual, Q&A, sampai final review.
+
+Jika presentasi membutuhkan data, baca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) agar data spreadsheet bisa diubah menjadi grafik, insight, dan laporan yang lebih mudah dipresentasikan.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

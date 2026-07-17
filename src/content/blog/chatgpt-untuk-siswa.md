@@ -208,6 +208,8 @@ Guru tetap menjadi sumber belajar utama.
 * Gunakan untuk belajar, bukan mencontek.
 * Tetap membaca buku dan materi sekolah.
 
+Setelah memahami dasar ChatGPT, lanjutkan ke [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar AI membantu memahami materi, membuat latihan, mengecek jawaban, dan belajar tanpa menjadi contekan.
+
 ## Masa Depan AI dalam Pendidikan
 
 AI akan semakin banyak digunakan dalam pendidikan.

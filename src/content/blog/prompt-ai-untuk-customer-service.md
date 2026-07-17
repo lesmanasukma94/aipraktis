@@ -1255,6 +1255,12 @@ Jika percakapan pelanggan sudah mengarah ke pembelian, gunakan juga [Prompt AI u
 
 Jika ingin mempercepat layanan pelanggan dengan tools yang tepat, baca [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) untuk memahami pilihan tools meeting notes, automation, chatbot, dan knowledge base.
 
+Untuk menerapkan prompt customer service dalam bisnis kecil, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) agar template balasan, WhatsApp Business, katalog, label pelanggan, dan chatbot bisa digunakan dengan lebih praktis.
+
+Untuk melihat penerapan AI customer service dalam workflow kerja harian, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) yang juga membahas template balasan, komplain, FAQ, dan SOP layanan.
+
+Jika ingin menerapkan prompt customer service ke email pelanggan, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) untuk membuat balasan komplain, template FAQ, follow-up, dan email empatik yang aman.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:
