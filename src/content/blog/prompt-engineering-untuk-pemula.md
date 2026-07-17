@@ -1,6 +1,6 @@
 ---
 title: "Prompt Engineering untuk Pemula: Panduan Lengkap Menulis Prompt AI yang Efektif"
-description: "Pelajari prompt engineering untuk pemula, mulai dari pengertian, struktur prompt, contoh prompt, teknik dasar, kesalahan umum, framework, hingga cara menggunakan AI lebih efektif untuk kerja, bisnis, belajar, dan konten."
+description: "Pelajari Prompt Engineering untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

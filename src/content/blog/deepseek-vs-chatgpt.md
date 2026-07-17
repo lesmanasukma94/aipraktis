@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek vs ChatGPT: Perbandingan Lengkap, Mana AI Chatbot yang Lebih Baik pada 2026?"
-description: "Bandingkan DeepSeek dan ChatGPT dari sisi kualitas jawaban, kemampuan coding, penulisan, analisis dokumen, harga, kelebihan, kekurangan, serta rekomendasi sesuai kebutuhan."
+description: "Pelajari DeepSeek vs ChatGPT dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-07"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

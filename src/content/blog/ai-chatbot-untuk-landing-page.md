@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Landing Page: Cara Meningkatkan Lead, Konversi, dan Penjualan"
-description: "Pelajari cara menggunakan AI chatbot untuk landing page, mulai dari lead generation, kualifikasi prospek, CTA, tools, contoh flow, prompt siap pakai, hingga strategi meningkatkan konversi."
+description: "Pelajari AI Chatbot untuk Landing Page dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

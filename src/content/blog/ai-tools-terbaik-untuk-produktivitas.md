@@ -1,6 +1,6 @@
 ---
 title: "AI Tools Terbaik untuk Produktivitas Kerja dan Bisnis"
-description: "Daftar AI tools terbaik untuk produktivitas kerja dan bisnis, mulai dari ChatGPT, Claude, Gemini, Microsoft Copilot, Notion AI, NotebookLM, Otter, Grammarly, Canva AI, Zapier, dan tools otomasi lainnya."
+description: "Pelajari AI Tools Terbaik untuk Produktivitas Kerja dan Bisnis dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisni..."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

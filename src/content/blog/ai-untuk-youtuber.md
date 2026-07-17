@@ -1,6 +1,6 @@
 ---
 title: "AI untuk YouTuber: Ide Konten, Script, Thumbnail, SEO, dan Workflow"
-description: "Panduan lengkap AI untuk YouTuber, mulai dari riset ide konten, niche, script video, storyboard, thumbnail, title, deskripsi, YouTube SEO, Shorts, repurposing, analitik, monetisasi, etika AI, dan workflow produksi."
+description: "Pelajari AI untuk YouTuber dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-content-creator"
@@ -210,7 +210,7 @@ AI bisa membantu membuat ide produk digital, affiliate angle, sponsorship pitch,
 
 Baca juga:
 
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 
@@ -2268,9 +2268,9 @@ Pelajari juga panduan berikut:
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
-- [Prompt AI untuk Content Creator](/blog/prompt-ai-untuk-content-creator/)
+- [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)

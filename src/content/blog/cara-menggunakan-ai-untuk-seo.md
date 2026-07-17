@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk SEO Website dan Artikel Blog"
-description: "Panduan lengkap cara menggunakan AI untuk SEO, mulai dari riset keyword, search intent, outline artikel, optimasi konten, internal link, meta title, meta description, audit artikel, update konten lama, dan monitoring Search Console."
+description: "Pelajari Cara Menggunakan AI untuk SEO Website dan Artikel Blog dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisn..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

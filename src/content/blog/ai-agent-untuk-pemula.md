@@ -1,14 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
-
 title: "AI Agent untuk Pemula: Panduan Lengkap Memahami Teknologi AI Masa Depan"
-
 description: "Pelajari apa itu AI Agent, cara kerja AI Agent, contoh penggunaannya dalam bisnis, serta peluang karier dan bisnis yang muncul dari teknologi AI Agent."
-
 pubDate: "2026-06-28"
-
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Agent
+  - untuk
+  - "Pemula:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

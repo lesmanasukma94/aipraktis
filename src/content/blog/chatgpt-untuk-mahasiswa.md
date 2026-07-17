@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "ChatGPT untuk Mahasiswa: Panduan Lengkap Belajar, Tugas, Skripsi, dan Penelitian"
 description: "Pelajari cara menggunakan ChatGPT untuk mahasiswa secara efektif, mulai dari belajar, mengerjakan tugas, merangkum jurnal, penelitian, hingga skripsi."
 pubDate: "2026-06-22"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - untuk
+  - "Mahasiswa:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

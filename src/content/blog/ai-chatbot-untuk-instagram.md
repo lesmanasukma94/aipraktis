@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Instagram: Manfaat, Tools, Contoh Flow, dan Strategi DM Automation"
-description: "Pelajari cara menggunakan AI chatbot untuk Instagram, mulai dari DM automation, balas komentar otomatis, lead generation, customer service, sales, rekomendasi tools, hingga contoh prompt siap pakai."
+description: "Pelajari AI Chatbot untuk Instagram dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-09"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

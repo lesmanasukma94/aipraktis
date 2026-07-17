@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Social Media: Ide Konten, Jadwal Posting, dan Analisis"
-description: "Daftar AI tools untuk social media, mulai dari ide konten, caption, desain, video pendek, kalender konten, scheduling, analytics, social listening, repurposing, dan workflow konten untuk Instagram, TikTok, YouTube, Facebook, Threads, dan LinkedIn."
+description: "Pelajari AI Tools untuk Social Media dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-12"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

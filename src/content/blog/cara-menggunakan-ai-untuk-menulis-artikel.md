@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Menulis Artikel Blog dari Nol"
-description: "Panduan lengkap cara menggunakan AI untuk menulis artikel blog dari nol, mulai dari riset topik, keyword, outline, draft, SEO, editing, fact-checking, internal link, sampai publikasi."
+description: "Pelajari Cara Menggunakan AI untuk Menulis Artikel Blog dari Nol dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bis..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

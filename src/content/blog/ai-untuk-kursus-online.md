@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Kursus Online: Materi, Kuis, Landing Page, dan Marketing"
-description: "Panduan lengkap AI untuk kursus online, mulai dari riset audiens, validasi ide, kurikulum, modul, script video, slide, worksheet, kuis, rubrik, landing page, email marketing, promosi, evaluasi peserta, dan monetisasi."
+description: "Pelajari AI untuk Kursus Online dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-pendidikan"

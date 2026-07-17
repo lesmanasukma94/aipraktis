@@ -1,6 +1,6 @@
 ---
 title: "Jenis-Jenis Artificial Intelligence: Narrow AI, General AI, Generative AI, dan Contohnya"
-description: "Panduan lengkap jenis-jenis Artificial Intelligence untuk pemula, mulai dari Narrow AI, General AI, Super AI, Reactive Machine, Limited Memory, Generative AI, Machine Learning, Deep Learning, hingga AI Agent."
+description: "Panduan Jenis-Jenis Artificial Intelligence untuk belajar AI untuk pemula, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "belajar-ai"
@@ -212,7 +212,7 @@ Ciri Narrow AI:
 Baca juga:
 
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [AI Tools Terbaik](/blog/ai-tools-terbaik/)
+- [AI Tools Terbaik](/blog/15-tools-ai-gratis-terbaik-2026/)
 
 ---
 
@@ -503,7 +503,7 @@ Jika sistem diberi ribuan contoh email spam, sistem bisa belajar mengenali email
 Baca juga:
 
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 
 ---
 
@@ -738,8 +738,8 @@ Contoh tools:
 
 Baca juga:
 
-- [AI Tools untuk Coding](/blog/ai-tools-untuk-coding/)
-- [Cara Menggunakan AI untuk Coding](/blog/cara-menggunakan-ai-untuk-coding/)
+- [AI Tools untuk Coding](/blog/ai-tools-terbaik-untuk-produktivitas/)
+- [Cara Menggunakan AI untuk Coding](/blog/cara-menggunakan-ai-untuk-kerja/)
 
 ---
 
@@ -1476,13 +1476,13 @@ Pelajari juga panduan berikut:
 - [Contoh Penerapan AI](/blog/contoh-penerapan-ai/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [AI Tools Terbaik](/blog/ai-tools-terbaik/)
+- [AI Tools Terbaik](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
 
 ---
 

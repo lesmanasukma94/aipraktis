@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-bisnis"
 title: "AI untuk Bisnis"
-description: "Cara Menggunakan Artificial Intelligence untuk Meningkatkan Efisiensi, Produktivitas, dan Pertumbuhan Bisnis"
+description: "Pelajari AI untuk Bisnis dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-bisnis"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Bisnis
+  - AI untuk UMKM
+  - untuk
+  - Bisnis
+featured: false
+draft: false
 ---
 
 ## Ringkasan

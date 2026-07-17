@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Website: Manfaat, Tools, Contoh, dan Cara Memasangnya"
-description: "Pelajari cara menggunakan AI chatbot untuk website bisnis, mulai dari live chat, customer service, lead generation, FAQ otomatis, rekomendasi tools, hingga strategi penerapannya."
+description: "Pelajari AI Chatbot untuk Website dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-08"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

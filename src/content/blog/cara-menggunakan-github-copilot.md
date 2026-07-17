@@ -1,13 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "Cara Menggunakan GitHub Copilot: Panduan Lengkap untuk Pemula Tahun 2026"
-
-description: "Pelajari cara menggunakan GitHub Copilot untuk membantu coding lebih cepat. Panduan lengkap mulai dari instalasi, fitur, tips penggunaan, hingga cara meningkatkan produktivitas sebagai programmer."
-
+description: "Pelajari Cara Menggunakan GitHub Copilot dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-30"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Cara
+  - Menggunakan
+  - GitHub
+featured: false
+draft: false
 ---
 
 ## Ringkasan

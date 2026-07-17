@@ -1,6 +1,6 @@
 ---
 title: "Prompt ChatGPT untuk Produktivitas Harian: Kerja Lebih Cepat, Fokus, dan Teratur dengan AI"
-description: "Kumpulan prompt ChatGPT untuk produktivitas harian, mulai dari mengatur prioritas, membuat jadwal, merangkum tugas, email, meeting, laporan, fokus kerja, manajemen waktu, sampai evaluasi mingguan."
+description: "Panduan praktis Prompt ChatGPT untuk Produktivitas Harian untuk pemula, lengkap dengan contoh, manfaat, risiko, checklist, dan langkah penggunaan AI."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

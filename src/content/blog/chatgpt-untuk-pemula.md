@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
 title: "ChatGPT untuk Pemula"
-description: "Panduan Lengkap Memulai Menggunakan AI dengan Mudah"
+description: "Pelajari ChatGPT untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-12"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - untuk
+  - Pemula
+featured: false
+draft: false
 ---
 
 ## Ringkasan

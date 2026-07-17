@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Presentasi: Membuat Slide Lebih Cepat dan Profesional"
-description: "Daftar AI tools untuk presentasi, mulai dari membuat outline, slide deck, pitch deck, desain slide, speaker notes, narasi, visual, grafik, dan presentasi bisnis atau edukasi dengan AI."
+description: "Pelajari AI Tools untuk Presentasi dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

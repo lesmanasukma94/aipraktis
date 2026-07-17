@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Marketing: Manfaat, Strategi, Tools, Contoh Prompt, dan Cara Meningkatkan Konversi"
-description: "Pelajari cara menggunakan AI chatbot untuk marketing, mulai dari campaign, lead generation, social media, WhatsApp, website, email, customer journey, tools, hingga contoh prompt siap pakai."
+description: "Pelajari AI Chatbot untuk Marketing dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-09"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

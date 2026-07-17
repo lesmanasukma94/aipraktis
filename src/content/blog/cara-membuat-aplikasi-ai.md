@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Membuat Aplikasi AI: Panduan Lengkap untuk Pemula dan Bisnis"
-
-description: "Pelajari cara membuat aplikasi AI menggunakan ChatGPT, OpenAI API, Gemini, Claude, no-code tools, dan framework modern. Cocok untuk startup, developer, freelancer, dan UMKM."
-
+description: "Panduan Cara Membuat Aplikasi AI untuk tutorial AI praktis langkah demi langkah, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-06-28"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - Aplikasi
+featured: false
+draft: false
 ---
 
 ## Ringkasan

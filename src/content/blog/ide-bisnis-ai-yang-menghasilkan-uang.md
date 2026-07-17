@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-bisnis"
-
 title: "25 Ide Bisnis AI yang Menghasilkan Uang di Tahun 2026"
-
-description: "Temukan ide bisnis AI yang menghasilkan uang, mulai dari jasa AI, SaaS AI, AI Agent, content creator, konsultasi AI, hingga peluang bisnis Artificial Intelligence yang menjanjikan."
-
+description: "Pelajari 25 Ide Bisnis AI yang Menghasilkan Uang di Tahun 2026 dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisni..."
 pubDate: "2026-06-29"
-
+author: "AI Praktis Indonesia"
+category: "ai-untuk-bisnis"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Bisnis
+  - AI untuk UMKM
+  - Bisnis
+  - yang
+  - Menghasilkan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

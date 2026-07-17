@@ -1,6 +1,6 @@
 ---
 title: "Skill AI yang Dibutuhkan Perusahaan: Panduan untuk Karyawan dan Fresh Graduate"
-description: "Panduan lengkap skill AI yang dibutuhkan perusahaan, mulai dari AI literacy, prompt engineering, data literacy, automation, workflow, komunikasi, etika AI, domain knowledge, portofolio, dan roadmap belajar untuk karyawan serta fresh graduate."
+description: "Pelajari Skill AI yang Dibutuhkan Perusahaan dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "karier-ai"
@@ -101,7 +101,7 @@ Artikel ini membahas skill AI yang dibutuhkan perusahaan, khusus untuk karyawan,
 Baca juga:
 
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 
@@ -273,7 +273,7 @@ Bahas:
 Baca juga:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 
 ---
@@ -715,8 +715,8 @@ Bahas:
 
 Baca juga:
 
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
-- [Kesalahan Pemula Saat Belajar AI](/blog/kesalahan-pemula-saat-belajar-ai/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
+- [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 
 ---
 
@@ -1636,7 +1636,7 @@ Tetapi orang yang bisa belajar cepat, berpikir kritis, memahami masalah, dan mem
 Pelajari juga panduan berikut:
 
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)

@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Menghasilkan Uang dengan AI: Panduan Praktis untuk Pemula"
-description: "Pelajari cara menghasilkan uang dengan AI melalui freelance, blogging, konten media sosial, bisnis online, dan berbagai peluang usaha yang relevan di tahun 2026."
+description: "Pelajari Cara Menghasilkan Uang dengan AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Menghasilkan
+  - Uang
+featured: false
+draft: false
 ---
 
 ## Ringkasan

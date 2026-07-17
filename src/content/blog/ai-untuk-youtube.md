@@ -1,11 +1,20 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-content-creator"
-
 title: "AI untuk YouTube: Cara Membuat Konten Video Lebih Cepat dan Efisien"
 description: "Pelajari cara menggunakan AI untuk YouTube, mulai dari mencari ide video, membuat script, thumbnail, hingga mengembangkan channel lebih cepat."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-content-creator"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Content Creator
+  - Content Creator
+  - YouTube
+  - untuk
+  - "YouTube:"
+  - Cara
+featured: false
+draft: false
 ---
 
 ## Ringkasan

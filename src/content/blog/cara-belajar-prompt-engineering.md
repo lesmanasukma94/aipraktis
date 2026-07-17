@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "prompt-engineering"
-
 title: "Cara Belajar Prompt Engineering: Panduan Lengkap untuk Pemula Tahun 2026"
-
-description: "Pelajari cara belajar prompt engineering dari nol. Panduan lengkap mulai dari dasar, teknik membuat prompt, tools AI, roadmap belajar, hingga peluang karier sebagai Prompt Engineer."
-
+description: "Pelajari Cara Belajar Prompt Engineering dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-30"
-
+author: "AI Praktis Indonesia"
+category: "prompt-engineering"
+tags:
+  - AI
+  - Belajar AI
+  - Prompt AI
+  - Prompt Engineering
+  - Cara
+  - Belajar
+  - Prompt
+featured: false
+draft: false
 ---
 
 ## Ringkasan

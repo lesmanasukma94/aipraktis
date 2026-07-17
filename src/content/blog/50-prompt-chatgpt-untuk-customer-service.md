@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "50 Prompt ChatGPT untuk Customer Service yang Siap Pakai untuk Melayani Pelanggan Lebih Profesional"
-description: "Kumpulan 50 prompt ChatGPT untuk customer service yang dapat digunakan untuk menjawab pelanggan, menangani komplain, meningkatkan kepuasan pelanggan, dan mempercepat layanan."
+description: "Pelajari 50 Prompt ChatGPT untuk Customer Service yang Siap Pakai untuk Melayani Pelanggan Lebih Profesional dengan bahasa sederhana, contoh nyata, tips prak..."
 pubDate: "2026-06-20"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Prompt
+  - untuk
+featured: false
+draft: false
 ---
 
 ## Ringkasan

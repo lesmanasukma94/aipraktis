@@ -1,7 +1,7 @@
 ---
 title: "Claude untuk Pemula: Panduan Lengkap Menggunakan Claude AI untuk Belajar, Bekerja, dan Produktivitas (2026)"
-description: "Panduan lengkap Claude AI untuk pemula, mulai dari pengertian, fitur, cara menggunakan, kelebihan, kekurangan, hingga tips memaksimalkan Claude untuk belajar dan bekerja."
-pubDate: 2026-07-06
+description: "Pelajari Claude untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
+pubDate: "2026-07-06"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"
 tags:
@@ -10,7 +10,6 @@ tags:
   - AI untuk Pemula
   - Artificial Intelligence
   - Produktivitas
-heroImage: "/images/blog/claude-untuk-pemula.webp"
 featured: false
 draft: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk WhatsApp: Manfaat, Cara Kerja, Tools, dan Contoh Penggunaan"
-description: "Pelajari cara menggunakan AI chatbot untuk WhatsApp Business, mulai dari menjawab pelanggan, membuat template balasan, otomasi customer service, hingga rekomendasi tools untuk bisnis."
+description: "Pelajari AI Chatbot untuk WhatsApp dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-08"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

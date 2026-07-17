@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Siswa: Cara Belajar Lebih Mudah, Aman, dan Bertanggung Jawab"
-description: "Panduan lengkap AI untuk siswa, mulai dari cara menggunakan AI untuk belajar, memahami materi, latihan soal, rangkuman, bahasa Inggris, presentasi, jadwal belajar, etika, keamanan data, batasan AI, dan contoh prompt yang aman."
+description: "Pelajari AI untuk Siswa dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-pendidikan"
@@ -203,7 +203,7 @@ Sebaliknya, jika siswa memahami AI, mereka bisa memakai AI untuk:
 
 Baca juga:
 
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
 
@@ -1542,8 +1542,8 @@ Pelajari juga panduan berikut:
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
-- [Kesalahan Pemula Saat Belajar AI](/blog/kesalahan-pemula-saat-belajar-ai/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
+- [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)

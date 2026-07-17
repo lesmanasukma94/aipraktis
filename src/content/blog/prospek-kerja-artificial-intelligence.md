@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
-
 title: "Prospek Kerja Artificial Intelligence: Peluang Karier, Gaji, dan Pekerjaan Masa Depan"
 description: "Pelajari prospek kerja Artificial Intelligence, profesi AI yang paling dicari, kisaran gaji, skill yang dibutuhkan, dan peluang karier AI di masa depan."
 pubDate: "2026-06-24"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Prospek
+  - Kerja
+  - Artificial
+featured: false
+draft: false
 ---
 
 ## Ringkasan

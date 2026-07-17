@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "ChatGPT untuk Siswa: Panduan Lengkap Belajar Lebih Cepat dan Efektif dengan AI"
 description: "Pelajari cara menggunakan ChatGPT untuk siswa SD, SMP, dan SMA agar belajar lebih mudah, memahami pelajaran lebih cepat, dan meningkatkan prestasi akademik."
 pubDate: "2026-06-22"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - untuk
+  - "Siswa:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

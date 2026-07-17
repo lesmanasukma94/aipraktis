@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk CRM: Manfaat, Tools, Contoh Workflow, dan Cara Mengelola Lead Lebih Rapi"
-description: "Pelajari cara menggunakan AI chatbot untuk CRM, mulai dari menangkap lead, kualifikasi prospek, follow-up sales, customer service, pipeline, automation, tools, hingga contoh prompt siap pakai."
+description: "Pelajari AI Chatbot untuk CRM dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

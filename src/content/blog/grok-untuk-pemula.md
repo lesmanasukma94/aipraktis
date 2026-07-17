@@ -1,6 +1,6 @@
 ---
 title: "Grok untuk Pemula: Panduan Lengkap Menggunakan Grok AI (2026)"
-description: "Pelajari apa itu Grok AI, fitur, cara menggunakan, kelebihan, kekurangan, hingga tips memanfaatkan Grok AI untuk belajar, bekerja, dan meningkatkan produktivitas."
+description: "Pelajari Grok untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-06"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

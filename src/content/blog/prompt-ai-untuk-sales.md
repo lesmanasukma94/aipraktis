@@ -1,6 +1,6 @@
 ---
 title: "Prompt AI untuk Sales: Follow-Up, Prospecting, Objection Handling, Closing, CRM, dan Proposal"
-description: "Kumpulan prompt AI untuk sales, mulai dari prospecting, follow-up, discovery call, objection handling, closing, proposal, CRM, sales script, WhatsApp sales, email sales, dan laporan penjualan."
+description: "Pelajari Prompt AI untuk Sales dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

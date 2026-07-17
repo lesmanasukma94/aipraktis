@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Riset, Merangkum, dan Menganalisis Informasi"
-description: "Panduan lengkap cara menggunakan AI untuk riset, mulai dari menentukan pertanyaan riset, mencari sumber, merangkum dokumen, membandingkan informasi, membuat insight, fact-checking, sampai mengubah riset menjadi artikel, laporan, atau presentasi."
+description: "Pelajari Cara Menggunakan AI untuk Riset, Merangkum, dan Menganalisis Informasi dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya d..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

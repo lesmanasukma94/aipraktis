@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Copilot vs ChatGPT: Perbandingan Lengkap, Mana yang Lebih Cocok untuk Produktivitas?"
-description: "Bandingkan Microsoft Copilot dan ChatGPT dari sisi fitur, integrasi Microsoft 365, kemampuan menulis, coding, riset, harga, kelebihan, kekurangan, dan rekomendasi pengguna."
+description: "Pelajari Microsoft Copilot vs ChatGPT dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-07"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

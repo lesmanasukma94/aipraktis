@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk YouTube: Manfaat, Tools, Contoh Flow, dan Strategi Mengubah Penonton Menjadi Lead"
-description: "Pelajari cara menggunakan AI chatbot untuk YouTube, mulai dari komentar, live chat, lead generation, customer service, promosi video, funnel konten, tools, prompt, hingga strategi monetisasi."
+description: "Pelajari AI Chatbot untuk YouTube dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-09"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

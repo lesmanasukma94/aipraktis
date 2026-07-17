@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk UMKM: Tools Praktis untuk Promosi, Admin, dan Penjualan"
-description: "Daftar AI tools untuk UMKM, mulai dari ChatGPT, Canva AI, CapCut, WhatsApp Business, Google Business Profile, Meta Business Suite, Google Workspace, Zapier, Notion, HubSpot, Zoho, dan tools lain untuk promosi, admin, customer service, penjualan, konten, dan operasional bisnis kecil."
+description: "Pelajari AI Tools untuk UMKM dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-12"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

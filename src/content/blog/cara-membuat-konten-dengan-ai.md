@@ -1,10 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
 title: "Cara Membuat Konten dengan AI"
-description: "Panduan Lengkap untuk Pemula, Content Creator, dan UMKM"
+description: "Pelajari Cara Membuat Konten dengan AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - Konten
+featured: false
+draft: false
 ---
 
 ## Ringkasan

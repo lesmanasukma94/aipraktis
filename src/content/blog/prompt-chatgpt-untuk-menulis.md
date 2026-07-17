@@ -1,6 +1,6 @@
 ---
 title: "Prompt ChatGPT untuk Menulis: Artikel, Email, Caption, Copywriting, Cerita, dan Konten"
-description: "Kumpulan prompt ChatGPT untuk menulis lebih cepat dan rapi, mulai dari artikel blog, email, caption, copywriting, storytelling, outline, editing, riset, ide konten, hingga workflow menulis."
+description: "Pelajari Prompt ChatGPT untuk Menulis dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

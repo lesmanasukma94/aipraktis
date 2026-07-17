@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Guru: Membuat Materi Ajar, Soal, Rubrik, dan Administrasi"
-description: "Panduan lengkap AI untuk guru, mulai dari membuat rencana pembelajaran, materi ajar, soal, rubrik, diferensiasi pembelajaran, media ajar, asesmen, feedback siswa, administrasi kelas, dan penggunaan AI yang aman di sekolah."
+description: "Pelajari AI untuk Guru dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-pendidikan"

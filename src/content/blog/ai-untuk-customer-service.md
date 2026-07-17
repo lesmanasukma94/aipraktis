@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Customer Service: Membalas Pelanggan Lebih Cepat dan Konsisten"
-description: "Panduan lengkap AI untuk customer service, mulai dari template balasan pelanggan, chatbot, FAQ, knowledge base, ticketing, komplain, escalation, quality control, analisis feedback, dan workflow layanan pelanggan."
+description: "Pelajari AI untuk Customer Service dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-bisnis"

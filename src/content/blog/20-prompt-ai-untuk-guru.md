@@ -1,17 +1,17 @@
 ---
+title: "20 Prompt AI untuk Guru: Materi Ajar, Soal, Rubrik, dan Aktivitas Kelas"
+description: "Kumpulan 20 prompt AI untuk guru yang dapat membantu membuat materi ajar, soal, rubrik penilaian, presentasi, aktivitas kelas, dan administrasi pembelajaran."
+pubDate: "2026-06-15"
 author: "AI Praktis Indonesia"
+category: "prompt-engineering"
 tags:
   - prompt AI
   - AI untuk guru
   - materi ajar
   - soal pembelajaran
   - administrasi guru
-category: "prompt-engineering"
-
-title: "20 Prompt AI untuk Guru: Materi Ajar, Soal, Rubrik, dan Aktivitas Kelas"
-description: "Kumpulan 20 prompt AI untuk guru yang dapat membantu membuat materi ajar, soal, rubrik penilaian, presentasi, aktivitas kelas, dan administrasi pembelajaran."
-pubDate: "2026-06-15"
-updatedDate: "2026-07-10"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

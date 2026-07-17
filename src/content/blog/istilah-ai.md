@@ -1,6 +1,6 @@
 ---
 title: "Istilah AI yang Harus Diketahui: Glosarium AI untuk Pemula"
-description: "Daftar istilah AI yang harus diketahui pemula, mulai dari artificial intelligence, machine learning, deep learning, generative AI, prompt, LLM, token, hallucination, RAG, chatbot, model AI, hingga AI agent."
+description: "Panduan Istilah AI yang Harus Diketahui untuk belajar AI untuk pemula, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "belajar-ai"
@@ -250,7 +250,7 @@ Machine learning sering disingkat ML.
 
 Baca juga:
 
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 
 ---
@@ -628,8 +628,8 @@ Cara mengurangi risiko:
 
 Baca juga:
 
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
-- [Kesalahan Pemula Saat Belajar AI](/blog/kesalahan-pemula-saat-belajar-ai/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
+- [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 
 ---
 
@@ -1191,7 +1191,7 @@ Contoh AI tools:
 
 Baca juga:
 
-- [AI Tools Terbaik](/blog/ai-tools-terbaik/)
+- [AI Tools Terbaik](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 
@@ -1309,7 +1309,7 @@ Etika AI penting agar teknologi digunakan secara bertanggung jawab.
 
 Baca juga:
 
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
 
 ---
 
@@ -1362,7 +1362,7 @@ Jangan sembarangan memasukkan data sensitif ke AI publik.
 
 Baca juga:
 
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
 - [AI untuk Siswa](/blog/ai-untuk-siswa/)
 - [AI untuk Dosen](/blog/ai-untuk-dosen/)
 
@@ -1955,7 +1955,7 @@ Baca juga:
 
 - [AI untuk Siswa](/blog/ai-untuk-siswa/)
 - [AI untuk Guru](/blog/ai-untuk-guru/)
-- [AI untuk Karyawan](/blog/ai-untuk-karyawan/)
+- [AI untuk Karyawan](/blog/cara-menggunakan-ai-untuk-kerja/)
 
 ---
 
@@ -2759,14 +2759,14 @@ Pelajari juga panduan berikut:
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-- [AI Tools Terbaik](/blog/ai-tools-terbaik/)
+- [AI Tools Terbaik](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
-- [Kesalahan Pemula Saat Belajar AI](/blog/kesalahan-pemula-saat-belajar-ai/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
+- [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)

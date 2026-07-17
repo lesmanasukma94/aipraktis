@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Excel, Spreadsheet, dan Analisis Data Sederhana"
-description: "Panduan lengkap cara menggunakan AI untuk Excel dan spreadsheet, mulai dari membuat rumus, membersihkan data, membuat tabel, PivotTable, grafik, analisis sederhana, laporan, dashboard, dan prompt spreadsheet praktis."
+description: "Pelajari Cara Menggunakan AI untuk Excel, Spreadsheet, dan Analisis Data Sederhana dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkanny..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

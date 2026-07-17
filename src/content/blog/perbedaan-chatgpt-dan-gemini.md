@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
 title: "Perbedaan ChatGPT dan Gemini"
-description: "Mana yang Lebih Cocok untuk Anda?"
+description: "Pelajari Perbedaan ChatGPT dan Gemini dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Gemini
+  - Perbedaan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

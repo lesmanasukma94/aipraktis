@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Otomasi Bisnis: Contoh Workflow, Tools, Strategi, dan Cara Memulainya"
-description: "Pelajari cara menggunakan AI chatbot untuk otomasi bisnis, mulai dari customer service, sales, marketing, CRM, email, WhatsApp, laporan, SOP, tools automation, workflow, hingga prompt siap pakai."
+description: "Pelajari AI Chatbot untuk Otomasi Bisnis dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

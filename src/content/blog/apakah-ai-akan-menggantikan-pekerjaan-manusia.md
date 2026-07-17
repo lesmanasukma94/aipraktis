@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
 title: "Apakah AI Akan Menggantikan Pekerjaan Manusia?"
-description: "Fakta, Risiko, dan Cara Beradaptasi di Era AI"
+description: "Panduan praktis Apakah AI Akan Menggantikan Pekerjaan Manusia? untuk pemula, lengkap dengan contoh, manfaat, risiko, checklist, dan langkah penggunaan AI."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Apakah
+  - Akan
+  - Menggantikan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

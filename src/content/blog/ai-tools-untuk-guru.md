@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Guru: Membuat Materi Ajar, Soal, dan Rencana Pembelajaran"
-description: "Daftar AI tools untuk guru, mulai dari ChatGPT, Gemini for Education, Microsoft Copilot, Khanmigo, Canva Education, MagicSchool, Brisk Teaching, Quizizz AI, Diffit, Curipod, dan tools lain untuk membuat materi ajar, soal, rubrik, presentasi, feedback siswa, dan administrasi pembelajaran."
+description: "Pelajari AI Tools untuk Guru dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-12"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
 title: "Cara Menggunakan AI untuk Pemula"
 description: "Panduan lengkap cara menggunakan AI untuk pemula. Pelajari langkah pertama menggunakan AI, tools yang direkomendasikan, dan cara mendapatkan hasil terbaik."
 pubDate: "2026-06-15"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Cara
+  - Menggunakan
+  - untuk
+featured: false
+draft: false
 ---
 
 ## Ringkasan

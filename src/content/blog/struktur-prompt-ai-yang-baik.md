@@ -1,6 +1,6 @@
 ---
 title: "Struktur Prompt AI yang Baik: Panduan, Format, Contoh, dan Template Siap Pakai"
-description: "Pelajari struktur prompt AI yang baik agar jawaban ChatGPT, Claude, Gemini, dan chatbot AI lain lebih akurat, relevan, rapi, dan siap digunakan untuk kerja, bisnis, belajar, konten, dan customer service."
+description: "Pelajari Struktur Prompt AI yang Baik dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

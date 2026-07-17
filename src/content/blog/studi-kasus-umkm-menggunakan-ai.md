@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-bisnis"
-
 title: "Studi Kasus UMKM Menggunakan AI: Cara AI Membantu Meningkatkan Produktivitas dan Penjualan"
-description: "Pelajari studi kasus penggunaan AI pada UMKM. Temukan bagaimana ChatGPT dan tools AI membantu meningkatkan produktivitas, pemasaran, pelayanan pelanggan, dan penjualan."
+description: "Pelajari Studi Kasus UMKM Menggunakan AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-19"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-bisnis"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Bisnis
+  - AI untuk UMKM
+  - UMKM
+  - Studi
+  - Kasus
+featured: false
+draft: false
 ---
 
 ## Ringkasan

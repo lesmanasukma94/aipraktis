@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-tools"
-
 title: "15 Tools AI untuk Programmer Terbaik 2026: Coding Lebih Cepat dengan Artificial Intelligence"
-
 description: "Temukan tools AI terbaik untuk programmer yang membantu menulis kode, debugging, dokumentasi, testing, deployment, hingga meningkatkan produktivitas developer."
-
 pubDate: "2026-06-30"
-
+author: "AI Praktis Indonesia"
+category: "ai-tools"
+tags:
+  - AI
+  - Belajar AI
+  - AI Tools
+  - Produktivitas
+  - Tools
+  - untuk
+  - Programmer
+featured: false
+draft: false
 ---
 
 ## Ringkasan

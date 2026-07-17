@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Blogger: Riset Keyword, Outline, Artikel, SEO, dan Monetisasi"
-description: "Panduan lengkap AI untuk blogger, mulai dari riset keyword, search intent, content brief, outline artikel, penulisan SEO, internal link, update konten lama, visual, analitik, monetisasi blog, dan etika penggunaan AI."
+description: "Pelajari AI untuk Blogger dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-content-creator"
@@ -2763,7 +2763,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
-- [Prompt AI untuk Menulis](/blog/prompt-ai-untuk-menulis/)
+- [Prompt AI untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI untuk Kursus Online](/blog/ai-untuk-kursus-online/)

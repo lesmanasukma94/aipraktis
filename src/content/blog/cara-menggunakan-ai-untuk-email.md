@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Membuat Email Profesional dan Follow-Up"
-description: "Panduan lengkap cara menggunakan AI untuk email, mulai dari menulis email profesional, membalas email kerja, follow-up klien, merangkum thread, memperbaiki tone, membuat subject line, template customer service, sales, dan email marketing."
+description: "Pelajari Cara Menggunakan AI untuk Membuat Email Profesional dan Follow-Up dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

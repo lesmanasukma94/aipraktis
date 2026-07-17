@@ -1,11 +1,20 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-tools"
-
 title: "Tools AI untuk UMKM: 15 AI Terbaik untuk Meningkatkan Produktivitas dan Penjualan"
 description: "Daftar tools AI terbaik untuk UMKM Indonesia. Pelajari AI untuk pemasaran, konten, customer service, desain, produktivitas, dan pengembangan bisnis."
 pubDate: "2026-06-19"
+author: "AI Praktis Indonesia"
+category: "ai-tools"
+tags:
+  - AI
+  - Belajar AI
+  - AI Tools
+  - Produktivitas
+  - UMKM
+  - Tools
+  - untuk
+  - "UMKM:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

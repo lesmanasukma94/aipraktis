@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "prompt-engineering"
-
 title: "Prompt Engineer: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi Prompt Engineer"
 description: "Pelajari apa itu Prompt Engineer, tugas, skill yang dibutuhkan, gaji, peluang kerja, dan roadmap lengkap menjadi Prompt Engineer di era AI."
 pubDate: "2026-06-23"
+author: "AI Praktis Indonesia"
+category: "prompt-engineering"
+tags:
+  - AI
+  - Belajar AI
+  - Prompt AI
+  - Prompt Engineering
+  - Prompt
+  - "Engineer:"
+  - Pengertian,
+featured: false
+draft: false
 ---
 
 ## Ringkasan

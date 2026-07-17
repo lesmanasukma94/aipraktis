@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Membuat Toko Online dengan AI: Panduan Lengkap untuk Pemula 2026"
-
-description: "Pelajari cara membuat toko online dengan AI menggunakan ChatGPT, Shopify AI, WooCommerce, Canva AI, dan berbagai tools AI untuk meningkatkan penjualan bisnis online."
-
+description: "Pelajari Cara Membuat Toko Online dengan AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-28"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - Toko
+featured: false
+draft: false
 ---
 
 ## Ringkasan

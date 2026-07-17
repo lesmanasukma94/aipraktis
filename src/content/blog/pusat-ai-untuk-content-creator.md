@@ -1,12 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-content-creator"
 title: "AI untuk Content Creator: Panduan Lengkap Membuat Konten dengan AI"
-
 description: "Pelajari cara menggunakan AI untuk content creator, blogging, YouTube, Instagram, TikTok, menulis artikel, dan meningkatkan produktivitas kreator."
-
 pubDate: "2026-06-18"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-content-creator"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Content Creator
+  - Content Creator
+  - untuk
+  - Content
+  - "Creator:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

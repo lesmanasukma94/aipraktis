@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk SEO: Keyword, Artikel, Optimasi, dan Audit Website"
-description: "Daftar AI tools untuk SEO, mulai dari keyword research, content optimization, audit teknis, internal link, rank tracking, backlink analysis, Search Console, GA4, Semrush, Ahrefs, Screaming Frog, Surfer SEO, dan tools SEO lain."
+description: "Pelajari AI Tools untuk SEO dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-12"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

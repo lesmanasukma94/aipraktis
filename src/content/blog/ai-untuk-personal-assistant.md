@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "AI untuk Personal Assistant: Cara Mengelola Pekerjaan dan Aktivitas Lebih Produktif"
 description: "Pelajari cara menggunakan AI sebagai personal assistant untuk mengatur pekerjaan, jadwal, ide, dan aktivitas sehari-hari agar lebih produktif."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - untuk
+  - Personal
+  - "Assistant:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

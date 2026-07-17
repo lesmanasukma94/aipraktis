@@ -1,6 +1,6 @@
 ---
 title: "DeepSeek untuk Pemula: Panduan Lengkap Menggunakan DeepSeek AI (2026)"
-description: "Pelajari apa itu DeepSeek AI, cara menggunakan, fitur, kelebihan, kekurangan, hingga tips memanfaatkan DeepSeek AI untuk belajar, coding, dan meningkatkan produktivitas."
+description: "Pelajari DeepSeek untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-06"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

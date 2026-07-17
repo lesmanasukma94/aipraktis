@@ -1,6 +1,6 @@
 ---
 title: "Prompt AI untuk Copywriting: Headline, Iklan, Landing Page, CTA, Email, dan Konten Jualan"
-description: "Kumpulan prompt AI untuk copywriting, mulai dari headline, iklan, landing page, CTA, email marketing, WhatsApp, social media, deskripsi produk, sales page, dan copywriting bisnis."
+description: "Pelajari Prompt AI untuk Copywriting dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

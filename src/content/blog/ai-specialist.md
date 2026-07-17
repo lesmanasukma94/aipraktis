@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "karier-ai"
-
 title: "AI Specialist: Pengertian, Tugas, Skill, Gaji, dan Cara Menjadi AI Specialist"
 description: "Pelajari apa itu AI Specialist, tugas, skill yang dibutuhkan, gaji, prospek karier, dan roadmap lengkap menjadi AI Specialist di era Artificial Intelligence."
 pubDate: "2026-06-23"
+author: "AI Praktis Indonesia"
+category: "karier-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Karier AI
+  - Skill AI
+  - "Specialist:"
+  - Pengertian,
+  - Tugas,
+featured: false
+draft: false
 ---
 
 ## Ringkasan

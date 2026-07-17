@@ -1,11 +1,20 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-content-creator"
-
 title: "AI untuk TikTok: Cara Membuat Konten Viral dan Produktif"
 description: "Pelajari cara menggunakan AI untuk TikTok agar lebih mudah mencari ide konten, membuat script video, caption, dan mengembangkan bisnis melalui video pendek."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-content-creator"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Content Creator
+  - Content Creator
+  - TikTok
+  - untuk
+  - "TikTok:"
+  - Cara
+featured: false
+draft: false
 ---
 
 ## Ringkasan

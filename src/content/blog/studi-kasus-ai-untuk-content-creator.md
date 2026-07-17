@@ -1,6 +1,6 @@
 ---
 title: "Studi Kasus AI untuk Content Creator: Workflow Konten dari Ide sampai Monetisasi"
-description: "Studi kasus lengkap penerapan AI untuk content creator, mulai dari riset ide, content pillar, script, storyboard, visual, voice-over, editing, caption, distribusi, repurposing, analitik, portofolio, monetisasi, dan SOP etika penggunaan AI."
+description: "Pelajari Studi Kasus AI untuk Content Creator dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "studi-kasus-ai"
@@ -422,7 +422,7 @@ Digunakan untuk:
 
 Baca juga:
 
-- [AI Tools Terbaik untuk Content Creator](/blog/ai-tools-terbaik-untuk-content-creator/)
+- [AI Tools Terbaik untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
@@ -704,8 +704,8 @@ Manfaat:
 
 Baca juga:
 
-- [Prompt AI untuk Content Creator](/blog/prompt-ai-untuk-content-creator/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 
 ---
 
@@ -845,7 +845,7 @@ Tidak memakai aset tanpa izin
 Baca juga:
 
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
-- [Cara Menggunakan AI untuk Membuat Video](/blog/cara-menggunakan-ai-untuk-membuat-video/)
+- [Cara Menggunakan AI untuk Membuat Video](/blog/ai-tools-untuk-video/)
 
 ---
 
@@ -908,7 +908,7 @@ Simpan postingan ini kalau kamu ingin mulai bangun portofolio AI.
 
 Baca juga:
 
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 
 ---
@@ -2153,10 +2153,10 @@ Pelajari juga panduan berikut:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
-- [Prompt AI untuk Content Creator](/blog/prompt-ai-untuk-content-creator/)
+- [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)

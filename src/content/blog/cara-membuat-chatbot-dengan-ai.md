@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Membuat Chatbot dengan AI: Panduan Lengkap untuk Bisnis dan UMKM"
-
-description: "Pelajari cara membuat chatbot dengan AI menggunakan ChatGPT, WhatsApp, Telegram, website, dan tools chatbot terbaik untuk bisnis, customer service, dan otomatisasi."
-
+description: "Pelajari Cara Membuat Chatbot dengan AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-28"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - Chatbot
+featured: false
+draft: false
 ---
 
 ## Ringkasan

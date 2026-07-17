@@ -1,6 +1,6 @@
 ---
 title: "Microsoft Copilot untuk Pemula: Panduan Lengkap Mengenal dan Menggunakan Microsoft Copilot (2026)"
-description: "Pelajari apa itu Microsoft Copilot, cara kerja, fitur utama, kelebihan, kekurangan, serta cara menggunakannya untuk belajar, bekerja, dan meningkatkan produktivitas."
+description: "Pelajari Microsoft Copilot untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-07"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

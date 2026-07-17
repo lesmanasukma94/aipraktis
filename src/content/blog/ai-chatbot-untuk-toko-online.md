@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Toko Online: Manfaat, Tools, Contoh, dan Strategi Meningkatkan Penjualan"
-description: "Pelajari cara menggunakan AI chatbot untuk toko online, mulai dari menjawab pertanyaan produk, rekomendasi barang, customer service, WhatsApp, website chat, hingga strategi meningkatkan konversi."
+description: "Pelajari AI Chatbot untuk Toko Online dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-08"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

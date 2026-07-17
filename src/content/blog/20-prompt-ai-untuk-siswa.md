@@ -1,17 +1,17 @@
 ---
+title: "20 Prompt AI untuk Siswa: Belajar, Rangkuman, Latihan Soal, dan Ujian"
+description: "Pelajari 20 Prompt AI untuk Siswa dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
+pubDate: "2026-06-15"
 author: "AI Praktis Indonesia"
+category: "prompt-engineering"
 tags:
   - prompt AI
   - AI untuk siswa
   - belajar dengan AI
   - latihan soal
   - produktivitas belajar
-category: "prompt-engineering"
-
-title: "20 Prompt AI untuk Siswa: Belajar, Rangkuman, Latihan Soal, dan Ujian"
-description: "Kumpulan 20 prompt AI untuk siswa yang dapat membantu memahami pelajaran, membuat rangkuman, latihan soal, belajar bahasa Inggris, dan mempersiapkan ujian secara lebih efektif."
-pubDate: "2026-06-15"
-updatedDate: "2026-07-10"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

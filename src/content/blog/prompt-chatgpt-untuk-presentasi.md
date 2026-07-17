@@ -1,6 +1,6 @@
 ---
 title: "Prompt ChatGPT untuk Presentasi: Ide Slide, Outline, Script, Narasi, dan Desain"
-description: "Kumpulan prompt ChatGPT untuk membuat presentasi, mulai dari ide slide, outline, struktur cerita, isi slide, script pembicara, Q&A, desain, pitch deck, laporan, hingga presentasi bisnis dan edukasi."
+description: "Pelajari Prompt ChatGPT untuk Presentasi dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

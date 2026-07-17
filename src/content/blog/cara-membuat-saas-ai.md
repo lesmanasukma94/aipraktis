@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Membuat SaaS AI: Panduan Lengkap Membangun Bisnis Software AI"
-
-description: "Pelajari cara membuat SaaS AI dari nol menggunakan ChatGPT, OpenAI API, Claude, Gemini, dan berbagai tools modern. Cocok untuk startup, developer, freelancer, dan pebisnis digital."
-
+description: "Panduan Cara Membuat SaaS AI untuk tutorial AI praktis langkah demi langkah, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-06-29"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - SaaS
+featured: false
+draft: false
 ---
 
 ## Ringkasan

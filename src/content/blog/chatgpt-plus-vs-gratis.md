@@ -2,9 +2,7 @@
 title: "ChatGPT Plus vs Gratis: Apa Bedanya dan Apakah Layak Berlangganan?"
 description: "Pelajari perbedaan ChatGPT Plus dan versi gratis, mulai dari fitur, performa, hingga siapa yang paling cocok menggunakan masing-masing."
 pubDate: "2026-07-06"
-updatedDate:
 author: "AI Praktis Indonesia"
-
 category: "ai-chatbot"
 tags:
   - ChatGPT
@@ -12,7 +10,6 @@ tags:
   - OpenAI
   - AI Chatbot
   - Perbandingan
-
 featured: false
 draft: false
 ---

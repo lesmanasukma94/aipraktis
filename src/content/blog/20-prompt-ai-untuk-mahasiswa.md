@@ -1,17 +1,17 @@
 ---
+title: "20 Prompt AI untuk Mahasiswa: Belajar, Riset, Tugas, dan Presentasi"
+description: "Pelajari 20 Prompt AI untuk Mahasiswa dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
+pubDate: "2026-06-15"
 author: "AI Praktis Indonesia"
+category: "prompt-engineering"
 tags:
   - prompt AI
   - AI untuk mahasiswa
   - belajar dengan AI
   - produktivitas akademik
   - riset mahasiswa
-category: "prompt-engineering"
-
-title: "20 Prompt AI untuk Mahasiswa: Belajar, Riset, Tugas, dan Presentasi"
-description: "Kumpulan 20 prompt AI untuk mahasiswa yang dapat membantu memahami materi, membuat rangkuman, menyusun tugas, melakukan riset, menyiapkan presentasi, dan meningkatkan produktivitas akademik."
-pubDate: "2026-06-15"
-updatedDate: "2026-07-10"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Email: Cara Membalas, Follow-Up, Otomasi, dan Meningkatkan Konversi"
-description: "Pelajari cara menggunakan AI chatbot untuk email, mulai dari membalas email pelanggan, membuat follow-up, newsletter, email marketing, customer service, sales, hingga otomasi bisnis."
+description: "Pelajari AI Chatbot untuk Email dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

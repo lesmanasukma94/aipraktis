@@ -1,6 +1,6 @@
 ---
 title: "Contoh Prompt AI untuk Belajar: Rangkuman, Penjelasan, Latihan, Riset, dan Jadwal Belajar"
-description: "Kumpulan contoh prompt AI untuk belajar lebih cepat dan efektif, mulai dari memahami materi, membuat rangkuman, latihan soal, flashcard, riset, jadwal belajar, sampai persiapan ujian."
+description: "Pelajari Contoh Prompt AI untuk Belajar dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

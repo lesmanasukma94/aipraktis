@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Podcaster: Ide Episode, Script, Transkrip, dan Promosi Konten"
-description: "Panduan lengkap AI untuk podcaster, mulai dari riset niche, ide episode, outline, script, pertanyaan interview, transkrip, show notes, editing audio, audiogram, repurposing, distribusi, analitik, monetisasi, dan etika penggunaan AI."
+description: "Pelajari AI untuk Podcaster dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-content-creator"
@@ -3065,9 +3065,9 @@ Pelajari juga panduan berikut:
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
-- [Prompt AI untuk Content Creator](/blog/prompt-ai-untuk-content-creator/)
+- [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)

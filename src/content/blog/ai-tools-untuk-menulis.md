@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Menulis Artikel, Blog, Email, dan Copywriting"
-description: "Daftar AI tools untuk menulis artikel, blog, email, caption, copywriting, newsletter, script, proposal, dan konten bisnis, lengkap dengan fungsi, kelebihan, kekurangan, dan rekomendasi penggunaan."
+description: "Pelajari AI Tools untuk Menulis Artikel, Blog, Email, dan Copywriting dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja..."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

@@ -1,6 +1,6 @@
 ---
 title: "AI untuk TikToker: Ide Video, Hook, Script, Caption, dan Kalender Konten"
-description: "Panduan lengkap AI untuk TikToker, mulai dari riset niche, ide video, hook 3 detik, script pendek, storyboard, caption, hashtag, kalender konten, editing, repurposing, analitik, monetisasi, dan etika konten AI."
+description: "Pelajari AI untuk TikToker dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-content-creator"
@@ -218,7 +218,7 @@ AI bisa membantu membuat ide affiliate, produk digital, jasa, sponsor pitch, dan
 Baca juga:
 
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 
 ---
@@ -885,7 +885,7 @@ Simpan kalau kamu sering pakai AI untuk kerja.
 Baca juga:
 
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
 
 ---
 
@@ -2393,10 +2393,10 @@ Pelajari juga panduan berikut:
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
-- [Prompt AI untuk Content Creator](/blog/prompt-ai-untuk-content-creator/)
+- [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)

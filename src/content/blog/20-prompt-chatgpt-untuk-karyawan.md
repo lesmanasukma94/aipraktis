@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
 title: "20 Prompt ChatGPT untuk Karyawan:"
-description: "Siap Pakai untuk Email, Laporan, Meeting, dan Presentasi"
+description: "Pelajari 20 Prompt ChatGPT untuk Karyawan dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Prompt
+  - untuk
+featured: false
+draft: false
 ---
 
 ## Ringkasan

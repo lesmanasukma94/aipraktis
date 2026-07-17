@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Mendapatkan Pekerjaan AI: Panduan Lengkap Memulai Karier di Bidang Artificial Intelligence"
-
-description: "Pelajari cara mendapatkan pekerjaan AI mulai dari skill yang dibutuhkan, roadmap belajar, portofolio, sertifikasi, hingga strategi lolos rekrutmen AI Specialist, Prompt Engineer, AI Consultant, dan profesi AI lainnya."
-
+description: "Pelajari Cara Mendapatkan Pekerjaan AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-29"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Mendapatkan
+  - Pekerjaan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

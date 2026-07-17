@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Lead Generation: Strategi, Tools, Contoh, dan Cara Meningkatkan Konversi"
-description: "Pelajari cara menggunakan AI chatbot untuk lead generation, mulai dari menangkap calon pelanggan, kualifikasi lead, follow-up otomatis, rekomendasi tools, contoh flow, hingga prompt siap pakai."
+description: "Pelajari AI Chatbot untuk Lead Generation dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-09"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

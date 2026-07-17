@@ -1,10 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
 title: "Cara Menulis Prompt ChatGPT yang Efektif"
-description: "Pelajari cara menulis prompt ChatGPT yang efektif agar mendapatkan jawaban lebih akurat, detail, dan sesuai kebutuhan. Lengkap dengan contoh prompt untuk pekerjaan, bisnis, dan konten."
+description: "Pelajari Cara Menulis Prompt ChatGPT yang Efektif dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Cara
+  - Menulis
+  - Prompt
+featured: false
+draft: false
 ---
 
 ## Ringkasan

@@ -1,6 +1,6 @@
 ---
 title: "Prompt AI untuk Customer Service: Template Balasan, Komplain, FAQ, Chatbot, dan SOP Layanan"
-description: "Kumpulan prompt AI untuk customer service, mulai dari template balasan pelanggan, handling komplain, FAQ, WhatsApp CS, chatbot knowledge base, tiket support, eskalasi, SOP, dan audit kualitas layanan."
+description: "Pelajari Prompt AI untuk Customer Service dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

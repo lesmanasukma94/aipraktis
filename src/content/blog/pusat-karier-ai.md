@@ -1,12 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
 title: "Karier AI: Panduan Lengkap Skill AI, Pekerjaan Masa Depan, dan Cara Menghasilkan Uang"
-
 description: "Pelajari karier AI, skill AI yang harus dipelajari, pekerjaan masa depan, freelance AI, produktivitas kerja, dan cara menghasilkan uang dengan AI."
-
 pubDate: "2026-06-18"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Karier
+  - Panduan
+  - Lengkap
+featured: false
+draft: false
 ---
 
 ## Ringkasan

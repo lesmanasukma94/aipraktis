@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Digital Marketing Agency: Konten, Iklan, Laporan, dan Strategi Klien"
-description: "Panduan lengkap AI untuk digital marketing agency, mulai dari riset klien, strategi campaign, proposal, content plan, SEO, social media, iklan, reporting, SOP, quality control, dan workflow kerja agency."
+description: "Pelajari AI untuk Digital Marketing Agency dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-bisnis"

@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Membuat Konten Harian Lebih Konsisten"
-description: "Panduan lengkap cara menggunakan AI untuk membuat konten harian, mulai dari riset ide, content pillar, kalender konten, hook, script, caption, visual, video pendek, repurposing, evaluasi performa, dan workflow produksi konten."
+description: "Pelajari Cara Menggunakan AI untuk Membuat Konten Harian Lebih Konsisten dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam ke..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "karier-ai"
-
 title: "Roadmap Menjadi AI Specialist: Panduan Lengkap dari Pemula hingga Profesional"
-description: "Pelajari roadmap lengkap menjadi AI Specialist dari nol. Panduan skill, tools, portofolio, sertifikasi, dan peluang karier AI Specialist di era Artificial Intelligence."
+description: "Pelajari Roadmap Menjadi AI Specialist dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-23"
+author: "AI Praktis Indonesia"
+category: "karier-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Karier AI
+  - Skill AI
+  - Roadmap
+  - Menjadi
+  - "Specialist:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

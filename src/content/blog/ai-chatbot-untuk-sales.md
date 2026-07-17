@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Sales: Manfaat, Strategi, Tools, Contoh Prompt, dan Cara Meningkatkan Closing"
-description: "Pelajari cara menggunakan AI chatbot untuk sales, mulai dari menjawab prospek, kualifikasi lead, follow-up, handling objection, rekomendasi tools, hingga strategi meningkatkan closing."
+description: "Pelajari AI Chatbot untuk Sales dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-09"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

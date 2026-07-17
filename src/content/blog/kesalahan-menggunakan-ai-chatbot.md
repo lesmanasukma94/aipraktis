@@ -1,6 +1,6 @@
 ---
 title: "Kesalahan Menggunakan AI Chatbot yang Harus Dihindari Pemula, Bisnis, dan Tim Customer Service"
-description: "Pelajari kesalahan umum saat menggunakan AI chatbot, mulai dari prompt buruk, terlalu percaya jawaban AI, data sensitif, tanpa SOP, tanpa human review, hingga chatbot bisnis yang tidak dioptimalkan."
+description: "Pelajari Kesalahan Menggunakan AI Chatbot yang Harus Dihindari Pemula, Bisnis, dan Tim Customer Service dengan bahasa sederhana, contoh nyata, tips praktis,..."
 pubDate: "2026-07-10"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

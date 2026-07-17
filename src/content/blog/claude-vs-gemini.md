@@ -1,6 +1,6 @@
 ---
 title: "Claude vs Gemini: Perbandingan Lengkap, Mana AI Chatbot yang Lebih Baik pada 2026?"
-description: "Bandingkan Claude dan Google Gemini dari sisi kualitas jawaban, kemampuan menulis, analisis dokumen, coding, harga, kelebihan, kekurangan, dan rekomendasi berdasarkan kebutuhan."
+description: "Pelajari Claude vs Gemini dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-07"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

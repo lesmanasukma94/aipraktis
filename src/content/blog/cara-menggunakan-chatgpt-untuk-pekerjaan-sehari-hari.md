@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
 title: "Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari"
-description: "10 Cara Menghemat Waktu dan Meningkatkan Produktivitas"
+description: "Panduan praktis Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari untuk pemula, lengkap dengan contoh, manfaat, risiko, checklist, dan langkah penggunaan AI."
 pubDate: "2026-06-12"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Cara
+  - Menggunakan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

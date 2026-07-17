@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Marketing: Strategi, Tools, Prompt, dan Contoh Penerapan"
-description: "Panduan lengkap AI untuk marketing, mulai dari strategi campaign, riset audiens, content marketing, social media, SEO, email marketing, iklan, copywriting, customer journey, analisis data, dan contoh prompt praktis."
+description: "Pelajari AI untuk Marketing dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-bisnis"

@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "prompt-engineering"
-
 title: "Cara Membuat Prompt yang Baik untuk AI"
 description: "Pelajari cara membuat prompt yang baik agar ChatGPT, Gemini, dan AI lainnya memberikan jawaban yang lebih akurat, relevan, dan sesuai kebutuhan."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "prompt-engineering"
+tags:
+  - AI
+  - Belajar AI
+  - Prompt AI
+  - Prompt Engineering
+  - Cara
+  - Membuat
+  - Prompt
+featured: false
+draft: false
 ---
 
 ## Ringkasan

@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Video: Script, Editing, Subtitle, dan Konten Short Form"
-description: "Daftar AI tools untuk video, mulai dari script, editing, subtitle, voice-over, avatar, video pendek, repurposing, B-roll, text-to-video, dan konten short form untuk YouTube, TikTok, Instagram, bisnis, dan edukasi."
+description: "Pelajari AI Tools untuk Video dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

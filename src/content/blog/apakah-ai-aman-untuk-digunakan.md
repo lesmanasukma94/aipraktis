@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
-
 title: "Apakah AI Aman Digunakan?"
 description: "Pelajari keamanan AI, risiko yang perlu diketahui, serta cara menggunakan ChatGPT, Gemini, dan tools AI lainnya dengan aman dan bijak."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Apakah
+  - Aman
+  - Digunakan?
+featured: false
+draft: false
 ---
 
 ## Ringkasan

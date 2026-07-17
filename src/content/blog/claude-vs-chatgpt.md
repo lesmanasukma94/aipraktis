@@ -1,6 +1,6 @@
 ---
 title: "Claude vs ChatGPT: Perbandingan Lengkap, Mana AI Chatbot yang Lebih Baik pada 2026?"
-description: "Bandingkan Claude dan ChatGPT dari sisi kualitas jawaban, kemampuan menulis, coding, analisis dokumen, harga, kelebihan, kekurangan, serta rekomendasi berdasarkan kebutuhan pengguna."
+description: "Pelajari Claude vs ChatGPT dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-07"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

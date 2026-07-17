@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Membuat Presentasi Profesional"
-description: "Panduan lengkap cara menggunakan AI untuk membuat presentasi profesional, mulai dari menentukan tujuan, membuat outline, menyusun slide, membuat visual, speaker notes, latihan Q&A, sampai final review."
+description: "Pelajari Cara Menggunakan AI untuk Membuat Presentasi Profesional dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bi..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

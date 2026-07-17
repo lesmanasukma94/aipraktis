@@ -1,6 +1,6 @@
 ---
 title: "Prompt ChatGPT untuk Riset: Cara Mencari, Merangkum, Membandingkan, dan Menganalisis Informasi"
-description: "Kumpulan prompt ChatGPT untuk riset, mulai dari riset awal, merangkum sumber, membuat pertanyaan riset, membandingkan data, menganalisis informasi, mengecek bias, hingga menyusun laporan riset."
+description: "Pelajari Prompt ChatGPT untuk Riset dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

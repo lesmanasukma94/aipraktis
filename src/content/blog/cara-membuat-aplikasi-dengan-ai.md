@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Membuat Aplikasi dengan AI: Panduan Lengkap untuk Pemula Tanpa Coding"
-
 description: "Pelajari cara membuat aplikasi dengan AI menggunakan ChatGPT, Bolt, Lovable, Replit, FlutterFlow, dan tools no-code AI terbaik untuk bisnis, startup, dan UMKM."
-
 pubDate: "2026-06-28"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - Aplikasi
+featured: false
+draft: false
 ---
 
 ## Ringkasan

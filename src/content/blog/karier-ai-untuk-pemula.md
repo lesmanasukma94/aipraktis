@@ -1,6 +1,6 @@
 ---
 title: "Karier AI untuk Pemula: Skill, Profesi, Roadmap, dan Peluang Kerja"
-description: "Panduan lengkap karier AI untuk pemula, mulai dari peluang kerja, pilihan profesi, skill yang dibutuhkan, roadmap belajar, portofolio, tools, sertifikasi, cara mulai dari nol, dan strategi membangun karier di era AI."
+description: "Pelajari Karier AI untuk Pemula dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "karier-ai"
@@ -95,7 +95,7 @@ Baca juga:
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 
 ---
@@ -711,7 +711,7 @@ Anda perlu tahu:
 Baca juga:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 
 ## 2. Prompt Writing
@@ -1653,7 +1653,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)

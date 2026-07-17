@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
-
 title: "Kesalahan Pemula Saat Menggunakan AI"
 description: "Pelajari kesalahan menggunakan AI dan ChatGPT yang paling sering dilakukan pemula agar hasil yang diperoleh lebih akurat, bermanfaat, dan produktif."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Kesalahan
+  - Pemula
+  - Saat
+featured: false
+draft: false
 ---
 
 ## Ringkasan

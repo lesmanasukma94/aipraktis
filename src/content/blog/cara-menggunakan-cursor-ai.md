@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "Cara Menggunakan Cursor AI: Panduan Lengkap untuk Pemula Tahun 2026"
-
-description: "Pelajari cara menggunakan Cursor AI untuk coding lebih cepat. Panduan lengkap mulai dari instalasi, fitur, membuat project, debugging, hingga tips menggunakan Cursor AI secara maksimal."
-
+description: "Pelajari Cara Menggunakan Cursor AI dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-30"
-
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Cara
+  - Menggunakan
+  - Cursor
+featured: false
+draft: false
 ---
 
 ## Ringkasan

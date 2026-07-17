@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "50 Prompt ChatGPT untuk Mahasiswa"
-description: "Kumpulan 50 prompt ChatGPT untuk mahasiswa yang dapat membantu belajar, membuat rangkuman, mencari ide penelitian, menyusun tugas kuliah, hingga meningkatkan produktivitas akademik."
+description: "Pelajari 50 Prompt ChatGPT untuk Mahasiswa dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-15"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Prompt
+  - untuk
+featured: false
+draft: false
 ---
 
 ## Ringkasan

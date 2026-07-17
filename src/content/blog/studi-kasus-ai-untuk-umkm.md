@@ -1,6 +1,6 @@
 ---
 title: "Studi Kasus AI untuk UMKM: Contoh Penerapan AI dalam Bisnis Kecil"
-description: "Studi kasus lengkap penerapan AI untuk UMKM, mulai dari promosi, deskripsi produk, WhatsApp Business, customer service, katalog, stok, laporan penjualan, konten social media, SOP, prompt, workflow, metrik, dan rencana implementasi 30 hari."
+description: "Pelajari Studi Kasus AI untuk UMKM dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "studi-kasus-ai"

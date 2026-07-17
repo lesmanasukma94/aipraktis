@@ -1,6 +1,6 @@
 ---
 title: "Contoh Prompt AI untuk Bisnis: Marketing, Sales, Customer Service, Operasional, dan Strategi"
-description: "Kumpulan contoh prompt AI untuk bisnis, mulai dari ide usaha, marketing, sales, customer service, WhatsApp, email, konten, CRM, laporan, SOP, otomasi, hingga strategi pertumbuhan."
+description: "Pelajari Contoh Prompt AI untuk Bisnis dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

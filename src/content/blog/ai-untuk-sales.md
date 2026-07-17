@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Sales: Cara Meningkatkan Follow-Up, Closing, dan Produktivitas Tim"
-description: "Panduan lengkap AI untuk sales, mulai dari prospecting, lead scoring, follow-up, cold email, WhatsApp sales, CRM, proposal, objection handling, sales call, pipeline, closing, dan analisis performa tim sales."
+description: "Pelajari AI untuk Sales dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-bisnis"

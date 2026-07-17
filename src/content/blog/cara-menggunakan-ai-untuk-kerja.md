@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Kerja Sehari-hari agar Lebih Produktif"
-description: "Panduan lengkap cara menggunakan AI untuk kerja sehari-hari, mulai dari email, laporan, meeting, riset, presentasi, spreadsheet, customer service, sales, admin, dan produktivitas kerja dengan contoh prompt praktis."
+description: "Pelajari Cara Menggunakan AI untuk Kerja Sehari-hari agar Lebih Produktif dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam k..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

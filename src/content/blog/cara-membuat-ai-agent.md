@@ -1,14 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "Cara Membuat AI Agent: Panduan Lengkap untuk Pemula Tanpa Coding"
-
 description: "Pelajari cara membuat AI Agent menggunakan ChatGPT, CrewAI, LangChain, Flowise, dan berbagai tools AI modern. Cocok untuk bisnis, freelancer, UMKM, dan pemula."
-
 pubDate: "2026-06-28"
-
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - Cara
+  - Membuat
+  - "Agent:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

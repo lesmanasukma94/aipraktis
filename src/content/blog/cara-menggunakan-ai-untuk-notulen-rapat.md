@@ -1,6 +1,6 @@
 ---
 title: "Cara Menggunakan AI untuk Notulen Rapat, Ringkasan, dan Action Items"
-description: "Panduan lengkap cara menggunakan AI untuk notulen rapat, mulai dari menyiapkan agenda, merekam atau mentranskrip meeting, membuat ringkasan, keputusan, action items, PIC, deadline, follow-up email, dan menjaga privasi data rapat."
+description: "Pelajari Cara Menggunakan AI untuk Notulen Rapat, Ringkasan, dan Action Items dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dal..."
 pubDate: "2026-07-13"
 author: "AI Praktis Indonesia"
 category: "tutorial-ai"

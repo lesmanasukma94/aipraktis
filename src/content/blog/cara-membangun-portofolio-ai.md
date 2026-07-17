@@ -1,6 +1,6 @@
 ---
 title: "Cara Membangun Portofolio AI untuk Kerja, Freelance, dan Karier Digital"
-description: "Panduan lengkap cara membangun portofolio AI untuk pemula, mulai dari memilih project, membuat studi kasus, mendokumentasikan workflow, menampilkan hasil, menulis README, membuat portofolio Notion atau website, dan memakainya untuk kerja, freelance, serta karier digital."
+description: "Pelajari Cara Membangun Portofolio AI untuk Kerja, Freelance, dan Karier Digital dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya..."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "karier-ai"
@@ -1846,7 +1846,7 @@ Pelajari juga panduan berikut:
 
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)

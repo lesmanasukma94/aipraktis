@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk Customer Service: Manfaat, Contoh, Tools, dan Cara Menggunakannya"
-description: "Pelajari cara menggunakan AI chatbot untuk customer service, mulai dari menjawab pelanggan, membuat template balasan, menangani komplain, hingga rekomendasi tools AI terbaik untuk bisnis."
+description: "Pelajari AI Chatbot untuk Customer Service dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-08"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

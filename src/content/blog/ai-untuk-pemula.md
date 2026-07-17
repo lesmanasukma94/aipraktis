@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Pemula: Panduan Lengkap Memahami dan Menggunakan AI dari Nol"
-description: "Panduan lengkap AI untuk pemula, mulai dari pengertian AI, cara kerja AI, contoh penggunaan AI, tools AI, prompt dasar, manfaat, risiko, kesalahan pemula, dan langkah pertama belajar AI secara praktis."
+description: "Panduan AI untuk Pemula untuk belajar AI untuk pemula, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "belajar-ai"
@@ -108,7 +108,7 @@ Setelah itu, Anda bisa lanjut ke:
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 
 ---
@@ -1204,7 +1204,7 @@ Mampu memakai AI tanpa melanggar privasi, kejujuran, dan aturan.
 
 Baca juga:
 
-- [Skill AI](/blog/skill-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
 
@@ -1541,9 +1541,9 @@ Pelajari juga panduan berikut:
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai/)
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
-- [Kesalahan Pemula Saat Belajar AI](/blog/kesalahan-pemula-saat-belajar-ai/)
+- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
+- [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 - [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)

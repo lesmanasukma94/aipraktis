@@ -1,6 +1,6 @@
 ---
 title: "AI untuk UMKM Online Shop: Promosi, Admin, WhatsApp, dan Penjualan"
-description: "Panduan lengkap AI untuk UMKM online shop, mulai dari ide konten, caption produk, foto produk, deskripsi produk, WhatsApp Business, customer service, katalog, stok, laporan penjualan, marketplace, dan workflow promosi harian."
+description: "Pelajari AI untuk UMKM Online Shop dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-bisnis"

@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "tutorial-ai"
-
 title: "AI untuk Produktivitas"
-description: "Cara Menggunakan Artificial Intelligence untuk Bekerja Lebih Cepat dan Efisien"
+description: "Panduan AI untuk Produktivitas untuk tutorial AI praktis langkah demi langkah, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-06-15"
+author: "AI Praktis Indonesia"
+category: "tutorial-ai"
+tags:
+  - AI
+  - Belajar AI
+  - Tutorial AI
+  - Cara Menggunakan AI
+  - untuk
+  - Produktivitas
+featured: false
+draft: false
 ---
 
 ## Ringkasan

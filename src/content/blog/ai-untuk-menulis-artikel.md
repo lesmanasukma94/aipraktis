@@ -1,11 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-content-creator"
-
 title: "AI untuk Menulis Artikel: Cara Membuat Konten Lebih Cepat dan Berkualitas"
 description: "Pelajari cara menggunakan AI untuk menulis artikel, membuat konten website, blog, dan kebutuhan SEO dengan lebih cepat dan efisien."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-content-creator"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Content Creator
+  - Content Creator
+  - untuk
+  - Menulis
+  - "Artikel:"
+featured: false
+draft: false
 ---
 
 ## Ringkasan

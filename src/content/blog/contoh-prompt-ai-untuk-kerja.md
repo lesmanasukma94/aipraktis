@@ -1,6 +1,6 @@
 ---
 title: "Contoh Prompt AI untuk Kerja: Email, Laporan, Meeting, Presentasi, Excel, dan Produktivitas"
-description: "Kumpulan contoh prompt AI untuk kerja sehari-hari, mulai dari email, laporan, meeting, notulen, presentasi, Excel, riset, ide, customer service, sales, hingga produktivitas kantor."
+description: "Pelajari Contoh Prompt AI untuk Kerja dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

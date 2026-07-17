@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Mahasiswa: Belajar, Riset, Skripsi, Presentasi, dan Produktivitas"
-description: "Panduan lengkap AI untuk mahasiswa, mulai dari belajar materi kuliah, membuat jadwal belajar, merangkum jurnal, riset, skripsi, presentasi, catatan kuliah, produktivitas, etika akademik, dan prompt AI praktis."
+description: "Pelajari AI untuk Mahasiswa dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-16"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-pendidikan"

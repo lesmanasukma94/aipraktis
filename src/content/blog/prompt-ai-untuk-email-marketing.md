@@ -1,6 +1,6 @@
 ---
 title: "Prompt AI untuk Email Marketing: Newsletter, Sequence, Follow-Up, Subject Line, dan Campaign"
-description: "Kumpulan prompt AI untuk email marketing, mulai dari newsletter, welcome email, email sequence, lead nurturing, subject line, preview text, follow-up, promo, launch produk, winback, segmentasi, dan audit email."
+description: "Pelajari Prompt AI untuk Email Marketing dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

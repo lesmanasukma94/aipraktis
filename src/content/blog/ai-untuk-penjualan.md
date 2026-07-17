@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-untuk-bisnis"
-
 title: "AI untuk Penjualan"
-description: "Cara Menggunakan Artificial Intelligence untuk Meningkatkan Penjualan dan Produktivitas Tim Sales"
+description: "Pelajari AI untuk Penjualan dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-15"
+author: "AI Praktis Indonesia"
+category: "ai-untuk-bisnis"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Bisnis
+  - AI untuk UMKM
+  - untuk
+  - Penjualan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

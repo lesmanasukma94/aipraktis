@@ -1,6 +1,6 @@
 ---
 title: "AI Chatbot untuk TikTok: Manfaat, Tools, Contoh Flow, dan Strategi Meningkatkan Lead dari Konten Viral"
-description: "Pelajari cara menggunakan AI chatbot untuk TikTok, mulai dari membalas komentar, DM automation, lead generation, TikTok Shop, customer service, tools, prompt, hingga strategi funnel bisnis."
+description: "Pelajari AI Chatbot untuk TikTok dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-09"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"

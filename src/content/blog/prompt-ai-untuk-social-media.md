@@ -1,6 +1,6 @@
 ---
 title: "Prompt AI untuk Social Media: Ide Konten, Caption, Hook, Kalender Posting, Reels, TikTok, dan Carousel"
-description: "Kumpulan prompt AI untuk social media, mulai dari ide konten, caption, hook, carousel, Reels, TikTok, YouTube Shorts, kalender posting, hashtag, CTA, repurposing, dan audit konten."
+description: "Pelajari Prompt AI untuk Social Media dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "prompt-engineering"

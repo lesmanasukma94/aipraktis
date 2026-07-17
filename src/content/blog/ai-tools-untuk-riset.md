@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Riset: Mencari Referensi, Data, dan Insight Lebih Cepat"
-description: "Daftar AI tools untuk riset, mulai dari ChatGPT Deep Research, Gemini Deep Research, Perplexity, NotebookLM, Elicit, Consensus, Semantic Scholar, ResearchRabbit, Litmaps, Zotero, dan tools riset lain untuk mencari referensi, data, insight, paper, dan sumber terpercaya."
+description: "Pelajari AI Tools untuk Riset dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

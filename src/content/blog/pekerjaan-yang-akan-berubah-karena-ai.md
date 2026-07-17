@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
-
 title: "Pekerjaan yang Akan Berubah Karena AI: Cara Beradaptasi di Era Kecerdasan Buatan"
 description: "Pelajari pekerjaan yang akan berubah karena AI, profesi yang terdampak otomatisasi, dan keterampilan yang perlu dipelajari agar tetap relevan di masa depan."
 pubDate: "2026-06-16"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Pekerjaan
+  - yang
+  - Akan
+featured: false
+draft: false
 ---
 
 ## Ringkasan

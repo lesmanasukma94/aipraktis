@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Instagram Creator: Reels, Caption, Carousel, dan DM Automation"
-description: "Panduan lengkap AI untuk Instagram Creator, mulai dari riset niche, ide konten, Reels, carousel, caption, hashtag, Stories, DM automation, content calendar, analitik, repurposing, monetisasi, dan etika konten AI."
+description: "Pelajari AI untuk Instagram Creator dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-content-creator"
@@ -269,7 +269,7 @@ AI bisa membantu membuat ide produk digital, affiliate angle, pitch brand, kelas
 Baca juga:
 
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 
 ---
@@ -740,7 +740,7 @@ Simpan prompt ini kalau kamu sering bikin konten Instagram.
 
 Baca juga:
 
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 
 ---
@@ -987,7 +987,7 @@ Simpan template ini untuk konten berikutnya.
 
 Baca juga:
 
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 
 ---
@@ -2733,10 +2733,10 @@ Pelajari juga panduan berikut:
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
-- [Prompt AI untuk Content Creator](/blog/prompt-ai-untuk-content-creator/)
+- [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Caption Instagram](/blog/prompt-ai-untuk-caption-instagram/)
-- [Prompt AI untuk Video](/blog/prompt-ai-untuk-video/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
+- [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)

@@ -1,10 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "belajar-ai"
 title: "Apa Itu Artificial Intelligence (AI)?"
-description: "Pengertian, Cara Kerja, Manfaat, dan Contohnya dalam Kehidupan Sehari-hari"
+description: "Panduan Apa Itu Artificial Intelligence (AI)? untuk belajar AI untuk pemula, dilengkapi penjelasan sederhana, contoh praktis, tips, dan langkah penerapan."
 pubDate: "2026-06-12"
+author: "AI Praktis Indonesia"
+category: "belajar-ai"
+tags:
+  - AI
+  - Belajar AI
+  - AI untuk Pemula
+  - Artificial
+  - Intelligence
+  - (AI)?
+featured: false
+draft: false
 ---
 
 ## Ringkasan

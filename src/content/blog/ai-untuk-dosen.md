@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Dosen: Riset, Materi Kuliah, Publikasi, dan Pembelajaran"
-description: "Panduan lengkap AI untuk dosen, mulai dari riset, literature review, materi kuliah, RPS, slide, kuis, rubrik, penilaian, publikasi ilmiah, administrasi akademik, integritas akademik, etika AI, dan contoh prompt praktis."
+description: "Pelajari AI untuk Dosen dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-17"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-pendidikan"
@@ -1413,8 +1413,8 @@ Bukan hanya dilarang.
 
 Baca juga:
 
-- [Apakah AI Aman](/blog/apakah-ai-aman/)
-- [Kesalahan Pemula Saat Belajar AI](/blog/kesalahan-pemula-saat-belajar-ai/)
+- [Apakah AI Aman](/blog/ai-untuk-pemula/)
+- [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 
 ---
 
@@ -1553,8 +1553,8 @@ Kode:
 
 Baca juga:
 
-- [AI Tools untuk Coding](/blog/ai-tools-untuk-coding/)
-- [Cara Menggunakan AI untuk Coding](/blog/cara-menggunakan-ai-untuk-coding/)
+- [AI Tools untuk Coding](/blog/ai-tools-terbaik-untuk-produktivitas/)
+- [Cara Menggunakan AI untuk Coding](/blog/cara-menggunakan-ai-untuk-kerja/)
 
 ---
 

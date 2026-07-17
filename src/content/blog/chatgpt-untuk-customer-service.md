@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "ChatGPT untuk Customer Service: Cara Menggunakan AI untuk Meningkatkan Layanan Pelanggan"
-description: "Pelajari cara menggunakan ChatGPT untuk customer service, menjawab pelanggan lebih cepat, meningkatkan kepuasan pelanggan, dan meningkatkan produktivitas tim layanan pelanggan."
+description: "Pelajari ChatGPT untuk Customer Service dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-19"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - untuk
+  - Customer
+featured: false
+draft: false
 ---
 
 ## Ringkasan

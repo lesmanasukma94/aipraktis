@@ -1,6 +1,6 @@
 ---
 title: "AI Tools untuk Desain: Membuat Gambar, Logo, Poster, dan Visual Konten"
-description: "Daftar AI tools untuk desain, mulai dari Canva AI, Adobe Firefly, Microsoft Designer, Figma AI, Ideogram, Leonardo AI, Midjourney, ChatGPT, dan tools visual lain untuk membuat gambar, logo, poster, carousel, presentasi, dan konten visual."
+description: "Pelajari AI Tools untuk Desain dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-07-11"
 author: "AI Praktis Indonesia"
 category: "ai-tools"

@@ -1,11 +1,18 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-chatbot"
-
 title: "50 Prompt ChatGPT untuk Content Creator yang Bisa Langsung Digunakan"
-description: "Kumpulan 50 prompt ChatGPT untuk content creator, blogger, YouTuber, TikTok creator, Instagram creator, dan freelancer yang ingin membuat konten lebih cepat dan konsisten."
+description: "Pelajari 50 Prompt ChatGPT untuk Content Creator yang Bisa Langsung Digunakan dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dal..."
 pubDate: "2026-06-21"
+author: "AI Praktis Indonesia"
+category: "ai-chatbot"
+tags:
+  - AI
+  - Belajar AI
+  - AI Chatbot
+  - ChatGPT
+  - Prompt
+  - untuk
+featured: false
+draft: false
 ---
 
 ## Ringkasan

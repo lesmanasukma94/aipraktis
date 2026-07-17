@@ -1,10 +1,19 @@
 ---
-author: "AI Praktis Indonesia"
-tags: []
-category: "ai-tools"
 title: "15 Tools AI Gratis Terbaik untuk Pemula Tahun 2026"
-description: ""
+description: "Panduan praktis 15 Tools AI Gratis Terbaik untuk Pemula Tahun 2026 untuk pemula, lengkap dengan contoh, manfaat, risiko, checklist, dan langkah penggunaan AI."
 pubDate: "2026-06-13"
+author: "AI Praktis Indonesia"
+category: "ai-tools"
+tags:
+  - AI
+  - Belajar AI
+  - AI Tools
+  - Produktivitas
+  - Tools
+  - Gratis
+  - Terbaik
+featured: false
+draft: false
 ---
 
 ## Ringkasan
