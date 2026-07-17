@@ -1,0 +1,327 @@
+---
+import {
+  affiliateRecommendations,
+} from "@/data/affiliate-recommendations";
+---
+
+<section
+  class="affiliate-recommendations"
+  aria-labelledby="affiliate-recommendations-title"
+>
+  <div class="affiliate-container">
+
+    <header class="affiliate-header">
+
+      <p class="affiliate-eyebrow">
+        Rekomendasi Pilihan
+      </p>
+
+      <h2 id="affiliate-recommendations-title">
+        Temukan Tools AI yang Sesuai dengan Kebutuhan Anda
+      </h2>
+
+      <p class="affiliate-description">
+        Pelajari dan bandingkan pilihan tools AI untuk bekerja,
+        menjalankan bisnis, membuat konten, dan meningkatkan
+        produktivitas.
+      </p>
+
+    </header>
+
+    <div class="affiliate-grid">
+      {
+        affiliateRecommendations.map((recommendation) => {
+          const targetUrl =
+            recommendation.affiliateUrl ??
+            recommendation.reviewUrl;
+
+          const isAffiliate =
+            Boolean(recommendation.affiliateUrl);
+
+          return (
+            <article class="affiliate-card">
+
+              <div class="affiliate-card__content">
+
+                <span class="affiliate-card__badge">
+                  {recommendation.badge}
+                </span>
+
+                <h3>
+                  {recommendation.title}
+                </h3>
+
+                <p>
+                  {recommendation.description}
+                </p>
+
+              </div>
+
+              <a
+                class="affiliate-card__link"
+                href={targetUrl}
+                target={isAffiliate ? "_blank" : undefined}
+                rel={
+                  isAffiliate
+                    ? "sponsored nofollow noopener noreferrer"
+                    : undefined
+                }
+              >
+                {recommendation.cta}
+
+                <span aria-hidden="true">
+                  →
+                </span>
+              </a>
+
+            </article>
+          );
+        })
+      }
+    </div>
+
+    <div class="affiliate-footer">
+
+      <a
+        class="affiliate-all-tools"
+        href="/ai-tools/"
+      >
+        Jelajahi Semua AI Tools
+
+        <span aria-hidden="true">
+          →
+        </span>
+      </a>
+
+      <p class="affiliate-disclosure">
+        Transparansi: beberapa rekomendasi dapat menggunakan
+        tautan afiliasi. AI Praktis Indonesia dapat menerima
+        komisi tanpa menambah biaya yang Anda bayarkan.
+        Rekomendasi tetap dipilih berdasarkan relevansi dan
+        kegunaannya bagi pembaca.
+      </p>
+
+    </div>
+
+  </div>
+</section>
+
+<style>
+  .affiliate-recommendations {
+    padding: 72px 24px;
+    border-top: 1px solid #e2e8f0;
+    border-bottom: 1px solid #e2e8f0;
+    background:
+      linear-gradient(
+        180deg,
+        #f8fbff 0%,
+        #ffffff 100%
+      );
+  }
+
+  .affiliate-container {
+    max-width: 1200px;
+    margin-inline: auto;
+  }
+
+  .affiliate-header {
+    max-width: 760px;
+    margin-inline: auto;
+    text-align: center;
+  }
+
+  .affiliate-eyebrow {
+    margin: 0 0 10px;
+    color: #2563eb;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    line-height: 1.4;
+    text-transform: uppercase;
+  }
+
+  .affiliate-header h2 {
+    margin: 0;
+    color: #0f172a;
+    font-size: clamp(2rem, 4vw, 2.75rem);
+    font-weight: 850;
+    line-height: 1.15;
+    letter-spacing: -0.035em;
+    text-wrap: balance;
+  }
+
+  .affiliate-description {
+    max-width: 700px;
+    margin: 16px auto 0;
+    color: #475569;
+    font-size: 1.0625rem;
+    line-height: 1.7;
+  }
+
+  .affiliate-grid {
+    display: grid;
+    grid-template-columns:
+      repeat(3, minmax(0, 1fr));
+    gap: 20px;
+    margin-top: 40px;
+  }
+
+  .affiliate-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 26px;
+    border: 1px solid #dbeafe;
+    border-radius: 18px;
+    background: #ffffff;
+    box-shadow:
+      0 10px 30px rgba(15, 23, 42, 0.045);
+    transition:
+      border-color 160ms ease,
+      box-shadow 160ms ease,
+      transform 160ms ease;
+  }
+
+  .affiliate-card:hover {
+    border-color: #93c5fd;
+    box-shadow:
+      0 18px 38px rgba(37, 99, 235, 0.1);
+    transform: translateY(-4px);
+  }
+
+  .affiliate-card__content {
+    flex: 1;
+  }
+
+  .affiliate-card__badge {
+    display: inline-flex;
+    padding: 6px 10px;
+    border-radius: 999px;
+    background: #eff6ff;
+    color: #1d4ed8;
+    font-size: 0.75rem;
+    font-weight: 800;
+    line-height: 1;
+  }
+
+  .affiliate-card h3 {
+    margin: 18px 0 0;
+    color: #0f172a;
+    font-size: 1.3125rem;
+    font-weight: 800;
+    line-height: 1.35;
+    letter-spacing: -0.015em;
+  }
+
+  .affiliate-card__content p {
+    margin: 12px 0 0;
+    color: #64748b;
+    font-size: 0.9375rem;
+    line-height: 1.7;
+  }
+
+  .affiliate-card__link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    width: fit-content;
+    margin-top: 24px;
+    padding: 11px 16px;
+    border-radius: 10px;
+    background: #2563eb;
+    color: #ffffff;
+    font-size: 0.875rem;
+    font-weight: 800;
+    line-height: 1.3;
+    text-decoration: none;
+    transition:
+      background-color 150ms ease,
+      transform 150ms ease;
+  }
+
+  .affiliate-card__link:hover {
+    background: #1d4ed8;
+    transform: translateY(-1px);
+  }
+
+  .affiliate-card__link:focus-visible {
+    outline: 3px solid #93c5fd;
+    outline-offset: 3px;
+  }
+
+  .affiliate-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 32px;
+    text-align: center;
+  }
+
+  .affiliate-all-tools {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: #1d4ed8;
+    font-size: 0.9375rem;
+    font-weight: 800;
+    text-decoration: none;
+  }
+
+  .affiliate-all-tools:hover {
+    color: #1e40af;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+
+  .affiliate-all-tools:focus-visible {
+    border-radius: 4px;
+    outline: 3px solid #93c5fd;
+    outline-offset: 3px;
+  }
+
+  .affiliate-disclosure {
+    max-width: 780px;
+    margin: 18px auto 0;
+    color: #64748b;
+    font-size: 0.75rem;
+    line-height: 1.65;
+  }
+
+  @media (max-width: 900px) {
+    .affiliate-grid {
+      grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+    }
+
+    .affiliate-card:last-child {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media (max-width: 640px) {
+    .affiliate-recommendations {
+      padding: 56px 20px;
+    }
+
+    .affiliate-grid {
+      grid-template-columns: 1fr;
+      margin-top: 32px;
+    }
+
+    .affiliate-card:last-child {
+      grid-column: auto;
+    }
+
+    .affiliate-card {
+      padding: 22px;
+    }
+
+    .affiliate-header h2 {
+      font-size: 2rem;
+    }
+
+    .affiliate-description {
+      font-size: 1rem;
+    }
+  }
+</style>
