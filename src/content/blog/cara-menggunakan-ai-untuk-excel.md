@@ -463,7 +463,7 @@ Buatkan rumus untuk menjumlahkan total transaksi yang statusnya Lunas.
 
 AI mungkin memberi rumus seperti:
 
-```excel
+```plaintext
 =SUMIF(E:E,"Lunas",D:D)
 ```
 
@@ -486,7 +486,7 @@ Buatkan rumus Excel.
 
 Rumus:
 
-```excel
+```plaintext
 =COUNTIF(C:C,"Paket A")
 ```
 
@@ -502,7 +502,7 @@ Saya ingin menghitung rata-rata transaksi untuk produk "Paket A".
 
 Rumus:
 
-```excel
+```plaintext
 =AVERAGEIF(C:C,"Paket A",D:D)
 ```
 
@@ -519,7 +519,7 @@ Buatkan rumus Excel.
 
 Rumus:
 
-```excel
+```plaintext
 =IF(B2>=75,"Lulus","Tidak Lulus")
 ```
 
@@ -618,7 +618,7 @@ Jelaskan penyebab error dan beri rumus agar jika tidak ditemukan muncul "Tidak d
 
 Rumus yang mungkin diberikan:
 
-```excel
+```plaintext
 =XLOOKUP(A2,Sheet2!A:A,Sheet2!B:B,"Tidak ditemukan")
 ```
 
@@ -660,31 +660,31 @@ Sertakan rumus jika diperlukan.
 
 Menghapus spasi berlebih:
 
-```excel
+```plaintext
 =TRIM(A2)
 ```
 
 Mengubah huruf menjadi proper case:
 
-```excel
+```plaintext
 =PROPER(A2)
 ```
 
 Mengubah huruf menjadi kapital:
 
-```excel
+```plaintext
 =UPPER(A2)
 ```
 
 Mengubah huruf menjadi kecil:
 
-```excel
+```plaintext
 =LOWER(A2)
 ```
 
 Menggabungkan teks:
 
-```excel
+```plaintext
 =A2&" "&B2
 ```
 
@@ -752,7 +752,7 @@ Output yang diharapkan:
 
 Rumus total:
 
-```excel
+```plaintext
 =D2*E2
 ```
 
@@ -1222,19 +1222,19 @@ Rumus contoh:
 
 CTR:
 
-```excel
+```plaintext
 =Klik/Impression
 ```
 
 CPL:
 
-```excel
+```plaintext
 =Biaya/Leads
 ```
 
 Conversion rate:
 
-```excel
+```plaintext
 =Penjualan/Leads
 ```
 

@@ -1047,7 +1047,7 @@ Buatkan rumus untuk stok akhir dan status stok menipis.
 
 Contoh rumus stok akhir:
 
-```excel
+```plaintext
 =Stok Awal + Stok Masuk - Stok Keluar
 ```
 
