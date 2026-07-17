@@ -23,6 +23,8 @@ draft: false
 
 AI tools untuk UMKM dapat membantu bisnis kecil membuat konten promosi, membalas pelanggan, membuat caption, membuat desain, membuat video pendek, menyusun katalog, mengelola chat WhatsApp, membuat laporan sederhana, mengatur stok, membuat SOP, membuat ide produk, membuat email, dan mempercepat pekerjaan admin. Tools seperti ChatGPT, Canva AI, CapCut, WhatsApp Business, Google Business Profile, Meta Business Suite, Google Workspace, Notion AI, Zapier, Make, HubSpot, Zoho, Tidio, Manychat, dan tools sejenis bisa digunakan sesuai kebutuhan. Namun, UMKM tidak perlu langsung memakai semua tools. Mulai dari masalah paling sering terjadi: promosi, chat pelanggan, pencatatan, follow-up, atau konten harian.
 
+Jika ingin menerapkan tools AI langsung ke toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk workflow promosi, caption produk, WhatsApp, customer service, katalog, stok, order, dan laporan penjualan.
+
 # AI Tools untuk UMKM
 
 UMKM sering punya masalah yang berbeda dari perusahaan besar.
@@ -2060,6 +2062,12 @@ AI bukan pengganti kerja bisnis.
 AI adalah alat bantu agar pemilik UMKM bisa bekerja lebih efisien, lebih konsisten, dan lebih siap bersaing di era digital.
 
 ---
+
+UMKM yang ingin promosi lebih terstruktur dapat membaca [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk memahami persona pelanggan, campaign, konten, email, WhatsApp, iklan, dan analisis data sederhana.
+
+UMKM yang ingin membalas pelanggan lebih cepat dapat membaca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk membuat template WhatsApp, FAQ, SOP komplain, dan alur eskalasi sederhana.
+
+UMKM yang ingin membalas pelanggan lebih cepat dapat membaca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk membuat template WhatsApp, FAQ, SOP komplain, dan alur eskalasi sederhana.
 
 UMKM yang mencatat order, stok, pelanggan, dan penjualan di spreadsheet dapat membaca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) untuk membuat rumus, laporan, dan dashboard sederhana.
 

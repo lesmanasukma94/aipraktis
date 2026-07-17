@@ -1819,7 +1819,11 @@ Dengan pendekatan yang benar, AI bisa menjadi asisten penting untuk membangun we
 
 ---
 
+Jika SEO digunakan untuk mendukung bisnis, baca [AI untuk Marketing](/blog/ai-untuk-marketing/) agar artikel, keyword, email, social media, campaign, dan funnel bekerja dalam satu strategi marketing.
+
 Konten SEO dapat diperluas menjadi konten social media. Gunakan [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) untuk mengubah keyword, artikel, dan insight SEO menjadi script, carousel, caption, dan video pendek.
+
+Jika SEO menjadi layanan agency, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk memahami workflow riset keyword, content brief, audit artikel, reporting, dan rekomendasi klien.
 
 # Artikel Terkait
 

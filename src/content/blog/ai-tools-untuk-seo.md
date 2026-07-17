@@ -1982,6 +1982,8 @@ Untuk menerapkan SEO ke proses penulisan, baca [Cara Menggunakan AI untuk Menuli
 
 SEO yang baik membutuhkan riset sumber dan search intent yang jelas. Baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) agar proses mencari referensi, membandingkan informasi, dan menyusun insight lebih aman.
 
+SEO agency dapat membaca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk membuat keyword workflow, content brief, audit, reporting, dan update konten klien dengan bantuan AI.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

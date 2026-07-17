@@ -1360,6 +1360,8 @@ Konten menjadi lebih terarah, lebih konsisten, dan lebih mudah dikembangkan menj
 
 ---
 
+Prompt social media akan lebih kuat jika terhubung dengan strategi marketing. Baca [AI untuk Marketing](/blog/ai-untuk-marketing/) agar konten, CTA, campaign, funnel, dan evaluasi performa lebih terarah.
+
 Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk membandingkan ChatGPT, Canva AI, CapCut, Buffer, Hootsuite, Later, Metricool, Meta Business Suite, dan tools lain.
 
 Setelah konten social media menarik audiens baru, Anda bisa melanjutkan hubungan lewat email. Gunakan [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) untuk membuat newsletter, welcome email, dan nurturing sequence.
@@ -1371,6 +1373,8 @@ Untuk mempercepat caption, script, carousel, dan konten pendek, baca [AI Tools u
 Untuk membuat visual konten social media lebih cepat, baca [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) agar ide caption, hook, dan carousel bisa diubah menjadi desain yang siap dipublikasikan.
 
 Untuk mengubah ide social media menjadi Reels, TikTok, atau YouTube Shorts, gunakan [AI Tools untuk Video](/blog/ai-tools-untuk-video/) agar proses script, subtitle, editing, dan repurposing lebih cepat.
+
+Jika prompt social media digunakan untuk banyak klien, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) agar brand context, content plan, approval flow, dan QC konten lebih rapi.
 
 # Artikel Terkait
 

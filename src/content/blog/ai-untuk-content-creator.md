@@ -223,6 +223,8 @@ Content creator yang ingin mengembangkan ide menjadi artikel blog dapat membaca 
 
 Content creator yang ingin mengembangkan blog atau website dapat membaca [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) untuk memahami riset keyword, artikel SEO, internal link, dan update konten.
 
+Content creator yang ingin mengubah konten menjadi pertumbuhan bisnis dapat membaca [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk memahami campaign, positioning, CTA, funnel, email, dan evaluasi performa.
+
 ## Artikel Terkait
 
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)

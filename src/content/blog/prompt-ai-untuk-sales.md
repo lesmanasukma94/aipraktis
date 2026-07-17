@@ -22,6 +22,8 @@ draft: false
 
 Prompt AI untuk sales dapat membantu tim penjualan membuat pesan prospecting, follow-up, discovery call, sales script, objection handling, proposal, email sales, WhatsApp sales, CRM note, laporan pipeline, dan strategi closing. Namun, AI tidak boleh digunakan untuk membuat pesan yang manipulatif, menyesatkan, atau menjanjikan hasil yang tidak bisa dibuktikan. Sales yang baik tetap harus jujur, relevan, membantu calon pelanggan, dan fokus pada kebutuhan nyata pembeli.
 
+Jika ingin memakai prompt sales dalam workflow yang lebih lengkap, baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami ICP, lead qualification, outreach, follow-up, objection handling, proposal, CRM notes, pipeline, dan sales coaching.
+
 # Prompt AI untuk Sales
 
 Sales adalah bagian penting dari pertumbuhan bisnis.

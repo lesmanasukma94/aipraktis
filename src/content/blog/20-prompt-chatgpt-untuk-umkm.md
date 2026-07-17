@@ -13,6 +13,8 @@ Banyak pelaku UMKM menghadapi tantangan yang sama setiap hari: mencari ide promo
 
 Masalahnya, tidak semua pemilik usaha memiliki waktu atau tim khusus untuk menangani pemasaran dan pembuatan konten.
 
+Jika ingin memakai prompt UMKM khusus untuk online shop, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) yang membahas prompt deskripsi produk, template WhatsApp, FAQ, caption, promosi, dan analisis penjualan.
+
 Di sinilah ChatGPT dapat membantu.
 
 Dengan menggunakan prompt yang tepat, ChatGPT dapat menjadi asisten virtual yang membantu berbagai aktivitas bisnis sehari-hari. Mulai dari membuat caption Instagram, menyusun strategi promosi, hingga menghasilkan ide produk baru.

@@ -15,6 +15,8 @@ Mulai dari membuat konten media sosial, menulis deskripsi produk, membuat ide pr
 
 Kabar baiknya, ChatGPT dapat digunakan bahkan oleh pemilik UMKM yang tidak memiliki latar belakang teknologi atau kemampuan coding.
 
+Untuk penggunaan ChatGPT yang lebih spesifik pada toko online, lanjutkan ke [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) agar proses deskripsi produk, caption, WhatsApp, FAQ, promosi, dan laporan penjualan lebih rapi.
+
 ## Apa Itu ChatGPT?
 
 ChatGPT adalah chatbot berbasis AI yang dikembangkan oleh OpenAI.

@@ -92,7 +92,7 @@ AI dapat membantu menyusun struktur presentasi sehingga guru dapat fokus pada is
 
 Baca juga:
 
-- [AI untuk Guru](/blog/ai-untuk-guru/)
+Salah satu penerapan AI paling praktis di pendidikan adalah membantu guru. Baca [AI untuk Guru](/blog/ai-untuk-guru/) untuk memahami cara memakai AI dalam materi ajar, asesmen, rubrik, LKS, dan pembelajaran aktif.
 
 ## Manfaat AI untuk Mahasiswa
 

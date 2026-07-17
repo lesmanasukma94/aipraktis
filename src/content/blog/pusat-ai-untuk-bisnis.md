@@ -201,6 +201,8 @@ Beberapa tools AI yang paling sering digunakan oleh pelaku bisnis saat ini antar
 
 Pemilihan tools tergantung pada kebutuhan bisnis, ukuran tim, dan jenis pekerjaan yang ingin diotomatisasi.
 
+Salah satu penerapan prompt bisnis yang paling penting adalah marketing. Lanjutkan ke [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk melihat cara memakai AI dalam campaign, social media, SEO, email, copywriting, iklan, dan analisis data.
+
 # Kesimpulan
 
 AI bukan lagi teknologi masa depan. Saat ini AI sudah menjadi alat kerja yang dapat membantu bisnis berkembang lebih cepat, lebih efisien, dan lebih kompetitif.

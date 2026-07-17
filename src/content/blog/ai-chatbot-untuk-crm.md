@@ -1247,6 +1247,8 @@ Dengan cara ini, AI chatbot untuk CRM dapat menjadi salah satu fondasi penting d
 
 CRM akan lebih efektif jika chatbot yang dipilih sesuai dengan pipeline dan workflow bisnis. Pelajari panduan [Cara Memilih AI Chatbot](/blog/cara-memilih-ai-chatbot/) untuk menilai integrasi, keamanan data, dan kebutuhan sales.
 
+CRM akan lebih berguna jika dipakai dalam proses sales yang rapi. Baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk menghubungkan catatan call, pipeline, follow-up, proposal, dan prioritas deal.
+
 Jika CRM sudah mulai rapi, langkah berikutnya adalah menghubungkannya dengan workflow bisnis lain. Pelajari panduan [AI Chatbot untuk Otomasi Bisnis](/blog/ai-chatbot-untuk-otomasi-bisnis/) untuk membuat alur lead, follow-up, customer service, dan laporan lebih otomatis.
 
 CRM akan lebih berguna jika data sales dicatat dengan rapi. Gunakan [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) untuk membuat CRM note, pipeline update, next best action, dan laporan sales.

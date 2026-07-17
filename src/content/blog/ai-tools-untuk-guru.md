@@ -23,6 +23,8 @@ draft: false
 
 AI tools untuk guru dapat membantu membuat materi ajar, rencana pembelajaran, soal, kuis, rubrik penilaian, lembar kerja, presentasi, aktivitas kelas, diferensiasi materi, feedback siswa, ringkasan dokumen, komunikasi dengan orang tua, dan administrasi pembelajaran. Tools seperti ChatGPT, Gemini for Education, Microsoft Copilot, Khanmigo, Canva Education, MagicSchool, Brisk Teaching, Quizizz AI, Diffit, Curipod, NotebookLM, Google Workspace, dan Microsoft 365 bisa digunakan sesuai kebutuhan. Namun, AI tidak boleh menggantikan peran guru. Guru tetap harus mengecek akurasi, menyesuaikan konteks kelas, menjaga data siswa, dan memastikan AI digunakan untuk mendukung pembelajaran, bukan menggantikan proses berpikir siswa.
 
+Jika ingin menerapkan tools AI ke workflow mengajar yang lebih lengkap, baca [AI untuk Guru](/blog/ai-untuk-guru/) untuk membuat rencana pembelajaran, materi ajar, soal, rubrik, LKS, remedial, pengayaan, dan administrasi kelas.
+
 Guru yang ingin memberi panduan penggunaan AI kepada siswa dapat merujuk [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar siswa memakai AI sebagai tutor, bukan mesin jawaban.
 
 # AI Tools untuk Guru

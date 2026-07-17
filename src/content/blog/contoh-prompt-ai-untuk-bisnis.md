@@ -1115,6 +1115,8 @@ Jika digunakan dengan kebiasaan yang benar, prompt AI dapat menjadi alat penting
 
 ---
 
+Prompt bisnis untuk penjualan akan lebih kuat jika disusun dalam sistem. Lanjutkan ke [AI untuk Sales](/blog/ai-untuk-sales/) untuk contoh penggunaan AI pada follow-up, sales call, proposal, objection handling, dan pipeline.
+
 Untuk kebutuhan penjualan yang lebih spesifik, baca [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) yang berisi prompt prospecting, follow-up, discovery call, proposal, CRM, objection handling, dan closing.
 
 Pemilik bisnis yang ingin belajar skill baru seperti marketing, sales, AI, atau otomasi dapat menggunakan panduan [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) sebagai template belajar mandiri.
@@ -1134,6 +1136,8 @@ Bisnis yang ingin lebih konsisten di media sosial dapat membaca [Prompt AI untuk
 Bisnis yang ingin membangun hubungan dengan lead dan pelanggan dapat membaca [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/) untuk membuat newsletter, promo, onboarding, follow-up, dan winback email.
 
 Untuk operasional layanan pelanggan, lanjutkan ke [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) yang berisi prompt template balasan, komplain, FAQ, WhatsApp CS, chatbot, dan SOP layanan.
+
+Prompt bisnis untuk agency akan lebih efektif jika masuk ke workflow yang jelas. Baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk template client intake, proposal, content plan, reporting, SOP, dan QC.
 
 # Artikel Terkait
 

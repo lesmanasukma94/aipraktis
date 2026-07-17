@@ -1575,6 +1575,8 @@ Jika digunakan dengan benar, AI dapat membantu email marketing menjadi channel y
 
 ---
 
+Email marketing akan lebih efektif jika masuk ke funnel yang jelas. Lanjutkan ke [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk memahami persona, campaign brief, email sequence, CTA, dan metrik keberhasilan.
+
 Jika email pelanggan berisi pertanyaan, komplain, refund, atau follow-up layanan, gunakan juga [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) untuk membuat template balasan, SOP eskalasi, tiket support, dan knowledge base.
 
 Untuk lead yang sudah menunjukkan minat dan siap diarahkan ke penjualan, lanjutkan ke [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) agar follow-up, discovery, proposal, dan closing lebih terstruktur.

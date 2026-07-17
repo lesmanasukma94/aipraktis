@@ -20,6 +20,8 @@ AI dapat membantu guru menghemat waktu ketika menyiapkan materi, merancang latih
 
 Namun, AI tidak dapat menggantikan pertimbangan profesional guru. Setiap hasil tetap perlu diperiksa agar sesuai dengan tujuan pembelajaran, kemampuan siswa, konteks sekolah, kurikulum, dan kondisi kelas.
 
+Prompt guru akan lebih efektif jika digunakan dalam alur pembelajaran yang jelas. Lanjutkan ke [AI untuk Guru](/blog/ai-untuk-guru/) agar prompt rencana pembelajaran, soal, rubrik, feedback, dan diferensiasi lebih terarah.
+
 Artikel ini berisi 20 prompt AI yang dapat digunakan pada ChatGPT, Gemini, Claude, Microsoft Copilot, atau chatbot AI lainnya.
 
 Teks dalam tanda kurung siku seperti `[TOPIK]`, `[KELAS]`, `[TUJUAN PEMBELAJARAN]`, dan `[MATERI]` perlu diganti sesuai kebutuhan.

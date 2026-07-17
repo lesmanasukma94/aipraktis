@@ -20,6 +20,8 @@ draft: false
 
 AI chatbot untuk sales dapat membantu bisnis menjawab calon pelanggan lebih cepat, melakukan kualifikasi lead, membuat follow-up, menangani keberatan pelanggan, merekomendasikan produk, menjadwalkan konsultasi, dan membantu tim sales meningkatkan peluang closing. Artikel ini membahas manfaat, contoh penggunaan, strategi penerapan, rekomendasi tools, prompt siap pakai, kesalahan yang harus dihindari, dan cara menggunakan AI chatbot dalam proses sales secara praktis.
 
+Chatbot sales akan lebih efektif jika terhubung dengan workflow sales yang jelas. Baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami follow-up, qualification, objection handling, CRM, proposal, dan closing.
+
 # AI Chatbot untuk Sales
 
 Sales adalah salah satu bagian paling penting dalam bisnis.

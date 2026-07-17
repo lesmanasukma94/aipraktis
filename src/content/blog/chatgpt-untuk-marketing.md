@@ -14,6 +14,8 @@ ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak
 
 Saat ini banyak bisnis, UMKM, startup, hingga perusahaan besar mulai memanfaatkan ChatGPT untuk membantu aktivitas marketing sehari-hari.
 
+Jika ingin memakai ChatGPT dalam strategi yang lebih lengkap, baca [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk memahami workflow campaign, riset audiens, content marketing, SEO, email, iklan, funnel, dan analisis performa.
+
 ## Apa Itu ChatGPT untuk Marketing?
 
 ChatGPT untuk marketing adalah penggunaan AI sebagai asisten pemasaran untuk membantu berbagai aktivitas seperti:
@@ -223,6 +225,8 @@ SEO adalah salah satu channel marketing jangka panjang. Baca [AI Tools untuk SEO
 Social media adalah salah satu channel marketing utama. Gunakan [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk mempercepat ide konten, caption, desain, video pendek, scheduling, dan analisis performa.
 
 Untuk memakai ChatGPT dalam produksi konten marketing harian, baca [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) agar proses ide, hook, caption, script, kalender, dan repurposing lebih rapi.
+
+Untuk penerapan ChatGPT di level agency, lanjutkan ke [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) agar riset klien, campaign brief, content plan, ads copy, dan laporan performa lebih terstruktur.
 
 ## Artikel Terkait
 

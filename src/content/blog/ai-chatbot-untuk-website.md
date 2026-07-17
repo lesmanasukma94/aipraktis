@@ -760,6 +760,8 @@ Sebelum memasang chatbot di website, baca dulu panduan [Cara Memilih AI Chatbot]
 
 Sebelum memasang chatbot di website, baca [Kesalahan Menggunakan AI Chatbot](/blog/kesalahan-menggunakan-ai-chatbot/) agar flow, FAQ, data lead, dan handoff ke admin lebih aman.
 
+Chatbot website akan lebih efektif jika punya knowledge base yang kuat. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk menyusun FAQ, artikel bantuan, fallback, dan human handoff.
+
 ---
 
 # Artikel Terkait

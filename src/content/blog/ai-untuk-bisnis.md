@@ -17,6 +17,8 @@ Berbagai tools AI modern seperti ChatGPT, Gemini, Claude, dan Canva AI memungkin
 
 Dalam artikel ini, Anda akan mempelajari bagaimana AI digunakan dalam dunia bisnis, manfaatnya, serta contoh penerapannya dalam berbagai aktivitas operasional.
 
+Salah satu penerapan AI paling penting dalam bisnis adalah marketing. Baca [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk strategi campaign, social media, SEO, email, iklan, funnel, dan analisis data.
+
 ## Apa Itu AI untuk Bisnis?
 
 AI untuk bisnis adalah penggunaan teknologi Artificial Intelligence untuk membantu berbagai aktivitas perusahaan dan usaha.
@@ -220,6 +222,10 @@ Gunakan AI untuk:
 * Menulis email
 * Membuat caption
 * Membuat deskripsi produk
+
+Salah satu penerapan AI paling penting dalam bisnis adalah penjualan. Baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami prospecting, follow-up, CRM, proposal, objection handling, pipeline, dan closing.
+
+Salah satu penerapan AI paling penting dalam bisnis adalah layanan pelanggan. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk memahami chatbot, ticketing, FAQ, knowledge base, komplain, dan quality control.
 
 Chatbot AI seperti [Grok untuk Pemula](/blog/grok-untuk-pemula/) dapat dimanfaatkan untuk menyusun email, proposal, ide pemasaran, dan berbagai kebutuhan operasional bisnis.
 

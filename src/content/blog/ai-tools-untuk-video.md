@@ -1772,6 +1772,8 @@ Jika video ingin didistribusikan ke Reels, TikTok, dan Shorts, gunakan [AI Tools
 
 UMKM yang ingin membuat video promosi sederhana dapat membaca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk melihat bagaimana CapCut, Canva AI, ChatGPT, dan social media tools digunakan dalam workflow jualan.
 
+Video pendek akan lebih efektif jika menjadi bagian dari campaign. Baca [AI untuk Marketing](/blog/ai-untuk-marketing/) agar ide video, hook, CTA, funnel, dan evaluasi performa lebih terarah.
+
 Slide juga bisa menjadi bahan video edukasi. Gunakan [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk membuat deck, lalu lanjutkan ke workflow video untuk voice-over, subtitle, dan editing.
 
 # Artikel Terkait

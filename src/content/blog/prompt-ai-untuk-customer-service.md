@@ -22,6 +22,8 @@ draft: false
 
 Prompt AI untuk customer service dapat membantu membuat template balasan pelanggan, menjawab FAQ, menangani komplain, merangkum percakapan, membuat tiket support, menyusun SOP, membuat chatbot knowledge base, membuat quick reply WhatsApp, dan mengevaluasi kualitas layanan. Namun, AI tidak boleh digunakan untuk menjawab pelanggan secara sembarangan. Customer service tetap membutuhkan empati, akurasi, kejelasan, batasan wewenang, dan eskalasi ke manusia untuk kasus sensitif atau kompleks.
 
+Jika ingin menerapkan prompt customer service ke sistem layanan yang lebih lengkap, baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk memahami FAQ, knowledge base, ticketing, chatbot, escalation, quality control, dan analisis feedback pelanggan.
+
 # Prompt AI untuk Customer Service
 
 Customer service adalah bagian penting dari bisnis.

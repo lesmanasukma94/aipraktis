@@ -10,13 +10,15 @@ pubDate: "2026-06-19"
 
 ## Ringkasan
 
-------------------
+---
 
 # ChatGPT untuk Customer Service
 
 ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang semakin banyak digunakan dalam dunia customer service. Dengan bantuan AI, bisnis dapat menjawab pertanyaan pelanggan lebih cepat, memberikan layanan yang lebih konsisten, dan meningkatkan efisiensi operasional.
 
 Saat ini banyak perusahaan, UMKM, toko online, dan bisnis digital mulai memanfaatkan ChatGPT untuk membantu aktivitas layanan pelanggan sehari-hari.
+
+Untuk penerapan yang lebih strategis, lanjutkan ke [AI untuk Customer Service](/blog/ai-untuk-customer-service/) agar ChatGPT tidak hanya dipakai membuat balasan, tetapi juga FAQ, SOP, knowledge base, ticket summary, dan quality control.
 
 ## Apa Itu ChatGPT untuk Customer Service?
 
