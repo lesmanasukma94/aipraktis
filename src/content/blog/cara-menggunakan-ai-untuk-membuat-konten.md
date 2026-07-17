@@ -1354,6 +1354,8 @@ Format:
 - ide Shorts dari video ini
 ```
 
+Untuk kreator video YouTube, baca [AI untuk YouTuber](/blog/ai-untuk-youtuber/) agar penggunaan AI tidak berhenti di ide konten, tetapi masuk ke script, storyboard, thumbnail, metadata, Shorts, dan analitik.
+
 Baca juga:
 
 - [AI Chatbot untuk YouTube](/blog/ai-chatbot-untuk-youtube/)
