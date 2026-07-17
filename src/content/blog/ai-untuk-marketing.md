@@ -2011,6 +2011,8 @@ UMKM online shop dapat menerapkan strategi marketing dengan lebih praktis melalu
 
 Digital marketing agency dapat menerapkan strategi AI secara lebih sistematis lewat [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) yang membahas client brief, content plan, ads, SEO, reporting, SOP, dan quality control.
 
+Marketing bisa menjadi jalur karier AI yang realistis untuk pemula. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk melihat bagaimana AI marketing specialist masuk dalam pilihan profesi AI non-teknis.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

@@ -239,6 +239,8 @@ Dengan memahami AI, Anda dapat:
 
 Semakin cepat memahami AI, semakin besar peluang untuk memanfaatkan teknologi ini secara maksimal.
 
+Jika Anda benar-benar baru mulai, baca juga [AI untuk Pemula](/blog/ai-untuk-pemula/) untuk memahami AI dari dasar, mulai dari pengertian, contoh penggunaan, tools, prompt, manfaat, risiko, dan langkah pertama belajar AI.
+
 Salah satu AI chatbot yang semakin populer adalah 
 - [Claude](/blog/claude-untuk-pemula/), yang dikenal memiliki kemampuan analisis dokumen dan penulisan yang sangat baik.
 - [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) yang dapat membantu belajar, coding, membuat konten, dan meningkatkan produktivitas.

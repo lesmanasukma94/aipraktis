@@ -23,6 +23,8 @@ draft: false
 
 AI bisa membantu proses belajar menjadi lebih cepat, terarah, dan interaktif. Anda bisa memakai AI untuk memahami materi sulit, membuat jadwal belajar, merangkum catatan, membuat latihan soal, menjelaskan konsep dengan analogi, belajar bahasa, menyiapkan presentasi, melakukan riset, dan mengevaluasi pemahaman. Namun, AI tidak boleh digunakan hanya untuk mencari jawaban instan. Cara terbaik menggunakan AI untuk belajar adalah menjadikannya tutor, bukan mesin contekan. Minta AI bertanya balik, memberi petunjuk, menguji pemahaman, dan membantu Anda berpikir.
 
+Sebelum memakai AI untuk belajar, pahami dulu dasar-dasarnya melalui [AI untuk Pemula](/blog/ai-untuk-pemula/) agar Anda tahu manfaat, batasan, risiko, dan cara bertanya yang benar kepada AI.
+
 # Cara Menggunakan AI untuk Belajar
 
 Belajar sering terasa berat.
@@ -1331,6 +1333,8 @@ Bukan menggantikan proses belajar.
 ---
 
 # Artikel Terkait
+
+Jika belajar AI ingin diarahkan ke peluang kerja, lanjutkan ke [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami roadmap skill, pilihan profesi, portofolio, dan langkah 30 hari memulai karier AI.
 
 Pelajari juga panduan berikut:
 

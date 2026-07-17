@@ -15,6 +15,8 @@ Bagi banyak orang, terutama yang baru mengenal AI, ChatGPT mungkin terlihat rumi
 
 Dalam panduan ini, Anda akan mempelajari apa itu ChatGPT, manfaatnya, cara membuat akun, serta tips menggunakan ChatGPT secara efektif untuk berbagai kebutuhan.
 
+ChatGPT adalah salah satu pintu masuk paling mudah untuk belajar AI. Jika ingin memahami gambaran besarnya, baca [AI untuk Pemula](/blog/ai-untuk-pemula/) agar tahu perbedaan AI, ChatGPT, generative AI, prompt, dan tools AI lain.
+
 ## Apa Itu ChatGPT?
 
 ChatGPT adalah chatbot berbasis kecerdasan buatan yang dikembangkan oleh [OpenAI](https://openai.com?utm_source=chatgpt.com). Teknologi ini dirancang untuk memahami bahasa manusia dan memberikan jawaban dalam bentuk percakapan yang natural.

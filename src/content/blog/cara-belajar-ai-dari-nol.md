@@ -248,6 +248,10 @@ Jika Anda pemula, fokus pada:
 
 Keterampilan ini memberikan manfaat nyata dalam kehidupan sehari-hari.
 
+Sebelum masuk ke roadmap belajar yang lebih panjang, Anda bisa mulai dari [AI untuk Pemula](/blog/ai-untuk-pemula/) untuk memahami konsep dasar AI, tools awal, prompt sederhana, dan cara memakai AI untuk kebutuhan sehari-hari.
+
+Setelah memahami cara belajar AI, lanjutkan ke [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) agar proses belajar terhubung dengan pilihan profesi, skill kerja, project portofolio, dan peluang freelance.
+
 Setelah memahami dasar-dasar AI, langkah berikutnya adalah mencoba AI chatbot secara langsung. Salah satu pilihan terbaik adalah [Claude untuk Pemula](/blog/claude-untuk-pemula/).
 
 ## FAQ

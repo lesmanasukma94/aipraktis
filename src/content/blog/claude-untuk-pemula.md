@@ -21,6 +21,8 @@ Claude AI menjadi salah satu chatbot kecerdasan buatan (Artificial Intelligence/
 
 Bagi pemula, Claude sering dianggap sebagai alternatif ChatGPT yang mampu menghasilkan jawaban panjang, natural, dan mudah dipahami. Banyak pengguna memanfaatkannya untuk belajar, menulis artikel, membuat ringkasan dokumen, menganalisis data, hingga membantu pekerjaan sehari-hari.
 
+Claude adalah salah satu contoh AI chatbot modern. Jika ingin memahami dasar AI secara lebih luas, baca [AI untuk Pemula](/blog/ai-untuk-pemula/) agar tidak mengira AI hanya satu tools saja.
+
 Namun, apa sebenarnya Claude AI? Bagaimana cara menggunakannya? Apa kelebihan dan kekurangannya dibanding chatbot AI lainnya?
 
 Pada panduan ini Anda akan mempelajari semuanya mulai dari dasar hingga tips praktis agar dapat menggunakan Claude secara maksimal.

@@ -23,6 +23,8 @@ Bahkan banyak perusahaan teknologi besar saat ini mulai berinvestasi besar-besar
 
 Dalam artikel ini Anda akan mempelajari apa itu AI Agent, cara kerjanya, manfaatnya, serta peluang bisnis dan karier yang muncul dari teknologi ini.
 
+Sebelum mempelajari AI agent, sebaiknya pahami dasar AI terlebih dahulu melalui [AI untuk Pemula](/blog/ai-untuk-pemula/) agar konsep prompt, tools AI, chatbot, dan batasan AI lebih jelas.
+
 # Apa Itu AI Agent?
 
 AI Agent adalah sistem AI yang mampu mengambil tindakan secara mandiri untuk mencapai tujuan tertentu.

@@ -22,6 +22,8 @@ draft: false
 
 Prompt AI untuk kerja dapat membantu karyawan, freelancer, admin, sales, marketer, customer service, manager, guru, mahasiswa magang, dan pemilik bisnis menyelesaikan pekerjaan lebih cepat. Dengan prompt yang tepat, AI bisa membantu menulis email, membuat laporan, merangkum meeting, menyusun presentasi, menganalisis data sederhana, membuat ide, menyusun SOP, menjawab pelanggan, dan membuat rencana kerja. Artikel ini berisi kumpulan contoh prompt AI untuk kerja yang siap dipakai dan bisa disesuaikan sesuai kebutuhan.
 
+Jika ingin menjadikan prompt kerja sebagai skill karier, baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami cara membangun portofolio AI dari workflow email, laporan, notulen, konten, dan produktivitas.
+
 # Contoh Prompt AI untuk Kerja
 
 AI bisa membantu banyak pekerjaan sehari-hari.

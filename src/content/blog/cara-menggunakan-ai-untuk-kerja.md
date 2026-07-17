@@ -23,6 +23,10 @@ draft: false
 
 AI bisa digunakan untuk membantu pekerjaan sehari-hari seperti menulis email, membuat ringkasan meeting, menyusun laporan, membuat presentasi, menganalisis data sederhana, membuat ide konten, merapikan dokumen, membuat SOP, membuat daftar tugas, dan mempercepat riset. Cara paling aman menggunakan AI untuk kerja adalah menjadikannya asisten, bukan pengambil keputusan utama. Mulai dari tugas berisiko rendah, berikan konteks yang jelas, cek hasilnya, lalu gunakan AI secara bertahap dalam workflow kerja harian.
 
+Jika Anda masih baru dengan AI, baca [AI untuk Pemula](/blog/ai-untuk-pemula/) sebelum menerapkan AI untuk email, laporan, presentasi, notulen, dan produktivitas kerja.
+
+Penggunaan AI untuk kerja bisa menjadi awal karier baru. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk melihat pilihan profesi, skill yang perlu dipelajari, dan project portofolio yang bisa dibuat.
+
 # Cara Menggunakan AI untuk Kerja
 
 AI semakin sering digunakan di tempat kerja.

@@ -22,6 +22,8 @@ Namun sebagian besar pemula mengalami masalah yang sama:
 
 Artikel ini akan memberikan roadmap lengkap belajar AI dari nol hingga siap digunakan untuk pekerjaan, bisnis, maupun karier profesional.
 
+Jika masih bingung dengan istilah AI, ChatGPT, prompt, dan tools AI, mulai dari [AI untuk Pemula](/blog/ai-untuk-pemula/) terlebih dahulu sebelum mengikuti roadmap belajar yang lebih lengkap.
+
 ## Mengapa Harus Belajar AI?
 
 Ada banyak alasan mengapa AI menjadi keterampilan penting.
@@ -224,6 +226,8 @@ Portofolio akan sangat membantu jika ingin bekerja di bidang AI.
 ## Tahap 7: Memilih Jalur Karier AI
 
 Setelah memahami AI, tentukan tujuan Anda.
+
+Jika ingin memakai roadmap belajar untuk tujuan karier, baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memilih jalur AI content, marketing, sales, customer service, automation, data, trainer, atau consultant.
 
 ### AI Specialist
 

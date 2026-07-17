@@ -1657,6 +1657,8 @@ Untuk contoh penerapan layanan pelanggan di toko online kecil, baca [AI untuk UM
 
 Agency yang mengelola inbox, komentar, atau community management klien dapat membaca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) agar SOP respons, escalation, FAQ, dan quality control lebih jelas.
 
+Customer service dapat menjadi pintu masuk karier AI melalui chatbot, FAQ, knowledge base, dan SOP layanan. Lanjutkan ke [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami jalur profesinya.
+
 # Artikel Terkait
 
 Pelajari juga panduan berikut:

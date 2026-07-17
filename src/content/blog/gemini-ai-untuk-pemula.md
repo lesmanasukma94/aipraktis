@@ -13,6 +13,8 @@ Selain ChatGPT, salah satu tools AI yang paling banyak digunakan saat ini adalah
 
 Bagi pemula yang baru mengenal dunia AI, Gemini menjadi salah satu pilihan menarik karena terintegrasi dengan berbagai layanan Google yang sudah digunakan oleh jutaan orang setiap hari.
 
+Gemini adalah salah satu tools AI yang bisa digunakan pemula. Untuk memahami dasar AI secara lebih umum, baca [AI untuk Pemula](/blog/ai-untuk-pemula/) terlebih dahulu.
+
 Dalam artikel ini, Anda akan mempelajari apa itu Gemini, fitur-fiturnya, cara menggunakannya, serta kelebihan dan kekurangannya dibandingkan tools AI lainnya.
 
 ## Apa Itu Gemini AI?

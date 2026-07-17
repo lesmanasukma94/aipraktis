@@ -20,6 +20,8 @@ draft: false
 
 Prompt engineering adalah keterampilan menulis instruksi yang jelas, terstruktur, dan kontekstual agar AI seperti ChatGPT, Claude, Gemini, Copilot, atau chatbot lain dapat memberikan jawaban yang lebih akurat, relevan, dan siap digunakan. Untuk pemula, prompt engineering bukan tentang rumus rumit, tetapi tentang memberi konteks, tujuan, peran, format, batasan, dan contoh. Artikel ini membahas pengertian prompt engineering, struktur prompt yang baik, teknik dasar, contoh prompt siap pakai, kesalahan umum, checklist, dan cara melatih kemampuan prompting secara praktis.
 
+Prompt engineering akan lebih mudah dipahami setelah mengetahui dasar AI. Mulai dari [AI untuk Pemula](/blog/ai-untuk-pemula/) untuk memahami apa itu AI, cara memakai tools AI, dan mengapa prompt sangat penting.
+
 # Prompt Engineering untuk Pemula
 
 Banyak orang memakai AI chatbot dengan cara yang sangat sederhana.
@@ -721,6 +723,8 @@ Contoh:
 ```text
 Ringkas catatan meeting berikut menjadi keputusan utama, action items, PIC, deadline, dan risiko yang perlu dipantau.
 ```
+
+Prompt engineering bisa menjadi skill awal untuk karier AI. Lanjutkan ke [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) agar skill prompt terhubung dengan workflow kerja, portofolio, dan peluang profesi.
 
 ## Untuk Bisnis
 

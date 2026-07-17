@@ -1545,6 +1545,8 @@ Jika digunakan dengan benar, AI bisa membantu guru bekerja lebih efisien, lebih 
 
 # Artikel Terkait
 
+Guru yang ingin mengembangkan kompetensi AI dapat membaca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami peluang AI trainer, AI education specialist, dan portofolio pembelajaran berbasis AI.
+
 Pelajari juga panduan berikut:
 
 - [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/)

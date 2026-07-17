@@ -1546,6 +1546,8 @@ Jika penjualan toko banyak terjadi lewat chat, baca [AI untuk UMKM Online Shop](
 
 Agency yang menjual layanan retainer atau project dapat membaca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk membuat proposal, pitch deck, follow-up klien, reporting, dan workflow account management lebih rapi.
 
+Sales juga bisa menjadi jalur karier AI. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami bagaimana AI sales assistant dan AI workflow specialist dapat dibangun dari skill follow-up, CRM, proposal, dan pipeline.
+
 # Kesimpulan
 
 AI untuk sales bukan sekadar alat untuk membuat pesan jualan.
