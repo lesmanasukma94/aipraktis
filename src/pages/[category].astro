@@ -20,28 +20,77 @@ import {
   buildBreadcrumbSchema,
 } from "@/lib/schema-engine";
 
-export async function getStaticPaths() {
+const CATEGORY_ARTICLE_PRIORITY = {
+  "belajar-ai": [
+    "ai-untuk-pemula",
+    "apa-itu-ai",
+    "cara-belajar-ai-dari-nol",
+    "roadmap-belajar-ai",
+    "skill-ai",
+    "apakah-ai-aman",
+    "kesalahan-pemula-saat-belajar-ai",
+    "kursus-ai-gratis-terbaik",
+    "ai-agent-untuk-pemula",
+  ],
+};
 
+function getPostSlug(post) {
+  return post.slug ?? post.id?.replace(/\.mdx?$/, "");
+}
+
+function getPriorityRank(categorySlug, post) {
+  const priorityList = CATEGORY_ARTICLE_PRIORITY[categorySlug] ?? [];
+  const postSlug = getPostSlug(post);
+  const index = priorityList.indexOf(postSlug);
+
+  return index === -1 ? Number.POSITIVE_INFINITY : index;
+}
+
+function getPostDate(post) {
+  return new Date(post.data.pubDate).getTime();
+}
+
+function sortCategoryPosts(posts, categorySlug) {
+  return [...posts].sort((a, b) => {
+    const rankA = getPriorityRank(categorySlug, a);
+    const rankB = getPriorityRank(categorySlug, b);
+
+    if (rankA !== rankB) {
+      return rankA - rankB;
+    }
+
+    if ((a.data.featured ?? false) !== (b.data.featured ?? false)) {
+      return Number(b.data.featured ?? false) - Number(a.data.featured ?? false);
+    }
+
+    return getPostDate(b) - getPostDate(a);
+  });
+}
+
+export async function getStaticPaths() {
   const allPosts = await getCollection("blog");
 
-  return categories.map((category) => ({
+  return categories.map((category) => {
+    const categoryPosts = allPosts.filter(
+      (post) => post.data.category === category.slug
+    );
 
-    params: {
-      category: category.slug,
-    },
+    const sortedPosts = sortCategoryPosts(
+      categoryPosts,
+      category.slug
+    );
 
-    props: {
+    return {
+      params: {
+        category: category.slug,
+      },
 
-      category,
-
-      posts: allPosts.filter(
-        (post) => post.data.category === category.slug
-      ),
-
-    },
-
-  }));
-
+      props: {
+        category,
+        posts: sortedPosts,
+      },
+    };
+  });
 }
 
 const {
@@ -73,37 +122,37 @@ const breadcrumbSchema =
 
 <CategoryLayout category={category}>
 
-<script
-  slot="head"
-  type="application/ld+json"
-  set:html={JSON.stringify(collectionSchema)}
-/>
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify(collectionSchema)}
+  />
 
-<script
-  slot="head"
-  type="application/ld+json"
-  set:html={JSON.stringify(breadcrumbSchema)}
-/>
+  <script
+    slot="head"
+    type="application/ld+json"
+    set:html={JSON.stringify(breadcrumbSchema)}
+  />
 
-<FeaturedPost
-  post={posts[0]}
-/>
+  <FeaturedPost
+    post={posts[0]}
+  />
 
-<CategoryLearningPaths
-  category={category.slug}
-/>
+  <CategoryLearningPaths
+    category={category.slug}
+  />
 
-<SeriesOverview
-  category={category.slug}
-/>
+  <SeriesOverview
+    category={category.slug}
+  />
 
-<CategoryTopicClusters
-  category={category.slug}
-/>
+  <CategoryTopicClusters
+    category={category.slug}
+  />
 
-<RelatedArticles
-  posts={posts.slice(1)}
-/>
+  <RelatedArticles
+    posts={posts.slice(1)}
+  />
 
   <CategoryPosts
     posts={posts.slice(1)}
@@ -113,16 +162,16 @@ const breadcrumbSchema =
     category={category}
   />
 
-<CategoryCTA
-  category={category}
-/>
+  <CategoryCTA
+    category={category}
+  />
 
-<RelatedCategories
-  currentSlug={category.slug}
-/>
+  <RelatedCategories
+    currentSlug={category.slug}
+  />
 
-<CategoryNavigation
-  currentSlug={category.slug}
-/>
+  <CategoryNavigation
+    currentSlug={category.slug}
+  />
 
 </CategoryLayout>
