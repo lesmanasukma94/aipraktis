@@ -23,7 +23,7 @@ export const affiliateRecommendations = [
     description:
       "Bandingkan tools AI untuk pemasaran, penjualan, layanan pelanggan, analisis, administrasi, dan operasional bisnis.",
     reviewUrl:
-      "/blog/20-tools-ai-untuk-bisnis-terbaik-2026/",
+      "/blog/tools-ai-untuk-bisnis/",
     cta: "Lihat tools bisnis",
   },
   {
@@ -32,7 +32,7 @@ export const affiliateRecommendations = [
     description:
       "Pelajari pilihan tools AI untuk ide konten, penulisan naskah, desain, video, audio, dan distribusi konten.",
     reviewUrl:
-      "/blog/15-tools-ai-untuk-content-creator-terbaik-2026/",
+      "/blog/tools-ai-untuk-content-creator/",
     cta: "Lihat tools creator",
   },
 ] satisfies AffiliateRecommendation[];
