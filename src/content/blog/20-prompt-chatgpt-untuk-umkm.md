@@ -1,6 +1,6 @@
 ---
-title: "20 Prompt ChatGPT untuk UMKM"
-description: "Pelajari 20 Prompt ChatGPT untuk UMKM dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
+title: "20 Prompt ChatGPT untuk UMKM Pemula"
+description: "Paket 20 prompt ChatGPT untuk UMKM pemula, mencakup promosi, caption, deskripsi produk, pelayanan pelanggan, dan pengembangan bisnis."
 pubDate: "2026-06-13"
 author: "AI Praktis Indonesia"
 category: "ai-chatbot"
@@ -18,17 +18,19 @@ draft: false
 
 ## Ringkasan
 
-Banyak pelaku UMKM menghadapi tantangan yang sama setiap hari: mencari ide promosi, membuat konten media sosial, menulis deskripsi produk, hingga membalas pertanyaan pelanggan.
+Artikel ini berisi 20 prompt ChatGPT dasar untuk pemilik UMKM yang ingin mulai menggunakan AI tanpa harus mempelajari terlalu banyak instruksi sekaligus.
 
-Masalahnya, tidak semua pemilik usaha memiliki waktu atau tim khusus untuk menangani pemasaran dan pembuatan konten.
+Prompt dipilih untuk lima kebutuhan yang paling sering dikerjakan bisnis kecil:
 
-Jika ingin memakai prompt UMKM khusus untuk online shop, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) yang membahas prompt deskripsi produk, template WhatsApp, FAQ, caption, promosi, dan analisis penjualan.
+- membuat ide promosi,
+- menulis caption media sosial,
+- membuat deskripsi produk,
+- membalas pelanggan,
+- mengembangkan bisnis.
 
-Di sinilah ChatGPT dapat membantu.
+Setiap prompt dapat langsung disalin, lalu disesuaikan dengan jenis usaha, produk, target pelanggan, lokasi, dan channel penjualan.
 
-Dengan menggunakan prompt yang tepat, ChatGPT dapat menjadi asisten virtual yang membantu berbagai aktivitas bisnis sehari-hari. Mulai dari membuat caption Instagram, menyusun strategi promosi, hingga menghasilkan ide produk baru.
-
-Dalam artikel ini, Anda akan menemukan 20 prompt ChatGPT yang dapat langsung digunakan untuk mendukung pemasaran dan operasional UMKM.
+Paket ini ditujukan untuk pemula yang membutuhkan daftar singkat dan mudah dipraktikkan. Untuk library yang lebih lengkap, gunakan [50 Prompt ChatGPT untuk Operasional UMKM](/blog/50-prompt-chatgpt-untuk-umkm/).
 
 ## Mengapa UMKM Perlu Memanfaatkan ChatGPT?
 
@@ -61,6 +63,20 @@ Lebih efektif:
 > Buatkan caption Instagram untuk produk kopi susu kekinian dengan target pelanggan usia 18–35 tahun. Gunakan gaya santai dan sertakan ajakan membeli.
 
 Semakin lengkap informasi yang diberikan, semakin baik hasil yang diperoleh.
+
+## Kapan Menggunakan Paket 20 Prompt?
+
+Gunakan artikel ini ketika Anda:
+
+- baru pertama kali menggunakan ChatGPT,
+- membutuhkan prompt yang singkat,
+- ingin mencoba satu kebutuhan bisnis terlebih dahulu,
+- belum memerlukan workflow operasional yang panjang,
+- ingin memperoleh hasil dengan cepat.
+
+Artikel ini tidak dimaksudkan sebagai kumpulan semua kemungkinan prompt untuk UMKM.
+
+Setelah memahami pola dasarnya, lanjutkan ke [50 Prompt ChatGPT untuk Operasional UMKM](/blog/50-prompt-chatgpt-untuk-umkm/) untuk kebutuhan ide bisnis, marketing, penjualan, toko online, produktivitas, dan analisis.
 
 ## Prompt untuk Ide Promosi
 
