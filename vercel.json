@@ -1,25 +1,33 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
-  "redirects": [
+  "routes": [
     {
-      "source": "/tools-ai/:path*",
-      "destination": "/ai-tools/:path*",
-      "permanent": true
+      "src": "/tools-ai/?$",
+      "headers": {
+        "Location": "/ai-tools/"
+      },
+      "status": 308
     },
     {
-      "source": "/kategori/:path*",
-      "destination": "/:path*",
-      "permanent": true
+      "src": "/kategori/(belajar-ai|ai-chatbot|prompt-engineering|ai-tools|tutorial-ai|ai-untuk-bisnis|ai-untuk-pendidikan|ai-untuk-content-creator|karier-ai|studi-kasus-ai)/?$",
+      "headers": {
+        "Location": "/$1/"
+      },
+      "status": 308
     },
     {
-      "source": "/blog/category/:path*",
-      "destination": "/:path*",
-      "permanent": true
+      "src": "/blog/category/(belajar-ai|ai-chatbot|prompt-engineering|ai-tools|tutorial-ai|ai-untuk-bisnis|ai-untuk-pendidikan|ai-untuk-content-creator|karier-ai|studi-kasus-ai)/?$",
+      "headers": {
+        "Location": "/$1/"
+      },
+      "status": 308
     },
     {
-      "source": "/blog/apa-itu-artificial-intelligence-ai/:path*",
-      "destination": "/blog/apa-itu-ai/:path*",
-      "permanent": true
+      "src": "/blog/apa-itu-artificial-intelligence-ai/?$",
+      "headers": {
+        "Location": "/blog/apa-itu-ai/"
+      },
+      "status": 308
     }
   ]
 }
