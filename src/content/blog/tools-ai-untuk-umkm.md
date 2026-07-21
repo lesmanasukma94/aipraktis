@@ -295,7 +295,7 @@ Untuk melihat contoh penerapan yang lebih konkret, baca [Studi Kasus AI untuk UM
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Saat ini tersedia banyak tools AI yang dapat membantu UMKM meningkatkan produktivitas dan mengembangkan bisnis. Tidak semua tools harus digunakan sekaligus. Mulailah dari kebutuhan yang paling penting, kemudian tambahkan tools lain secara bertahap.
 

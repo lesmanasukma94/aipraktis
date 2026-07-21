@@ -297,7 +297,7 @@ Fokus pada satu layanan terlebih dahulu.
 
 ---
 
-# Cara Memilih Jasa AI yang Paling Mudah Dijual
+## Cara Memilih Jasa AI yang Paling Mudah Dijual
 
 Jasa AI yang paling laku bukan selalu jasa yang paling canggih.
 
@@ -343,7 +343,7 @@ Baca juga:
 
 ---
 
-# 10 Jasa AI yang Paling Laku untuk Pemula
+## 10 Jasa AI yang Paling Laku untuk Pemula
 
 Berikut beberapa jasa AI yang paling realistis untuk mulai dijual.
 
@@ -743,7 +743,7 @@ Baca juga:
 
 ---
 
-# Cara Menentukan Harga Jasa AI
+## Cara Menentukan Harga Jasa AI
 
 Harga jasa AI tergantung pada:
 
@@ -805,7 +805,7 @@ Sesuaikan dengan kualitas, target pasar, dan hasil yang diberikan.
 
 ---
 
-# Cara Mendapatkan Klien untuk Jasa AI
+## Cara Mendapatkan Klien untuk Jasa AI
 
 Klien pertama biasanya tidak datang dari iklan besar.
 
@@ -855,7 +855,7 @@ Jual solusi untuk masalah yang mereka rasakan.
 
 ---
 
-# Kesalahan Saat Menjual Jasa AI
+## Kesalahan Saat Menjual Jasa AI
 
 ## 1. Menjual Tools, Bukan Hasil
 
@@ -932,7 +932,7 @@ Minimal:
 
 ---
 
-# Checklist Memilih Jasa AI untuk Dijual
+## Checklist Memilih Jasa AI untuk Dijual
 
 Gunakan checklist ini.
 
@@ -953,7 +953,7 @@ Jika belum punya semua, mulai dari versi paling sederhana.
 
 ---
 
-# Prompt untuk Menentukan Jasa AI yang Cocok Dijual
+## Prompt untuk Menentukan Jasa AI yang Cocok Dijual
 
 Gunakan prompt ini.
 
@@ -987,7 +987,7 @@ Batasan:
 Fokus pada jasa yang bisa dimulai tanpa membuat aplikasi kompleks.
 ```
 
-# Prompt untuk Membuat Paket Jasa AI
+## Prompt untuk Membuat Paket Jasa AI
 
 Gunakan prompt ini.
 

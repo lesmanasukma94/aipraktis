@@ -40,7 +40,7 @@ AI bukan pengganti kreativitas manusia, tetapi alat untuk meningkatkan produktiv
 
 ---
 
-# Memulai Belajar AI untuk Content Creator
+## Memulai Belajar AI untuk Content Creator
 
 Jika Anda baru mengenal AI, pelajari terlebih dahulu dasar-dasarnya.
 
@@ -56,7 +56,7 @@ Memahami dasar AI akan membantu Anda menggunakan berbagai tools dengan lebih efe
 
 ---
 
-# AI untuk Content Creator
+
 
 Content creator dapat menggunakan AI untuk mempercepat hampir seluruh proses produksi konten.
 
@@ -69,7 +69,7 @@ Artikel ini membahas bagaimana AI dapat membantu kreator menghasilkan lebih bany
 
 ---
 
-# AI untuk Blogging
+## AI untuk Blogging
 
 Blogging merupakan salah satu bidang yang paling banyak memanfaatkan AI.
 
@@ -90,7 +90,7 @@ Bagi blogger dan publisher AdSense, AI dapat menjadi alat bantu yang sangat berh
 
 ---
 
-# AI untuk Menulis Artikel
+## AI untuk Menulis Artikel
 
 Menulis artikel merupakan aktivitas yang membutuhkan waktu dan konsistensi.
 
@@ -110,7 +110,7 @@ Namun tetap penting untuk melakukan editing dan pengecekan fakta sebelum publika
 
 ---
 
-# Cara Membuat Konten dengan AI
+## Cara Membuat Konten dengan AI
 
 Banyak kreator ingin mengetahui langkah praktis menggunakan AI dalam pembuatan konten.
 
@@ -124,7 +124,7 @@ Artikel tersebut membahas alur kerja yang dapat diterapkan oleh blogger, YouTube
 
 ---
 
-# AI untuk YouTube
+## AI untuk YouTube
 
 YouTube merupakan salah satu platform yang paling diuntungkan oleh penggunaan AI.
 
@@ -145,7 +145,7 @@ Dengan bantuan AI, proses produksi video dapat menjadi lebih efisien.
 
 ---
 
-# AI untuk Instagram
+## AI untuk Instagram
 
 Instagram membutuhkan konsistensi konten yang tinggi.
 
@@ -165,7 +165,7 @@ AI dapat membantu meningkatkan produktivitas tanpa harus membuat semua ide dari 
 
 ---
 
-# AI untuk TikTok
+## AI untuk TikTok
 
 TikTok membutuhkan kreativitas dan kecepatan mengikuti tren.
 
@@ -185,7 +185,7 @@ Kreator dapat menggunakan AI sebagai alat brainstorming untuk menghasilkan lebih
 
 ---
 
-# AI untuk Digital Marketing
+## AI untuk Digital Marketing
 
 Content creator sering kali juga menjalankan aktivitas pemasaran digital.
 
@@ -198,7 +198,7 @@ AI dapat membantu membuat kampanye yang lebih efisien dan terstruktur.
 
 ---
 
-# Freelance Menggunakan AI
+## Freelance Menggunakan AI
 
 Banyak freelancer saat ini menggunakan AI untuk meningkatkan kapasitas kerja mereka.
 
@@ -217,7 +217,7 @@ Bagi freelancer, AI dapat menjadi keunggulan kompetitif yang signifikan.
 
 ---
 
-# Cara Menghasilkan Uang dengan AI
+## Cara Menghasilkan Uang dengan AI
 
 Selain meningkatkan produktivitas, AI juga dapat membuka peluang penghasilan baru.
 
@@ -229,7 +229,7 @@ Artikel tersebut membahas berbagai model bisnis dan peluang monetisasi yang dapa
 
 ---
 
-# Skill AI yang Perlu Dikuasai Content Creator
+## Skill AI yang Perlu Dikuasai Content Creator
 
 Beberapa keterampilan yang penting dipelajari:
 
@@ -248,7 +248,7 @@ Keterampilan tersebut akan semakin penting di masa depan.
 
 ---
 
-# Langkah Belajar yang Direkomendasikan
+## Langkah Belajar yang Direkomendasikan
 
 Jika Anda seorang content creator pemula, ikuti urutan berikut:
 
@@ -268,7 +268,7 @@ Urutan ini akan membantu Anda memahami AI secara bertahap.
 
 ---
 
-# Tools AI untuk Content Creator
+## Tools AI untuk Content Creator
 
 Beberapa tools AI yang dapat membantu content creator:
 
@@ -286,7 +286,7 @@ Pelajari :
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah menjadi alat yang sangat membantu bagi content creator modern. Dengan penggunaan yang tepat, AI dapat membantu mempercepat proses produksi konten, meningkatkan produktivitas, dan membuka peluang penghasilan baru.
 

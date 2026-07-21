@@ -41,7 +41,7 @@ Banyak aktivitas sales bersifat berulang, seperti:
 
 ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebih fokus pada hubungan dengan pelanggan.
 
-# Prompt untuk Mengenal Target Pelanggan
+## Prompt untuk Mengenal Target Pelanggan
 
 ## Prompt 1
 
@@ -63,7 +63,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Identifikasi kebutuhan utama pelanggan potensial.
 
-# Prompt untuk Prospecting
+## Prompt untuk Prospecting
 
 ## Prompt 6
 
@@ -85,7 +85,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat template pesan WhatsApp untuk calon pelanggan baru.
 
-# Prompt untuk Follow Up
+## Prompt untuk Follow Up
 
 ## Prompt 11
 
@@ -107,7 +107,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat follow up yang mendorong prospek mengambil keputusan.
 
-# Prompt untuk Email Sales
+## Prompt untuk Email Sales
 
 ## Prompt 16
 
@@ -129,7 +129,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat email untuk menjadwalkan meeting dengan prospek.
 
-# Prompt untuk Presentasi Penjualan
+## Prompt untuk Presentasi Penjualan
 
 ## Prompt 21
 
@@ -151,7 +151,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat script presentasi penjualan.
 
-# Prompt untuk Menangani Keberatan Pelanggan
+## Prompt untuk Menangani Keberatan Pelanggan
 
 ## Prompt 26
 
@@ -173,7 +173,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat strategi menghadapi keberatan umum dalam penjualan.
 
-# Prompt untuk Negosiasi
+## Prompt untuk Negosiasi
 
 ## Prompt 31
 
@@ -195,7 +195,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat strategi menjaga nilai produk saat negosiasi.
 
-# Prompt untuk Closing
+## Prompt untuk Closing
 
 ## Prompt 36
 
@@ -217,7 +217,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat script closing penjualan.
 
-# Prompt untuk Upselling dan Repeat Order
+## Prompt untuk Upselling dan Repeat Order
 
 ## Prompt 41
 
@@ -239,7 +239,7 @@ ChatGPT dapat membantu mempercepat proses tersebut sehingga tim sales dapat lebi
 
 > Buat strategi meningkatkan lifetime value pelanggan.
 
-# Prompt untuk Analisis Sales
+## Prompt untuk Analisis Sales
 
 ## Prompt 46
 
@@ -275,7 +275,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diberikan ChatGP
 
 ---
 
-# Cara Menggunakan Prompt ChatGPT untuk Sales
+## Cara Menggunakan Prompt ChatGPT untuk Sales
 
 Prompt ChatGPT untuk sales sebaiknya tidak digunakan dengan cara asal copy-paste.
 
@@ -339,7 +339,7 @@ Baca juga:
 
 ---
 
-# Kategori Prompt ChatGPT untuk Sales
+## Kategori Prompt ChatGPT untuk Sales
 
 Prompt sales sebaiknya dibagi berdasarkan tahap penjualan.
 
@@ -559,7 +559,7 @@ Apakah Bapak/Ibu ingin mulai dari paket basic dulu agar risikonya lebih kecil?
 
 ---
 
-# Contoh Workflow Sales dengan ChatGPT
+## Contoh Workflow Sales dengan ChatGPT
 
 Berikut workflow sederhana memakai ChatGPT untuk membantu proses sales.
 
@@ -726,7 +726,7 @@ After-sales yang baik bisa meningkatkan repeat order dan referral.
 
 ---
 
-# Prompt ChatGPT untuk Sales WhatsApp
+## Prompt ChatGPT untuk Sales WhatsApp
 
 WhatsApp sering dipakai untuk sales di Indonesia.
 
@@ -778,7 +778,7 @@ Apakah minggu ini masih menjadi waktu yang tepat untuk membahasnya?
 
 ---
 
-# Prompt ChatGPT untuk Sales Email
+## Prompt ChatGPT untuk Sales Email
 
 Email cocok untuk penawaran yang lebih formal.
 
@@ -837,7 +837,7 @@ Yang penting jelas dan relevan.
 
 ---
 
-# Prompt ChatGPT untuk Objection Handling
+## Prompt ChatGPT untuk Objection Handling
 
 Gunakan template ini untuk membuat jawaban keberatan.
 
@@ -884,7 +884,7 @@ Pertanyaan seperti ini membuka percakapan, bukan menutupnya.
 
 ---
 
-# Prompt ChatGPT untuk Membuat Script Sales Call
+## Prompt ChatGPT untuk Membuat Script Sales Call
 
 Sales call membutuhkan struktur.
 
@@ -924,7 +924,7 @@ Gunakan sebagai panduan alur.
 
 ---
 
-# Checklist Prompt Sales yang Baik
+## Checklist Prompt Sales yang Baik
 
 Sebelum memakai prompt ChatGPT untuk sales, pastikan prompt Anda punya elemen berikut.
 
@@ -945,7 +945,7 @@ Jika prompt tidak punya konteks, hasilnya akan terlalu umum.
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Sales
+## Kesalahan Menggunakan ChatGPT untuk Sales
 
 ## 1. Mengirim Output AI Mentah
 
@@ -1016,7 +1016,7 @@ Dengan begitu, proses sales berikutnya lebih cepat.
 
 ---
 
-# Prompt untuk Membuat Sales Playbook
+## Prompt untuk Membuat Sales Playbook
 
 Jika Anda ingin lebih serius, gunakan ChatGPT untuk membuat sales playbook.
 
@@ -1067,7 +1067,7 @@ Gunakan bahasa Indonesia praktis dan siap dipakai.
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 ChatGPT dapat menjadi asisten yang sangat membantu bagi tim sales modern. Dengan prompt yang tepat, proses prospecting, follow up, negosiasi, hingga closing dapat dilakukan dengan lebih cepat dan efisien.
 

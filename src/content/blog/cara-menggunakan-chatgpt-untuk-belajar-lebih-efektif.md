@@ -206,7 +206,7 @@ Ya. ChatGPT dapat membantu grammar, kosakata, percakapan, dan latihan menulis.
 
 ---
 
-# Prinsip Belajar Efektif dengan ChatGPT
+## Prinsip Belajar Efektif dengan ChatGPT
 
 ChatGPT bisa membantu belajar lebih cepat, tetapi hasilnya bergantung pada cara Anda menggunakannya.
 
@@ -242,7 +242,7 @@ Baca juga:
 
 ---
 
-# Cara Membuat Prompt Belajar yang Baik
+## Cara Membuat Prompt Belajar yang Baik
 
 Prompt belajar yang baik harus memberi konteks.
 
@@ -295,7 +295,7 @@ Tambahkan contoh nyata dan latihan kecil.
 
 ---
 
-# Metode Belajar 5 Langkah dengan ChatGPT
+## Metode Belajar 5 Langkah dengan ChatGPT
 
 Gunakan metode sederhana berikut.
 
@@ -389,7 +389,7 @@ Metode ini membuat ChatGPT lebih efektif sebagai tutor belajar.
 
 ---
 
-# ChatGPT untuk Membuat Ringkasan Pelajaran
+## ChatGPT untuk Membuat Ringkasan Pelajaran
 
 Ringkasan membantu memahami materi panjang.
 
@@ -443,7 +443,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Jadwal Belajar
+## ChatGPT untuk Membuat Jadwal Belajar
 
 ChatGPT bisa membantu menyusun jadwal belajar yang realistis.
 
@@ -498,7 +498,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Soal Latihan
+## ChatGPT untuk Membuat Soal Latihan
 
 Salah satu cara terbaik memakai ChatGPT untuk belajar adalah membuat soal latihan.
 
@@ -548,7 +548,7 @@ Cara ini membuat belajar lebih aktif.
 
 ---
 
-# ChatGPT untuk Menjelaskan Jawaban yang Salah
+## ChatGPT untuk Menjelaskan Jawaban yang Salah
 
 Ketika belajar, salah itu normal.
 
@@ -599,7 +599,7 @@ Buatkan cara mengingat konsep ini dengan analogi atau mnemonic.
 
 ---
 
-# ChatGPT untuk Belajar Menulis
+## ChatGPT untuk Belajar Menulis
 
 ChatGPT juga bisa membantu belajar menulis.
 
@@ -655,7 +655,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Belajar Bahasa Inggris
+## ChatGPT untuk Belajar Bahasa Inggris
 
 ChatGPT bisa menjadi partner latihan bahasa Inggris.
 
@@ -713,7 +713,7 @@ Format:
 
 ---
 
-# ChatGPT untuk Belajar dari Video atau Podcast
+## ChatGPT untuk Belajar dari Video atau Podcast
 
 Jika Anda punya transkrip video atau podcast, ChatGPT bisa membantu membuat catatan belajar.
 
@@ -758,7 +758,7 @@ Cara ini cocok untuk belajar dari:
 
 ---
 
-# Kesalahan Saat Menggunakan ChatGPT untuk Belajar
+## Kesalahan Saat Menggunakan ChatGPT untuk Belajar
 
 ## 1. Memakai ChatGPT untuk Menyalin Jawaban
 
@@ -806,7 +806,7 @@ Tulis ulang dengan bahasa sendiri agar lebih melekat.
 
 ---
 
-# Checklist Belajar Efektif dengan ChatGPT
+## Checklist Belajar Efektif dengan ChatGPT
 
 Gunakan checklist ini.
 
@@ -828,7 +828,7 @@ Mengulang materi yang masih lemah
 
 ---
 
-# Prompt Siap Pakai untuk Belajar dengan ChatGPT
+## Prompt Siap Pakai untuk Belajar dengan ChatGPT
 
 ## Prompt Tutor Belajar
 

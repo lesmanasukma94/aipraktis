@@ -23,7 +23,7 @@ draft: false
 
 Prompt AI untuk social media dapat membantu membuat ide konten, hook, caption, carousel, Reels, TikTok, YouTube Shorts, kalender posting, hashtag, CTA, script video, konten edukasi, konten promosi, dan repurposing artikel menjadi konten pendek. Dengan prompt yang tepat, AI dapat mempercepat produksi konten tanpa membuat hasil terasa generik. Artikel ini berisi kumpulan prompt siap pakai untuk content creator, UMKM, marketer, freelancer, edukator, personal brand, dan bisnis yang ingin lebih konsisten di media sosial.
 
-# Prompt AI untuk Social Media
+
 
 Media sosial membutuhkan konsistensi.
 
@@ -109,7 +109,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Social Media
+## Cara Menggunakan AI untuk Social Media
 
 Jangan hanya menulis:
 
@@ -160,7 +160,7 @@ AI bisa menghasilkan konten yang lebih sesuai kebutuhan.
 
 ---
 
-# Struktur Prompt Social Media yang Baik
+## Struktur Prompt Social Media yang Baik
 
 Prompt social media yang baik biasanya memiliki elemen berikut:
 
@@ -237,7 +237,7 @@ Ramah, edukatif, tidak menghakimi, dan tidak membuat klaim medis berlebihan.
 
 ---
 
-# Prompt AI untuk Ide Konten Social Media
+## Prompt AI untuk Ide Konten Social Media
 
 Bagian tersulit dari social media sering kali adalah mencari ide.
 
@@ -275,7 +275,7 @@ Buatkan 20 ide konten cepat yang bisa dibuat dalam waktu kurang dari 30 menit un
 
 ---
 
-# Prompt AI untuk Content Pillar
+## Prompt AI untuk Content Pillar
 
 Content pillar membantu akun tidak posting secara acak.
 
@@ -324,7 +324,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Hook Social Media
+## Prompt AI untuk Hook Social Media
 
 Hook menentukan apakah orang berhenti scroll atau lanjut.
 
@@ -365,7 +365,7 @@ Hook:
 
 ---
 
-# Prompt AI untuk Caption Instagram
+## Prompt AI untuk Caption Instagram
 
 Caption membantu memberi konteks dan mengarahkan tindakan.
 
@@ -413,7 +413,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Carousel Instagram
+## Prompt AI untuk Carousel Instagram
 
 Carousel cocok untuk edukasi, tutorial, checklist, framework, dan storytelling.
 
@@ -462,7 +462,7 @@ Carousel:
 
 ---
 
-# Prompt AI untuk Reels, TikTok, dan YouTube Shorts
+## Prompt AI untuk Reels, TikTok, dan YouTube Shorts
 
 Konten video pendek membutuhkan hook cepat, isi padat, dan visual yang jelas.
 
@@ -512,7 +512,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Story Instagram
+## Prompt AI untuk Story Instagram
 
 Story cocok untuk interaksi ringan dan membangun kedekatan.
 
@@ -550,7 +550,7 @@ Buatkan rangkaian 7 story untuk launch produk [produk]. Struktur: teaser, masala
 
 ---
 
-# Prompt AI untuk Kalender Konten
+## Prompt AI untuk Kalender Konten
 
 Kalender konten membantu konsistensi.
 
@@ -596,7 +596,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Hashtag
+## Prompt AI untuk Hashtag
 
 Hashtag bukan satu-satunya penentu performa.
 
@@ -637,7 +637,7 @@ Buatkan hashtag lokal untuk bisnis [jenis bisnis] di [lokasi]. Kelompokkan berda
 
 ---
 
-# Prompt AI untuk CTA Social Media
+## Prompt AI untuk CTA Social Media
 
 CTA membantu audiens tahu langkah berikutnya.
 
@@ -691,7 +691,7 @@ CTA:
 
 ---
 
-# Prompt AI untuk Repurposing Konten
+## Prompt AI untuk Repurposing Konten
 
 Repurposing berarti mengubah satu konten menjadi banyak format.
 
@@ -763,7 +763,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Konten Edukasi
+## Prompt AI untuk Konten Edukasi
 
 Konten edukasi membangun trust.
 
@@ -801,7 +801,7 @@ Buatkan 10 konten checklist tentang [topik]. Setiap checklist harus praktis, sin
 
 ---
 
-# Prompt AI untuk Konten Promosi
+## Prompt AI untuk Konten Promosi
 
 Konten promosi tetap penting, tetapi jangan terlalu sering hard selling.
 
@@ -847,7 +847,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Konten Personal Brand
+## Prompt AI untuk Konten Personal Brand
 
 Personal brand membutuhkan kombinasi edukasi, pengalaman, opini, dan kepercayaan.
 
@@ -889,7 +889,7 @@ Konten:
 
 ---
 
-# Prompt AI untuk Konten UMKM
+## Prompt AI untuk Konten UMKM
 
 UMKM membutuhkan konten yang sederhana, konsisten, dan dekat dengan pelanggan.
 
@@ -930,7 +930,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Audit Social Media
+## Prompt AI untuk Audit Social Media
 
 Audit membantu mengetahui apakah konten sudah efektif.
 
@@ -981,7 +981,7 @@ Bantu analisis konten mana yang berhasil, mana yang perlu diperbaiki, pola yang 
 
 ---
 
-# Prompt AI untuk Strategi Social Media
+## Prompt AI untuk Strategi Social Media
 
 Strategi social media membantu akun tumbuh lebih terarah.
 
@@ -1017,7 +1017,7 @@ Buatkan strategi LinkedIn untuk personal brand di bidang [bidang]. Target audien
 
 ---
 
-# Prompt AI untuk Workflow Produksi Konten
+## Prompt AI untuk Workflow Produksi Konten
 
 Konten yang konsisten membutuhkan workflow.
 
@@ -1060,7 +1060,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Social Media AI Praktis Indonesia
+## Prompt AI untuk Social Media AI Praktis Indonesia
 
 Berikut contoh prompt yang cocok untuk proyek edukasi AI.
 
@@ -1114,7 +1114,7 @@ Buatkan 20 ide konten social media tentang AI untuk UMKM. Fokus pada WhatsApp, p
 
 ---
 
-# Workflow Social Media dengan AI
+## Workflow Social Media dengan AI
 
 Berikut workflow praktis menggunakan AI untuk social media.
 
@@ -1176,7 +1176,7 @@ Analisis data performa konten berikut dan beri rekomendasi konten berikutnya.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Social Media
+## Kesalahan Menggunakan AI untuk Social Media
 
 ## 1. Membuat Konten Terlalu Generik
 
@@ -1238,7 +1238,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Social Media
+## Checklist Prompt AI untuk Social Media
 
 Gunakan checklist ini sebelum meminta AI membuat konten.
 
@@ -1260,7 +1260,7 @@ Gunakan checklist ini sebelum meminta AI membuat konten.
 
 ---
 
-# Template Prompt Social Media Serbaguna
+## Template Prompt Social Media Serbaguna
 
 Gunakan template ini untuk hampir semua kebutuhan social media.
 
@@ -1304,7 +1304,7 @@ Buat konten yang praktis dan mudah dipahami.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk social media?
 
@@ -1336,7 +1336,7 @@ Masukkan artikel, transkrip video, podcast, atau konten lama, lalu minta AI meng
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk social media dapat membantu produksi konten menjadi lebih cepat, rapi, dan konsisten.
 
@@ -1376,7 +1376,7 @@ Untuk mengubah ide social media menjadi Reels, TikTok, atau YouTube Shorts, guna
 
 Jika prompt social media digunakan untuk banyak klien, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) agar brand context, content plan, approval flow, dan QC konten lebih rapi.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1400,21 +1400,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Sistem Konten
+## Mulai dari Satu Sistem Konten
 
 Jangan mulai dari terlalu banyak platform.
 

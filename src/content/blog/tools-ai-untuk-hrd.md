@@ -26,7 +26,7 @@ Bukan berarti AI akan menggantikan HRD, tetapi AI menjadi asisten yang mempercep
 
 Dalam artikel ini Anda akan menemukan tools AI terbaik untuk HRD beserta fungsi, kelebihan, dan rekomendasi penggunaannya.
 
-# Mengapa HRD Perlu Menggunakan AI?
+## Mengapa HRD Perlu Menggunakan AI?
 
 Beberapa manfaat utama penggunaan AI dalam Human Resources antara lain:
 
@@ -38,9 +38,9 @@ Beberapa manfaat utama penggunaan AI dalam Human Resources antara lain:
 * Membantu pelatihan karyawan.
 * Menganalisis data HR dengan lebih cepat.
 
-# 15 Tools AI Terbaik untuk HRD
+## 15 Tools AI Terbaik untuk HRD
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 Salah satu tools AI yang paling fleksibel untuk pekerjaan HR.
 
@@ -59,7 +59,7 @@ Cocok untuk:
 * Recruiter
 * HR Manager
 
-# 2. LinkedIn Recruiter AI
+## 2. LinkedIn Recruiter AI
 
 Membantu menemukan kandidat yang sesuai berdasarkan berbagai kriteria.
 
@@ -69,7 +69,7 @@ Keunggulan:
 * AI matching
 * Talent sourcing
 
-# 3. HireVue
+## 3. HireVue
 
 Platform interview berbasis AI.
 
@@ -79,7 +79,7 @@ Fitur:
 * Interview scheduling
 * Candidate assessment
 
-# 4. Paradox AI
+## 4. Paradox AI
 
 Paradox menghadirkan chatbot AI untuk proses rekrutmen.
 
@@ -89,7 +89,7 @@ Dapat membantu:
 * Menjadwalkan interview.
 * Mengumpulkan data pelamar.
 
-# 5. Eightfold AI
+## 5. Eightfold AI
 
 Platform Talent Intelligence berbasis AI.
 
@@ -99,11 +99,11 @@ Digunakan untuk:
 * Internal mobility
 * Skill matching
 
-# 6. Workday AI
+## 6. Workday AI
 
 Workday mulai mengintegrasikan AI untuk berbagai kebutuhan HR modern.
 
-# 7. BambooHR
+## 7. BambooHR
 
 Platform HR populer yang terus menambahkan fitur AI.
 
@@ -113,7 +113,7 @@ Fungsi:
 * Onboarding
 * Performance management
 
-# 8. Notion AI
+## 8. Notion AI
 
 Berguna untuk dokumentasi HR.
 
@@ -123,7 +123,7 @@ Contoh penggunaan:
 * Handbook karyawan
 * Template HR
 
-# 9. Grammarly
+## 9. Grammarly
 
 Membantu HR membuat komunikasi profesional.
 
@@ -133,7 +133,7 @@ Cocok untuk:
 * Job description
 * Pengumuman internal
 
-# 10. Canva AI
+## 10. Canva AI
 
 Membantu membuat:
 
@@ -141,15 +141,15 @@ Membantu membuat:
 * Presentasi HR
 * Poster internal
 
-# 11. Gamma
+## 11. Gamma
 
 Membuat presentasi pelatihan karyawan secara otomatis.
 
-# 12. Perplexity
+## 12. Perplexity
 
 Sangat membantu ketika HR perlu mencari referensi kebijakan, regulasi, maupun tren HR terbaru.
 
-# 13. Gemini
+## 13. Gemini
 
 Terintegrasi dengan Google Workspace.
 
@@ -160,7 +160,7 @@ Cocok bagi perusahaan yang menggunakan:
 * Sheets
 * Meet
 
-# 14. Claude
+## 14. Claude
 
 Sangat baik untuk membaca dokumen HR yang panjang.
 
@@ -170,7 +170,7 @@ Misalnya:
 * Kontrak
 * Kebijakan perusahaan
 
-# 15. Zapier AI
+## 15. Zapier AI
 
 Mengotomatisasi berbagai proses HR.
 
@@ -180,7 +180,7 @@ Contoh:
 * Email otomatis.
 * Notifikasi interview.
 
-# Cara Memilih Tools AI untuk HRD
+## Cara Memilih Tools AI untuk HRD
 
 Pilih berdasarkan kebutuhan.
 
@@ -215,7 +215,7 @@ Gunakan:
 * Zapier AI
 * Make
 
-# Contoh Workflow AI untuk HRD
+## Contoh Workflow AI untuk HRD
 
 Misalnya proses rekrutmen:
 
@@ -228,7 +228,7 @@ Misalnya proses rekrutmen:
 
 Workflow seperti ini dapat menghemat waktu kerja HR secara signifikan.
 
-# Apakah AI Akan Menggantikan HRD?
+## Apakah AI Akan Menggantikan HRD?
 
 Jawabannya tidak.
 
@@ -242,7 +242,7 @@ AI mampu membantu pekerjaan administratif, tetapi belum dapat menggantikan kemam
 
 Karena itu, AI sebaiknya dipandang sebagai alat pendukung, bukan pengganti.
 
-# Tips Menggunakan AI untuk HR
+## Tips Menggunakan AI untuk HR
 
 * Selalu lakukan pengecekan hasil AI.
 * Jangan memasukkan data pribadi karyawan ke layanan AI publik tanpa memperhatikan kebijakan keamanan.
@@ -251,7 +251,7 @@ Karena itu, AI sebaiknya dipandang sebagai alat pendukung, bukan pengganti.
 
 ---
 
-# Cara Memilih Tools AI untuk HRD
+## Cara Memilih Tools AI untuk HRD
 
 Tools AI untuk HRD sebaiknya dipilih berdasarkan kebutuhan kerja HR, bukan hanya karena fitur terlihat canggih.
 
@@ -301,7 +301,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk HRD
+## Kategori Tools AI untuk HRD
 
 Agar lebih mudah, tools AI untuk HRD bisa dibagi menjadi beberapa kategori.
 
@@ -667,7 +667,7 @@ Selalu review dengan pihak internal yang berwenang.
 
 ---
 
-# Rekomendasi Stack Tools AI untuk HRD
+## Rekomendasi Stack Tools AI untuk HRD
 
 ## Stack Pemula
 
@@ -732,7 +732,7 @@ Mulai dari pekerjaan yang paling sering berulang.
 
 ---
 
-# Contoh Workflow HRD dengan Bantuan AI
+## Contoh Workflow HRD dengan Bantuan AI
 
 Berikut contoh workflow rekrutmen dengan AI.
 
@@ -779,7 +779,7 @@ AI paling aman digunakan jika ada proses review manusia di setiap tahap penting.
 
 ---
 
-# Risiko Menggunakan Tools AI untuk HRD
+## Risiko Menggunakan Tools AI untuk HRD
 
 HRD menangani data manusia.
 
@@ -836,7 +836,7 @@ Edit kembali agar empatik, jelas, dan sesuai budaya perusahaan.
 
 ---
 
-# Checklist Menggunakan AI untuk HRD
+## Checklist Menggunakan AI untuk HRD
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -857,7 +857,7 @@ Checklist ini penting agar penggunaan AI tetap produktif dan aman.
 
 ---
 
-# Prompt Tools AI untuk HRD
+## Prompt Tools AI untuk HRD
 
 ## Prompt Membuat Job Description
 
@@ -989,7 +989,7 @@ Buat:
 7. action item
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah HRD perlu belajar AI?
 
@@ -1018,7 +1018,7 @@ Baca juga:
 - [ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
 - [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah menjadi bagian penting dalam transformasi Human Resources modern. Dengan memanfaatkan tools AI yang tepat, HRD dapat mempercepat proses rekrutmen, meningkatkan kualitas komunikasi, menghemat waktu administratif, serta memberikan pengalaman yang lebih baik bagi kandidat maupun karyawan.
 

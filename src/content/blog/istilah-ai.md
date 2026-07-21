@@ -23,7 +23,7 @@ draft: false
 
 Istilah AI penting dipahami agar pemula tidak bingung saat membaca artikel, menonton tutorial, memakai ChatGPT, mencoba AI tools, atau belajar prompt engineering. Beberapa istilah dasar yang perlu diketahui antara lain AI, machine learning, deep learning, generative AI, prompt, model AI, LLM, token, chatbot, hallucination, RAG, embedding, dataset, training, inference, multimodal, fine-tuning, dan AI agent. Artikel ini merangkum istilah-istilah AI dengan bahasa sederhana, contoh penggunaan, dan konteks praktis untuk pemula Indonesia.
 
-# Istilah AI yang Harus Diketahui
+
 
 AI semakin sering dibicarakan.
 
@@ -81,7 +81,7 @@ Baca juga:
 
 ---
 
-# Mengapa Perlu Memahami Istilah AI?
+## Mengapa Perlu Memahami Istilah AI?
 
 Memahami istilah AI penting karena AI bukan hanya tren.
 
@@ -132,7 +132,7 @@ Karena itu, glosarium ini dibuat sebagai panduan dasar.
 
 ---
 
-# Cara Membaca Glosarium Ini
+## Cara Membaca Glosarium Ini
 
 Artikel ini tidak harus dibaca dari awal sampai akhir.
 
@@ -158,7 +158,7 @@ Setelah itu baru lanjut ke istilah yang lebih teknis.
 
 ---
 
-# 1. AI
+## 1. AI
 
 AI adalah singkatan dari artificial intelligence atau kecerdasan buatan.
 
@@ -198,7 +198,7 @@ Baca juga:
 
 ---
 
-# 2. Artificial Intelligence
+## 2. Artificial Intelligence
 
 Artificial intelligence adalah istilah bahasa Inggris untuk kecerdasan buatan.
 
@@ -222,7 +222,7 @@ Artificial intelligence digunakan untuk membantu customer service menjawab perta
 
 ---
 
-# 3. Machine Learning
+## 3. Machine Learning
 
 Machine learning adalah bagian dari AI.
 
@@ -255,7 +255,7 @@ Baca juga:
 
 ---
 
-# 4. Deep Learning
+## 4. Deep Learning
 
 Deep learning adalah bagian dari machine learning.
 
@@ -282,7 +282,7 @@ Deep learning membutuhkan data dan komputasi yang besar.
 
 ---
 
-# 5. Neural Network
+## 5. Neural Network
 
 Neural network adalah model komputasi yang terinspirasi dari cara kerja jaringan saraf.
 
@@ -305,7 +305,7 @@ Istilah ini sering muncul saat membahas deep learning.
 
 ---
 
-# 6. Generative AI
+## 6. Generative AI
 
 Generative AI adalah AI yang bisa membuat konten baru.
 
@@ -342,7 +342,7 @@ Baca juga:
 
 ---
 
-# 7. Prompt
+## 7. Prompt
 
 Prompt adalah instruksi yang diberikan kepada AI.
 
@@ -384,7 +384,7 @@ Baca juga:
 
 ---
 
-# 8. Prompt Engineering
+## 8. Prompt Engineering
 
 Prompt engineering adalah cara menyusun instruksi agar AI menghasilkan output yang lebih sesuai.
 
@@ -420,7 +420,7 @@ Karena dengan prompt yang baik, hasil AI bisa jauh lebih berguna.
 
 ---
 
-# 9. Chatbot
+## 9. Chatbot
 
 Chatbot adalah program yang dirancang untuk berinteraksi lewat percakapan.
 
@@ -452,7 +452,7 @@ Baca juga:
 
 ---
 
-# 10. ChatGPT
+## 10. ChatGPT
 
 ChatGPT adalah chatbot AI dari OpenAI.
 
@@ -485,7 +485,7 @@ Baca juga:
 
 ---
 
-# 11. LLM
+## 11. LLM
 
 LLM adalah singkatan dari large language model.
 
@@ -521,7 +521,7 @@ LLM adalah model AI yang menjadi mesin di balik aplikasi tersebut.
 
 ---
 
-# 12. Model AI
+## 12. Model AI
 
 Model AI adalah sistem yang sudah dilatih untuk melakukan tugas tertentu.
 
@@ -548,7 +548,7 @@ Dalam penggunaan sehari-hari, model AI adalah “otak” yang memproses input da
 
 ---
 
-# 13. Token
+## 13. Token
 
 Token adalah unit kecil yang diproses oleh model AI.
 
@@ -582,7 +582,7 @@ Token berkaitan dengan:
 
 ---
 
-# 14. Context Window
+## 14. Context Window
 
 Context window adalah batas jumlah informasi yang bisa “diingat” atau diproses model dalam satu percakapan atau satu permintaan.
 
@@ -602,7 +602,7 @@ Output tetap perlu dicek.
 
 ---
 
-# 15. Hallucination
+## 15. Hallucination
 
 Hallucination adalah kondisi ketika AI menghasilkan jawaban yang terdengar meyakinkan, tetapi sebenarnya salah, tidak akurat, atau dibuat-buat.
 
@@ -633,7 +633,7 @@ Baca juga:
 
 ---
 
-# 16. RAG
+## 16. RAG
 
 RAG adalah singkatan dari retrieval-augmented generation.
 
@@ -667,7 +667,7 @@ Jika dokumen yang diambil salah, jawabannya juga bisa salah.
 
 ---
 
-# 17. Embedding
+## 17. Embedding
 
 Embedding adalah representasi data dalam bentuk angka.
 
@@ -704,7 +704,7 @@ Embedding sering digunakan dalam:
 
 ---
 
-# 18. Vector Database
+## 18. Vector Database
 
 Vector database adalah database yang menyimpan embedding.
 
@@ -724,7 +724,7 @@ Vector database sering digunakan dalam sistem RAG.
 
 ---
 
-# 19. Dataset
+## 19. Dataset
 
 Dataset adalah kumpulan data yang digunakan untuk melatih, menguji, atau mengevaluasi model AI.
 
@@ -752,7 +752,7 @@ Jika dataset buruk, hasil AI juga bisa buruk.
 
 ---
 
-# 20. Training
+## 20. Training
 
 Training adalah proses melatih model AI menggunakan data.
 
@@ -782,7 +782,7 @@ Biasanya pengguna cukup memakai model yang sudah tersedia.
 
 ---
 
-# 21. Inference
+## 21. Inference
 
 Inference adalah proses ketika model AI digunakan untuk menghasilkan jawaban atau prediksi.
 
@@ -807,7 +807,7 @@ Inference = proses menggunakan model.
 
 ---
 
-# 22. Fine-Tuning
+## 22. Fine-Tuning
 
 Fine-tuning adalah proses melatih ulang model yang sudah ada dengan data tambahan agar lebih cocok untuk tugas tertentu.
 
@@ -831,7 +831,7 @@ Sering kali, prompt yang baik atau RAG sudah cukup.
 
 ---
 
-# 23. Zero-Shot
+## 23. Zero-Shot
 
 Zero-shot adalah kemampuan AI melakukan tugas tanpa contoh khusus dalam prompt.
 
@@ -848,7 +848,7 @@ Itu disebut zero-shot.
 
 ---
 
-# 24. Few-Shot
+## 24. Few-Shot
 
 Few-shot adalah teknik memberi beberapa contoh kepada AI sebelum meminta output.
 
@@ -871,7 +871,7 @@ Few-shot membantu AI memahami pola output yang diinginkan.
 
 ---
 
-# 25. Multimodal AI
+## 25. Multimodal AI
 
 Multimodal AI adalah AI yang bisa memproses lebih dari satu jenis input.
 
@@ -909,7 +909,7 @@ Baca juga:
 
 ---
 
-# 26. Computer Vision
+## 26. Computer Vision
 
 Computer vision adalah bidang AI yang membantu komputer memahami gambar dan video.
 
@@ -927,7 +927,7 @@ Dalam kehidupan sehari-hari, computer vision digunakan di kamera smartphone, apl
 
 ---
 
-# 27. Natural Language Processing
+## 27. Natural Language Processing
 
 Natural language processing atau NLP adalah bidang AI yang berhubungan dengan bahasa manusia.
 
@@ -948,7 +948,7 @@ LLM adalah salah satu perkembangan besar dalam NLP modern.
 
 ---
 
-# 28. Speech-to-Text
+## 28. Speech-to-Text
 
 Speech-to-text adalah teknologi yang mengubah suara menjadi teks.
 
@@ -968,7 +968,7 @@ Baca juga:
 
 ---
 
-# 29. Text-to-Speech
+## 29. Text-to-Speech
 
 Text-to-speech adalah teknologi yang mengubah teks menjadi suara.
 
@@ -989,7 +989,7 @@ Jangan meniru suara orang tanpa izin.
 
 ---
 
-# 30. Text-to-Image
+## 30. Text-to-Image
 
 Text-to-image adalah teknologi yang membuat gambar dari teks.
 
@@ -1012,7 +1012,7 @@ Namun, hati-hati dengan hak cipta, identitas orang, dan klaim visual yang menyes
 
 ---
 
-# 31. Text-to-Video
+## 31. Text-to-Video
 
 Text-to-video adalah teknologi yang membuat video dari instruksi teks.
 
@@ -1037,7 +1037,7 @@ Jangan gunakan untuk membuat kejadian palsu seolah nyata.
 
 ---
 
-# 32. AI Agent
+## 32. AI Agent
 
 AI agent adalah sistem AI yang bisa menjalankan tugas dengan lebih mandiri berdasarkan tujuan yang diberikan.
 
@@ -1073,7 +1073,7 @@ Baca juga:
 
 ---
 
-# 33. Automation
+## 33. Automation
 
 Automation adalah proses membuat pekerjaan berjalan otomatis atau semi-otomatis.
 
@@ -1094,7 +1094,7 @@ Workflow terbaik biasanya tetap memakai human review.
 
 ---
 
-# 34. Workflow AI
+## 34. Workflow AI
 
 Workflow AI adalah alur kerja yang menggunakan AI dalam proses tertentu.
 
@@ -1125,7 +1125,7 @@ Baca juga:
 
 ---
 
-# 35. Model Foundation
+## 35. Model Foundation
 
 Foundation model adalah model AI besar yang dilatih pada data luas dan bisa digunakan untuk banyak tugas.
 
@@ -1145,7 +1145,7 @@ Foundation model bisa menjadi dasar untuk aplikasi AI lain.
 
 ---
 
-# 36. API
+## 36. API
 
 API adalah singkatan dari application programming interface.
 
@@ -1173,7 +1173,7 @@ Tetapi penting memahami istilah ini jika ingin membuat aplikasi AI.
 
 ---
 
-# 37. AI Tools
+## 37. AI Tools
 
 AI tools adalah aplikasi atau software yang menggunakan AI untuk membantu tugas tertentu.
 
@@ -1197,7 +1197,7 @@ Baca juga:
 
 ---
 
-# 38. AI Assistant
+## 38. AI Assistant
 
 AI assistant adalah asisten berbasis AI yang membantu pengguna menyelesaikan tugas.
 
@@ -1223,7 +1223,7 @@ AI assistant bisa membantu produktivitas, tetapi tetap perlu arahan dan pengecek
 
 ---
 
-# 39. Copilot
+## 39. Copilot
 
 Copilot adalah istilah untuk AI yang mendampingi pengguna saat bekerja.
 
@@ -1239,7 +1239,7 @@ Tujuannya membantu pengguna menyelesaikan pekerjaan lebih cepat.
 
 ---
 
-# 40. AI Chatbot
+## 40. AI Chatbot
 
 AI chatbot adalah chatbot yang menggunakan model AI untuk memahami dan menjawab pertanyaan.
 
@@ -1265,7 +1265,7 @@ Baca juga:
 
 ---
 
-# 41. Bias AI
+## 41. Bias AI
 
 Bias AI adalah kecenderungan AI menghasilkan output yang tidak adil, tidak seimbang, atau memihak karena data atau desain sistem.
 
@@ -1288,7 +1288,7 @@ Pengguna AI perlu sadar bahwa AI tidak selalu netral.
 
 ---
 
-# 42. AI Ethics
+## 42. AI Ethics
 
 AI ethics adalah prinsip etika dalam pengembangan dan penggunaan AI.
 
@@ -1313,7 +1313,7 @@ Baca juga:
 
 ---
 
-# 43. Responsible AI
+## 43. Responsible AI
 
 Responsible AI adalah pendekatan untuk membuat dan memakai AI secara bertanggung jawab.
 
@@ -1339,7 +1339,7 @@ Gunakan AI untuk membantu, bukan menipu.
 
 ---
 
-# 44. Data Privacy
+## 44. Data Privacy
 
 Data privacy adalah perlindungan data pribadi.
 
@@ -1368,7 +1368,7 @@ Baca juga:
 
 ---
 
-# 45. Deepfake
+## 45. Deepfake
 
 Deepfake adalah konten sintetis yang membuat seseorang terlihat atau terdengar melakukan sesuatu yang sebenarnya tidak dilakukan.
 
@@ -1386,7 +1386,7 @@ Gunakan AI visual dan audio secara etis.
 
 ---
 
-# 46. Synthetic Media
+## 46. Synthetic Media
 
 Synthetic media adalah media yang dibuat atau dimodifikasi menggunakan AI.
 
@@ -1405,7 +1405,7 @@ Tetapi perlu transparansi jika kontennya bisa membuat orang salah paham.
 
 ---
 
-# 47. Dataset Bias
+## 47. Dataset Bias
 
 Dataset bias adalah bias yang muncul karena data yang dipakai untuk melatih AI tidak seimbang atau tidak mewakili kondisi nyata.
 
@@ -1419,7 +1419,7 @@ Karena itu, data yang digunakan untuk melatih AI harus diperhatikan.
 
 ---
 
-# 48. Label
+## 48. Label
 
 Dalam machine learning, label adalah jawaban atau kategori yang diberikan pada data.
 
@@ -1439,7 +1439,7 @@ Label digunakan dalam supervised learning.
 
 ---
 
-# 49. Supervised Learning
+## 49. Supervised Learning
 
 Supervised learning adalah metode machine learning yang menggunakan data berlabel.
 
@@ -1458,7 +1458,7 @@ Supervised learning banyak digunakan untuk klasifikasi dan prediksi.
 
 ---
 
-# 50. Unsupervised Learning
+## 50. Unsupervised Learning
 
 Unsupervised learning adalah metode machine learning yang menggunakan data tanpa label.
 
@@ -1477,7 +1477,7 @@ Unsupervised learning sering digunakan untuk:
 
 ---
 
-# 51. Reinforcement Learning
+## 51. Reinforcement Learning
 
 Reinforcement learning adalah metode machine learning di mana sistem belajar dari reward dan punishment.
 
@@ -1499,7 +1499,7 @@ Reinforcement learning sering digunakan dalam:
 
 ---
 
-# 52. RLHF
+## 52. RLHF
 
 RLHF adalah singkatan dari reinforcement learning from human feedback.
 
@@ -1513,7 +1513,7 @@ RLHF sering dibahas dalam pengembangan chatbot modern.
 
 ---
 
-# 53. Alignment
+## 53. Alignment
 
 Alignment adalah upaya membuat AI bertindak sesuai dengan tujuan, nilai, dan instruksi manusia.
 
@@ -1529,7 +1529,7 @@ Alignment penting untuk keamanan dan etika AI.
 
 ---
 
-# 54. Guardrails
+## 54. Guardrails
 
 Guardrails adalah batasan atau aturan yang dipasang agar AI lebih aman digunakan.
 
@@ -1546,7 +1546,7 @@ Guardrails membantu mengurangi risiko penyalahgunaan AI.
 
 ---
 
-# 55. Safety Filter
+## 55. Safety Filter
 
 Safety filter adalah sistem yang mendeteksi dan membatasi output berbahaya.
 
@@ -1558,7 +1558,7 @@ Safety filter adalah bagian dari guardrails.
 
 ---
 
-# 56. Grounding
+## 56. Grounding
 
 Grounding adalah proses membuat jawaban AI didasarkan pada sumber atau data tertentu.
 
@@ -1574,7 +1574,7 @@ Grounding membantu mengurangi hallucination.
 
 ---
 
-# 57. Knowledge Base
+## 57. Knowledge Base
 
 Knowledge base adalah kumpulan informasi yang digunakan sebagai sumber jawaban.
 
@@ -1591,7 +1591,7 @@ AI chatbot sering menggunakan knowledge base agar jawabannya sesuai informasi re
 
 ---
 
-# 58. Semantic Search
+## 58. Semantic Search
 
 Semantic search adalah pencarian berdasarkan makna, bukan hanya kata yang sama.
 
@@ -1615,7 +1615,7 @@ Semantic search sering menggunakan embedding.
 
 ---
 
-# 59. AI Workflow Automation
+## 59. AI Workflow Automation
 
 AI workflow automation adalah otomatisasi alur kerja dengan bantuan AI.
 
@@ -1642,7 +1642,7 @@ AI workflow automation cocok untuk bisnis, tim, creator, dan freelancer.
 
 ---
 
-# 60. Human-in-the-Loop
+## 60. Human-in-the-Loop
 
 Human-in-the-loop adalah pendekatan di mana manusia tetap terlibat dalam proses AI.
 
@@ -1664,7 +1664,7 @@ Human-in-the-loop penting untuk:
 
 ---
 
-# 61. Input
+## 61. Input
 
 Input adalah data atau instruksi yang diberikan kepada AI.
 
@@ -1685,7 +1685,7 @@ Input yang jelas biasanya menghasilkan output lebih baik.
 
 ---
 
-# 62. Output
+## 62. Output
 
 Output adalah hasil yang diberikan AI.
 
@@ -1707,7 +1707,7 @@ Terutama untuk pekerjaan penting.
 
 ---
 
-# 63. Temperature
+## 63. Temperature
 
 Temperature adalah pengaturan yang memengaruhi kreativitas output AI.
 
@@ -1728,7 +1728,7 @@ Tetapi istilah ini sering muncul di API atau tools AI teknis.
 
 ---
 
-# 64. Top-P
+## 64. Top-P
 
 Top-P adalah pengaturan lain yang memengaruhi variasi output AI.
 
@@ -1740,7 +1740,7 @@ Untuk pemula, cukup pahami bahwa pengaturan seperti temperature dan top-P memeng
 
 ---
 
-# 65. Latency
+## 65. Latency
 
 Latency adalah waktu yang dibutuhkan AI untuk merespons.
 
@@ -1757,7 +1757,7 @@ Latency dipengaruhi oleh model, ukuran input, koneksi, server, dan kompleksitas 
 
 ---
 
-# 66. AI Model Evaluation
+## 66. AI Model Evaluation
 
 AI model evaluation adalah proses mengevaluasi kualitas model AI.
 
@@ -1784,7 +1784,7 @@ Apakah formatnya sesuai?
 
 ---
 
-# 67. Benchmark
+## 67. Benchmark
 
 Benchmark adalah standar pengujian untuk membandingkan performa model AI.
 
@@ -1804,7 +1804,7 @@ Model yang bagus di benchmark belum tentu paling cocok untuk kebutuhan Anda.
 
 ---
 
-# 68. Open-Source AI
+## 68. Open-Source AI
 
 Open-source AI adalah model atau tools AI yang kode atau bobot modelnya tersedia untuk publik dengan lisensi tertentu.
 
@@ -1822,7 +1822,7 @@ Namun, pengguna non-teknis biasanya lebih mudah memakai aplikasi siap pakai.
 
 ---
 
-# 69. Closed-Source AI
+## 69. Closed-Source AI
 
 Closed-source AI adalah model atau tools AI yang tidak membuka kode atau bobot modelnya secara penuh kepada publik.
 
@@ -1836,7 +1836,7 @@ Closed-source AI biasanya mudah digunakan, tetapi kontrol pengguna lebih terbata
 
 ---
 
-# 70. On-Device AI
+## 70. On-Device AI
 
 On-device AI adalah AI yang berjalan langsung di perangkat pengguna, seperti smartphone atau laptop.
 
@@ -1857,7 +1857,7 @@ Contoh:
 
 ---
 
-# 71. Cloud AI
+## 71. Cloud AI
 
 Cloud AI adalah AI yang berjalan di server cloud.
 
@@ -1877,7 +1877,7 @@ Namun, pengguna perlu memperhatikan privasi data.
 
 ---
 
-# 72. Local AI
+## 72. Local AI
 
 Local AI adalah AI yang berjalan di komputer lokal pengguna.
 
@@ -1897,7 +1897,7 @@ Tantangan:
 
 ---
 
-# 73. GPU
+## 73. GPU
 
 GPU adalah hardware yang sering digunakan untuk melatih dan menjalankan model AI.
 
@@ -1917,7 +1917,7 @@ Untuk pengguna biasa, istilah GPU sering muncul saat membahas:
 
 ---
 
-# 74. Compute
+## 74. Compute
 
 Compute adalah daya komputasi yang dibutuhkan untuk menjalankan atau melatih AI.
 
@@ -1934,7 +1934,7 @@ Compute berkaitan dengan:
 
 ---
 
-# 75. AI Literacy
+## 75. AI Literacy
 
 AI literacy adalah kemampuan memahami dan menggunakan AI dengan benar.
 
@@ -1959,7 +1959,7 @@ Baca juga:
 
 ---
 
-# 76. Prompt Template
+## 76. Prompt Template
 
 Prompt template adalah format prompt yang bisa digunakan berulang.
 
@@ -1996,7 +1996,7 @@ Contoh penggunaan:
 
 ---
 
-# 77. System Prompt
+## 77. System Prompt
 
 System prompt adalah instruksi tingkat awal yang mengatur perilaku AI.
 
@@ -2016,7 +2016,7 @@ Namun, istilah ini sering muncul dalam pembahasan AI agent, chatbot, dan aplikas
 
 ---
 
-# 78. User Prompt
+## 78. User Prompt
 
 User prompt adalah instruksi yang diberikan pengguna kepada AI.
 
@@ -2030,7 +2030,7 @@ User prompt adalah hal yang paling sering ditulis pengguna saat memakai chatbot 
 
 ---
 
-# 79. Chain-of-Thought
+## 79. Chain-of-Thought
 
 Chain-of-thought adalah proses penalaran langkah demi langkah.
 
@@ -2055,7 +2055,7 @@ Berikan jawaban akhir dan ringkasan alasan singkat.
 
 ---
 
-# 80. Reasoning Model
+## 80. Reasoning Model
 
 Reasoning model adalah model AI yang dirancang lebih kuat untuk tugas yang membutuhkan penalaran.
 
@@ -2073,7 +2073,7 @@ Reasoning model biasanya lebih cocok untuk tugas yang tidak cukup dijawab dengan
 
 ---
 
-# 81. AI Safety
+## 81. AI Safety
 
 AI safety adalah bidang yang membahas cara membuat AI lebih aman digunakan.
 
@@ -2091,7 +2091,7 @@ AI safety penting karena AI bisa berdampak besar pada banyak bidang.
 
 ---
 
-# 82. Explainability
+## 82. Explainability
 
 Explainability adalah kemampuan sistem AI untuk menjelaskan alasan di balik output atau keputusannya.
 
@@ -2108,7 +2108,7 @@ Jika AI memberi rekomendasi penting, manusia perlu memahami alasan rekomendasi t
 
 ---
 
-# 83. Classification
+## 83. Classification
 
 Classification adalah tugas AI untuk mengelompokkan data ke kategori tertentu.
 
@@ -2123,7 +2123,7 @@ Classification banyak digunakan dalam machine learning.
 
 ---
 
-# 84. Prediction
+## 84. Prediction
 
 Prediction adalah tugas AI untuk memperkirakan hasil berdasarkan data.
 
@@ -2141,7 +2141,7 @@ Hasil prediksi tetap perlu dievaluasi.
 
 ---
 
-# 85. Recommendation System
+## 85. Recommendation System
 
 Recommendation system adalah sistem yang memberi rekomendasi kepada pengguna.
 
@@ -2157,7 +2157,7 @@ Recommendation system biasanya memakai data perilaku pengguna dan pola dari peng
 
 ---
 
-# 86. Sentiment Analysis
+## 86. Sentiment Analysis
 
 Sentiment analysis adalah teknik AI untuk membaca sentimen dari teks.
 
@@ -2181,7 +2181,7 @@ Baca juga:
 
 ---
 
-# 87. OCR
+## 87. OCR
 
 OCR adalah singkatan dari optical character recognition.
 
@@ -2199,7 +2199,7 @@ OCR sering digabung dengan AI untuk memahami dokumen.
 
 ---
 
-# 88. Data Labeling
+## 88. Data Labeling
 
 Data labeling adalah proses memberi label pada data agar bisa digunakan untuk training model.
 
@@ -2214,7 +2214,7 @@ Data labeling penting untuk supervised learning.
 
 ---
 
-# 89. Model Drift
+## 89. Model Drift
 
 Model drift adalah kondisi ketika performa model AI menurun karena data dunia nyata berubah.
 
@@ -2232,7 +2232,7 @@ Model perlu dipantau dan diperbarui.
 
 ---
 
-# 90. Prompt Injection
+## 90. Prompt Injection
 
 Prompt injection adalah teknik menyerang sistem AI dengan instruksi yang mencoba mengubah perilaku AI.
 
@@ -2250,7 +2250,7 @@ Sistem AI yang digunakan untuk bisnis perlu memiliki guardrails.
 
 ---
 
-# 91. Jailbreak
+## 91. Jailbreak
 
 Jailbreak adalah upaya membuat AI melanggar batasan atau aturan keselamatan.
 
@@ -2264,7 +2264,7 @@ Pengguna yang bertanggung jawab tidak menggunakan AI untuk hal berbahaya.
 
 ---
 
-# 92. AI Governance
+## 92. AI Governance
 
 AI governance adalah tata kelola penggunaan AI dalam organisasi.
 
@@ -2284,7 +2284,7 @@ AI governance penting untuk perusahaan, kampus, sekolah, dan institusi.
 
 ---
 
-# 93. Model Card
+## 93. Model Card
 
 Model card adalah dokumen yang menjelaskan informasi penting tentang model AI.
 
@@ -2302,7 +2302,7 @@ Model card membantu transparansi.
 
 ---
 
-# 94. Red Teaming
+## 94. Red Teaming
 
 Red teaming adalah proses menguji sistem AI dengan mencoba menemukan kelemahan, risiko, atau cara penyalahgunaan.
 
@@ -2314,7 +2314,7 @@ Red teaming banyak digunakan untuk menguji model AI sebelum dirilis.
 
 ---
 
-# 95. Synthetic Data
+## 95. Synthetic Data
 
 Synthetic data adalah data buatan yang dibuat secara artifisial.
 
@@ -2331,7 +2331,7 @@ Jika kualitasnya buruk, model juga bisa belajar pola yang salah.
 
 ---
 
-# 96. AI Native
+## 96. AI Native
 
 AI native adalah istilah untuk produk, bisnis, atau workflow yang sejak awal dirancang dengan AI sebagai bagian inti.
 
@@ -2345,7 +2345,7 @@ AI menjadi bagian utama dari cara kerja.
 
 ---
 
-# 97. No-Code AI
+## 97. No-Code AI
 
 No-code AI adalah penggunaan AI tanpa perlu coding.
 
@@ -2361,7 +2361,7 @@ No-code AI cocok untuk pemula, UMKM, guru, content creator, dan karyawan non-tek
 
 ---
 
-# 98. Low-Code AI
+## 98. Low-Code AI
 
 Low-code AI adalah penggunaan AI dengan sedikit coding.
 
@@ -2377,7 +2377,7 @@ Low-code AI bisa digunakan untuk:
 
 ---
 
-# 99. AI Adoption
+## 99. AI Adoption
 
 AI adoption adalah proses adopsi AI dalam pekerjaan, bisnis, sekolah, atau organisasi.
 
@@ -2406,7 +2406,7 @@ Baca juga:
 
 ---
 
-# 100. Human Review
+## 100. Human Review
 
 Human review adalah proses manusia mengecek output AI sebelum digunakan.
 
@@ -2431,7 +2431,7 @@ Manusia memutuskan.
 
 ---
 
-# Istilah AI Paling Penting untuk Pemula
+## Istilah AI Paling Penting untuk Pemula
 
 Jika Anda tidak ingin menghafal semua istilah, mulai dari 15 istilah ini:
 
@@ -2457,7 +2457,7 @@ Dengan memahami 15 istilah ini, Anda sudah bisa mengikuti banyak pembahasan AI d
 
 ---
 
-# Istilah AI untuk Pengguna ChatGPT
+## Istilah AI untuk Pengguna ChatGPT
 
 Jika Anda sering memakai ChatGPT, pahami istilah ini:
 
@@ -2484,7 +2484,7 @@ Baca juga:
 
 ---
 
-# Istilah AI untuk Content Creator
+## Istilah AI untuk Content Creator
 
 Jika Anda content creator, pahami istilah ini:
 
@@ -2512,7 +2512,7 @@ Baca juga:
 
 ---
 
-# Istilah AI untuk Bisnis dan UMKM
+## Istilah AI untuk Bisnis dan UMKM
 
 Jika Anda memakai AI untuk bisnis, pahami istilah ini:
 
@@ -2539,7 +2539,7 @@ Baca juga:
 
 ---
 
-# Istilah AI untuk Pelajar dan Pendidikan
+## Istilah AI untuk Pelajar dan Pendidikan
 
 Jika Anda siswa, mahasiswa, guru, atau dosen, pahami istilah ini:
 
@@ -2566,7 +2566,7 @@ Baca juga:
 
 ---
 
-# Cara Belajar Istilah AI dengan Cepat
+## Cara Belajar Istilah AI dengan Cepat
 
 Anda tidak perlu menghafal semuanya sekaligus.
 
@@ -2627,7 +2627,7 @@ Coba gunakan tools AI.
 
 ---
 
-# Prompt untuk Memahami Istilah AI
+## Prompt untuk Memahami Istilah AI
 
 Gunakan prompt ini.
 
@@ -2664,7 +2664,7 @@ Format:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa istilah AI yang paling penting untuk pemula?
 
@@ -2708,7 +2708,7 @@ AI agent adalah sistem AI yang bisa menjalankan tugas lebih mandiri berdasarkan 
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Memahami istilah AI adalah langkah penting untuk belajar AI.
 
@@ -2751,7 +2751,7 @@ Tetapi dengan memahami dasar-dasarnya, Anda akan lebih mudah mengikuti perkemban
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2775,7 +2775,7 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
@@ -2792,7 +2792,7 @@ Temukan panduan AI sesuai kebutuhan Anda:
 
 ---
 
-# Mulai Belajar dari Istilah Dasar
+## Mulai Belajar dari Istilah Dasar
 
 Jika Anda baru mulai belajar AI, jangan mulai dari istilah yang terlalu teknis.
 

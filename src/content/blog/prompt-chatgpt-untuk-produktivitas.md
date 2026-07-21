@@ -21,7 +21,7 @@ draft: false
 
 Prompt ChatGPT untuk produktivitas dapat membantu Anda mengatur prioritas, menyusun jadwal, merapikan daftar tugas, membuat email, merangkum meeting, membuat laporan, mengurangi distraksi, mengevaluasi progres, dan bekerja lebih fokus. Artikel ini berisi kumpulan prompt siap pakai untuk pekerja, karyawan, freelancer, pelajar, mahasiswa, content creator, admin, sales, marketer, dan pemilik bisnis yang ingin menggunakan ChatGPT sebagai asisten produktivitas harian.
 
-# Prompt ChatGPT untuk Produktivitas
+
 
 Banyak orang merasa sibuk setiap hari, tetapi tidak selalu produktif.
 
@@ -90,7 +90,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Produktivitas
+## Cara Menggunakan ChatGPT untuk Produktivitas
 
 Agar ChatGPT benar-benar membantu produktivitas, jangan hanya meminta motivasi.
 
@@ -130,7 +130,7 @@ Semakin jelas konteksnya, semakin praktis hasilnya.
 
 ---
 
-# Prompt ChatGPT untuk Menentukan Prioritas
+## Prompt ChatGPT untuk Menentukan Prioritas
 
 Produktivitas dimulai dari memilih tugas yang benar.
 
@@ -196,7 +196,7 @@ Daftar tugas:
 
 ---
 
-# Prompt ChatGPT untuk Membuat Jadwal Harian
+## Prompt ChatGPT untuk Membuat Jadwal Harian
 
 Jadwal yang baik tidak hanya berisi daftar tugas.
 
@@ -265,7 +265,7 @@ Daftar tugas minggu ini:
 
 ---
 
-# Prompt ChatGPT untuk Memecah Tugas Besar
+## Prompt ChatGPT untuk Memecah Tugas Besar
 
 Tugas besar sering membuat kita menunda.
 
@@ -315,7 +315,7 @@ Saya tidak punya banyak waktu, tetapi ingin tetap membuat progres pada tugas [na
 
 ---
 
-# Prompt ChatGPT untuk Fokus dan Deep Work
+## Prompt ChatGPT untuk Fokus dan Deep Work
 
 Fokus adalah salah satu masalah terbesar dalam produktivitas modern.
 
@@ -360,7 +360,7 @@ Buat evaluasi dan saran perbaikan untuk sesi berikutnya.
 
 ---
 
-# Prompt ChatGPT untuk Email Produktif
+## Prompt ChatGPT untuk Email Produktif
 
 Email bisa menghabiskan banyak waktu.
 
@@ -412,7 +412,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Meeting Produktif
+## Prompt ChatGPT untuk Meeting Produktif
 
 Meeting sering tidak produktif jika tidak punya agenda, tujuan, dan tindak lanjut.
 
@@ -466,7 +466,7 @@ Catatan:
 
 ---
 
-# Prompt ChatGPT untuk Merapikan Catatan
+## Prompt ChatGPT untuk Merapikan Catatan
 
 Catatan yang berantakan membuat pekerjaan sulit dilanjutkan.
 
@@ -524,7 +524,7 @@ Catatan:
 
 ---
 
-# Prompt ChatGPT untuk Laporan Produktif
+## Prompt ChatGPT untuk Laporan Produktif
 
 Laporan tidak harus memakan waktu lama.
 
@@ -588,7 +588,7 @@ Laporan:
 
 ---
 
-# Prompt ChatGPT untuk Mengatur Proyek
+## Prompt ChatGPT untuk Mengatur Proyek
 
 ChatGPT bisa membantu membuat rencana proyek sederhana.
 
@@ -637,7 +637,7 @@ Buat insight dan perbaikan untuk proyek berikutnya.
 
 ---
 
-# Prompt ChatGPT untuk Produktivitas Freelancer
+## Prompt ChatGPT untuk Produktivitas Freelancer
 
 Freelancer sering mengurus banyak hal sendiri.
 
@@ -686,7 +686,7 @@ Buat insight dan rencana perbaikan minggu depan.
 
 ---
 
-# Prompt ChatGPT untuk Produktivitas Content Creator
+## Prompt ChatGPT untuk Produktivitas Content Creator
 
 Content creator sering kesulitan menjaga konsistensi.
 
@@ -732,7 +732,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Produktivitas Belajar
+## Prompt ChatGPT untuk Produktivitas Belajar
 
 Produktivitas tidak hanya untuk kerja.
 
@@ -781,7 +781,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Evaluasi Harian dan Mingguan
+## Prompt ChatGPT untuk Evaluasi Harian dan Mingguan
 
 Produktivitas perlu dievaluasi.
 
@@ -844,7 +844,7 @@ Bantu saya membuat sistem produktivitas pribadi. Kondisi saya: [jelaskan pekerja
 
 ---
 
-# Prompt ChatGPT untuk Mengurangi Overwhelm
+## Prompt ChatGPT untuk Mengurangi Overwhelm
 
 Kadang masalahnya bukan kurang waktu, tetapi terlalu banyak hal di kepala.
 
@@ -891,7 +891,7 @@ Saya merasa berat untuk mulai mengerjakan [tugas]. Bantu saya menemukan langkah 
 
 ---
 
-# Tips Menggunakan Prompt ChatGPT untuk Produktivitas
+## Tips Menggunakan Prompt ChatGPT untuk Produktivitas
 
 ## 1. Jangan Minta Motivasi Saja
 
@@ -961,7 +961,7 @@ Baca juga:
 
 ---
 
-# Checklist Produktivitas Harian dengan ChatGPT
+## Checklist Produktivitas Harian dengan ChatGPT
 
 Gunakan checklist ini setiap pagi.
 
@@ -978,7 +978,7 @@ Gunakan checklist ini setiap pagi.
 
 ---
 
-# Contoh Workflow Produktivitas Harian dengan ChatGPT
+## Contoh Workflow Produktivitas Harian dengan ChatGPT
 
 Berikut contoh workflow sederhana.
 
@@ -1045,7 +1045,7 @@ Dengan workflow ini, ChatGPT tidak hanya dipakai sesekali, tetapi menjadi bagian
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Produktivitas
+## Kesalahan Menggunakan ChatGPT untuk Produktivitas
 
 ## 1. Terlalu Banyak Bertanya, Tidak Mengeksekusi
 
@@ -1085,7 +1085,7 @@ Yang penting cukup jelas untuk memulai.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt ChatGPT untuk produktivitas?
 
@@ -1117,7 +1117,7 @@ Tidak sepenuhnya. ChatGPT membantu berpikir, menyusun, dan merapikan rencana. Un
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt ChatGPT untuk produktivitas dapat membantu Anda bekerja lebih cepat, lebih fokus, dan lebih teratur.
 
@@ -1157,7 +1157,7 @@ Untuk penerapan yang lebih praktis dalam pekerjaan harian, baca [Cara Menggunaka
 
 Salah satu prompt produktivitas paling praktis adalah prompt notulen. Baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) untuk template agenda, ringkasan, action items, dan email follow-up.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1179,21 +1179,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai Produktif dari Prompt Pagi
+## Mulai Produktif dari Prompt Pagi
 
 Produktivitas tidak harus dimulai dari sistem rumit.
 

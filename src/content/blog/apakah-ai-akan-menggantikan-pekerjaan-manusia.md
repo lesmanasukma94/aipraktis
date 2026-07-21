@@ -37,7 +37,7 @@ Dalam artikel ini, kita akan membahas fakta yang perlu dipahami, pekerjaan yang 
 
 ---
 
-# Mengapa Banyak Orang Takut dengan AI?
+## Mengapa Banyak Orang Takut dengan AI?
 
 Ketakutan terhadap teknologi sebenarnya bukan hal baru.
 
@@ -65,7 +65,7 @@ Kemampuan inilah yang membuat banyak orang mulai mempertanyakan masa depan peker
 
 ---
 
-# AI Menggantikan Tugas, Bukan Selalu Menggantikan Pekerjaan
+## AI Menggantikan Tugas, Bukan Selalu Menggantikan Pekerjaan
 
 Ini adalah konsep yang paling penting untuk dipahami.
 
@@ -104,7 +104,7 @@ Karena itu, banyak pekerjaan tidak hilang, tetapi berubah.
 
 ---
 
-# Pekerjaan yang Paling Berpotensi Terdampak AI
+## Pekerjaan yang Paling Berpotensi Terdampak AI
 
 Semakin banyak tugas yang bersifat berulang dan dapat diprediksi, semakin besar peluang tugas tersebut dibantu atau diotomatisasi oleh AI.
 
@@ -138,7 +138,7 @@ Biasanya pekerjaan tersebut berubah dan membutuhkan keterampilan baru.
 
 ---
 
-# Pekerjaan yang Sulit Digantikan AI
+## Pekerjaan yang Sulit Digantikan AI
 
 AI memiliki keterbatasan yang cukup besar pada aspek manusiawi.
 
@@ -189,7 +189,7 @@ Pekerjaan fisik di lingkungan yang tidak terstruktur masih sulit diotomatisasi s
 
 ---
 
-# Pekerjaan Baru yang Muncul Karena AI
+## Pekerjaan Baru yang Muncul Karena AI
 
 Sejarah menunjukkan bahwa teknologi tidak hanya menghilangkan pekerjaan.
 
@@ -221,7 +221,7 @@ Saat ini banyak profesi baru yang bahkan belum ada beberapa tahun lalu.
 
 ---
 
-# Siapa yang Paling Berisiko?
+## Siapa yang Paling Berisiko?
 
 Secara umum, risiko terbesar bukan berada pada orang yang pekerjaannya menggunakan AI.
 
@@ -245,7 +245,7 @@ Karena itu, kemampuan menggunakan AI semakin menjadi nilai tambah yang penting.
 
 ---
 
-# Keterampilan yang Akan Semakin Penting
+## Keterampilan yang Akan Semakin Penting
 
 Di era AI, beberapa keterampilan justru menjadi semakin berharga.
 
@@ -275,7 +275,7 @@ Orang yang mampu belajar teknologi baru biasanya lebih mudah beradaptasi terhada
 
 ---
 
-# Cara Beradaptasi dengan AI Mulai Hari Ini
+## Cara Beradaptasi dengan AI Mulai Hari Ini
 
 Kabar baiknya, Anda tidak perlu menjadi programmer atau ahli teknologi.
 
@@ -318,7 +318,7 @@ Lihat AI sebagai alat bantu yang meningkatkan kemampuan Anda.
 
 ---
 
-# Masa Depan Dunia Kerja dengan AI
+## Masa Depan Dunia Kerja dengan AI
 
 Kemungkinan besar dunia kerja beberapa tahun ke depan akan terlihat seperti ini:
 
@@ -336,7 +336,7 @@ Karena itu, kemampuan menggunakan AI berpotensi menjadi keterampilan dasar seper
 
 ---
 
-# Apa yang Harus Dilakukan Jika Takut Kehilangan Pekerjaan?
+## Apa yang Harus Dilakukan Jika Takut Kehilangan Pekerjaan?
 
 Jika Anda merasa khawatir, lakukan tiga hal berikut:
 
@@ -380,7 +380,7 @@ Ketakutan sering kali berkurang ketika kita mulai memahami sesuatu.
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI memang akan mengubah dunia kerja.
 
@@ -402,7 +402,7 @@ Karena itu, langkah terbaik saat ini bukan takut terhadap AI, tetapi memahami da
 
 ---
 
-# FAQ
+## FAQ
 
 ### Apakah AI akan menggantikan semua pekerjaan?
 

@@ -298,7 +298,7 @@ Banyak profesional menggabungkan beberapa sumber pendapatan sekaligus.
 
 ---
 
-# Cara Menentukan Target Pasar Jasa Prompt Engineering
+## Cara Menentukan Target Pasar Jasa Prompt Engineering
 
 Jasa prompt engineering akan lebih mudah dijual jika target pasarnya jelas.
 
@@ -353,7 +353,7 @@ Baca juga:
 
 ---
 
-# Bentuk Produk Jasa Prompt Engineering
+## Bentuk Produk Jasa Prompt Engineering
 
 Jasa prompt engineering tidak harus selalu berbentuk konsultasi besar.
 
@@ -486,7 +486,7 @@ Prompt Engineering untuk Tim Marketing
 
 ---
 
-# Cara Membuat Penawaran Jasa Prompt Engineering
+## Cara Membuat Penawaran Jasa Prompt Engineering
 
 Agar mudah dijual, penawaran harus jelas.
 
@@ -589,7 +589,7 @@ Output:
 
 ---
 
-# Cara Mencari Pembeli Pertama
+## Cara Mencari Pembeli Pertama
 
 Pembeli pertama tidak harus datang dari iklan.
 
@@ -647,7 +647,7 @@ baru tawarkan paket lengkap.
 
 ---
 
-# Cara Menentukan Harga Jasa Prompt Engineering
+## Cara Menentukan Harga Jasa Prompt Engineering
 
 Harga jasa prompt engineering tergantung pada tingkat kesulitan dan output.
 
@@ -732,7 +732,7 @@ dan cara memakai AI dengan benar.
 
 ---
 
-# Checklist Kualitas Prompt Sebelum Dijual
+## Checklist Kualitas Prompt Sebelum Dijual
 
 Sebelum menjual prompt, pastikan kualitasnya baik.
 
@@ -790,7 +790,7 @@ Prompt seperti ini lebih bernilai karena punya struktur.
 
 ---
 
-# Kesalahan Saat Menjual Jasa Prompt Engineering
+## Kesalahan Saat Menjual Jasa Prompt Engineering
 
 ## 1. Menjual Prompt yang Terlalu Umum
 
@@ -839,7 +839,7 @@ Prompt ini membantu mempercepat proses kerja, tetapi hasil tetap perlu disesuaik
 
 ---
 
-# Prompt untuk Membuat Penawaran Jasa Prompt Engineering
+## Prompt untuk Membuat Penawaran Jasa Prompt Engineering
 
 Gunakan prompt ini.
 
@@ -881,7 +881,7 @@ Buatkan penawaran dengan struktur:
 Gunakan bahasa Indonesia profesional dan mudah dipahami.
 ```
 
-# Prompt untuk Membuat Prompt Library
+## Prompt untuk Membuat Prompt Library
 
 Gunakan prompt ini.
 

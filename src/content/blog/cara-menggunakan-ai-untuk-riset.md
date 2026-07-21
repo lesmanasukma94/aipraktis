@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu proses riset menjadi lebih cepat, mulai dari menyusun pertanyaan riset, mencari sumber, merangkum dokumen, membandingkan informasi, membuat tabel analisis, menemukan insight, menyusun laporan, sampai mengubah hasil riset menjadi artikel atau presentasi. Namun, AI tidak boleh dijadikan sumber tunggal. Cara menggunakan AI untuk riset yang aman adalah mulai dari pertanyaan yang jelas, memakai sumber yang bisa diverifikasi, membedakan fakta dan opini, mengecek ulang klaim penting, lalu menyusun kesimpulan dengan hati-hati.
 
-# Cara Menggunakan AI untuk Riset
+
 
 Riset adalah proses mencari, memahami, membandingkan, dan menyusun informasi agar bisa dipakai untuk mengambil keputusan atau membuat karya.
 
@@ -112,7 +112,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Riset dengan AI?
+## Apa Itu Riset dengan AI?
 
 Riset dengan AI berarti menggunakan tools AI untuk membantu proses pengumpulan, pemahaman, perbandingan, dan penyusunan informasi.
 
@@ -166,7 +166,7 @@ Tetapi manusia tetap harus menilai kualitasnya.
 
 ---
 
-# Kapan AI Cocok Digunakan untuk Riset?
+## Kapan AI Cocok Digunakan untuk Riset?
 
 AI cocok digunakan untuk riset ketika Anda perlu mempercepat tahap awal, merapikan catatan, atau menyusun insight.
 
@@ -224,7 +224,7 @@ Dari catatan riset berikut, buatkan 10 insight utama. Setiap insight harus diser
 
 ---
 
-# Kapan Harus Berhati-hati Menggunakan AI untuk Riset?
+## Kapan Harus Berhati-hati Menggunakan AI untuk Riset?
 
 AI perlu digunakan dengan sangat hati-hati untuk topik yang sensitif atau berdampak besar.
 
@@ -252,7 +252,7 @@ Jangan membuat keputusan besar hanya dari jawaban AI.
 
 ---
 
-# Workflow Menggunakan AI untuk Riset
+## Workflow Menggunakan AI untuk Riset
 
 Berikut workflow riset yang aman dan praktis.
 
@@ -619,7 +619,7 @@ Audit hasil riset berikut. Tandai klaim yang perlu dicek ulang, sumber yang lema
 
 ---
 
-# Contoh Workflow Riset dengan AI
+## Contoh Workflow Riset dengan AI
 
 Misalnya Anda ingin membuat artikel:
 
@@ -693,7 +693,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Merangkum Dokumen
+## Cara Menggunakan AI untuk Merangkum Dokumen
 
 AI sangat berguna untuk meringkas dokumen panjang.
 
@@ -761,7 +761,7 @@ Jelaskan isi dokumen berikut untuk pemula. Gunakan bahasa sederhana, analogi, co
 
 ---
 
-# Cara Menggunakan AI untuk Membandingkan Informasi
+## Cara Menggunakan AI untuk Membandingkan Informasi
 
 Riset sering membutuhkan perbandingan.
 
@@ -805,7 +805,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Literature Review Awal
+## Cara Menggunakan AI untuk Literature Review Awal
 
 Untuk mahasiswa, dosen, atau peneliti, AI bisa membantu literature review awal.
 
@@ -869,7 +869,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Riset Kompetitor
+## Cara Menggunakan AI untuk Riset Kompetitor
 
 Riset kompetitor berguna untuk bisnis, SEO, produk, dan social media.
 
@@ -915,7 +915,7 @@ Tujuannya memahami pasar dan menemukan diferensiasi.
 
 ---
 
-# Cara Menggunakan AI untuk Riset Konten
+## Cara Menggunakan AI untuk Riset Konten
 
 Jika Anda membuat konten blog, YouTube, Instagram, TikTok, atau newsletter, AI bisa membantu riset topik.
 
@@ -962,7 +962,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Riset Pasar
+## Cara Menggunakan AI untuk Riset Pasar
 
 Riset pasar membantu memahami pelanggan, kebutuhan, tren, dan peluang bisnis.
 
@@ -1014,7 +1014,7 @@ Misalnya:
 
 ---
 
-# Tools yang Cocok untuk Riset dengan AI
+## Tools yang Cocok untuk Riset dengan AI
 
 Berikut tools yang bisa digunakan sesuai kebutuhan.
 
@@ -1097,7 +1097,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap untuk Riset dengan AI
+## Template Prompt Lengkap untuk Riset dengan AI
 
 Gunakan template ini.
 
@@ -1139,7 +1139,7 @@ Buatkan rencana riset lengkap berisi:
 
 ---
 
-# Template Prompt Merangkum Sumber
+## Template Prompt Merangkum Sumber
 
 ```text
 Ringkas sumber berikut untuk kebutuhan riset saya.
@@ -1165,7 +1165,7 @@ Sumber:
 
 ---
 
-# Template Prompt Membuat Insight
+## Template Prompt Membuat Insight
 
 ```text
 Dari catatan riset berikut, buatkan insight utama.
@@ -1184,7 +1184,7 @@ Catatan riset:
 
 ---
 
-# Template Prompt Audit Riset
+## Template Prompt Audit Riset
 
 ```text
 Audit hasil riset berikut.
@@ -1204,7 +1204,7 @@ Berikan saran perbaikan.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Riset
+## Kesalahan Menggunakan AI untuk Riset
 
 ## 1. Menganggap AI sebagai Sumber
 
@@ -1260,7 +1260,7 @@ Jangan langsung dipakai sebagai laporan final.
 
 ---
 
-# Checklist Riset dengan AI
+## Checklist Riset dengan AI
 
 Gunakan checklist ini sebelum memakai hasil riset.
 
@@ -1284,7 +1284,7 @@ Gunakan checklist ini sebelum memakai hasil riset.
 
 ---
 
-# Rencana 7 Hari Belajar Riset dengan AI
+## Rencana 7 Hari Belajar Riset dengan AI
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1326,7 +1326,7 @@ Ubah riset menjadi artikel, laporan, presentasi, atau content brief.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa digunakan untuk riset?
 
@@ -1358,7 +1358,7 @@ Workflow terbaik adalah: tentukan tujuan, buat pertanyaan riset, tentukan sumber
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk riset bukan sekadar bertanya lalu menerima jawaban.
 
@@ -1410,7 +1410,7 @@ Jika riset dibahas dalam meeting, gunakan [Cara Menggunakan AI untuk Notulen Rap
 
 Jika riset digunakan untuk belajar, lanjutkan ke [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar hasil riset bisa diubah menjadi catatan, pertanyaan latihan, flashcard, dan review pemahaman.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1435,22 +1435,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Pertanyaan Riset
+## Mulai dari Satu Pertanyaan Riset
 
 Jangan mulai riset dari membuka terlalu banyak tab.
 

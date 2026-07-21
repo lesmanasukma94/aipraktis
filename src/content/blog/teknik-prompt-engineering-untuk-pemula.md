@@ -192,7 +192,7 @@ Yang paling penting adalah kejelasan instruksi, bukan bahasa yang digunakan.
 
 ---
 
-# Teknik Prompt Engineering untuk Pemula
+## Teknik Prompt Engineering untuk Pemula
 
 Prompt engineering adalah teknik menyusun instruksi agar AI menghasilkan jawaban yang lebih sesuai kebutuhan.
 
@@ -247,7 +247,7 @@ Baca juga:
 
 ---
 
-# Teknik 1: Beri Peran yang Jelas
+## Teknik 1: Beri Peran yang Jelas
 
 Peran membantu AI memahami sudut pandang yang harus digunakan.
 
@@ -288,7 +288,7 @@ Peran harus digabung dengan tujuan dan input yang jelas.
 
 ---
 
-# Teknik 2: Jelaskan Konteks
+## Teknik 2: Jelaskan Konteks
 
 Konteks adalah informasi latar belakang yang membuat AI memahami situasi.
 
@@ -341,7 +341,7 @@ Baca juga:
 
 ---
 
-# Teknik 3: Tentukan Output yang Diinginkan
+## Teknik 3: Tentukan Output yang Diinginkan
 
 AI perlu tahu hasil akhir seperti apa yang Anda butuhkan.
 
@@ -394,7 +394,7 @@ Jika ingin hasil langsung bisa dipraktikkan, gunakan format tabel atau checklist
 
 ---
 
-# Teknik 4: Beri Batasan
+## Teknik 4: Beri Batasan
 
 Batasan membantu AI tidak keluar dari kebutuhan.
 
@@ -437,7 +437,7 @@ Terutama untuk konten bisnis, akademik, dan informasi edukasi.
 
 ---
 
-# Teknik 5: Gunakan Contoh
+## Teknik 5: Gunakan Contoh
 
 Contoh membantu AI memahami gaya yang diinginkan.
 
@@ -478,7 +478,7 @@ Contoh membuat output AI lebih konsisten.
 
 ---
 
-# Teknik 6: Pecah Tugas Besar Menjadi Tugas Kecil
+## Teknik 6: Pecah Tugas Besar Menjadi Tugas Kecil
 
 Jangan selalu meminta AI menyelesaikan tugas besar dalam satu prompt.
 
@@ -528,7 +528,7 @@ Baca juga:
 
 ---
 
-# Teknik 7: Minta AI Bertanya Sebelum Menjawab
+## Teknik 7: Minta AI Bertanya Sebelum Menjawab
 
 Jika kebutuhan belum jelas, minta AI bertanya dulu.
 
@@ -558,7 +558,7 @@ Setelah menjawab pertanyaan, hasil AI biasanya lebih relevan.
 
 ---
 
-# Teknik 8: Gunakan Iterasi
+## Teknik 8: Gunakan Iterasi
 
 Prompt pertama tidak harus sempurna.
 
@@ -609,7 +609,7 @@ Prompt engineering adalah proses memperbaiki hasil sampai sesuai kebutuhan.
 
 ---
 
-# Teknik 9: Minta Alasan dan Evaluasi
+## Teknik 9: Minta Alasan dan Evaluasi
 
 Untuk pekerjaan penting, jangan hanya meminta hasil.
 
@@ -649,7 +649,7 @@ Ini penting jika ingin menjadi prompt engineer.
 
 ---
 
-# Teknik 10: Gunakan Prompt Review
+## Teknik 10: Gunakan Prompt Review
 
 Prompt review membantu mengecek kualitas output AI.
 
@@ -700,7 +700,7 @@ Tetapi keputusan akhir tetap pada manusia.
 
 ---
 
-# Formula Prompt Engineering Sederhana
+## Formula Prompt Engineering Sederhana
 
 Gunakan formula berikut untuk banyak kebutuhan.
 
@@ -765,7 +765,7 @@ Baca juga:
 
 ---
 
-# Contoh Teknik Prompt untuk Marketing
+## Contoh Teknik Prompt untuk Marketing
 
 Gunakan prompt ini untuk kebutuhan marketing.
 
@@ -806,7 +806,7 @@ Baca juga:
 
 ---
 
-# Contoh Teknik Prompt untuk Sales
+## Contoh Teknik Prompt untuk Sales
 
 Gunakan prompt ini untuk kebutuhan sales.
 
@@ -845,7 +845,7 @@ Baca juga:
 
 ---
 
-# Contoh Teknik Prompt untuk Social Media
+## Contoh Teknik Prompt untuk Social Media
 
 Gunakan prompt ini untuk social media.
 
@@ -884,7 +884,7 @@ Baca juga:
 
 ---
 
-# Contoh Teknik Prompt untuk Belajar
+## Contoh Teknik Prompt untuk Belajar
 
 Gunakan prompt ini jika ingin belajar topik baru.
 
@@ -920,7 +920,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Prompt Engineering Pemula
+## Kesalahan Prompt Engineering Pemula
 
 ## 1. Prompt Terlalu Pendek
 
@@ -964,7 +964,7 @@ Sesuaikan dengan konteks sendiri.
 
 ---
 
-# Checklist Prompt Engineering untuk Pemula
+## Checklist Prompt Engineering untuk Pemula
 
 Gunakan checklist ini sebelum mengirim prompt.
 
@@ -988,7 +988,7 @@ Jika hasil AI masih kurang sesuai, cek kembali bagian yang belum lengkap.
 
 ---
 
-# Prompt untuk Memperbaiki Prompt
+## Prompt untuk Memperbaiki Prompt
 
 Gunakan prompt ini jika ingin membuat prompt Anda lebih kuat.
 
@@ -1015,7 +1015,7 @@ Batasan:
 Prompt harus praktis dan mudah digunakan pemula.
 ```
 
-# Prompt Master Teknik Prompt Engineering
+## Prompt Master Teknik Prompt Engineering
 
 Gunakan prompt master berikut.
 
@@ -1051,7 +1051,7 @@ Jangan membuat prompt terlalu rumit.
 Gunakan bahasa Indonesia yang mudah dipakai.
 ```
 
-# Prompt Review Output AI
+## Prompt Review Output AI
 
 Gunakan prompt ini setelah mendapat jawaban AI.
 

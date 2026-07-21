@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu guru menghemat waktu dalam membuat rencana pembelajaran, materi ajar, soal, rubrik, kuis, lembar kerja, media ajar, rangkuman materi, diferensiasi pembelajaran, feedback siswa, dan administrasi kelas. Namun, AI tidak boleh menggantikan peran guru. Guru tetap bertanggung jawab menentukan tujuan pembelajaran, menyesuaikan materi dengan karakter siswa, mengecek akurasi, menjaga etika akademik, melindungi data siswa, dan memastikan AI digunakan untuk membantu belajar, bukan sekadar memberi jawaban instan.
 
-# AI untuk Guru
+
 
 Guru memiliki banyak tanggung jawab.
 
@@ -121,7 +121,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Guru?
+## Apa Itu AI untuk Guru?
 
 AI untuk guru adalah penggunaan kecerdasan buatan untuk membantu proses persiapan, pelaksanaan, evaluasi, dan administrasi pembelajaran.
 
@@ -175,7 +175,7 @@ Guru perlu memastikan:
 
 ---
 
-# Mengapa Guru Membutuhkan AI?
+## Mengapa Guru Membutuhkan AI?
 
 Guru membutuhkan AI bukan karena guru kurang mampu.
 
@@ -225,7 +225,7 @@ AI bisa membantu memberi ide permainan edukatif, diskusi, proyek kecil, eksperim
 
 ---
 
-# Prinsip Menggunakan AI untuk Guru
+## Prinsip Menggunakan AI untuk Guru
 
 Sebelum memakai AI, pahami prinsip berikut.
 
@@ -314,7 +314,7 @@ Baca juga:
 
 ---
 
-# Bagian Pekerjaan Guru yang Bisa Dibantu AI
+## Bagian Pekerjaan Guru yang Bisa Dibantu AI
 
 AI bisa membantu banyak bagian pekerjaan guru.
 
@@ -360,7 +360,7 @@ AI bisa membantu guru mengevaluasi apa yang berhasil dan apa yang perlu diperbai
 
 ---
 
-# Workflow AI untuk Guru
+## Workflow AI untuk Guru
 
 Berikut workflow sederhana menggunakan AI untuk guru.
 
@@ -509,7 +509,7 @@ Cek:
 
 ---
 
-# AI untuk Membuat Rencana Pembelajaran
+## AI untuk Membuat Rencana Pembelajaran
 
 Rencana pembelajaran membantu guru mengajar lebih terarah.
 
@@ -566,7 +566,7 @@ Agar hasil lebih baik, tambahkan konteks seperti:
 
 ---
 
-# AI untuk Membuat Materi Ajar
+## AI untuk Membuat Materi Ajar
 
 Guru bisa memakai AI untuk membuat materi yang lebih mudah dipahami.
 
@@ -621,7 +621,7 @@ Ini berguna untuk diferensiasi.
 
 ---
 
-# AI untuk Membuat Soal
+## AI untuk Membuat Soal
 
 AI sangat membantu membuat variasi soal.
 
@@ -694,7 +694,7 @@ Baca juga:
 
 ---
 
-# AI untuk Membuat Rubrik Penilaian
+## AI untuk Membuat Rubrik Penilaian
 
 Rubrik membantu penilaian lebih konsisten.
 
@@ -757,7 +757,7 @@ Rubrik yang baik harus:
 
 ---
 
-# AI untuk Diferensiasi Pembelajaran
+## AI untuk Diferensiasi Pembelajaran
 
 Dalam satu kelas, siswa tidak selalu berada di level yang sama.
 
@@ -811,7 +811,7 @@ Baca juga:
 
 ---
 
-# AI untuk Membuat Lembar Kerja Siswa
+## AI untuk Membuat Lembar Kerja Siswa
 
 Lembar kerja siswa atau LKS membantu siswa belajar aktif.
 
@@ -854,7 +854,7 @@ LKS yang baik:
 
 ---
 
-# AI untuk Membuat Media Ajar
+## AI untuk Membuat Media Ajar
 
 AI bisa membantu membuat ide media ajar.
 
@@ -911,7 +911,7 @@ Baca juga:
 
 ---
 
-# AI untuk Feedback Siswa
+## AI untuk Feedback Siswa
 
 Feedback yang baik membantu siswa berkembang.
 
@@ -960,7 +960,7 @@ Feedback harus:
 
 ---
 
-# AI untuk Administrasi Guru
+## AI untuk Administrasi Guru
 
 AI bisa membantu tugas administrasi ringan.
 
@@ -1013,7 +1013,7 @@ Baca juga:
 
 ---
 
-# AI untuk Remedial dan Pengayaan
+## AI untuk Remedial dan Pengayaan
 
 Guru sering perlu menyiapkan materi tambahan.
 
@@ -1059,7 +1059,7 @@ Siswa yang cepat paham tetap tertantang.
 
 ---
 
-# AI untuk Membantu Siswa Menggunakan AI dengan Benar
+## AI untuk Membantu Siswa Menggunakan AI dengan Benar
 
 Guru juga bisa mengajarkan cara memakai AI dengan etis.
 
@@ -1100,7 +1100,7 @@ Baca juga:
 
 ---
 
-# AI untuk Kelas dengan Akses Teknologi Terbatas
+## AI untuk Kelas dengan Akses Teknologi Terbatas
 
 Tidak semua sekolah punya fasilitas lengkap.
 
@@ -1146,7 +1146,7 @@ Guru bisa memakai AI untuk menyiapkan pembelajaran offline yang lebih baik.
 
 ---
 
-# Tools AI untuk Guru
+## Tools AI untuk Guru
 
 Berikut tools yang bisa membantu guru.
 
@@ -1238,7 +1238,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk Guru
+## Template Prompt Lengkap AI untuk Guru
 
 Gunakan template ini.
 
@@ -1281,7 +1281,7 @@ Buatkan output pembelajaran yang siap saya review dan sesuaikan.
 
 ---
 
-# Template Prompt Membuat Soal dan Rubrik
+## Template Prompt Membuat Soal dan Rubrik
 
 ```text
 Buatkan asesmen untuk materi berikut.
@@ -1316,7 +1316,7 @@ Aturan:
 
 ---
 
-# Template Prompt Diferensiasi Pembelajaran
+## Template Prompt Diferensiasi Pembelajaran
 
 ```text
 Buatkan diferensiasi pembelajaran untuk materi berikut.
@@ -1342,7 +1342,7 @@ Buatkan:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Guru
+## Kesalahan Menggunakan AI untuk Guru
 
 ## 1. Langsung Memakai Output AI
 
@@ -1388,7 +1388,7 @@ Gunakan AI untuk meningkatkan kualitas pembelajaran.
 
 ---
 
-# Checklist AI untuk Guru
+## Checklist AI untuk Guru
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -1411,7 +1411,7 @@ Gunakan checklist ini sebelum memakai output AI.
 
 ---
 
-# Rencana 7 Hari Mulai AI untuk Guru
+## Rencana 7 Hari Mulai AI untuk Guru
 
 Jika Anda guru yang baru mulai memakai AI, gunakan rencana ini.
 
@@ -1451,7 +1451,7 @@ Setelah mengajar, minta AI membantu menyusun refleksi dan ide perbaikan.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk guru?
 
@@ -1483,7 +1483,7 @@ Mulai dari satu materi. Gunakan AI untuk membuat rencana pembelajaran, materi se
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk guru sangat berguna jika digunakan dengan bijak.
 
@@ -1543,7 +1543,7 @@ Jika digunakan dengan benar, AI bisa membantu guru bekerja lebih efisien, lebih 
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Guru yang ingin mengembangkan kompetensi AI dapat membaca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami peluang AI trainer, AI education specialist, dan portofolio pembelajaran berbasis AI.
 
@@ -1570,22 +1570,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Mulai dari Satu Materi Ajar
+## Mulai dari Satu Materi Ajar
 
 Jangan langsung memakai AI untuk semua pekerjaan guru.
 

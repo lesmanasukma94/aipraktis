@@ -23,7 +23,7 @@ Prompt ChatGPT untuk riset dapat membantu Anda mencari arah riset, menyusun pert
 
 Untuk workflow lengkap dari prompt menjadi hasil riset yang rapi, lanjutkan ke [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) agar proses pertanyaan riset, sumber, ringkasan, perbandingan, dan verifikasi lebih terarah.
 
-# Prompt ChatGPT untuk Riset
+
 
 Riset adalah bagian penting dari banyak pekerjaan.
 
@@ -67,7 +67,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Riset
+## Cara Menggunakan ChatGPT untuk Riset
 
 Agar riset dengan ChatGPT lebih aman dan berguna, gunakan pola berikut:
 
@@ -100,7 +100,7 @@ Prompt kedua lebih berguna karena membantu Anda memulai riset dengan arah yang j
 
 ---
 
-# Struktur Prompt Riset yang Baik
+## Struktur Prompt Riset yang Baik
 
 Prompt riset yang baik biasanya berisi:
 
@@ -147,7 +147,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Riset Awal
+## Prompt ChatGPT untuk Riset Awal
 
 Gunakan prompt berikut saat baru mulai memahami topik.
 
@@ -183,7 +183,7 @@ Buatkan 10 sudut pandang riset untuk topik [topik]. Setiap sudut pandang harus m
 
 ---
 
-# Prompt ChatGPT untuk Mencari Arah Sumber
+## Prompt ChatGPT untuk Mencari Arah Sumber
 
 ChatGPT dapat membantu menentukan jenis sumber yang perlu dicari.
 
@@ -221,7 +221,7 @@ Buatkan rencana pencarian sumber untuk riset [topik]. Sertakan kata kunci pencar
 
 ---
 
-# Prompt ChatGPT untuk Merangkum Sumber
+## Prompt ChatGPT untuk Merangkum Sumber
 
 Setelah menemukan sumber, Anda bisa meminta ChatGPT merangkum isinya.
 
@@ -294,7 +294,7 @@ Catatan:
 
 ---
 
-# Prompt ChatGPT untuk Membandingkan Informasi
+## Prompt ChatGPT untuk Membandingkan Informasi
 
 Riset sering melibatkan perbandingan beberapa sumber, tools, produk, strategi, atau pendapat.
 
@@ -342,7 +342,7 @@ Catatan:
 
 ---
 
-# Prompt ChatGPT untuk Analisis Informasi
+## Prompt ChatGPT untuk Analisis Informasi
 
 AI dapat membantu menemukan pola dan makna dari catatan riset.
 
@@ -395,7 +395,7 @@ Analisis risiko dari [keputusan/topik/strategi]. Format output: risiko, penyebab
 
 ---
 
-# Prompt ChatGPT untuk Riset Konten SEO
+## Prompt ChatGPT untuk Riset Konten SEO
 
 Untuk penulis blog dan content creator, riset adalah fondasi konten yang kuat.
 
@@ -484,7 +484,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Riset Akademik
+## Prompt ChatGPT untuk Riset Akademik
 
 Untuk akademik, gunakan AI secara etis.
 
@@ -543,7 +543,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Riset Data
+## Prompt ChatGPT untuk Riset Data
 
 AI bisa membantu menafsirkan data sederhana, tetapi jangan menyerahkan keputusan penting sepenuhnya ke AI.
 
@@ -591,7 +591,7 @@ Kesimpulan:
 
 ---
 
-# Prompt ChatGPT untuk Riset Kompetitor
+## Prompt ChatGPT untuk Riset Kompetitor
 
 Riset kompetitor membantu memahami posisi bisnis atau konten.
 
@@ -646,7 +646,7 @@ Analisis:
 
 ---
 
-# Prompt ChatGPT untuk Riset Tren
+## Prompt ChatGPT untuk Riset Tren
 
 Tren dapat berubah cepat, jadi selalu verifikasi dengan data terbaru.
 
@@ -682,7 +682,7 @@ Buatkan checklist validasi tren [tren]. Sertakan data yang perlu dicek, sumber y
 
 ---
 
-# Prompt ChatGPT untuk Riset Produk dan Tools AI
+## Prompt ChatGPT untuk Riset Produk dan Tools AI
 
 Topik tools AI sering berubah.
 
@@ -730,7 +730,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Menyusun Laporan Riset
+## Prompt ChatGPT untuk Menyusun Laporan Riset
 
 Setelah riset selesai, AI dapat membantu menyusun laporan.
 
@@ -778,7 +778,7 @@ Laporan:
 
 ---
 
-# Prompt ChatGPT untuk Mengecek Kualitas Riset
+## Prompt ChatGPT untuk Mengecek Kualitas Riset
 
 Bagian ini sangat penting agar riset tidak hanya terlihat rapi, tetapi juga kuat.
 
@@ -837,7 +837,7 @@ Catatan riset:
 
 ---
 
-# Workflow Riset dengan ChatGPT
+## Workflow Riset dengan ChatGPT
 
 Berikut workflow sederhana yang bisa digunakan.
 
@@ -903,7 +903,7 @@ Ubah catatan riset berikut menjadi laporan/presentasi/artikel dengan struktur ya
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Riset
+## Kesalahan Menggunakan ChatGPT untuk Riset
 
 ## 1. Menganggap ChatGPT sebagai Sumber Utama
 
@@ -954,7 +954,7 @@ Baca juga:
 
 ---
 
-# Checklist Riset dengan ChatGPT
+## Checklist Riset dengan ChatGPT
 
 Gunakan checklist berikut.
 
@@ -975,7 +975,7 @@ Gunakan checklist berikut.
 
 ---
 
-# Template Prompt Riset Serbaguna
+## Template Prompt Riset Serbaguna
 
 Gunakan template berikut untuk hampir semua riset.
 
@@ -1006,7 +1006,7 @@ Jangan mengarang data. Beri tanda "perlu verifikasi" untuk informasi yang harus 
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt ChatGPT untuk riset?
 
@@ -1038,7 +1038,7 @@ Gunakan beberapa sumber, minta AI mencari kontra-argumen, pisahkan fakta dan opi
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt ChatGPT untuk riset dapat membantu pekerjaan riset menjadi lebih cepat, rapi, dan terarah.
 
@@ -1076,7 +1076,7 @@ Jika riset Anda digunakan untuk artikel blog atau website, lanjutkan ke [Prompt 
 
 Riset akan lebih berguna jika diubah menjadi artikel yang rapi. Baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk mengubah hasil riset menjadi konten blog yang jelas dan SEO-friendly.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1100,21 +1100,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Gunakan ChatGPT untuk Riset yang Lebih Terarah
+## Gunakan ChatGPT untuk Riset yang Lebih Terarah
 
 Riset yang baik bukan hanya mencari jawaban cepat.
 

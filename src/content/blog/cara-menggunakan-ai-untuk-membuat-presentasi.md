@@ -25,7 +25,7 @@ AI bisa membantu membuat presentasi profesional dengan lebih cepat, mulai dari m
 
 Jika presentasi dibuat sebagai tugas belajar, baca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar AI membantu memahami materi, membuat catatan, latihan Q&A, dan menyiapkan penjelasan.
 
-# Cara Menggunakan AI untuk Membuat Presentasi
+
 
 Membuat presentasi profesional sering memakan waktu.
 
@@ -108,7 +108,7 @@ Baca juga:
 
 ---
 
-# Mengapa Membuat Presentasi dengan AI Tetap Perlu Strategi?
+## Mengapa Membuat Presentasi dengan AI Tetap Perlu Strategi?
 
 AI bisa membuat slide dengan cepat.
 
@@ -165,7 +165,7 @@ AI bisa menghasilkan output yang lebih terarah karena konteksnya lengkap.
 
 ---
 
-# Prinsip Membuat Presentasi Profesional dengan AI
+## Prinsip Membuat Presentasi Profesional dengan AI
 
 Sebelum membuat slide, pahami prinsip dasarnya.
 
@@ -243,7 +243,7 @@ Sebutkan audiens sejak awal saat memakai AI.
 
 ---
 
-# Jenis Presentasi yang Bisa Dibantu AI
+## Jenis Presentasi yang Bisa Dibantu AI
 
 AI bisa membantu banyak jenis presentasi.
 
@@ -309,7 +309,7 @@ Baca juga:
 
 ---
 
-# Workflow Membuat Presentasi dengan AI
+## Workflow Membuat Presentasi dengan AI
 
 Berikut workflow lengkap yang bisa diikuti.
 
@@ -746,7 +746,7 @@ Audit script presentasi berikut. Cari bagian yang terlalu panjang, membosankan, 
 
 ---
 
-# Contoh Prompt Lengkap Membuat Presentasi dengan AI
+## Contoh Prompt Lengkap Membuat Presentasi dengan AI
 
 Gunakan template ini.
 
@@ -831,7 +831,7 @@ Judul slide, pesan utama, poin slide, ide visual, speaker notes singkat, dan tra
 
 ---
 
-# Contoh Struktur Presentasi Profesional
+## Contoh Struktur Presentasi Profesional
 
 Berikut struktur umum yang bisa dipakai.
 
@@ -901,7 +901,7 @@ Berikut struktur umum yang bisa dipakai.
 
 ---
 
-# Tools AI untuk Membuat Presentasi
+## Tools AI untuk Membuat Presentasi
 
 Berikut tools yang bisa digunakan.
 
@@ -996,7 +996,7 @@ Baca juga:
 
 ---
 
-# Cara Membuat Presentasi dari Dokumen dengan AI
+## Cara Membuat Presentasi dari Dokumen dengan AI
 
 Sering kali presentasi dibuat dari dokumen panjang.
 
@@ -1044,7 +1044,7 @@ Pastikan tidak ada data yang salah dipahami.
 
 ---
 
-# Cara Membuat Presentasi dari Artikel Blog
+## Cara Membuat Presentasi dari Artikel Blog
 
 Artikel blog bisa diubah menjadi presentasi.
 
@@ -1088,7 +1088,7 @@ Baca juga:
 
 ---
 
-# Cara Membuat Presentasi untuk Video YouTube
+## Cara Membuat Presentasi untuk Video YouTube
 
 Presentasi juga bisa menjadi bahan video.
 
@@ -1135,7 +1135,7 @@ Baca juga:
 
 ---
 
-# Cara Membuat Slide yang Tidak Terlalu Penuh Teks
+## Cara Membuat Slide yang Tidak Terlalu Penuh Teks
 
 Masalah paling umum dalam presentasi adalah terlalu banyak teks.
 
@@ -1179,7 +1179,7 @@ Aturan:
 
 ---
 
-# Cara Membuat Visual Presentasi dengan AI
+## Cara Membuat Visual Presentasi dengan AI
 
 Visual bisa membantu audiens memahami ide lebih cepat.
 
@@ -1234,7 +1234,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Pitch Deck
+## Cara Menggunakan AI untuk Pitch Deck
 
 Pitch deck membutuhkan alur yang lebih strategis.
 
@@ -1282,7 +1282,7 @@ Tips pitch deck:
 
 ---
 
-# Cara Menggunakan AI untuk Presentasi Laporan
+## Cara Menggunakan AI untuk Presentasi Laporan
 
 Presentasi laporan harus fokus pada insight.
 
@@ -1326,7 +1326,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Presentasi Edukasi
+## Cara Menggunakan AI untuk Presentasi Edukasi
 
 Presentasi edukasi harus mudah dipahami.
 
@@ -1374,7 +1374,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Membuat Presentasi
+## Kesalahan Menggunakan AI untuk Membuat Presentasi
 
 ## 1. Langsung Membuat Slide Tanpa Tujuan
 
@@ -1422,7 +1422,7 @@ Bukan mengganggu fokus.
 
 ---
 
-# Checklist Presentasi AI Sebelum Dipakai
+## Checklist Presentasi AI Sebelum Dipakai
 
 Gunakan checklist ini.
 
@@ -1449,7 +1449,7 @@ Gunakan checklist ini.
 
 ---
 
-# Template Prompt Audit Presentasi
+## Template Prompt Audit Presentasi
 
 Gunakan prompt ini sebelum final.
 
@@ -1481,7 +1481,7 @@ Isi presentasi:
 
 ---
 
-# Rencana 7 Hari Belajar Membuat Presentasi dengan AI
+## Rencana 7 Hari Belajar Membuat Presentasi dengan AI
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1517,7 +1517,7 @@ Audit presentasi, kurangi teks, cek data, dan latihan presentasi.
 
 Jika presentasi digunakan dalam meeting, lanjutkan ke [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) agar hasil diskusi, keputusan, Q&A, dan tindak lanjut meeting terdokumentasi dengan jelas.
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat presentasi otomatis?
 
@@ -1549,7 +1549,7 @@ Workflow terbaik adalah: tentukan tujuan, kenali audiens, buat outline, susun al
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk membuat presentasi profesional tidak dimulai dari template.
 
@@ -1587,7 +1587,7 @@ Dengan workflow yang benar, AI dapat membantu Anda membuat presentasi yang lebih
 
 Presentasi yang kuat membutuhkan riset yang jelas. Gunakan [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) untuk mengumpulkan sumber, membuat insight, dan menyiapkan bahan sebelum menyusun slide.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1611,22 +1611,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Presentasi
+## Mulai dari Satu Presentasi
 
 Jangan mulai dengan membuat presentasi besar.
 

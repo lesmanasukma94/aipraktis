@@ -29,7 +29,7 @@ Dalam artikel ini Anda akan mempelajari apa itu AI Agent, cara kerjanya, manfaat
 
 Sebelum mempelajari AI agent, sebaiknya pahami dasar AI terlebih dahulu melalui [AI untuk Pemula](/blog/ai-untuk-pemula/) agar konsep prompt, tools AI, chatbot, dan batasan AI lebih jelas.
 
-# Apa Itu AI Agent?
+## Apa Itu AI Agent?
 
 AI Agent adalah sistem AI yang mampu mengambil tindakan secara mandiri untuk mencapai tujuan tertentu.
 
@@ -43,7 +43,7 @@ Berbeda dengan chatbot biasa yang hanya menjawab pertanyaan, AI Agent dapat:
 
 Sederhananya, AI Agent adalah "asisten digital cerdas" yang dapat bekerja untuk Anda.
 
-# Perbedaan ChatGPT dan AI Agent
+## Perbedaan ChatGPT dan AI Agent
 
 Banyak orang menganggap AI Agent sama dengan ChatGPT.
 
@@ -70,7 +70,7 @@ AI Agent mampu:
 
 AI Agent dapat bekerja secara lebih mandiri.
 
-# Cara Kerja AI Agent
+## Cara Kerja AI Agent
 
 Secara sederhana, AI Agent bekerja melalui beberapa tahap:
 
@@ -101,7 +101,7 @@ Agent melakukan pekerjaan sesuai tujuan.
 
 Hasil disajikan kepada pengguna.
 
-# Mengapa AI Agent Menjadi Penting?
+## Mengapa AI Agent Menjadi Penting?
 
 AI Agent dianggap sebagai langkah berikutnya dalam perkembangan AI.
 
@@ -123,9 +123,9 @@ Mengurangi pekerjaan manual.
 
 Bisnis dapat berkembang tanpa menambah banyak staf.
 
-# Contoh Penggunaan AI Agent
+## Contoh Penggunaan AI Agent
 
-# AI Agent untuk Customer Service
+## AI Agent untuk Customer Service
 
 Agent dapat:
 
@@ -133,7 +133,7 @@ Agent dapat:
 * Menangani FAQ
 * Membuat tiket dukungan
 
-# AI Agent untuk Marketing
+## AI Agent untuk Marketing
 
 Agent dapat:
 
@@ -141,7 +141,7 @@ Agent dapat:
 * Menjadwalkan posting
 * Melakukan riset pasar
 
-# AI Agent untuk Sales
+## AI Agent untuk Sales
 
 Agent dapat:
 
@@ -149,7 +149,7 @@ Agent dapat:
 * Mengirim follow-up
 * Mengelola pipeline penjualan
 
-# AI Agent untuk UMKM
+## AI Agent untuk UMKM
 
 Agent dapat membantu:
 
@@ -157,7 +157,7 @@ Agent dapat membantu:
 * Customer service
 * Pemasaran
 
-# AI Agent untuk Content Creator
+## AI Agent untuk Content Creator
 
 Agent dapat:
 
@@ -165,7 +165,7 @@ Agent dapat:
 * Membuat ide konten
 * Mengelola kalender konten
 
-# AI Agent untuk Freelancer
+## AI Agent untuk Freelancer
 
 Freelancer dapat menggunakan AI Agent untuk:
 
@@ -173,33 +173,33 @@ Freelancer dapat menggunakan AI Agent untuk:
 * Follow-up
 * Administrasi
 
-# Tools AI Agent Populer Saat Ini
+## Tools AI Agent Populer Saat Ini
 
-# 1. OpenAI Operator
+## 1. OpenAI Operator
 
 Dikembangkan oleh OpenAI untuk melakukan berbagai tugas otomatis.
 
-# 2. AutoGPT
+## 2. AutoGPT
 
 Salah satu proyek AI Agent paling terkenal.
 
-# 3. CrewAI
+## 3. CrewAI
 
 Framework populer untuk membuat tim AI Agent.
 
-# 4. LangChain
+## 4. LangChain
 
 Banyak digunakan dalam pengembangan AI Agent.
 
-# 5. Flowise
+## 5. Flowise
 
 Mempermudah pembuatan workflow AI.
 
-# 6. Relevance AI
+## 6. Relevance AI
 
 Platform yang fokus pada automasi berbasis AI Agent.
 
-# Apa yang Bisa Dilakukan AI Agent?
+## Apa yang Bisa Dilakukan AI Agent?
 
 AI Agent dapat:
 
@@ -213,7 +213,7 @@ AI Agent dapat:
 
 Dalam beberapa kasus, AI Agent mampu menghemat puluhan jam kerja setiap minggu.
 
-# Apakah AI Agent Akan Menggantikan Pekerjaan?
+## Apakah AI Agent Akan Menggantikan Pekerjaan?
 
 Pertanyaan ini sering muncul.
 
@@ -238,7 +238,7 @@ Sebaliknya, manusia tetap dibutuhkan untuk:
 * Kepemimpinan
 * Pengambilan keputusan kompleks
 
-# Peluang Karier di Bidang AI Agent
+## Peluang Karier di Bidang AI Agent
 
 Beberapa profesi baru mulai muncul.
 
@@ -262,7 +262,7 @@ Membangun sistem automasi berbasis AI.
 
 Mengembangkan AI Agent untuk berbagai kebutuhan.
 
-# Peluang Bisnis AI Agent
+## Peluang Bisnis AI Agent
 
 AI Agent membuka peluang bisnis yang sangat besar.
 
@@ -276,7 +276,7 @@ Contohnya:
 
 Banyak perusahaan mulai mencari solusi AI Agent untuk meningkatkan produktivitas mereka.
 
-# Cara Belajar AI Agent
+## Cara Belajar AI Agent
 
 Untuk pemula, langkah yang disarankan:
 
@@ -300,7 +300,7 @@ Pelajari AI Agent.
 
 Membangun proyek nyata.
 
-# FAQ
+## FAQ
 
 ## Apakah AI Agent sama dengan ChatGPT?
 
@@ -332,7 +332,7 @@ Baca juga:
 - [Cara Membuat Chatbot dengan AI](/blog/cara-membuat-chatbot-dengan-ai/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI Agent merupakan salah satu teknologi paling menjanjikan dalam perkembangan Artificial Intelligence. Jika chatbot membantu manusia menjawab pertanyaan, maka AI Agent membantu manusia menyelesaikan pekerjaan.
 

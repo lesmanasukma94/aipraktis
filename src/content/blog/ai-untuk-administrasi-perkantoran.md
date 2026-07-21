@@ -190,7 +190,7 @@ Karyawan yang mampu memanfaatkan AI biasanya akan bekerja lebih efektif dibandin
 
 ---
 
-# Contoh Penggunaan AI untuk Administrasi Perkantoran
+## Contoh Penggunaan AI untuk Administrasi Perkantoran
 
 AI sangat cocok untuk pekerjaan administrasi karena banyak tugas kantor bersifat berulang, berbasis dokumen, dan membutuhkan kerapian.
 
@@ -223,7 +223,7 @@ Baca juga:
 
 ---
 
-# AI untuk Membuat Email Kantor
+## AI untuk Membuat Email Kantor
 
 Salah satu penggunaan AI paling praktis di administrasi kantor adalah membuat email.
 
@@ -286,7 +286,7 @@ Pastikan nama, tanggal, lampiran, deadline, dan konteks sudah benar.
 
 ---
 
-# AI untuk Membuat Notulen Rapat
+## AI untuk Membuat Notulen Rapat
 
 Notulen rapat sering memakan waktu.
 
@@ -348,7 +348,7 @@ Baca juga:
 
 ---
 
-# AI untuk Merangkum Dokumen Kantor
+## AI untuk Merangkum Dokumen Kantor
 
 Administrasi kantor sering berurusan dengan dokumen panjang.
 
@@ -401,7 +401,7 @@ Hapus atau samarkan data seperti:
 
 ---
 
-# AI untuk Membuat Template Surat dan Dokumen
+## AI untuk Membuat Template Surat dan Dokumen
 
 AI juga bisa membantu membuat template dokumen kantor.
 
@@ -447,7 +447,7 @@ Tetapi bagian legal, kebijakan HR, kontrak, dan dokumen resmi tetap perlu dicek 
 
 ---
 
-# AI untuk Membuat SOP Administrasi
+## AI untuk Membuat SOP Administrasi
 
 SOP membantu pekerjaan administrasi menjadi lebih konsisten.
 
@@ -508,7 +508,7 @@ Baca juga:
 
 ---
 
-# AI untuk Mengelola Jadwal dan Agenda
+## AI untuk Mengelola Jadwal dan Agenda
 
 AI bisa membantu menyusun agenda kerja.
 
@@ -557,7 +557,7 @@ Misalnya:
 
 ---
 
-# AI untuk Merapikan Data Administrasi
+## AI untuk Merapikan Data Administrasi
 
 Untuk data sederhana, AI bisa membantu membuat struktur atau formula.
 
@@ -619,7 +619,7 @@ AI hanya membantu membuat struktur dan analisis awal.
 
 ---
 
-# Workflow Administrasi Kantor dengan Bantuan AI
+## Workflow Administrasi Kantor dengan Bantuan AI
 
 Berikut contoh workflow kerja administrasi dengan AI.
 
@@ -672,7 +672,7 @@ Workflow seperti ini membuat AI lebih aman digunakan karena tetap ada review man
 
 ---
 
-# Risiko Menggunakan AI untuk Administrasi Kantor
+## Risiko Menggunakan AI untuk Administrasi Kantor
 
 AI membantu pekerjaan administrasi, tetapi ada risiko yang perlu diperhatikan.
 
@@ -736,7 +736,7 @@ Misalnya:
 
 ---
 
-# Checklist Menggunakan AI untuk Administrasi Kantor
+## Checklist Menggunakan AI untuk Administrasi Kantor
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -759,7 +759,7 @@ Untuk pekerjaan yang berdampak besar, tambahkan review dari atasan atau divisi t
 
 ---
 
-# Prompt Administrasi Kantor Siap Pakai
+## Prompt Administrasi Kantor Siap Pakai
 
 ## Prompt Membuat Email Kantor
 

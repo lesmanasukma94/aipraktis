@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu UMKM online shop bekerja lebih cepat dan lebih rapi, mulai dari membuat caption produk, deskripsi produk, ide konten, template WhatsApp, balasan pelanggan, katalog, FAQ, promosi harian, laporan penjualan, analisis produk laris, hingga follow-up pelanggan. Namun, AI bukan pengganti pemilik bisnis. AI harus digunakan untuk membantu pekerjaan berulang, sementara keputusan tentang harga, stok, kualitas produk, layanan pelanggan, dan strategi bisnis tetap harus dikendalikan manusia.
 
-# AI untuk UMKM Online Shop
+
 
 UMKM online shop punya banyak pekerjaan harian.
 
@@ -138,7 +138,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk UMKM Online Shop?
+## Apa Itu AI untuk UMKM Online Shop?
 
 AI untuk UMKM online shop adalah penggunaan kecerdasan buatan untuk membantu pekerjaan toko online.
 
@@ -194,7 +194,7 @@ Tanpa konteks, output AI sering terlalu umum.
 
 ---
 
-# Mengapa UMKM Online Shop Membutuhkan AI?
+## Mengapa UMKM Online Shop Membutuhkan AI?
 
 UMKM online shop membutuhkan AI karena pekerjaan hariannya banyak, tetapi waktu dan tenaga terbatas.
 
@@ -238,7 +238,7 @@ Jangan membalas pelanggan dengan informasi yang belum dicek.
 
 ---
 
-# Prinsip Menggunakan AI untuk UMKM Online Shop
+## Prinsip Menggunakan AI untuk UMKM Online Shop
 
 Sebelum memakai AI, pahami prinsip berikut.
 
@@ -328,7 +328,7 @@ Misalnya:
 
 ---
 
-# Bagian Online Shop yang Bisa Dibantu AI
+## Bagian Online Shop yang Bisa Dibantu AI
 
 AI bisa membantu banyak bagian toko online.
 
@@ -380,7 +380,7 @@ Baca juga:
 
 ---
 
-# Workflow AI untuk UMKM Online Shop
+## Workflow AI untuk UMKM Online Shop
 
 Berikut workflow sederhana yang bisa digunakan.
 
@@ -625,7 +625,7 @@ Baca juga:
 
 ---
 
-# AI untuk WhatsApp Business Online Shop
+## AI untuk WhatsApp Business Online Shop
 
 WhatsApp sering menjadi channel utama UMKM di Indonesia.
 
@@ -709,7 +709,7 @@ Baca juga:
 
 ---
 
-# AI untuk Customer Service Online Shop
+## AI untuk Customer Service Online Shop
 
 Customer service online shop biasanya berulang.
 
@@ -792,7 +792,7 @@ Baca juga:
 
 ---
 
-# AI untuk Katalog Produk
+## AI untuk Katalog Produk
 
 Katalog produk harus rapi.
 
@@ -864,7 +864,7 @@ Katalog yang baik:
 
 ---
 
-# AI untuk Foto Produk dan Visual Promosi
+## AI untuk Foto Produk dan Visual Promosi
 
 AI bisa membantu membuat konsep foto produk.
 
@@ -925,7 +925,7 @@ Baca juga:
 
 ---
 
-# AI untuk Marketplace
+## AI untuk Marketplace
 
 Marketplace membutuhkan judul, deskripsi, foto, dan informasi produk yang jelas.
 
@@ -998,7 +998,7 @@ Review:
 
 ---
 
-# AI untuk Stok dan Order
+## AI untuk Stok dan Order
 
 Online shop perlu mencatat stok dan order dengan rapi.
 
@@ -1063,7 +1063,7 @@ Baca juga:
 
 ---
 
-# AI untuk Laporan Penjualan Online Shop
+## AI untuk Laporan Penjualan Online Shop
 
 Banyak UMKM punya data penjualan, tetapi tidak sempat menganalisis.
 
@@ -1130,7 +1130,7 @@ Baca juga:
 
 ---
 
-# AI untuk Promo dan Campaign Online Shop
+## AI untuk Promo dan Campaign Online Shop
 
 Promo harus direncanakan.
 
@@ -1206,7 +1206,7 @@ Baca juga:
 
 ---
 
-# AI untuk Repeat Order
+## AI untuk Repeat Order
 
 Repeat order penting untuk UMKM.
 
@@ -1253,7 +1253,7 @@ Pastikan pelanggan memang setuju menerima pesan promosi.
 
 ---
 
-# AI untuk Admin Harian Online Shop
+## AI untuk Admin Harian Online Shop
 
 AI juga bisa membantu pekerjaan admin.
 
@@ -1315,7 +1315,7 @@ Baca juga:
 
 ---
 
-# Tools AI untuk UMKM Online Shop
+## Tools AI untuk UMKM Online Shop
 
 Berikut tools yang bisa digunakan.
 
@@ -1417,7 +1417,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk UMKM Online Shop
+## Template Prompt Lengkap AI untuk UMKM Online Shop
 
 Gunakan template ini.
 
@@ -1469,7 +1469,7 @@ Buatkan:
 
 ---
 
-# Template Prompt Analisis Penjualan Online Shop
+## Template Prompt Analisis Penjualan Online Shop
 
 ```text
 Bertindaklah sebagai analis UMKM online shop.
@@ -1503,7 +1503,7 @@ Ringkasan, insight, rekomendasi, dan checklist tindakan.
 
 ---
 
-# Template Prompt Customer Service Online Shop
+## Template Prompt Customer Service Online Shop
 
 ```text
 Bertindaklah sebagai customer service online shop.
@@ -1533,7 +1533,7 @@ Buatkan balasan WhatsApp dan email formal.
 
 ---
 
-# Kesalahan Menggunakan AI untuk UMKM Online Shop
+## Kesalahan Menggunakan AI untuk UMKM Online Shop
 
 ## 1. Deskripsi Produk Tidak Sesuai Barang
 
@@ -1587,7 +1587,7 @@ Semua output tetap perlu dicek.
 
 ---
 
-# Checklist AI untuk UMKM Online Shop
+## Checklist AI untuk UMKM Online Shop
 
 Gunakan checklist ini.
 
@@ -1611,7 +1611,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Mulai AI untuk UMKM Online Shop
+## Rencana 7 Hari Mulai AI untuk UMKM Online Shop
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1645,7 +1645,7 @@ Cek produk laris, pertanyaan pelanggan, dan konten yang performanya bagus.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk UMKM online shop?
 
@@ -1677,7 +1677,7 @@ Mulai dari pekerjaan yang paling sering diulang: caption produk, deskripsi produ
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk UMKM online shop sangat berguna jika digunakan secara praktis.
 
@@ -1735,7 +1735,7 @@ Untuk melihat contoh penerapan yang lebih konkret, baca [Studi Kasus AI untuk UM
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Jika agency menangani klien UMKM online shop, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk menyusun workflow content plan, campaign, iklan, reporting, dan SOP layanan klien.
 
@@ -1766,22 +1766,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Mulai dari Satu Produk
+## Mulai dari Satu Produk
 
 Jangan mulai dari seluruh toko.
 

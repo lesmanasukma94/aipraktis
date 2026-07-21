@@ -26,7 +26,7 @@ Bahkan banyak UMKM dan content creator kini menggunakan AI untuk membuat logo pe
 
 Dalam artikel ini Anda akan mempelajari cara membuat logo menggunakan AI secara mudah dan efektif.
 
-# Apa Itu Logo AI?
+## Apa Itu Logo AI?
 
 Logo AI adalah logo yang dibuat dengan bantuan teknologi Artificial Intelligence.
 
@@ -40,7 +40,7 @@ AI dapat membantu:
 
 Proses yang sebelumnya memakan waktu berhari-hari kini bisa selesai dalam beberapa menit.
 
-# Mengapa Membuat Logo dengan AI?
+## Mengapa Membuat Logo dengan AI?
 
 ## Lebih Cepat
 
@@ -58,7 +58,7 @@ Tidak perlu kemampuan desain profesional.
 
 AI dapat menghasilkan puluhan hingga ratusan variasi desain.
 
-# Siapa yang Cocok Menggunakan AI untuk Membuat Logo?
+## Siapa yang Cocok Menggunakan AI untuk Membuat Logo?
 
 AI cocok untuk:
 
@@ -71,9 +71,9 @@ AI cocok untuk:
 * Konsultan
 * Personal Brand
 
-# Tools AI Terbaik untuk Membuat Logo
+## Tools AI Terbaik untuk Membuat Logo
 
-# 1. Canva AI
+## 1. Canva AI
 
 Canva merupakan salah satu tools desain paling populer.
 
@@ -83,7 +83,7 @@ Kelebihan:
 * Banyak template
 * Cocok untuk pemula
 
-# 2. Looka
+## 2. Looka
 
 Looka merupakan platform AI khusus untuk pembuatan logo.
 
@@ -93,7 +93,7 @@ Fitur:
 * Brand kit
 * File siap pakai
 
-# 3. Brandmark
+## 3. Brandmark
 
 Brandmark mampu menghasilkan logo modern dengan cepat.
 
@@ -103,11 +103,11 @@ Cocok untuk:
 * SaaS
 * Bisnis digital
 
-# 4. Adobe Express AI
+## 4. Adobe Express AI
 
 Adobe Express menawarkan fitur desain berbasis AI yang mudah digunakan.
 
-# 5. ChatGPT
+## 5. ChatGPT
 
 ChatGPT dapat membantu:
 
@@ -120,11 +120,11 @@ Prompt:
 
 > Buatkan 20 ide konsep logo untuk bisnis konsultan AI modern.
 
-# 6. Midjourney
+## 6. Midjourney
 
 Midjourney cocok untuk eksplorasi visual logo yang lebih kreatif.
 
-# Langkah 1: Tentukan Nama Brand
+## Langkah 1: Tentukan Nama Brand
 
 Logo yang baik dimulai dari nama brand yang jelas.
 
@@ -132,7 +132,7 @@ Prompt:
 
 > Buatkan 50 ide nama brand untuk bisnis fashion wanita modern.
 
-# Langkah 2: Tentukan Identitas Brand
+## Langkah 2: Tentukan Identitas Brand
 
 Sebelum membuat logo, tentukan:
 
@@ -155,7 +155,7 @@ Bisnis kuliner:
 * Ceria
 * Mudah diingat
 
-# Langkah 3: Tentukan Warna Brand
+## Langkah 3: Tentukan Warna Brand
 
 Warna memiliki pengaruh besar terhadap persepsi pelanggan.
 
@@ -183,7 +183,7 @@ Warna memiliki pengaruh besar terhadap persepsi pelanggan.
 * Elegan
 * Mewah
 
-# Langkah 4: Gunakan AI Logo Generator
+## Langkah 4: Gunakan AI Logo Generator
 
 Masukkan:
 
@@ -193,7 +193,7 @@ Masukkan:
 
 AI akan menghasilkan berbagai alternatif logo.
 
-# Langkah 5: Pilih Font yang Tepat
+## Langkah 5: Pilih Font yang Tepat
 
 Font harus sesuai dengan karakter brand.
 
@@ -211,7 +211,7 @@ Serif.
 
 Display font.
 
-# Langkah 6: Edit dan Sesuaikan
+## Langkah 6: Edit dan Sesuaikan
 
 Setelah logo dibuat:
 
@@ -219,7 +219,7 @@ Setelah logo dibuat:
 * Sesuaikan ukuran
 * Sesuaikan tipografi
 
-# Cara Membuat Logo dengan ChatGPT
+## Cara Membuat Logo dengan ChatGPT
 
 Meskipun ChatGPT bukan pembuat logo visual, ChatGPT sangat membantu untuk:
 
@@ -241,7 +241,7 @@ Prompt:
 
 > Buatkan 30 tagline untuk bisnis edukasi AI.
 
-# Cara Membuat Logo untuk UMKM
+## Cara Membuat Logo untuk UMKM
 
 Logo UMKM sebaiknya:
 
@@ -251,7 +251,7 @@ Logo UMKM sebaiknya:
 
 Hindari desain yang terlalu rumit.
 
-# Cara Membuat Logo untuk Content Creator
+## Cara Membuat Logo untuk Content Creator
 
 Content creator membutuhkan logo yang:
 
@@ -259,7 +259,7 @@ Content creator membutuhkan logo yang:
 * Cocok untuk foto profil
 * Konsisten di berbagai platform
 
-# Cara Membuat Logo untuk Toko Online
+## Cara Membuat Logo untuk Toko Online
 
 Fokus pada:
 
@@ -274,7 +274,7 @@ Karena logo akan sering digunakan pada:
 * Instagram
 * TikTok
 
-# Kesalahan Saat Membuat Logo dengan AI
+## Kesalahan Saat Membuat Logo dengan AI
 
 ## Terlalu Rumit
 
@@ -294,7 +294,7 @@ Gunakan warna dan font yang sama di seluruh media.
 
 ---
 
-# Cara Membuat Logo dengan AI dari Nol
+## Cara Membuat Logo dengan AI dari Nol
 
 Membuat logo dengan AI tidak cukup hanya menulis:
 
@@ -344,7 +344,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Tentukan Identitas Brand
+## Langkah 1: Tentukan Identitas Brand
 
 Sebelum memakai AI, tentukan dulu identitas brand.
 
@@ -388,7 +388,7 @@ Jika identitas brand belum jelas, hasil logo AI biasanya akan terasa acak.
 
 ---
 
-# Langkah 2: Pilih Jenis Logo
+## Langkah 2: Pilih Jenis Logo
 
 Ada beberapa jenis logo yang bisa dibuat dengan AI.
 
@@ -448,7 +448,7 @@ Karena hasilnya bisa dipakai di banyak kebutuhan.
 
 ---
 
-# Langkah 3: Tentukan Gaya Visual Logo
+## Langkah 3: Tentukan Gaya Visual Logo
 
 Gaya visual sangat memengaruhi hasil logo.
 
@@ -505,7 +505,7 @@ Dengan gaya yang jelas, hasil logo lebih konsisten.
 
 ---
 
-# Langkah 4: Buat Prompt Logo dengan AI
+## Langkah 4: Buat Prompt Logo dengan AI
 
 Gunakan prompt lengkap seperti ini.
 
@@ -556,7 +556,7 @@ Setelah konsep jelas, baru gunakan AI image generator untuk membuat visualnya.
 
 ---
 
-# Langkah 5: Contoh Prompt Logo AI
+## Langkah 5: Contoh Prompt Logo AI
 
 Berikut contoh prompt untuk membuat logo dengan AI image generator.
 
@@ -592,7 +592,7 @@ Teks final sebaiknya dirapikan ulang di Canva, Figma, Illustrator, atau tools de
 
 ---
 
-# Langkah 6: Evaluasi Hasil Logo AI
+## Langkah 6: Evaluasi Hasil Logo AI
 
 Setelah AI menghasilkan beberapa logo, jangan langsung memilih yang paling ramai.
 
@@ -626,7 +626,7 @@ Jika jawabannya banyak yang tidak, ulangi prompt.
 
 ---
 
-# Langkah 7: Buat Variasi Logo
+## Langkah 7: Buat Variasi Logo
 
 Logo final sebaiknya punya beberapa variasi.
 
@@ -684,7 +684,7 @@ Versi transparan cocok untuk desain visual.
 
 ---
 
-# Langkah 8: Rapikan Logo di Tools Desain
+## Langkah 8: Rapikan Logo di Tools Desain
 
 Hasil AI biasanya belum final.
 
@@ -739,7 +739,7 @@ Baca juga:
 
 ---
 
-# Langkah 9: Cek Keunikan Logo
+## Langkah 9: Cek Keunikan Logo
 
 Sebelum memakai logo untuk bisnis serius, cek apakah logo terlalu mirip dengan brand lain.
 
@@ -783,7 +783,7 @@ Untuk kebutuhan legal atau merek dagang, konsultasikan dengan pihak yang memaham
 
 ---
 
-# Contoh Workflow Membuat Logo dengan AI
+## Contoh Workflow Membuat Logo dengan AI
 
 Gunakan workflow ini.
 
@@ -810,7 +810,7 @@ Tetapi desain final tetap perlu dipilih dan dirapikan manusia.
 
 ---
 
-# Prompt Logo AI untuk UMKM
+## Prompt Logo AI untuk UMKM
 
 Gunakan prompt ini untuk UMKM.
 
@@ -852,7 +852,7 @@ Batasan:
 Logo harus sederhana, mudah diingat, dan cocok untuk social media.
 ```
 
-# Prompt Logo AI untuk Personal Brand
+## Prompt Logo AI untuk Personal Brand
 
 Gunakan prompt ini untuk personal brand.
 
@@ -884,7 +884,7 @@ Buat:
 7. rekomendasi versi logo untuk profil social media
 ```
 
-# Prompt Logo AI untuk Brand Digital
+## Prompt Logo AI untuk Brand Digital
 
 Gunakan prompt ini untuk brand digital, website, startup, atau produk online.
 
@@ -917,7 +917,7 @@ Logo harus clean, scalable, dan tidak terlalu detail.
 
 ---
 
-# Kesalahan Membuat Logo dengan AI
+## Kesalahan Membuat Logo dengan AI
 
 ## 1. Prompt Terlalu Umum
 
@@ -959,7 +959,7 @@ Jika detail hilang saat kecil, logo terlalu rumit.
 
 ---
 
-# Checklist Logo AI Sebelum Dipakai
+## Checklist Logo AI Sebelum Dipakai
 
 Gunakan checklist ini.
 
@@ -983,7 +983,7 @@ Checklist ini membantu memastikan logo tidak hanya terlihat bagus saat dibuat, t
 
 ---
 
-# Prompt Master Membuat Logo dengan AI
+## Prompt Master Membuat Logo dengan AI
 
 Gunakan prompt master berikut.
 
@@ -1034,7 +1034,7 @@ Jangan membuat logo terlalu ramai.
 Logo harus sederhana, mudah dibaca, mudah diingat, dan fleksibel.
 ```
 
-# Prompt Review Logo AI
+## Prompt Review Logo AI
 
 Gunakan prompt ini setelah punya beberapa hasil logo.
 
@@ -1069,7 +1069,7 @@ Batasan:
 Fokus pada fungsi logo sebagai identitas brand, bukan hanya estetika.
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat logo profesional?
 
@@ -1100,7 +1100,7 @@ Baca juga:
 - [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI membuat proses pembuatan logo menjadi jauh lebih cepat, mudah, dan terjangkau. Dengan bantuan Canva AI, Looka, Brandmark, Adobe Express, dan ChatGPT, siapa pun dapat membuat logo profesional untuk bisnis, UMKM, toko online, maupun personal branding.
 

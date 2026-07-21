@@ -20,7 +20,7 @@ Perplexity AI adalah chatbot berbasis AI yang fokus pada pencarian informasi dan
 
 Dalam panduan ini Anda akan mempelajari apa itu Perplexity AI, cara menggunakannya, fitur utama, kelebihan dan kekurangannya, serta bagaimana memanfaatkannya untuk kebutuhan sehari-hari.
 
-# Perplexity AI untuk Pemula
+
 
 Perkembangan AI chatbot tidak hanya terbatas pada percakapan seperti ChatGPT atau Claude. Saat ini, muncul berbagai AI dengan fokus yang lebih spesifik, salah satunya adalah Perplexity AI.
 

@@ -23,7 +23,7 @@ draft: false
 
 AI untuk podcaster dapat membantu proses produksi podcast dari ide sampai monetisasi, mulai dari riset niche, ide episode, outline, script, pertanyaan interview, riset tamu, transkrip, show notes, judul episode, deskripsi, highlight clips, audiogram, artikel blog, newsletter, social media, analitik, dan sponsorship. Namun, AI tidak boleh digunakan untuk membuat kutipan palsu, meniru suara orang tanpa izin, mengubah konteks pembicaraan secara menyesatkan, atau membuat episode massal yang tidak punya nilai. Cara terbaik memakai AI untuk podcast adalah menjadikannya asisten riset, produksi, editing, dan repurposing, sementara suara, opini, pengalaman, dan kepercayaan tetap dikendalikan host.
 
-# AI untuk Podcaster
+
 
 Podcast adalah format konten yang kuat.
 
@@ -132,7 +132,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Podcaster?
+## Apa Itu AI untuk Podcaster?
 
 AI untuk podcaster adalah penggunaan kecerdasan buatan untuk membantu perencanaan, produksi, editing, distribusi, analitik, dan monetisasi podcast.
 
@@ -183,7 +183,7 @@ Host tetap menjadi pusat podcast.
 
 ---
 
-# Mengapa Podcaster Perlu Menggunakan AI?
+## Mengapa Podcaster Perlu Menggunakan AI?
 
 AI membantu podcaster karena podcast punya banyak tahapan.
 
@@ -248,7 +248,7 @@ Baca juga:
 
 ---
 
-# Prinsip AI untuk Podcaster
+## Prinsip AI untuk Podcaster
 
 Sebelum memakai AI, pahami prinsip berikut.
 
@@ -306,7 +306,7 @@ Tetapi podcast yang kuat dibangun dari kualitas percakapan, bukan hanya kuantita
 
 ---
 
-# Workflow AI untuk Podcaster
+## Workflow AI untuk Podcaster
 
 Berikut workflow lengkap.
 
@@ -333,7 +333,7 @@ Kita bahas satu per satu.
 
 ---
 
-# Tahap 1: Menentukan Niche Podcast
+## Tahap 1: Menentukan Niche Podcast
 
 Niche adalah fokus podcast.
 
@@ -423,7 +423,7 @@ Baca juga:
 
 ---
 
-# Tahap 2: Menentukan Format Podcast
+## Tahap 2: Menentukan Format Podcast
 
 Podcast bisa punya banyak format.
 
@@ -572,7 +572,7 @@ Buat:
 
 ---
 
-# Tahap 3: Membuat Ide Episode Podcast
+## Tahap 3: Membuat Ide Episode Podcast
 
 AI bisa membantu membuat ide episode.
 
@@ -639,7 +639,7 @@ Baca juga:
 
 ---
 
-# Tahap 4: Riset Topik Episode
+## Tahap 4: Riset Topik Episode
 
 Sebelum rekaman, lakukan riset.
 
@@ -712,7 +712,7 @@ Baca juga:
 
 ---
 
-# Tahap 5: Membuat Outline Episode
+## Tahap 5: Membuat Outline Episode
 
 Outline membantu episode tidak melebar.
 
@@ -808,7 +808,7 @@ Outline ini membantu recording lebih fokus.
 
 ---
 
-# Tahap 6: Membuat Script Intro dan Outro
+## Tahap 6: Membuat Script Intro dan Outro
 
 Podcast tidak harus full scripted.
 
@@ -892,7 +892,7 @@ Jangan lupa follow podcast ini agar tidak ketinggalan episode berikutnya.
 
 ---
 
-# Tahap 7: Membuat Pertanyaan Interview
+## Tahap 7: Membuat Pertanyaan Interview
 
 Untuk interview podcast, pertanyaan sangat penting.
 
@@ -969,7 +969,7 @@ Pertanyaan seperti ini membantu episode lebih hidup.
 
 ---
 
-# Tahap 8: Riset Tamu Podcast
+## Tahap 8: Riset Tamu Podcast
 
 Jika mengundang tamu, riset penting.
 
@@ -1032,7 +1032,7 @@ Brief seperti ini membuat interview lebih profesional.
 
 ---
 
-# Tahap 9: Recording Podcast
+## Tahap 9: Recording Podcast
 
 AI tidak menggantikan kualitas recording.
 
@@ -1105,7 +1105,7 @@ Setelah recording:
 
 ---
 
-# Tahap 10: Editing Audio dengan AI
+## Tahap 10: Editing Audio dengan AI
 
 AI bisa membantu editing podcast.
 
@@ -1186,7 +1186,7 @@ Baca juga:
 
 ---
 
-# Tahap 11: Membuat Transkrip Podcast
+## Tahap 11: Membuat Transkrip Podcast
 
 Transkrip penting.
 
@@ -1259,7 +1259,7 @@ Jangan membuat klaim baru.
 
 ---
 
-# Tahap 12: Membuat Show Notes
+## Tahap 12: Membuat Show Notes
 
 Show notes adalah catatan episode.
 
@@ -1332,7 +1332,7 @@ Follow podcast ini untuk belajar AI praktis dalam bahasa Indonesia.
 
 ---
 
-# Tahap 13: Membuat Judul Episode
+## Tahap 13: Membuat Judul Episode
 
 Judul episode penting.
 
@@ -1429,7 +1429,7 @@ Kenapa Konten AI Banyak yang Terasa Generik?
 
 ---
 
-# Tahap 14: Membuat Deskripsi Episode
+## Tahap 14: Membuat Deskripsi Episode
 
 Deskripsi episode membantu pendengar memutuskan apakah episode relevan.
 
@@ -1490,7 +1490,7 @@ Baca panduan lengkap di AI Praktis Indonesia.
 
 ---
 
-# Tahap 15: Membuat Audiogram dan Clips
+## Tahap 15: Membuat Audiogram dan Clips
 
 Podcast panjang bisa dipromosikan lewat clips.
 
@@ -1561,7 +1561,7 @@ Baca juga:
 
 ---
 
-# Tahap 16: Repurposing Podcast
+## Tahap 16: Repurposing Podcast
 
 Podcast adalah sumber konten panjang.
 
@@ -1654,7 +1654,7 @@ Baca juga:
 
 ---
 
-# Tahap 17: Distribusi Podcast
+## Tahap 17: Distribusi Podcast
 
 Setelah episode publish, distribusi penting.
 
@@ -1733,7 +1733,7 @@ Distribusi membuat episode tidak hilang setelah publish.
 
 ---
 
-# Tahap 18: Membaca Analitik Podcast
+## Tahap 18: Membaca Analitik Podcast
 
 Podcaster perlu membaca analitik.
 
@@ -1839,7 +1839,7 @@ Bukan hanya mengikuti feeling.
 
 ---
 
-# Tahap 19: Monetisasi Podcast dengan AI
+## Tahap 19: Monetisasi Podcast dengan AI
 
 Podcast bisa dimonetisasi dengan beberapa cara.
 
@@ -2001,7 +2001,7 @@ Baca juga:
 
 ---
 
-# Contoh Workflow Podcaster Edukasi dengan AI
+## Contoh Workflow Podcaster Edukasi dengan AI
 
 Misalnya podcast edukasi AI.
 
@@ -2066,7 +2066,7 @@ Bukan hanya audio yang dipublish lalu selesai.
 
 ---
 
-# Format Podcast yang Cocok Dibantu AI
+## Format Podcast yang Cocok Dibantu AI
 
 Berikut format yang cocok dibantu AI.
 
@@ -2167,7 +2167,7 @@ Namun, cerita harus jujur.
 
 ---
 
-# AI untuk Video Podcast
+## AI untuk Video Podcast
 
 Video podcast semakin penting karena mudah direpurposing.
 
@@ -2226,7 +2226,7 @@ Baca juga:
 
 ---
 
-# AI untuk Podcast Faceless
+## AI untuk Podcast Faceless
 
 Podcast faceless juga bisa dibuat.
 
@@ -2265,7 +2265,7 @@ Jika memakai suara sintetis, pastikan tidak meniru orang tanpa izin dan tidak me
 
 ---
 
-# AI untuk Podcast Interview
+## AI untuk Podcast Interview
 
 Podcast interview membutuhkan persiapan lebih.
 
@@ -2313,7 +2313,7 @@ Gunakan hanya informasi yang diberikan.
 
 ---
 
-# AI untuk Podcast Brand atau Bisnis
+## AI untuk Podcast Brand atau Bisnis
 
 Podcast juga bisa dipakai oleh brand.
 
@@ -2376,7 +2376,7 @@ Baca juga:
 
 ---
 
-# Prompt Pack AI untuk Podcaster
+## Prompt Pack AI untuk Podcaster
 
 Berikut prompt siap pakai.
 
@@ -2633,7 +2633,7 @@ Jangan mengarang data performa.
 
 ---
 
-# SOP Etika AI untuk Podcaster
+## SOP Etika AI untuk Podcaster
 
 Podcaster perlu SOP etika.
 
@@ -2685,7 +2685,7 @@ Tetapi suara, opini, dan tanggung jawab tetap milik host.
 
 ---
 
-# Kesalahan Podcaster Saat Menggunakan AI
+## Kesalahan Podcaster Saat Menggunakan AI
 
 ## 1. Script Terlalu Kaku
 
@@ -2744,7 +2744,7 @@ Misalnya:
 
 ---
 
-# Checklist Produksi Podcast dengan AI
+## Checklist Produksi Podcast dengan AI
 
 Gunakan checklist ini.
 
@@ -2822,7 +2822,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 30 Hari AI untuk Podcaster
+## Rencana 30 Hari AI untuk Podcaster
 
 Berikut rencana sederhana.
 
@@ -2893,7 +2893,7 @@ Workflow podcast yang bisa diulang.
 
 ---
 
-# Contoh Kalender Podcast 8 Episode
+## Contoh Kalender Podcast 8 Episode
 
 Contoh untuk podcast AI praktis.
 
@@ -2910,7 +2910,7 @@ Contoh untuk podcast AI praktis.
 
 ---
 
-# Contoh Workflow Episode Podcast
+## Contoh Workflow Episode Podcast
 
 Misalnya episode:
 
@@ -2948,7 +2948,7 @@ Pantau completion rate dan komentar.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk podcaster?
 
@@ -2984,7 +2984,7 @@ Mulai dari ide episode, riset topik, outline, recording, editing, transkrip, sho
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk podcaster bisa sangat membantu.
 
@@ -3054,7 +3054,7 @@ Tetap jadikan suara, keaslian, dan kepercayaan sebagai pusat podcast.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -3079,7 +3079,7 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
@@ -3095,7 +3095,7 @@ Temukan panduan AI sesuai kebutuhan Anda:
 
 ---
 
-# Mulai dari Satu Episode
+## Mulai dari Satu Episode
 
 Jangan langsung membuat podcast besar.
 

@@ -22,7 +22,7 @@ draft: false
 
 Prompt AI untuk email marketing dapat membantu membuat newsletter, welcome email, email sequence, lead nurturing, subject line, preview text, promosi produk, follow-up, winback email, launch campaign, dan audit email. Dengan prompt yang tepat, AI bisa mempercepat proses menulis email tanpa membuat pesan terasa generik. Namun, email marketing yang baik harus tetap relevan, jujur, tidak spammy, tidak menyesatkan, punya CTA yang jelas, dan menghormati pilihan penerima untuk berhenti berlangganan.
 
-# Prompt AI untuk Email Marketing
+
 
 Email marketing adalah salah satu channel digital yang sering diremehkan.
 
@@ -123,7 +123,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Email Marketing
+## Cara Menggunakan AI untuk Email Marketing
 
 Jangan hanya menulis:
 
@@ -177,7 +177,7 @@ Hasil email akan lebih relevan, lebih natural, dan lebih siap dipakai.
 
 ---
 
-# Struktur Prompt Email Marketing yang Baik
+## Struktur Prompt Email Marketing yang Baik
 
 Prompt email marketing yang baik biasanya memiliki elemen berikut:
 
@@ -236,7 +236,7 @@ Template ini bisa dipakai untuk hampir semua jenis email marketing.
 
 ---
 
-# Prompt AI untuk Subject Line
+## Prompt AI untuk Subject Line
 
 Subject line menentukan apakah email dibuka atau diabaikan.
 
@@ -279,7 +279,7 @@ Subject line:
 
 ---
 
-# Prompt AI untuk Preview Text
+## Prompt AI untuk Preview Text
 
 Preview text adalah teks pendek yang biasanya terlihat setelah subject line.
 
@@ -323,7 +323,7 @@ Preview text:
 
 ---
 
-# Prompt AI untuk Newsletter
+## Prompt AI untuk Newsletter
 
 Newsletter cocok untuk membangun hubungan jangka panjang.
 
@@ -383,7 +383,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Welcome Email
+## Prompt AI untuk Welcome Email
 
 Welcome email adalah email pertama setelah seseorang masuk ke daftar Anda.
 
@@ -434,7 +434,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Email Sequence
+## Prompt AI untuk Email Sequence
 
 Email sequence adalah rangkaian email otomatis.
 
@@ -493,7 +493,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Lead Nurturing
+## Prompt AI untuk Lead Nurturing
 
 Lead nurturing adalah proses membangun hubungan dengan calon pelanggan sebelum mereka siap membeli.
 
@@ -541,7 +541,7 @@ Buatkan email nurturing berdasarkan funnel awareness, consideration, dan decisio
 
 ---
 
-# Prompt AI untuk Email Promosi
+## Prompt AI untuk Email Promosi
 
 Email promosi bertujuan mengarahkan pembaca ke tindakan tertentu.
 
@@ -592,7 +592,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Product Launch Email
+## Prompt AI untuk Product Launch Email
 
 Launch produk membutuhkan alur.
 
@@ -646,7 +646,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Follow-Up Email
+## Prompt AI untuk Follow-Up Email
 
 Follow-up membantu mengingatkan orang tanpa terasa memaksa.
 
@@ -695,7 +695,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Cart Abandonment Email
+## Prompt AI untuk Cart Abandonment Email
 
 Cart abandonment email digunakan saat calon pembeli hampir membeli tetapi belum menyelesaikan transaksi.
 
@@ -736,7 +736,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Winback dan Re-Engagement Email
+## Prompt AI untuk Winback dan Re-Engagement Email
 
 Winback email digunakan untuk mengaktifkan kembali audiens yang sudah lama tidak aktif.
 
@@ -784,7 +784,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Onboarding Email
+## Prompt AI untuk Onboarding Email
 
 Onboarding email membantu pengguna atau pembeli mendapatkan hasil pertama.
 
@@ -827,7 +827,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Segmentasi Email
+## Prompt AI untuk Segmentasi Email
 
 Email yang sama tidak selalu cocok untuk semua orang.
 
@@ -901,7 +901,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Personalisasi Email
+## Prompt AI untuk Personalisasi Email
 
 Personalisasi bukan hanya menyebut nama penerima.
 
@@ -957,7 +957,7 @@ Email:
 
 ---
 
-# Prompt AI untuk A/B Testing Email
+## Prompt AI untuk A/B Testing Email
 
 A/B testing membantu membandingkan dua versi email.
 
@@ -1009,7 +1009,7 @@ Buatkan rencana A/B testing email marketing selama 30 hari untuk brand [niche]. 
 
 ---
 
-# Prompt AI untuk Audit Email Marketing
+## Prompt AI untuk Audit Email Marketing
 
 Audit membantu memperbaiki email sebelum dikirim.
 
@@ -1060,7 +1060,7 @@ Email:
 
 ---
 
-# Prompt AI untuk Email Marketing UMKM
+## Prompt AI untuk Email Marketing UMKM
 
 UMKM bisa memakai email marketing untuk menjaga hubungan dengan pelanggan.
 
@@ -1117,7 +1117,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Email Produk Digital
+## Prompt AI untuk Email Produk Digital
 
 Produk digital sangat cocok dipasarkan lewat email.
 
@@ -1165,7 +1165,7 @@ Buatkan email promosi untuk membership [topik]. Target member [target]. Jelaskan
 
 ---
 
-# Prompt AI untuk Email Berbasis Artikel Blog
+## Prompt AI untuk Email Berbasis Artikel Blog
 
 Email bisa membantu mendistribusikan artikel.
 
@@ -1220,7 +1220,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Workflow Email Marketing
+## Prompt AI untuk Workflow Email Marketing
 
 Email marketing yang baik butuh sistem.
 
@@ -1261,7 +1261,7 @@ Bantu analisis performa email, kemungkinan penyebab, bagian yang perlu diperbaik
 
 ---
 
-# Prompt AI untuk Email Marketing AI Praktis Indonesia
+## Prompt AI untuk Email Marketing AI Praktis Indonesia
 
 Berikut contoh prompt yang cocok untuk proyek edukasi AI.
 
@@ -1309,7 +1309,7 @@ Buatkan email promosi soft selling untuk produk digital AI Praktis Indonesia ten
 
 ---
 
-# Workflow Email Marketing dengan AI
+## Workflow Email Marketing dengan AI
 
 Berikut workflow praktis menggunakan AI untuk email marketing.
 
@@ -1375,7 +1375,7 @@ Analisis data campaign email berikut dan berikan rekomendasi untuk email berikut
 
 ---
 
-# Kesalahan Menggunakan AI untuk Email Marketing
+## Kesalahan Menggunakan AI untuk Email Marketing
 
 ## 1. Subject Line Terlalu Clickbait
 
@@ -1449,7 +1449,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Email Marketing
+## Checklist Prompt AI untuk Email Marketing
 
 Gunakan checklist ini sebelum meminta AI membuat email.
 
@@ -1472,7 +1472,7 @@ Gunakan checklist ini sebelum meminta AI membuat email.
 
 ---
 
-# Template Prompt Email Marketing Serbaguna
+## Template Prompt Email Marketing Serbaguna
 
 Gunakan template ini untuk hampir semua kebutuhan email marketing.
 
@@ -1517,7 +1517,7 @@ Beri catatan jika ada informasi yang perlu diverifikasi.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk email marketing?
 
@@ -1549,7 +1549,7 @@ Cek subject line, preview text, isi email, link, CTA, segmentasi, klaim, data, h
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk email marketing dapat membantu membuat email lebih cepat, lebih rapi, dan lebih terarah.
 
@@ -1585,7 +1585,7 @@ Email marketing membutuhkan writing tools yang tepat. Baca [AI Tools untuk Menul
 
 Untuk workflow email yang lebih luas, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) yang membahas email profesional, subject line, newsletter, follow-up, sequence, dan audit email sebelum dikirim.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1609,21 +1609,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Email yang Memberi Nilai
+## Mulai dari Email yang Memberi Nilai
 
 Email marketing yang baik tidak dimulai dari promosi.
 

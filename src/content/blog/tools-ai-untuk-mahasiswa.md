@@ -24,7 +24,7 @@ Dalam artikel ini Anda akan menemukan tools AI terbaik untuk mahasiswa yang dapa
 
 ---
 
-# Mengapa Mahasiswa Perlu Menggunakan AI?
+## Mengapa Mahasiswa Perlu Menggunakan AI?
 
 AI dapat membantu mahasiswa:
 
@@ -41,7 +41,7 @@ AI bukan pengganti belajar, tetapi alat bantu yang dapat membuat proses belajar 
 
 ---
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT merupakan tools AI yang paling banyak digunakan mahasiswa di seluruh dunia.
 
@@ -59,7 +59,7 @@ Contoh prompt:
 
 ---
 
-# 2. Google Gemini
+## 2. Google Gemini
 
 Gemini sangat berguna untuk mencari informasi terbaru.
 
@@ -77,7 +77,7 @@ Cocok digunakan untuk:
 
 ---
 
-# 3. Perplexity AI
+## 3. Perplexity AI
 
 Perplexity menjadi salah satu tools AI favorit mahasiswa karena memberikan sumber referensi secara langsung.
 
@@ -91,7 +91,7 @@ Sangat membantu saat mencari jurnal atau data pendukung.
 
 ---
 
-# 4. Elicit
+## 4. Elicit
 
 Elicit dirancang khusus untuk penelitian akademik.
 
@@ -105,7 +105,7 @@ Sangat cocok untuk mahasiswa yang sedang menyusun skripsi.
 
 ---
 
-# 5. Consensus
+## 5. Consensus
 
 Consensus membantu menemukan jawaban berbasis penelitian ilmiah.
 
@@ -117,7 +117,7 @@ Kelebihan:
 
 ---
 
-# 6. SciSpace
+## 6. SciSpace
 
 SciSpace membantu membaca jurnal yang sulit dipahami.
 
@@ -129,7 +129,7 @@ Fitur:
 
 ---
 
-# 7. Notion AI
+## 7. Notion AI
 
 Notion AI membantu mahasiswa mengatur seluruh aktivitas kuliah.
 
@@ -142,7 +142,7 @@ Cocok untuk:
 
 ---
 
-# 8. Canva AI
+## 8. Canva AI
 
 Canva membantu membuat presentasi lebih menarik.
 
@@ -156,7 +156,7 @@ Sangat berguna untuk tugas kelompok.
 
 ---
 
-# 9. Gamma
+## 9. Gamma
 
 Gamma dapat membuat presentasi secara otomatis.
 
@@ -168,7 +168,7 @@ Gamma akan membuat slide presentasi dalam hitungan menit.
 
 ---
 
-# 10. Grammarly
+## 10. Grammarly
 
 Grammarly membantu memperbaiki tulisan akademik.
 
@@ -182,7 +182,7 @@ Sangat membantu untuk jurnal berbahasa Inggris.
 
 ---
 
-# 11. QuillBot
+## 11. QuillBot
 
 QuillBot populer di kalangan mahasiswa.
 
@@ -196,7 +196,7 @@ Namun tetap gunakan secara etis dan jangan melakukan plagiarisme.
 
 ---
 
-# 12. Otter AI
+## 12. Otter AI
 
 Otter AI dapat mengubah suara menjadi teks otomatis.
 
@@ -208,7 +208,7 @@ Cocok untuk:
 
 ---
 
-# 13. ElevenLabs
+## 13. ElevenLabs
 
 ElevenLabs membantu membuat audio dari teks.
 
@@ -220,7 +220,7 @@ Berguna untuk:
 
 ---
 
-# 14. Wolfram Alpha
+## 14. Wolfram Alpha
 
 Wolfram Alpha sangat kuat untuk:
 
@@ -233,7 +233,7 @@ Sangat berguna untuk mahasiswa STEM.
 
 ---
 
-# 15. Microsoft Copilot
+## 15. Microsoft Copilot
 
 Copilot terintegrasi dengan:
 
@@ -245,7 +245,7 @@ Membantu mempercepat pekerjaan akademik sehari-hari.
 
 ---
 
-# Kombinasi Tools AI Terbaik untuk Mahasiswa
+## Kombinasi Tools AI Terbaik untuk Mahasiswa
 
 ## Untuk Tugas Kuliah
 
@@ -275,7 +275,7 @@ Membantu mempercepat pekerjaan akademik sehari-hari.
 
 ---
 
-# Tools AI Gratis yang Wajib Dicoba Mahasiswa
+## Tools AI Gratis yang Wajib Dicoba Mahasiswa
 
 Jika baru mulai:
 
@@ -289,7 +289,7 @@ Kelima tools ini sudah cukup membantu sebagian besar kebutuhan akademik.
 
 ---
 
-# Kesalahan Mahasiswa Saat Menggunakan AI
+## Kesalahan Mahasiswa Saat Menggunakan AI
 
 Beberapa kesalahan yang sering terjadi:
 
@@ -302,7 +302,7 @@ AI harus digunakan sebagai alat bantu belajar, bukan jalan pintas.
 
 ---
 
-# Cara Memilih Tools AI untuk Mahasiswa
+## Cara Memilih Tools AI untuk Mahasiswa
 
 Tools AI untuk mahasiswa sebaiknya dipilih berdasarkan kebutuhan kuliah, bukan hanya karena sedang populer.
 
@@ -356,7 +356,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk Mahasiswa
+## Kategori Tools AI untuk Mahasiswa
 
 Agar lebih mudah, tools AI untuk mahasiswa bisa dibagi menjadi beberapa kategori.
 
@@ -740,7 +740,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Stack Tools AI untuk Mahasiswa
+## Rekomendasi Stack Tools AI untuk Mahasiswa
 
 ## Stack Pemula
 
@@ -808,7 +808,7 @@ Jangan memakai terlalu banyak tools jika workflow belajar belum rapi.
 
 ---
 
-# Workflow Mahasiswa Menggunakan AI
+## Workflow Mahasiswa Menggunakan AI
 
 Berikut workflow aman menggunakan AI untuk tugas kuliah.
 
@@ -849,7 +849,7 @@ Workflow seperti ini membuat AI membantu proses belajar tanpa menggantikan pemah
 
 ---
 
-# Risiko Menggunakan Tools AI untuk Mahasiswa
+## Risiko Menggunakan Tools AI untuk Mahasiswa
 
 AI sangat membantu, tetapi ada beberapa risiko penting.
 
@@ -892,7 +892,7 @@ Cek kembali dengan:
 
 ---
 
-# Checklist Menggunakan AI untuk Mahasiswa
+## Checklist Menggunakan AI untuk Mahasiswa
 
 Gunakan checklist ini sebelum memakai hasil AI.
 
@@ -914,7 +914,7 @@ Checklist ini penting agar AI benar-benar membantu proses belajar.
 
 ---
 
-# Prompt Tools AI untuk Mahasiswa
+## Prompt Tools AI untuk Mahasiswa
 
 ## Prompt Belajar Materi Kuliah
 
@@ -1048,7 +1048,7 @@ Baca juga:
 - [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 - [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 
-# FAQ
+## FAQ
 
 ## Apakah mahasiswa boleh menggunakan AI?
 
@@ -1068,7 +1068,7 @@ ChatGPT, Elicit, SciSpace, Perplexity, dan Grammarly.
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah menjadi salah satu teknologi paling bermanfaat bagi mahasiswa modern. Dengan menggunakan tools AI yang tepat, mahasiswa dapat belajar lebih cepat, melakukan penelitian lebih efektif, dan meningkatkan produktivitas akademik secara signifikan.
 

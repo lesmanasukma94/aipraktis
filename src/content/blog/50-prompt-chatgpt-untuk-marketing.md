@@ -43,7 +43,7 @@ Prompt yang baik akan menghasilkan:
 
 Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
-# Prompt untuk Riset Target Pasar
+## Prompt untuk Riset Target Pasar
 
 ## Prompt 1
 
@@ -65,7 +65,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Berikan ide segmentasi pasar untuk bisnis [jenis bisnis].
 
-# Prompt untuk Ide Konten
+## Prompt untuk Ide Konten
 
 ## Prompt 6
 
@@ -87,7 +87,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Berikan ide konten yang dapat meningkatkan engagement pelanggan.
 
-# Prompt untuk Caption Instagram
+## Prompt untuk Caption Instagram
 
 ## Prompt 11
 
@@ -109,7 +109,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat caption yang mengandung call to action kuat.
 
-# Prompt untuk Copywriting
+## Prompt untuk Copywriting
 
 ## Prompt 16
 
@@ -131,7 +131,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat teks promosi yang menonjolkan manfaat produk.
 
-# Prompt untuk Email Marketing
+## Prompt untuk Email Marketing
 
 ## Prompt 21
 
@@ -153,7 +153,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat email newsletter mingguan.
 
-# Prompt untuk Strategi Marketing
+## Prompt untuk Strategi Marketing
 
 ## Prompt 26
 
@@ -175,7 +175,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat strategi pemasaran digital untuk bisnis online.
 
-# Prompt untuk Facebook Marketing
+## Prompt untuk Facebook Marketing
 
 ## Prompt 31
 
@@ -197,7 +197,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat CTA yang efektif untuk Facebook.
 
-# Prompt untuk TikTok Marketing
+## Prompt untuk TikTok Marketing
 
 ## Prompt 36
 
@@ -219,7 +219,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat konsep storytelling untuk TikTok.
 
-# Prompt untuk Analisis Marketing
+## Prompt untuk Analisis Marketing
 
 ## Prompt 41
 
@@ -241,7 +241,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Berikan ide meningkatkan loyalitas pelanggan.
 
-# Prompt untuk Penjualan
+## Prompt untuk Penjualan
 
 ## Prompt 46
 
@@ -263,7 +263,7 @@ Semakin spesifik prompt yang digunakan, semakin baik hasil yang diperoleh.
 
 > Buat strategi meningkatkan repeat order pelanggan.
 
-# Tips Menggunakan Prompt Marketing
+## Tips Menggunakan Prompt Marketing
 
 Agar hasil lebih maksimal:
 
@@ -277,7 +277,7 @@ Semakin detail informasi yang diberikan, semakin baik hasil yang diperoleh.
 
 ---
 
-# Cara Menggunakan Prompt ChatGPT untuk Marketing
+## Cara Menggunakan Prompt ChatGPT untuk Marketing
 
 Prompt ChatGPT untuk marketing akan lebih efektif jika digunakan dengan konteks yang jelas.
 
@@ -345,7 +345,7 @@ Baca juga:
 
 ---
 
-# Kategori Prompt ChatGPT untuk Marketing
+## Kategori Prompt ChatGPT untuk Marketing
 
 Prompt marketing sebaiknya dibagi berdasarkan kebutuhan.
 
@@ -835,7 +835,7 @@ Data yang bisa dianalisis:
 
 ---
 
-# Workflow Marketing dengan ChatGPT
+## Workflow Marketing dengan ChatGPT
 
 Berikut workflow sederhana memakai ChatGPT untuk marketing.
 
@@ -893,7 +893,7 @@ Gunakan data untuk memperbaiki konten berikutnya.
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Marketing
+## Kesalahan Menggunakan ChatGPT untuk Marketing
 
 ## 1. Prompt Terlalu Umum
 
@@ -952,7 +952,7 @@ Minta ChatGPT menyesuaikan format untuk tiap platform.
 
 ---
 
-# Checklist Prompt Marketing yang Baik
+## Checklist Prompt Marketing yang Baik
 
 Gunakan checklist ini sebelum memakai prompt ChatGPT untuk marketing.
 
@@ -974,7 +974,7 @@ Jika hasil ChatGPT masih terlalu umum, biasanya konteks prompt belum cukup lengk
 
 ---
 
-# Prompt Master untuk Marketing
+## Prompt Master untuk Marketing
 
 Gunakan prompt master ini jika ingin membuat strategi marketing dari awal.
 
@@ -1022,7 +1022,7 @@ Jangan membuat klaim berlebihan.
 Fokus pada langkah yang realistis untuk dijalankan.
 ```
 
-# Prompt untuk Repurposing Marketing
+## Prompt untuk Repurposing Marketing
 
 Gunakan prompt ini untuk mengubah satu konten menjadi banyak materi marketing.
 
@@ -1054,7 +1054,7 @@ Jangan membuat klaim berlebihan.
 Gunakan bahasa Indonesia natural.
 ```
 
-# Prompt untuk Audit Marketing
+## Prompt untuk Audit Marketing
 
 Gunakan prompt ini untuk mengevaluasi marketing yang sudah berjalan.
 
@@ -1106,7 +1106,7 @@ Gunakan bahasa Indonesia praktis dan spesifik.
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt yang tepat dapat membantu ChatGPT menjadi asisten marketing yang sangat efektif. Dengan menggunakan prompt yang relevan, bisnis dapat menghasilkan lebih banyak ide, membuat konten lebih cepat, dan meningkatkan produktivitas pemasaran secara signifikan.
 

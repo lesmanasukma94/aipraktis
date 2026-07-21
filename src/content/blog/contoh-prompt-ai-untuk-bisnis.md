@@ -22,7 +22,7 @@ draft: false
 
 Prompt AI untuk bisnis dapat membantu pemilik usaha, UMKM, freelancer, marketer, sales, customer service, admin, dan founder bekerja lebih cepat. Dengan prompt yang tepat, AI bisa membantu membuat strategi bisnis, ide promosi, copywriting, konten media sosial, email marketing, follow-up sales, balasan pelanggan, SOP, laporan, analisis kompetitor, CRM, dan otomasi bisnis. Artikel ini berisi kumpulan contoh prompt AI untuk bisnis yang siap dipakai dan bisa disesuaikan dengan kebutuhan Anda.
 
-# Contoh Prompt AI untuk Bisnis
+
 
 AI bisa membantu bisnis kecil maupun besar.
 
@@ -94,7 +94,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan Prompt AI untuk Bisnis
+## Cara Menggunakan Prompt AI untuk Bisnis
 
 Sebelum memakai daftar prompt di artikel ini, pahami dulu prinsip dasarnya.
 
@@ -130,7 +130,7 @@ Hasilnya akan lebih praktis.
 
 ---
 
-# Prompt AI untuk Ide Bisnis
+## Prompt AI untuk Ide Bisnis
 
 AI bisa membantu mengeksplorasi ide bisnis, tetapi jangan langsung menerima semua rekomendasi AI tanpa riset pasar.
 
@@ -168,7 +168,7 @@ Buatkan business model sederhana untuk bisnis [jenis bisnis]. Format output: tar
 
 ---
 
-# Prompt AI untuk Strategi Bisnis
+## Prompt AI untuk Strategi Bisnis
 
 AI bisa membantu menyusun strategi awal, tetapi strategi tetap harus disesuaikan dengan data dan kondisi nyata.
 
@@ -204,7 +204,7 @@ Buatkan OKR untuk bisnis [jenis bisnis] selama kuartal berikutnya. Tujuan utama:
 
 ---
 
-# Prompt AI untuk Marketing
+## Prompt AI untuk Marketing
 
 Marketing adalah salah satu area yang paling terbantu oleh AI.
 
@@ -247,7 +247,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Copywriting
+## Prompt AI untuk Copywriting
 
 Copywriting membantu bisnis menjual dengan kata-kata.
 
@@ -285,7 +285,7 @@ Buatkan 50 variasi CTA untuk bisnis [jenis bisnis] dengan tujuan [download/dafta
 
 ---
 
-# Prompt AI untuk Konten Media Sosial Bisnis
+## Prompt AI untuk Konten Media Sosial Bisnis
 
 AI sangat membantu membuat ide konten, caption, hook, dan kalender posting.
 
@@ -329,7 +329,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Sales
+## Prompt AI untuk Sales
 
 Sales membutuhkan follow-up, script, objection handling, dan ringkasan prospek.
 
@@ -373,7 +373,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Customer Service
+## Prompt AI untuk Customer Service
 
 Customer service harus cepat, jelas, dan empatik.
 
@@ -419,7 +419,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk WhatsApp Bisnis
+## Prompt AI untuk WhatsApp Bisnis
 
 Untuk pasar Indonesia, WhatsApp adalah channel bisnis yang sangat penting.
 
@@ -461,7 +461,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Email Marketing
+## Prompt AI untuk Email Marketing
 
 Email marketing cocok untuk nurturing lead, edukasi, promosi, dan retensi.
 
@@ -501,7 +501,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk CRM dan Lead Management
+## Prompt AI untuk CRM dan Lead Management
 
 AI dapat membantu merapikan data lead, membuat scoring, dan menentukan follow-up.
 
@@ -547,7 +547,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk SOP dan Operasional Bisnis
+## Prompt AI untuk SOP dan Operasional Bisnis
 
 AI sangat berguna untuk membuat SOP, checklist, dan dokumentasi.
 
@@ -589,7 +589,7 @@ Buatkan dokumen training untuk anggota tim baru posisi [posisi]. Sertakan tugas 
 
 ---
 
-# Prompt AI untuk Otomasi Bisnis
+## Prompt AI untuk Otomasi Bisnis
 
 Otomasi bisnis membantu mengurangi pekerjaan berulang.
 
@@ -634,7 +634,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Laporan Bisnis
+## Prompt AI untuk Laporan Bisnis
 
 AI dapat membantu membuat ringkasan laporan dan insight dari data.
 
@@ -687,7 +687,7 @@ Laporan:
 
 ---
 
-# Prompt AI untuk Analisis Kompetitor
+## Prompt AI untuk Analisis Kompetitor
 
 AI dapat membantu menyusun kerangka analisis kompetitor.
 
@@ -722,7 +722,7 @@ Buatkan tabel perbandingan produk kami dengan kompetitor. Produk kami: [jelaskan
 
 ---
 
-# Prompt AI untuk Produk dan Penawaran
+## Prompt AI untuk Produk dan Penawaran
 
 AI bisa membantu merancang paket, bonus, harga, dan penawaran.
 
@@ -758,7 +758,7 @@ Buatkan FAQ untuk halaman penawaran [produk/jasa]. Sertakan pertanyaan tentang h
 
 ---
 
-# Prompt AI untuk Toko Online dan UMKM
+## Prompt AI untuk Toko Online dan UMKM
 
 Untuk UMKM, prompt AI sebaiknya sederhana dan langsung bisa dipakai.
 
@@ -799,7 +799,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Bisnis Jasa
+## Prompt AI untuk Bisnis Jasa
 
 Bisnis jasa membutuhkan komunikasi yang meyakinkan dan profesional.
 
@@ -835,7 +835,7 @@ Buatkan struktur studi kasus klien untuk bisnis jasa [jenis jasa]. Format: latar
 
 ---
 
-# Prompt AI untuk Bisnis Digital
+## Prompt AI untuk Bisnis Digital
 
 Bisnis digital seperti course, template, SaaS, membership, dan produk digital sangat cocok dibantu AI.
 
@@ -871,7 +871,7 @@ Buatkan sequence onboarding untuk pembeli produk digital [produk]. Sertakan emai
 
 ---
 
-# Prompt AI untuk Keuangan Bisnis Sederhana
+## Prompt AI untuk Keuangan Bisnis Sederhana
 
 AI bisa membantu menyusun struktur laporan dan analisis sederhana.
 
@@ -906,7 +906,7 @@ Buatkan template laporan cashflow bulanan untuk bisnis [jenis bisnis]. Sertakan 
 
 ---
 
-# Prompt AI untuk Evaluasi Bisnis
+## Prompt AI untuk Evaluasi Bisnis
 
 Evaluasi rutin membantu bisnis tidak hanya sibuk, tetapi juga bertumbuh.
 
@@ -936,7 +936,7 @@ Buatkan analisis customer journey untuk bisnis [jenis bisnis]. Tahap: awareness,
 
 ---
 
-# Prompt AI untuk Rapat Bisnis
+## Prompt AI untuk Rapat Bisnis
 
 AI bisa membantu menyiapkan agenda, pertanyaan, dan tindak lanjut rapat.
 
@@ -963,7 +963,7 @@ Catatan:
 
 ---
 
-# Tips Memakai Prompt AI untuk Bisnis
+## Tips Memakai Prompt AI untuk Bisnis
 
 ## 1. Selalu Beri Konteks Bisnis
 
@@ -1036,7 +1036,7 @@ Dengan prompt library, tim bisa bekerja lebih konsisten.
 
 ---
 
-# Checklist Prompt AI untuk Bisnis
+## Checklist Prompt AI untuk Bisnis
 
 Gunakan checklist berikut sebelum memakai AI untuk pekerjaan bisnis penting.
 
@@ -1055,7 +1055,7 @@ Gunakan checklist berikut sebelum memakai AI untuk pekerjaan bisnis penting.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk bisnis?
 
@@ -1087,7 +1087,7 @@ Gunakan struktur: konteks bisnis, tugas, target pelanggan, format output, gaya b
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk bisnis dapat membantu banyak pekerjaan berjalan lebih cepat dan lebih rapi.
 
@@ -1139,7 +1139,7 @@ Untuk operasional layanan pelanggan, lanjutkan ke [Prompt AI untuk Customer Serv
 
 Prompt bisnis untuk agency akan lebih efektif jika masuk ke workflow yang jelas. Baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk template client intake, proposal, content plan, reporting, SOP, dan QC.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1164,21 +1164,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Gunakan Prompt AI untuk Membangun Sistem Bisnis
+## Gunakan Prompt AI untuk Membangun Sistem Bisnis
 
 AI akan lebih bermanfaat jika tidak hanya dipakai sesekali.
 

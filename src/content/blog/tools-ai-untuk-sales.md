@@ -26,7 +26,7 @@ Bukan berarti AI akan menggantikan tenaga penjualan. Sebaliknya, AI membantu sal
 
 Dalam artikel ini Anda akan mempelajari tools AI terbaik untuk sales beserta fungsi, kelebihan, dan rekomendasi penggunaannya.
 
-# Mengapa Sales Perlu Menggunakan AI?
+## Mengapa Sales Perlu Menggunakan AI?
 
 Beberapa manfaat AI untuk tim penjualan antara lain:
 
@@ -40,9 +40,9 @@ Beberapa manfaat AI untuk tim penjualan antara lain:
 
 Semakin sedikit waktu yang dihabiskan untuk pekerjaan administratif, semakin banyak waktu yang dapat digunakan untuk menjual.
 
-# 15 Tools AI Terbaik untuk Sales
+## 15 Tools AI Terbaik untuk Sales
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT menjadi salah satu tools AI paling fleksibel bagi sales.
 
@@ -57,7 +57,7 @@ Dapat digunakan untuk:
 
 Sangat cocok untuk sales individu maupun tim.
 
-# 2. HubSpot AI
+## 2. HubSpot AI
 
 HubSpot mengintegrasikan AI ke dalam CRM mereka.
 
@@ -70,7 +70,7 @@ Fitur unggulan:
 
 Cocok untuk perusahaan yang menggunakan CRM.
 
-# 3. Salesforce Einstein
+## 3. Salesforce Einstein
 
 Salesforce Einstein membantu tim sales melalui:
 
@@ -81,7 +81,7 @@ Salesforce Einstein membantu tim sales melalui:
 
 Merupakan salah satu solusi enterprise paling populer.
 
-# 4. Apollo.io
+## 4. Apollo.io
 
 Apollo membantu mencari prospek baru secara lebih efisien.
 
@@ -93,7 +93,7 @@ Fitur:
 
 Sangat populer untuk B2B sales.
 
-# 5. Lavender
+## 5. Lavender
 
 Lavender merupakan AI khusus email sales.
 
@@ -103,7 +103,7 @@ Keunggulan:
 * Personalisasi email.
 * Analisis peluang balasan.
 
-# 6. Gong
+## 6. Gong
 
 Gong menggunakan AI untuk menganalisis percakapan penjualan.
 
@@ -113,19 +113,19 @@ Dapat memberikan insight mengenai:
 * Pola closing.
 * Kualitas meeting.
 
-# 7. Otter AI
+## 7. Otter AI
 
 Otter membantu mencatat hasil meeting secara otomatis.
 
 Sales tidak perlu lagi membuat notulen manual.
 
-# 8. Fireflies AI
+## 8. Fireflies AI
 
 Fireflies merekam dan merangkum meeting online.
 
 Sangat membantu untuk tim sales yang sering melakukan presentasi.
 
-# 9. Notion AI
+## 9. Notion AI
 
 Digunakan untuk:
 
@@ -133,11 +133,11 @@ Digunakan untuk:
 * SOP sales.
 * Knowledge base.
 
-# 10. Grammarly
+## 10. Grammarly
 
 Membantu memperbaiki email dan proposal agar lebih profesional.
 
-# 11. Canva AI
+## 11. Canva AI
 
 Digunakan untuk membuat:
 
@@ -145,15 +145,15 @@ Digunakan untuk membuat:
 * Sales deck.
 * Presentasi produk.
 
-# 12. Gamma
+## 12. Gamma
 
 Gamma membantu membuat presentasi penjualan dalam hitungan menit.
 
-# 13. Perplexity
+## 13. Perplexity
 
 Sangat berguna untuk melakukan riset calon pelanggan dan industri sebelum meeting.
 
-# 14. Gemini
+## 14. Gemini
 
 Terintegrasi dengan Google Workspace.
 
@@ -163,7 +163,7 @@ Membantu membuat:
 * Dokumen.
 * Ringkasan meeting.
 
-# 15. Zapier AI
+## 15. Zapier AI
 
 Menghubungkan berbagai aplikasi sehingga proses penjualan menjadi otomatis.
 
@@ -173,7 +173,7 @@ Contoh:
 * Follow up otomatis.
 * Notifikasi tim sales.
 
-# Cara Memilih Tools AI untuk Sales
+## Cara Memilih Tools AI untuk Sales
 
 ## Untuk Prospecting
 
@@ -207,7 +207,7 @@ Gunakan:
 * Gamma
 * ChatGPT
 
-# Contoh Workflow AI untuk Sales
+## Contoh Workflow AI untuk Sales
 
 Berikut contoh alur kerja sederhana.
 
@@ -221,7 +221,7 @@ Berikut contoh alur kerja sederhana.
 
 Workflow ini dapat memangkas banyak pekerjaan administratif.
 
-# Apakah AI Akan Menggantikan Sales?
+## Apakah AI Akan Menggantikan Sales?
 
 Tidak.
 
@@ -237,7 +237,7 @@ AI hanya membantu mempercepat proses.
 
 Sales yang mampu memanfaatkan AI justru akan memiliki keunggulan dibanding kompetitor.
 
-# Tips Menggunakan AI untuk Sales
+## Tips Menggunakan AI untuk Sales
 
 * Personalisasi hasil AI sebelum dikirim.
 * Gunakan AI untuk membantu, bukan menggantikan komunikasi manusia.
@@ -246,7 +246,7 @@ Sales yang mampu memanfaatkan AI justru akan memiliki keunggulan dibanding kompe
 
 ---
 
-# Cara Memilih Tools AI untuk Sales
+## Cara Memilih Tools AI untuk Sales
 
 Tools AI untuk sales sebaiknya dipilih berdasarkan proses penjualan, bukan hanya karena terlihat modern.
 
@@ -298,7 +298,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk Sales
+## Kategori Tools AI untuk Sales
 
 Agar lebih mudah, tools AI untuk sales bisa dibagi berdasarkan tahapan penjualan.
 
@@ -636,7 +636,7 @@ Meeting sales harus menggali kebutuhan calon pelanggan.
 
 ---
 
-# Rekomendasi Stack Tools AI untuk Sales
+## Rekomendasi Stack Tools AI untuk Sales
 
 ## Stack Pemula
 
@@ -703,7 +703,7 @@ Baca juga:
 
 ---
 
-# Workflow Sales dengan Bantuan AI
+## Workflow Sales dengan Bantuan AI
 
 Berikut workflow sales sederhana.
 
@@ -757,7 +757,7 @@ catatan kebutuhan klien
 
 ---
 
-# Kesalahan Menggunakan AI untuk Sales
+## Kesalahan Menggunakan AI untuk Sales
 
 ## 1. Pesan Terasa Seperti Spam
 
@@ -827,7 +827,7 @@ Sesuaikan pesan berdasarkan:
 
 ---
 
-# Checklist Menggunakan AI untuk Sales
+## Checklist Menggunakan AI untuk Sales
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -850,7 +850,7 @@ Checklist ini membantu sales tetap profesional saat memakai AI.
 
 ---
 
-# Prompt Tools AI untuk Sales
+## Prompt Tools AI untuk Sales
 
 ## Prompt Prospecting
 
@@ -1002,7 +1002,7 @@ Buat:
 8. draft email follow-up
 ```
 
-# Prompt Master Sales dengan AI
+## Prompt Master Sales dengan AI
 
 Gunakan prompt master ini jika ingin membangun sistem sales sederhana.
 
@@ -1039,7 +1039,7 @@ Jangan membuat klaim berlebihan.
 Fokus pada proses sales yang etis dan realistis.
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah ChatGPT cocok untuk sales?
 
@@ -1068,7 +1068,7 @@ Baca juga:
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
 
-# Kesimpulan
+## Kesimpulan
 
 Artificial Intelligence telah menjadi alat penting bagi tim sales modern. Dengan memilih tools yang tepat, proses prospecting, komunikasi, meeting, hingga follow up dapat dilakukan lebih cepat dan lebih efektif.
 

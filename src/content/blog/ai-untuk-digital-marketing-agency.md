@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu digital marketing agency bekerja lebih cepat, rapi, dan scalable. AI dapat digunakan untuk riset klien, audit brand, riset kompetitor, strategi campaign, content plan, copywriting, SEO, social media, paid ads, email marketing, proposal, meeting notes, laporan performa, SOP internal, dan quality control. Namun, AI tidak boleh membuat agency kehilangan kualitas. Output AI tetap harus dicek strategist, copywriter, designer, media buyer, account manager, dan project manager agar hasilnya sesuai brand, data, brief, dan tujuan bisnis klien.
 
-# AI untuk Digital Marketing Agency
+
 
 Digital marketing agency punya ritme kerja yang cepat.
 
@@ -116,7 +116,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Digital Marketing Agency?
+## Apa Itu AI untuk Digital Marketing Agency?
 
 AI untuk digital marketing agency adalah penggunaan kecerdasan buatan untuk membantu pekerjaan strategi, produksi, analisis, dan operasional agency.
 
@@ -182,7 +182,7 @@ Klien membayar agency untuk strategi, eksekusi, dan hasil yang relevan dengan bi
 
 ---
 
-# Mengapa Digital Marketing Agency Membutuhkan AI?
+## Mengapa Digital Marketing Agency Membutuhkan AI?
 
 Agency membutuhkan AI karena ada banyak pekerjaan yang bisa dipercepat tanpa harus mengorbankan kualitas jika workflow-nya benar.
 
@@ -226,7 +226,7 @@ Jika AI membuat iklan cepat tetapi klaimnya berlebihan, brand bisa berisiko.
 
 ---
 
-# Prinsip Menggunakan AI di Digital Marketing Agency
+## Prinsip Menggunakan AI di Digital Marketing Agency
 
 Sebelum memakai AI, agency perlu prinsip kerja yang jelas.
 
@@ -325,7 +325,7 @@ Cek:
 
 ---
 
-# Bagian Agency yang Bisa Dibantu AI
+## Bagian Agency yang Bisa Dibantu AI
 
 AI bisa membantu hampir seluruh workflow agency.
 
@@ -378,7 +378,7 @@ Baca juga:
 
 ---
 
-# Workflow AI untuk Digital Marketing Agency
+## Workflow AI untuk Digital Marketing Agency
 
 Berikut workflow lengkap yang bisa digunakan agency.
 
@@ -631,7 +631,7 @@ Baca juga:
 
 ---
 
-# AI untuk Proposal Agency
+## AI untuk Proposal Agency
 
 Proposal agency harus jelas.
 
@@ -711,7 +711,7 @@ Tambahkan strategi.
 
 ---
 
-# AI untuk Content Plan Agency
+## AI untuk Content Plan Agency
 
 Content plan adalah pekerjaan utama banyak agency.
 
@@ -787,7 +787,7 @@ Baca juga:
 
 ---
 
-# AI untuk Caption dan Copywriting Klien
+## AI untuk Caption dan Copywriting Klien
 
 Agency bisa memakai AI untuk membuat draft caption dan copy.
 
@@ -847,7 +847,7 @@ Baca juga:
 
 ---
 
-# AI untuk Script Video dan Reels
+## AI untuk Script Video dan Reels
 
 Video pendek sering menjadi deliverable agency.
 
@@ -906,7 +906,7 @@ Baca juga:
 
 ---
 
-# AI untuk SEO Agency
+## AI untuk SEO Agency
 
 Jika agency menawarkan SEO, AI bisa membantu banyak proses.
 
@@ -984,7 +984,7 @@ Baca juga:
 
 ---
 
-# AI untuk Paid Ads Agency
+## AI untuk Paid Ads Agency
 
 Paid ads membutuhkan kombinasi data, copywriting, creative, dan testing.
 
@@ -1103,7 +1103,7 @@ Baca juga:
 
 ---
 
-# AI untuk Client Reporting
+## AI untuk Client Reporting
 
 Reporting adalah pekerjaan penting agency.
 
@@ -1202,7 +1202,7 @@ Baca juga:
 
 ---
 
-# AI untuk Meeting dan Account Management
+## AI untuk Meeting dan Account Management
 
 Agency sering meeting dengan klien.
 
@@ -1261,7 +1261,7 @@ Baca juga:
 
 ---
 
-# AI untuk SOP Internal Agency
+## AI untuk SOP Internal Agency
 
 SOP membuat agency lebih rapi.
 
@@ -1323,7 +1323,7 @@ Baca juga:
 
 ---
 
-# AI untuk Quality Control Agency
+## AI untuk Quality Control Agency
 
 Quality control penting agar output agency tidak asal cepat.
 
@@ -1379,7 +1379,7 @@ Cek:
 
 ---
 
-# AI untuk Creative Brief
+## AI untuk Creative Brief
 
 Creative brief membantu designer dan editor memahami kebutuhan konten.
 
@@ -1427,7 +1427,7 @@ Editor video tidak perlu menafsirkan sendiri.
 
 ---
 
-# AI untuk Repurposing Konten Klien
+## AI untuk Repurposing Konten Klien
 
 Agency bisa meningkatkan efisiensi dengan repurposing.
 
@@ -1467,7 +1467,7 @@ Baca juga:
 
 ---
 
-# AI untuk Agency Niche Social Media
+## AI untuk Agency Niche Social Media
 
 Jika agency fokus social media, AI bisa membantu:
 
@@ -1506,7 +1506,7 @@ Buatkan SOP, checklist, dan prompt untuk tiap tahap.
 
 ---
 
-# AI untuk Agency Niche SEO
+## AI untuk Agency Niche SEO
 
 Jika agency fokus SEO, AI bisa membantu:
 
@@ -1545,7 +1545,7 @@ Buatkan SOP dan prompt tiap tahap.
 
 ---
 
-# AI untuk Agency Niche Paid Ads
+## AI untuk Agency Niche Paid Ads
 
 Jika agency fokus paid ads, AI bisa membantu:
 
@@ -1581,7 +1581,7 @@ Buatkan SOP dan checklist.
 
 ---
 
-# Tools AI untuk Digital Marketing Agency
+## Tools AI untuk Digital Marketing Agency
 
 Berikut tools yang bisa digunakan agency.
 
@@ -1706,7 +1706,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk Digital Marketing Agency
+## Template Prompt Lengkap AI untuk Digital Marketing Agency
 
 Gunakan template ini.
 
@@ -1761,7 +1761,7 @@ Buatkan:
 
 ---
 
-# Template Prompt Laporan Klien
+## Template Prompt Laporan Klien
 
 ```text
 Bertindaklah sebagai account strategist digital marketing agency.
@@ -1791,7 +1791,7 @@ Profesional, jelas, dan mudah dipahami klien non-teknis.
 
 ---
 
-# Template Prompt QC Output Agency
+## Template Prompt QC Output Agency
 
 ```text
 Audit output agency berikut sebelum dikirim ke klien.
@@ -1825,7 +1825,7 @@ Berikan:
 
 ---
 
-# Kesalahan Menggunakan AI di Digital Marketing Agency
+## Kesalahan Menggunakan AI di Digital Marketing Agency
 
 ## 1. Output Terlalu Generik
 
@@ -1875,7 +1875,7 @@ Tanpa SOP, AI malah membuat workflow lebih berantakan.
 
 ---
 
-# Checklist AI untuk Digital Marketing Agency
+## Checklist AI untuk Digital Marketing Agency
 
 Gunakan checklist ini.
 
@@ -1901,7 +1901,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Mulai AI untuk Digital Marketing Agency
+## Rencana 7 Hari Mulai AI untuk Digital Marketing Agency
 
 Jika agency baru mulai memakai AI, gunakan rencana ini.
 
@@ -1941,7 +1941,7 @@ Baru rollout ke semua klien.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk digital marketing agency?
 
@@ -1973,7 +1973,7 @@ Mulai dari membuat template client intake, brand context, prompt content plan, p
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk digital marketing agency sangat berguna jika digunakan dengan sistem yang benar.
 
@@ -2037,7 +2037,7 @@ Dengan pendekatan yang tepat, AI bisa menjadi sistem pendukung utama untuk digit
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2067,22 +2067,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Mulai dari Satu Klien
+## Mulai dari Satu Klien
 
 Jangan langsung menerapkan AI ke semua klien.
 

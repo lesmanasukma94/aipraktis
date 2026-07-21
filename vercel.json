@@ -1,0 +1,115 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "redirects": [
+    {
+      "source": "/tools-ai",
+      "destination": "/ai-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/apa-itu-artificial-intelligence-ai",
+      "destination": "/blog/apa-itu-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/belajar-ai",
+      "destination": "/belajar-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/belajar-ai",
+      "destination": "/belajar-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/ai-chatbot",
+      "destination": "/ai-chatbot/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/ai-chatbot",
+      "destination": "/ai-chatbot/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/prompt-engineering",
+      "destination": "/prompt-engineering/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/prompt-engineering",
+      "destination": "/prompt-engineering/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/ai-tools",
+      "destination": "/ai-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/ai-tools",
+      "destination": "/ai-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/tutorial-ai",
+      "destination": "/tutorial-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/tutorial-ai",
+      "destination": "/tutorial-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/ai-untuk-bisnis",
+      "destination": "/ai-untuk-bisnis/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/ai-untuk-bisnis",
+      "destination": "/ai-untuk-bisnis/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/ai-untuk-pendidikan",
+      "destination": "/ai-untuk-pendidikan/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/ai-untuk-pendidikan",
+      "destination": "/ai-untuk-pendidikan/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/ai-untuk-content-creator",
+      "destination": "/ai-untuk-content-creator/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/ai-untuk-content-creator",
+      "destination": "/ai-untuk-content-creator/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/karier-ai",
+      "destination": "/karier-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/karier-ai",
+      "destination": "/karier-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/kategori/studi-kasus-ai",
+      "destination": "/studi-kasus-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/category/studi-kasus-ai",
+      "destination": "/studi-kasus-ai/",
+      "permanent": true
+    }
+  ]
+}

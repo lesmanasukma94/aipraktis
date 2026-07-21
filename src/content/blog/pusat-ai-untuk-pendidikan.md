@@ -41,7 +41,7 @@ Jika digunakan dengan benar, AI dapat menjadi asisten belajar yang tersedia sela
 
 ---
 
-# Memulai Belajar AI
+## Memulai Belajar AI
 
 Bagi pemula, langkah pertama adalah memahami dasar-dasar AI terlebih dahulu.
 
@@ -57,7 +57,7 @@ Artikel-artikel tersebut akan membantu Anda memahami konsep dasar sebelum mulai 
 
 ---
 
-# ChatGPT untuk Pendidikan
+## ChatGPT untuk Pendidikan
 
 ChatGPT merupakan salah satu tools AI yang paling populer di dunia pendidikan.
 
@@ -78,7 +78,7 @@ Pelajari lebih lanjut:
 
 ---
 
-# AI untuk Guru
+## AI untuk Guru
 
 Guru dapat memanfaatkan AI untuk meningkatkan efektivitas proses mengajar.
 
@@ -102,7 +102,7 @@ Dengan bantuan AI, guru dapat menghemat banyak waktu dalam persiapan materi pemb
 
 ---
 
-# AI untuk Mahasiswa
+## AI untuk Mahasiswa
 
 Mahasiswa merupakan salah satu kelompok pengguna AI terbesar saat ini.
 
@@ -127,7 +127,7 @@ AI dapat membantu mempercepat proses belajar, tetapi tetap harus digunakan secar
 
 ---
 
-# AI untuk Siswa
+## AI untuk Siswa
 
 Siswa sekolah juga dapat memanfaatkan AI sebagai alat bantu belajar.
 
@@ -147,7 +147,7 @@ Penggunaan AI yang tepat dapat membantu siswa menjadi lebih mandiri dalam belaja
 
 ---
 
-# Cara Membuat Prompt yang Baik
+## Cara Membuat Prompt yang Baik
 
 Hasil yang diberikan AI sangat bergantung pada cara kita memberikan instruksi.
 
@@ -161,7 +161,7 @@ Semakin jelas instruksi yang diberikan, semakin baik pula hasil yang diperoleh.
 
 ---
 
-# Kesalahan yang Harus Dihindari
+## Kesalahan yang Harus Dihindari
 
 Banyak pengguna baru melakukan kesalahan saat menggunakan AI untuk belajar.
 
@@ -178,7 +178,7 @@ Pelajari lebih lanjut:
 
 ---
 
-# Apakah AI Aman Digunakan untuk Belajar?
+## Apakah AI Aman Digunakan untuk Belajar?
 
 Pertanyaan mengenai keamanan AI semakin sering muncul.
 
@@ -192,7 +192,7 @@ Penting untuk selalu memeriksa kembali informasi yang diberikan AI dan tidak mem
 
 ---
 
-# Langkah Belajar AI yang Direkomendasikan
+## Langkah Belajar AI yang Direkomendasikan
 
 Jika Anda baru memulai, ikuti urutan berikut:
 
@@ -209,7 +209,7 @@ Urutan ini akan membantu Anda memahami AI secara bertahap dan praktis.
 
 ---
 
-# Masa Depan AI dalam Pendidikan
+## Masa Depan AI dalam Pendidikan
 
 Dalam beberapa tahun ke depan, AI diperkirakan akan menjadi bagian penting dalam dunia pendidikan.
 
@@ -223,7 +223,7 @@ Kemampuan menggunakan AI secara efektif akan menjadi salah satu keterampilan pen
 
 ---
 
-# Tools AI yang Dapat Digunakan untuk Pendidikan
+## Tools AI yang Dapat Digunakan untuk Pendidikan
 
 Beberapa tools AI yang dapat membantu proses belajar dan mengajar:
 
@@ -237,7 +237,7 @@ Pemilihan tools AI harus disesuaikan dengan kebutuhan agar teknologi benar-benar
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah membuka berbagai peluang baru dalam dunia pendidikan. Guru dapat menghemat waktu, mahasiswa dapat belajar lebih efisien, dan siswa dapat memperoleh bantuan belajar kapan saja.
 

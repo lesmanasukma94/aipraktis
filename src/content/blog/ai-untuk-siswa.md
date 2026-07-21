@@ -23,7 +23,7 @@ draft: false
 
 AI untuk siswa bisa membantu proses belajar menjadi lebih mudah, terarah, dan interaktif jika digunakan dengan benar. Siswa dapat memakai AI untuk memahami materi sulit, membuat rangkuman, latihan soal, belajar bahasa Inggris, membuat jadwal belajar, menyiapkan presentasi, mengecek pemahaman, dan mencari ide belajar. Namun, AI tidak boleh digunakan untuk menyontek, menyalin jawaban mentah-mentah, mengarang sumber, memasukkan data pribadi, atau menggantikan guru, orang tua, dan proses berpikir sendiri. Cara terbaik memakai AI adalah menjadikannya tutor belajar, bukan mesin jawaban instan.
 
-# AI untuk Siswa
+
 
 AI semakin dekat dengan kehidupan siswa.
 
@@ -119,7 +119,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Siswa?
+## Apa Itu AI untuk Siswa?
 
 AI untuk siswa adalah penggunaan kecerdasan buatan untuk membantu kegiatan belajar.
 
@@ -162,7 +162,7 @@ AI yang baik untuk siswa adalah AI yang membantu belajar, bukan menggantikan bel
 
 ---
 
-# Mengapa Siswa Perlu Belajar AI?
+## Mengapa Siswa Perlu Belajar AI?
 
 Siswa perlu belajar AI karena AI akan menjadi bagian dari masa depan pendidikan dan pekerjaan.
 
@@ -209,7 +209,7 @@ Baca juga:
 
 ---
 
-# Prinsip Aman Menggunakan AI untuk Siswa
+## Prinsip Aman Menggunakan AI untuk Siswa
 
 Sebelum memakai AI, siswa perlu memahami prinsip dasar.
 
@@ -300,7 +300,7 @@ Bukan untuk menipu.
 
 ---
 
-# Cara Menggunakan AI untuk Memahami Materi
+## Cara Menggunakan AI untuk Memahami Materi
 
 Salah satu manfaat AI untuk siswa adalah membantu memahami materi sulit.
 
@@ -359,7 +359,7 @@ Tetapi siswa tetap perlu mencatat dan latihan.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Rangkuman
+## Cara Menggunakan AI untuk Membuat Rangkuman
 
 AI bisa membantu membuat rangkuman.
 
@@ -409,7 +409,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Latihan Soal
+## Cara Menggunakan AI untuk Latihan Soal
 
 AI sangat berguna untuk latihan soal.
 
@@ -473,7 +473,7 @@ Ini lebih baik daripada langsung meminta jawaban.
 
 ---
 
-# Cara Menggunakan AI untuk Belajar Bahasa Inggris
+## Cara Menggunakan AI untuk Belajar Bahasa Inggris
 
 AI bisa membantu siswa belajar bahasa Inggris.
 
@@ -532,7 +532,7 @@ AI bisa membantu latihan bahasa, tetapi siswa tetap perlu berbicara, membaca, me
 
 ---
 
-# Cara Menggunakan AI untuk Presentasi
+## Cara Menggunakan AI untuk Presentasi
 
 Siswa sering diminta membuat presentasi.
 
@@ -574,7 +574,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Jadwal Belajar
+## Cara Menggunakan AI untuk Jadwal Belajar
 
 AI bisa membantu membuat jadwal belajar.
 
@@ -637,7 +637,7 @@ Tetapi disiplin tetap harus dari siswa.
 
 ---
 
-# Cara Menggunakan AI untuk Mengecek Pemahaman
+## Cara Menggunakan AI untuk Mengecek Pemahaman
 
 Salah satu cara terbaik belajar adalah menguji diri sendiri.
 
@@ -674,7 +674,7 @@ Ini membantu siswa aktif berpikir.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Flashcard
+## Cara Menggunakan AI untuk Membuat Flashcard
 
 Flashcard berguna untuk menghafal konsep, istilah, rumus, dan vocabulary.
 
@@ -708,7 +708,7 @@ Siswa bisa memindahkan flashcard ke aplikasi catatan, kertas kecil, atau tools b
 
 ---
 
-# Cara Menggunakan AI untuk Membaca Teks Panjang
+## Cara Menggunakan AI untuk Membaca Teks Panjang
 
 Kadang siswa harus membaca teks panjang.
 
@@ -751,7 +751,7 @@ Dengan cara ini, AI membantu proses belajar, bukan menggantikan membaca.
 
 ---
 
-# Cara Menggunakan AI untuk Project Sekolah
+## Cara Menggunakan AI untuk Project Sekolah
 
 AI juga bisa membantu project sekolah.
 
@@ -801,7 +801,7 @@ Misalnya:
 
 ---
 
-# Perbedaan Bantuan AI dan Menyontek
+## Perbedaan Bantuan AI dan Menyontek
 
 Ini bagian penting.
 
@@ -873,7 +873,7 @@ AI yang buruk membantu menipu.
 
 ---
 
-# Etika AI untuk Siswa
+## Etika AI untuk Siswa
 
 Siswa perlu memahami etika AI.
 
@@ -922,7 +922,7 @@ AI juga bukan pengganti diskusi dengan teman.
 
 ---
 
-# Risiko AI untuk Siswa
+## Risiko AI untuk Siswa
 
 AI punya manfaat, tetapi juga risiko.
 
@@ -986,7 +986,7 @@ AI bukan tempat utama untuk bantuan darurat.
 
 ---
 
-# Peran Guru dalam Penggunaan AI untuk Siswa
+## Peran Guru dalam Penggunaan AI untuk Siswa
 
 Guru punya peran penting.
 
@@ -1028,7 +1028,7 @@ Baca juga:
 
 ---
 
-# Peran Orang Tua dalam Penggunaan AI untuk Siswa
+## Peran Orang Tua dalam Penggunaan AI untuk Siswa
 
 Orang tua juga penting.
 
@@ -1069,7 +1069,7 @@ Tujuannya mendampingi.
 
 ---
 
-# Tools AI yang Cocok untuk Siswa
+## Tools AI yang Cocok untuk Siswa
 
 Siswa bisa mulai dari tools sederhana.
 
@@ -1134,7 +1134,7 @@ Siswa bisa memakai AI untuk membuat soal, lalu mengerjakan sendiri.
 
 ---
 
-# Prompt AI untuk Siswa
+## Prompt AI untuk Siswa
 
 Berikut kumpulan prompt siap pakai.
 
@@ -1295,7 +1295,7 @@ Aturan:
 
 ---
 
-# Contoh Workflow Belajar dengan AI
+## Contoh Workflow Belajar dengan AI
 
 Berikut contoh workflow belajar yang aman.
 
@@ -1339,7 +1339,7 @@ AI membantu, tetapi guru tetap penting.
 
 ---
 
-# Checklist Aman AI untuk Siswa
+## Checklist Aman AI untuk Siswa
 
 Gunakan checklist ini sebelum memakai AI.
 
@@ -1358,7 +1358,7 @@ Gunakan checklist ini sebelum memakai AI.
 
 ---
 
-# Rencana 7 Hari Belajar AI untuk Siswa
+## Rencana 7 Hari Belajar AI untuk Siswa
 
 Berikut rencana sederhana.
 
@@ -1433,7 +1433,7 @@ Latihan:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah siswa boleh menggunakan AI?
 
@@ -1469,7 +1469,7 @@ Tidak. AI bisa membantu belajar, tetapi guru tetap penting untuk menjelaskan, me
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk siswa bisa menjadi alat belajar yang sangat bermanfaat.
 
@@ -1525,7 +1525,7 @@ Dengan cara itu, AI bisa menjadi teman belajar yang aman, bermanfaat, dan bertan
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1550,22 +1550,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
 
 ---
 
-# Mulai dari Cara yang Aman
+## Mulai dari Cara yang Aman
 
 Jika Anda siswa dan baru mulai memakai AI, gunakan aturan sederhana ini:
 

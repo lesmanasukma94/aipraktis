@@ -25,7 +25,7 @@ AI tools untuk UMKM dapat membantu bisnis kecil membuat konten promosi, membalas
 
 Jika ingin menerapkan tools AI langsung ke toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk workflow promosi, caption produk, WhatsApp, customer service, katalog, stok, order, dan laporan penjualan.
 
-# AI Tools untuk UMKM
+
 
 UMKM sering punya masalah yang berbeda dari perusahaan besar.
 
@@ -113,7 +113,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk UMKM
+## Cara Memilih AI Tools untuk UMKM
 
 Sebelum memilih tools, jangan mulai dari pertanyaan:
 
@@ -252,7 +252,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk UMKM
+## Tabel AI Tools untuk UMKM
 
 | Tools | Cocok untuk | Fungsi utama |
 |---|---|---|
@@ -275,7 +275,7 @@ Cocok untuk:
 
 ---
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT adalah salah satu tools AI paling berguna untuk UMKM.
 
@@ -402,7 +402,7 @@ Baca juga:
 
 ---
 
-# 2. Canva AI
+## 2. Canva AI
 
 Canva AI sangat cocok untuk UMKM karena mudah digunakan untuk membuat desain promosi.
 
@@ -493,7 +493,7 @@ Baca juga:
 
 ---
 
-# 3. CapCut
+## 3. CapCut
 
 CapCut cocok untuk UMKM yang ingin membuat video pendek.
 
@@ -583,7 +583,7 @@ Baca juga:
 
 ---
 
-# 4. WhatsApp Business
+## 4. WhatsApp Business
 
 WhatsApp Business adalah tools penting untuk banyak UMKM di Indonesia.
 
@@ -670,7 +670,7 @@ Baca juga:
 
 ---
 
-# 5. Google Business Profile
+## 5. Google Business Profile
 
 Google Business Profile penting untuk UMKM lokal.
 
@@ -773,7 +773,7 @@ Baca juga:
 
 ---
 
-# 6. Meta Business Suite
+## 6. Meta Business Suite
 
 Meta Business Suite berguna untuk UMKM yang aktif di Instagram dan Facebook.
 
@@ -847,7 +847,7 @@ Baca juga:
 
 ---
 
-# 7. Google Workspace dan Gemini
+## 7. Google Workspace dan Gemini
 
 Google Workspace cocok untuk UMKM yang ingin merapikan pekerjaan admin.
 
@@ -932,7 +932,7 @@ Baca juga:
 
 ---
 
-# 8. Notion AI
+## 8. Notion AI
 
 Notion AI cocok untuk UMKM yang ingin membuat sistem kerja lebih rapi.
 
@@ -1009,7 +1009,7 @@ Baca juga:
 
 ---
 
-# 9. Zapier
+## 9. Zapier
 
 Zapier cocok untuk UMKM yang sudah memakai beberapa aplikasi dan ingin mengurangi pekerjaan manual.
 
@@ -1089,7 +1089,7 @@ Baca juga:
 
 ---
 
-# 10. Make
+## 10. Make
 
 Make juga berguna untuk otomasi, terutama jika Anda ingin membuat workflow yang lebih visual dan fleksibel.
 
@@ -1146,7 +1146,7 @@ Tetap dokumentasikan alurnya agar tidak membingungkan tim.
 
 ---
 
-# 11. HubSpot
+## 11. HubSpot
 
 HubSpot cocok untuk UMKM yang mulai serius mengelola lead, sales, marketing, dan customer service.
 
@@ -1231,7 +1231,7 @@ Baca juga:
 
 ---
 
-# 12. Zoho
+## 12. Zoho
 
 Zoho menyediakan banyak aplikasi bisnis, termasuk CRM, email, finance, project, helpdesk, dan tools operasional.
 
@@ -1302,7 +1302,7 @@ Setelah stabil, baru tambah automation dan laporan.
 
 ---
 
-# 13. Tidio
+## 13. Tidio
 
 Tidio cocok untuk UMKM yang punya website dan ingin menyediakan live chat atau chatbot.
 
@@ -1360,7 +1360,7 @@ Baca juga:
 
 ---
 
-# 14. Manychat
+## 14. Manychat
 
 Manychat cocok untuk automasi percakapan di social media dan messaging.
 
@@ -1420,7 +1420,7 @@ Baca juga:
 
 ---
 
-# 15. Google Analytics dan Search Console
+## 15. Google Analytics dan Search Console
 
 Jika UMKM punya website, Google Analytics dan Google Search Console sangat penting.
 
@@ -1496,7 +1496,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Tools Berdasarkan Jenis UMKM
+## Rekomendasi Tools Berdasarkan Jenis UMKM
 
 ## UMKM Kuliner
 
@@ -1606,7 +1606,7 @@ Kebutuhan utama:
 
 ---
 
-# Rekomendasi Stack AI Tools untuk UMKM Pemula
+## Rekomendasi Stack AI Tools untuk UMKM Pemula
 
 Jika baru mulai, gunakan stack sederhana ini:
 
@@ -1676,7 +1676,7 @@ Cocok untuk:
 
 ---
 
-# Workflow UMKM dengan AI Tools
+## Workflow UMKM dengan AI Tools
 
 Berikut workflow sederhana yang bisa diterapkan.
 
@@ -1780,7 +1780,7 @@ Analisis data penjualan dan konten berikut. Cari produk terlaris, promosi terbai
 
 ---
 
-# Prompt AI untuk UMKM
+## Prompt AI untuk UMKM
 
 Berikut prompt siap pakai.
 
@@ -1834,7 +1834,7 @@ Buatkan SOP sederhana untuk proses [proses bisnis]. Format: tujuan, langkah kerj
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk UMKM
+## Kesalahan Menggunakan AI Tools untuk UMKM
 
 ## 1. Terlalu Banyak Tools di Awal
 
@@ -1925,7 +1925,7 @@ Catat:
 
 ---
 
-# Checklist AI Tools untuk UMKM
+## Checklist AI Tools untuk UMKM
 
 Gunakan checklist ini.
 
@@ -1950,7 +1950,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rekomendasi Urutan Implementasi untuk UMKM
+## Rekomendasi Urutan Implementasi untuk UMKM
 
 Jangan mulai dari otomasi rumit.
 
@@ -1992,7 +1992,7 @@ Setelah 1 bulan, baru pertimbangkan CRM, automation, chatbot, atau tools berbaya
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk UMKM?
 
@@ -2024,7 +2024,7 @@ Berikan batasan dalam prompt. Tulis bahwa AI tidak boleh membuat klaim palsu, di
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk UMKM dapat membantu bisnis kecil bekerja lebih cepat dan lebih rapi.
 
@@ -2073,7 +2073,7 @@ UMKM yang mencatat order, stok, pelanggan, dan penjualan di spreadsheet dapat me
 
 UMKM yang ingin promosi lebih konsisten dapat membaca [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) untuk membuat ide, kalender, caption, video pendek, visual promosi, dan repurposing.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2100,22 +2100,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Masalah Bisnis
+## Mulai dari Satu Masalah Bisnis
 
 Jangan mulai dari semua tools sekaligus.
 

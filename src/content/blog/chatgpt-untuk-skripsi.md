@@ -208,7 +208,7 @@ Karena itu, AI sebaiknya digunakan sebagai alat bantu, bukan sumber utama peneli
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Skripsi secara Aman
+## Cara Menggunakan ChatGPT untuk Skripsi secara Aman
 
 ChatGPT bisa membantu proses skripsi, tetapi tidak boleh digunakan untuk menggantikan proses berpikir, membaca, menulis, dan bimbingan akademik.
 
@@ -248,7 +248,7 @@ Baca juga:
 
 ---
 
-# 1. ChatGPT untuk Menentukan Topik Skripsi
+## 1. ChatGPT untuk Menentukan Topik Skripsi
 
 Tahap awal skripsi sering membingungkan karena mahasiswa belum tahu topik yang realistis.
 
@@ -316,7 +316,7 @@ Topik yang baik harus spesifik dan bisa diteliti.
 
 ---
 
-# 2. ChatGPT untuk Membuat Latar Belakang Skripsi
+## 2. ChatGPT untuk Membuat Latar Belakang Skripsi
 
 Latar belakang menjelaskan kenapa topik penelitian penting.
 
@@ -374,7 +374,7 @@ Setelah itu, isi dengan sumber akademik yang benar.
 
 ---
 
-# 3. ChatGPT untuk Rumusan Masalah dan Tujuan Penelitian
+## 3. ChatGPT untuk Rumusan Masalah dan Tujuan Penelitian
 
 Rumusan masalah harus jelas dan sesuai dengan tujuan penelitian.
 
@@ -427,7 +427,7 @@ Rumusan kedua lebih jelas karena menyebut subjek, konteks, dan fokus.
 
 ---
 
-# 4. ChatGPT untuk Menyusun Kerangka Bab Skripsi
+## 4. ChatGPT untuk Menyusun Kerangka Bab Skripsi
 
 ChatGPT bisa membantu membuat kerangka skripsi agar struktur lebih rapi.
 
@@ -485,7 +485,7 @@ Kerangka ini membantu Anda melihat seluruh peta skripsi sebelum menulis.
 
 ---
 
-# 5. ChatGPT untuk Tinjauan Pustaka
+## 5. ChatGPT untuk Tinjauan Pustaka
 
 Tinjauan pustaka tidak boleh hanya berisi kumpulan ringkasan jurnal.
 
@@ -541,7 +541,7 @@ Baca juga:
 
 ---
 
-# 6. ChatGPT untuk Membantu Memahami Metode Penelitian
+## 6. ChatGPT untuk Membantu Memahami Metode Penelitian
 
 Metode penelitian sering menjadi bagian yang paling sulit.
 
@@ -605,7 +605,7 @@ Berikan masukan untuk bahan diskusi dengan dosen pembimbing.
 
 ---
 
-# 7. ChatGPT untuk Membuat Pertanyaan Wawancara atau Kuesioner
+## 7. ChatGPT untuk Membuat Pertanyaan Wawancara atau Kuesioner
 
 Jika penelitian memakai wawancara atau kuesioner, ChatGPT bisa membantu membuat draft pertanyaan.
 
@@ -675,7 +675,7 @@ Item kuesioner harus dicek dengan teori dan dosen pembimbing.
 
 ---
 
-# 8. ChatGPT untuk Merevisi Paragraf Skripsi
+## 8. ChatGPT untuk Merevisi Paragraf Skripsi
 
 ChatGPT bisa membantu memperbaiki alur dan bahasa paragraf.
 
@@ -730,7 +730,7 @@ Baca juga:
 
 ---
 
-# 9. ChatGPT untuk Membuat Checklist Bimbingan Skripsi
+## 9. ChatGPT untuk Membuat Checklist Bimbingan Skripsi
 
 Sebelum bimbingan, gunakan ChatGPT untuk menyiapkan pertanyaan.
 
@@ -777,7 +777,7 @@ Bimbingan akan lebih produktif jika Anda datang dengan pertanyaan yang jelas.
 
 ---
 
-# 10. ChatGPT untuk Membuat Jadwal Pengerjaan Skripsi
+## 10. ChatGPT untuk Membuat Jadwal Pengerjaan Skripsi
 
 Skripsi sering tertunda karena tidak ada jadwal kerja.
 
@@ -841,7 +841,7 @@ Rencana harus disesuaikan dengan aturan kampus dan jadwal bimbingan.
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Skripsi
+## Kesalahan Menggunakan ChatGPT untuk Skripsi
 
 ## 1. Meminta ChatGPT Membuat Skripsi Utuh
 
@@ -881,7 +881,7 @@ Selalu ikuti pedoman resmi kampus dan arahan dosen pembimbing.
 
 ---
 
-# Checklist Aman Menggunakan ChatGPT untuk Skripsi
+## Checklist Aman Menggunakan ChatGPT untuk Skripsi
 
 Gunakan checklist ini.
 
@@ -903,7 +903,7 @@ Checklist ini penting agar penggunaan ChatGPT tetap etis dan aman.
 
 ---
 
-# Prompt Master ChatGPT untuk Skripsi
+## Prompt Master ChatGPT untuk Skripsi
 
 Gunakan prompt master berikut.
 
@@ -942,7 +942,7 @@ Jangan mengambil alih penulisan skripsi.
 Fokus sebagai alat bantu belajar dan perencanaan.
 ```
 
-# Prompt Review Bab Skripsi
+## Prompt Review Bab Skripsi
 
 Gunakan prompt ini untuk mengecek draft.
 
@@ -975,7 +975,7 @@ Jangan membuat referensi baru.
 Jaga makna utama tetap sama.
 ```
 
-# Prompt Membuat Rencana Revisi Skripsi
+## Prompt Membuat Rencana Revisi Skripsi
 
 Gunakan prompt ini setelah mendapat masukan dosen.
 

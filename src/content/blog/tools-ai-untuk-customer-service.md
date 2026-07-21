@@ -28,7 +28,7 @@ AI mampu membantu tim customer service memberikan respons lebih cepat, menjawab 
 
 Artikel ini membahas tools AI terbaik untuk customer service yang dapat digunakan oleh UMKM maupun perusahaan besar.
 
-# Mengapa Customer Service Perlu Menggunakan AI?
+## Mengapa Customer Service Perlu Menggunakan AI?
 
 AI memberikan berbagai manfaat, antara lain:
 
@@ -41,9 +41,9 @@ AI memberikan berbagai manfaat, antara lain:
 
 AI tidak menggantikan customer service, tetapi membantu mereka bekerja lebih produktif.
 
-# 15 Tools AI Terbaik untuk Customer Service
+## 15 Tools AI Terbaik untuk Customer Service
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT merupakan salah satu AI paling fleksibel untuk berbagai kebutuhan customer service.
 
@@ -58,7 +58,7 @@ Dapat digunakan untuk:
 
 Sangat cocok untuk bisnis kecil maupun perusahaan.
 
-# 2. Intercom AI
+## 2. Intercom AI
 
 Intercom menghadirkan AI untuk customer support modern.
 
@@ -69,7 +69,7 @@ Fitur:
 * Ticket Management
 * Customer Inbox
 
-# 3. Zendesk AI
+## 3. Zendesk AI
 
 Salah satu platform customer service paling populer.
 
@@ -80,7 +80,7 @@ Keunggulan:
 * Suggested Reply
 * Knowledge Base
 
-# 4. Freshdesk AI
+## 4. Freshdesk AI
 
 Freshdesk menggunakan AI untuk membantu agen menangani tiket pelanggan lebih cepat.
 
@@ -90,7 +90,7 @@ Fitur unggulan:
 * AI response suggestion
 * Workflow automation
 
-# 5. HubSpot Service Hub
+## 5. HubSpot Service Hub
 
 Menggabungkan CRM dengan customer service.
 
@@ -100,7 +100,7 @@ AI membantu:
 * Otomasi follow up.
 * Analisis pelanggan.
 
-# 6. Salesforce Service Cloud Einstein
+## 6. Salesforce Service Cloud Einstein
 
 Platform enterprise dengan kemampuan AI yang sangat lengkap.
 
@@ -110,7 +110,7 @@ Digunakan untuk:
 * Prediksi kebutuhan pelanggan.
 * Otomasi layanan.
 
-# 7. Tidio AI
+## 7. Tidio AI
 
 Tidio menawarkan chatbot AI yang mudah digunakan oleh UMKM.
 
@@ -120,13 +120,13 @@ Cocok untuk:
 * Toko online.
 * Landing page.
 
-# 8. Drift AI
+## 8. Drift AI
 
 Fokus pada percakapan pelanggan dan lead qualification.
 
 Banyak digunakan pada bisnis B2B.
 
-# 9. Notion AI
+## 9. Notion AI
 
 Berguna untuk menyimpan:
 
@@ -134,11 +134,11 @@ Berguna untuk menyimpan:
 * Template jawaban.
 * Knowledge base internal.
 
-# 10. Grammarly
+## 10. Grammarly
 
 Membantu agen customer service menulis balasan yang profesional dan mudah dipahami.
 
-# 11. Canva AI
+## 11. Canva AI
 
 Digunakan membuat:
 
@@ -146,19 +146,19 @@ Digunakan membuat:
 * Infografik.
 * Materi bantuan visual.
 
-# 12. Perplexity
+## 12. Perplexity
 
 Membantu customer service mencari referensi produk atau solusi secara cepat.
 
-# 13. Claude
+## 13. Claude
 
 Sangat baik untuk membaca dokumen panjang seperti manual produk atau kebijakan perusahaan.
 
-# 14. Gemini
+## 14. Gemini
 
 Terintegrasi dengan Google Workspace sehingga memudahkan pengelolaan email dan dokumen layanan pelanggan.
 
-# 15. Zapier AI
+## 15. Zapier AI
 
 Menghubungkan berbagai aplikasi customer service secara otomatis.
 
@@ -169,7 +169,7 @@ Contoh:
 * Notifikasi tim.
 * Update status pelanggan.
 
-# Cara Memilih Tools AI Customer Service
+## Cara Memilih Tools AI Customer Service
 
 ## Untuk Chatbot
 
@@ -202,7 +202,7 @@ Gunakan:
 * Notion AI
 * Claude
 
-# Contoh Workflow AI Customer Service
+## Contoh Workflow AI Customer Service
 
 Misalnya pelanggan menghubungi website.
 
@@ -215,7 +215,7 @@ Misalnya pelanggan menghubungi website.
 
 Workflow seperti ini dapat mempercepat pelayanan sekaligus meningkatkan pengalaman pelanggan.
 
-# Apakah AI Akan Menggantikan Customer Service?
+## Apakah AI Akan Menggantikan Customer Service?
 
 Tidak.
 
@@ -223,7 +223,7 @@ AI sangat baik dalam menangani pertanyaan yang berulang, tetapi pelanggan tetap 
 
 Kemampuan seperti empati, negosiasi, dan penyelesaian konflik masih menjadi keunggulan manusia.
 
-# Tips Menggunakan AI untuk Customer Service
+## Tips Menggunakan AI untuk Customer Service
 
 * Gunakan AI untuk pertanyaan yang sering muncul.
 * Tetap sediakan opsi berbicara dengan agen manusia.
@@ -233,7 +233,7 @@ Kemampuan seperti empati, negosiasi, dan penyelesaian konflik masih menjadi keun
 
 ---
 
-# Cara Memilih Tools AI untuk Customer Service
+## Cara Memilih Tools AI untuk Customer Service
 
 Tools AI untuk customer service sebaiknya dipilih berdasarkan masalah layanan pelanggan, bukan hanya karena fitur terlihat canggih.
 
@@ -285,7 +285,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk Customer Service
+## Kategori Tools AI untuk Customer Service
 
 Agar lebih mudah, tools AI untuk customer service bisa dibagi berdasarkan fungsi kerjanya.
 
@@ -402,7 +402,7 @@ Namun, admin tetap harus menyesuaikan jawaban dengan konteks pelanggan.
 
 ---
 
-# 3. Tools AI untuk Menangani Komplain
+## 3. Tools AI untuk Menangani Komplain
 
 Komplain pelanggan harus ditangani dengan hati-hati.
 
@@ -466,7 +466,7 @@ Balasan seperti ini lebih baik daripada langsung menyalahkan pelanggan atau memb
 
 ---
 
-# 4. Tools AI untuk SOP Customer Service
+## 4. Tools AI untuk SOP Customer Service
 
 Customer service membutuhkan SOP agar admin tidak bingung saat menangani berbagai situasi.
 
@@ -522,7 +522,7 @@ Baca juga:
 
 ---
 
-# 5. Tools AI untuk Chatbot Customer Service
+## 5. Tools AI untuk Chatbot Customer Service
 
 AI chatbot bisa membantu menjawab pertanyaan dasar secara otomatis.
 
@@ -588,7 +588,7 @@ Baca juga:
 
 ---
 
-# 6. Tools AI untuk Menganalisis Keluhan Pelanggan
+## 6. Tools AI untuk Menganalisis Keluhan Pelanggan
 
 Keluhan pelanggan adalah sumber insight bisnis.
 
@@ -643,7 +643,7 @@ AI boleh membantu membaca pola, tetapi keputusan perbaikan tetap harus dilakukan
 
 ---
 
-# 7. Tools AI untuk Knowledge Base Customer Service
+## 7. Tools AI untuk Knowledge Base Customer Service
 
 Knowledge base adalah kumpulan informasi yang dipakai admin untuk menjawab pelanggan.
 
@@ -690,7 +690,7 @@ Ini juga membantu menjaga jawaban agar tidak berubah-ubah.
 
 ---
 
-# Rekomendasi Stack Tools AI untuk Customer Service
+## Rekomendasi Stack Tools AI untuk Customer Service
 
 ## Stack Pemula
 
@@ -752,7 +752,7 @@ Mulai dari FAQ, template jawaban, SOP, dan pencatatan keluhan.
 
 ---
 
-# Workflow Customer Service dengan AI
+## Workflow Customer Service dengan AI
 
 Berikut workflow sederhana.
 
@@ -798,7 +798,7 @@ Untuk keputusan penting, tetap gunakan review manusia.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Customer Service
+## Kesalahan Menggunakan AI untuk Customer Service
 
 ## 1. Jawaban Terlalu Kaku
 
@@ -860,7 +860,7 @@ catatan follow-up.
 
 ---
 
-# Checklist Menggunakan Tools AI untuk Customer Service
+## Checklist Menggunakan Tools AI untuk Customer Service
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -883,7 +883,7 @@ Checklist ini penting agar AI membantu layanan pelanggan, bukan menimbulkan masa
 
 ---
 
-# Prompt Tools AI untuk Customer Service
+## Prompt Tools AI untuk Customer Service
 
 ## Prompt Membuat FAQ
 
@@ -1002,7 +1002,7 @@ Buat:
 6. template laporan mingguan
 ```
 
-# Prompt Master Customer Service dengan AI
+## Prompt Master Customer Service dengan AI
 
 Gunakan prompt master ini jika ingin membangun sistem customer service sederhana.
 
@@ -1043,7 +1043,7 @@ Jangan membuat janji yang tidak pasti.
 Fokus pada layanan yang sopan dan manusiawi.
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah ChatGPT bisa digunakan untuk customer service?
 
@@ -1072,7 +1072,7 @@ Baca juga:
 - [AI untuk UMKM](/blog/cara-umkm-memulai-ai/)
 - [Cara Membuat Chatbot dengan AI](/blog/cara-membuat-chatbot-dengan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Artificial Intelligence membantu customer service menjadi lebih cepat, konsisten, dan produktif. Dengan memilih tools yang sesuai, bisnis dapat meningkatkan kualitas layanan tanpa mengurangi sentuhan manusia yang tetap menjadi faktor utama dalam membangun kepuasan dan loyalitas pelanggan.
 

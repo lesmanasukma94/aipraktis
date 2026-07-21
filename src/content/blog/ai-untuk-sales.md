@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu proses sales menjadi lebih cepat, rapi, dan konsisten. AI dapat digunakan untuk mencari prospek, membuat daftar lead, menyusun pesan outreach, membuat follow-up, menulis email sales, membuat script WhatsApp, menyiapkan sales call, merangkum meeting, mencatat CRM, menjawab keberatan pelanggan, membuat proposal, dan menganalisis pipeline. Namun, AI tidak boleh digunakan untuk memanipulasi pelanggan, membuat klaim palsu, atau menjanjikan hasil yang belum pasti. Sales tetap membutuhkan empati, kepercayaan, pemahaman kebutuhan pelanggan, dan follow-up manusia yang tepat.
 
-# AI untuk Sales
+
 
 Sales adalah salah satu bagian bisnis yang paling membutuhkan kecepatan, konsistensi, dan komunikasi yang baik.
 
@@ -117,7 +117,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Sales?
+## Apa Itu AI untuk Sales?
 
 AI untuk sales adalah penggunaan kecerdasan buatan untuk membantu proses penjualan dari awal sampai akhir.
 
@@ -175,7 +175,7 @@ Tanpa konteks, output AI biasanya terlalu umum.
 
 ---
 
-# Mengapa Sales Membutuhkan AI?
+## Mengapa Sales Membutuhkan AI?
 
 Sales membutuhkan AI karena pekerjaan sales sering berulang, cepat, dan membutuhkan personalisasi.
 
@@ -247,7 +247,7 @@ Bukan memaksa orang membeli.
 
 ---
 
-# Prinsip Menggunakan AI untuk Sales
+## Prinsip Menggunakan AI untuk Sales
 
 Sebelum memakai AI untuk sales, pahami prinsip berikut.
 
@@ -351,7 +351,7 @@ Cek:
 
 ---
 
-# Bagian Sales yang Bisa Dibantu AI
+## Bagian Sales yang Bisa Dibantu AI
 
 AI bisa membantu hampir seluruh proses sales.
 
@@ -403,7 +403,7 @@ Baca juga:
 
 ---
 
-# Workflow AI untuk Sales
+## Workflow AI untuk Sales
 
 Berikut workflow lengkap memakai AI untuk proses sales.
 
@@ -601,7 +601,7 @@ Apakah Bapak/Ibu terbuka untuk diskusi singkat 15 menit minggu ini?
 
 ---
 
-# AI untuk Follow-Up Sales
+## AI untuk Follow-Up Sales
 
 Follow-up adalah bagian penting dalam sales.
 
@@ -672,7 +672,7 @@ Baca juga:
 
 ---
 
-# AI untuk Objection Handling
+## AI untuk Objection Handling
 
 Objection adalah keberatan pelanggan sebelum membeli.
 
@@ -744,7 +744,7 @@ Tetapi membuka diskusi.
 
 ---
 
-# AI untuk Sales Call
+## AI untuk Sales Call
 
 Sales call membutuhkan persiapan.
 
@@ -824,7 +824,7 @@ Baca juga:
 
 ---
 
-# AI untuk Proposal Sales
+## AI untuk Proposal Sales
 
 Proposal sales harus disesuaikan dengan kebutuhan pelanggan.
 
@@ -883,7 +883,7 @@ Jangan biarkan AI mengarang studi kasus atau angka.
 
 ---
 
-# AI untuk CRM Notes
+## AI untuk CRM Notes
 
 CRM sering tidak terisi dengan baik karena sales sibuk.
 
@@ -930,7 +930,7 @@ Yang penting:
 
 ---
 
-# AI untuk Pipeline Sales
+## AI untuk Pipeline Sales
 
 Pipeline sales membantu melihat status peluang penjualan.
 
@@ -987,7 +987,7 @@ Baca juga:
 
 ---
 
-# AI untuk WhatsApp Sales
+## AI untuk WhatsApp Sales
 
 Di Indonesia, WhatsApp sering menjadi channel sales utama.
 
@@ -1043,7 +1043,7 @@ Baca juga:
 
 ---
 
-# AI untuk Sales Enablement
+## AI untuk Sales Enablement
 
 Sales enablement adalah materi dan sistem yang membantu sales menjual lebih efektif.
 
@@ -1090,7 +1090,7 @@ Pesan sales tidak berubah-ubah antar anggota tim.
 
 ---
 
-# AI untuk Sales Coaching
+## AI untuk Sales Coaching
 
 AI bisa membantu manajer sales memberi coaching.
 
@@ -1141,7 +1141,7 @@ Baca juga:
 
 ---
 
-# AI untuk Lead Generation
+## AI untuk Lead Generation
 
 AI bisa membantu lead generation, tetapi harus digunakan secara etis.
 
@@ -1188,7 +1188,7 @@ Baca juga:
 
 ---
 
-# Tools AI untuk Sales
+## Tools AI untuk Sales
 
 Berikut tools yang bisa digunakan.
 
@@ -1290,7 +1290,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk Sales
+## Template Prompt Lengkap AI untuk Sales
 
 Gunakan template ini.
 
@@ -1346,7 +1346,7 @@ Buatkan:
 
 ---
 
-# Template Prompt CRM Note
+## Template Prompt CRM Note
 
 ```text
 Ubah catatan sales berikut menjadi CRM note.
@@ -1372,7 +1372,7 @@ Catatan:
 
 ---
 
-# Template Prompt Follow-Up Sales
+## Template Prompt Follow-Up Sales
 
 ```text
 Buatkan pesan follow-up sales.
@@ -1401,7 +1401,7 @@ Batasan:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Sales
+## Kesalahan Menggunakan AI untuk Sales
 
 ## 1. Pesan Terlalu Generik
 
@@ -1449,7 +1449,7 @@ Cek reply rate, meeting booked, proposal sent, win rate, dan deal cycle.
 
 ---
 
-# Checklist AI untuk Sales
+## Checklist AI untuk Sales
 
 Gunakan checklist ini.
 
@@ -1474,7 +1474,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Mulai AI untuk Sales
+## Rencana 7 Hari Mulai AI untuk Sales
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1508,7 +1508,7 @@ Masukkan data pipeline sederhana dan minta AI membuat prioritas follow-up.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI untuk sales?
 
@@ -1550,7 +1550,7 @@ Agency yang menjual layanan retainer atau project dapat membaca [AI untuk Digita
 
 Sales juga bisa menjadi jalur karier AI. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami bagaimana AI sales assistant dan AI workflow specialist dapat dibangun dari skill follow-up, CRM, proposal, dan pipeline.
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk sales bukan sekadar alat untuk membuat pesan jualan.
 
@@ -1602,7 +1602,7 @@ Jika digunakan dengan benar, AI dapat membantu tim sales bekerja lebih produktif
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1626,22 +1626,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Mulai dari Satu Follow-Up
+## Mulai dari Satu Follow-Up
 
 Jangan mulai dari sistem sales besar.
 

@@ -21,7 +21,7 @@ draft: false
 
 Struktur prompt AI yang baik membantu AI memahami tugas, konteks, target audiens, format output, gaya bahasa, batasan, dan contoh yang diinginkan. Prompt yang rapi membuat jawaban AI lebih relevan, tidak terlalu umum, lebih mudah digunakan, dan lebih sedikit revisi. Artikel ini membahas struktur prompt yang baik, komponen utama prompt, format sederhana, contoh prompt buruk vs prompt baik, template siap pakai, kesalahan umum, checklist, dan cara menyusun prompt untuk kerja, bisnis, belajar, konten, customer service, sales, dan riset.
 
-# Struktur Prompt AI yang Baik
+
 
 Banyak orang memakai AI dengan cara yang terlalu singkat.
 
@@ -90,7 +90,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Struktur Prompt AI?
+## Apa Itu Struktur Prompt AI?
 
 Struktur prompt AI adalah susunan instruksi yang membantu AI memahami permintaan pengguna dengan lebih jelas.
 
@@ -133,7 +133,7 @@ Hasilnya biasanya lebih sesuai kebutuhan.
 
 ---
 
-# Mengapa Struktur Prompt Penting?
+## Mengapa Struktur Prompt Penting?
 
 Struktur prompt penting karena AI merespons berdasarkan instruksi yang diberikan.
 
@@ -237,7 +237,7 @@ Instruksi seperti ini penting untuk pekerjaan bisnis, customer service, edukasi,
 
 ---
 
-# Struktur Prompt AI yang Baik
+## Struktur Prompt AI yang Baik
 
 Struktur dasar prompt yang baik dapat dibuat dengan formula berikut:
 
@@ -253,7 +253,7 @@ Untuk tugas penting, gunakan struktur lebih lengkap.
 
 ---
 
-# 1. Peran
+## 1. Peran
 
 Peran memberi tahu AI sudut pandang yang harus digunakan.
 
@@ -308,7 +308,7 @@ Peran perlu dilengkapi dengan konteks, format, dan batasan.
 
 ---
 
-# 2. Tugas
+## 2. Tugas
 
 Tugas adalah instruksi utama yang harus dikerjakan AI.
 
@@ -345,7 +345,7 @@ Semakin spesifik tugas, semakin mudah AI memberi output yang berguna.
 
 ---
 
-# 3. Konteks
+## 3. Konteks
 
 Konteks menjelaskan situasi.
 
@@ -386,7 +386,7 @@ Prompt kedua jauh lebih jelas.
 
 ---
 
-# 4. Target Audiens
+## 4. Target Audiens
 
 Target audiens menentukan cara AI menjelaskan.
 
@@ -418,7 +418,7 @@ Jika target audiens tidak disebutkan, AI bisa menggunakan tingkat bahasa yang ti
 
 ---
 
-# 5. Format Output
+## 5. Format Output
 
 Format output membuat jawaban lebih rapi.
 
@@ -457,7 +457,7 @@ Format yang jelas membantu output lebih siap copy-paste.
 
 ---
 
-# 6. Gaya Bahasa
+## 6. Gaya Bahasa
 
 Gaya bahasa menentukan rasa dari output.
 
@@ -501,7 +501,7 @@ Instruksi gaya membantu menghindari hal itu.
 
 ---
 
-# 7. Batasan
+## 7. Batasan
 
 Batasan memberi tahu AI apa yang harus dihindari.
 
@@ -541,7 +541,7 @@ Baca juga:
 
 ---
 
-# 8. Contoh
+## 8. Contoh
 
 Contoh membantu AI meniru pola yang Anda inginkan.
 
@@ -576,7 +576,7 @@ Contoh sangat berguna untuk:
 
 ---
 
-# Template Struktur Prompt AI yang Baik
+## Template Struktur Prompt AI yang Baik
 
 Gunakan template berikut.
 
@@ -611,7 +611,7 @@ Template ini bisa digunakan untuk hampir semua kebutuhan.
 
 ---
 
-# Contoh Struktur Prompt untuk Berbagai Kebutuhan
+## Contoh Struktur Prompt untuk Berbagai Kebutuhan
 
 ## 1. Prompt untuk Menulis Artikel
 
@@ -735,7 +735,7 @@ Jangan menyebut data, harga, atau fitur terbaru tanpa menyarankan verifikasi ke 
 
 ---
 
-# Prompt Buruk vs Prompt Baik
+## Prompt Buruk vs Prompt Baik
 
 ## Contoh 1: Caption Instagram
 
@@ -789,7 +789,7 @@ Buatkan balasan customer service untuk pelanggan yang marah karena pengiriman te
 
 ---
 
-# Format Prompt Berdasarkan Tingkat Kebutuhan
+## Format Prompt Berdasarkan Tingkat Kebutuhan
 
 Tidak semua tugas membutuhkan prompt panjang.
 
@@ -842,7 +842,7 @@ Jangan menyarankan budget iklan besar. Fokus pada organic dan low-cost campaign.
 
 ---
 
-# Framework Praktis: P-K-T-F-G-B
+## Framework Praktis: P-K-T-F-G-B
 
 Agar mudah diingat, gunakan framework **P-K-T-F-G-B**:
 
@@ -879,7 +879,7 @@ Framework ini lebih mudah dipakai daripada menghafal teori panjang.
 
 ---
 
-# Cara Membuat Prompt Lebih Rapi
+## Cara Membuat Prompt Lebih Rapi
 
 ## Gunakan Heading
 
@@ -964,7 +964,7 @@ Output akhir harus berupa email lengkap yang siap dikirim.
 
 ---
 
-# Struktur Prompt untuk Output yang Konsisten
+## Struktur Prompt untuk Output yang Konsisten
 
 Jika Anda ingin output yang konsisten, tentukan pola.
 
@@ -1003,7 +1003,7 @@ Struktur seperti ini sangat berguna untuk:
 
 ---
 
-# Kesalahan Umum dalam Struktur Prompt
+## Kesalahan Umum dalam Struktur Prompt
 
 ## 1. Terlalu Banyak Tujuan dalam Satu Prompt
 
@@ -1051,7 +1051,7 @@ Untuk fitur, harga, atau aturan terbaru, beri tanda bahwa perlu dicek ke sumber 
 
 ---
 
-# Struktur Prompt untuk Berbagai Profesi
+## Struktur Prompt untuk Berbagai Profesi
 
 ## Untuk Karyawan
 
@@ -1125,7 +1125,7 @@ Buatkan balasan untuk pelanggan yang meminta refund karena barang terlambat. Jel
 
 ---
 
-# Checklist Struktur Prompt AI
+## Checklist Struktur Prompt AI
 
 Gunakan checklist ini sebelum mengirim prompt.
 
@@ -1143,7 +1143,7 @@ Gunakan checklist ini sebelum mengirim prompt.
 
 ---
 
-# Template Prompt Siap Pakai
+## Template Prompt Siap Pakai
 
 ## Template Umum
 
@@ -1258,7 +1258,7 @@ Hindari klaim berlebihan dan istilah teknis yang tidak perlu.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa struktur prompt AI yang baik?
 
@@ -1290,7 +1290,7 @@ Kesalahan terbesar adalah memberi instruksi terlalu umum dan berharap AI memaham
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Struktur prompt AI yang baik membuat hasil AI jauh lebih relevan dan siap digunakan.
 
@@ -1332,7 +1332,7 @@ Contoh penerapan struktur prompt untuk aktivitas harian bisa dilihat di [Prompt 
 
 Penerapan struktur prompt untuk penulisan bisa dipelajari di [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/), mulai dari ide, outline, draft, revisi, hingga finalisasi tulisan.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1355,22 +1355,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Mulai Rapikan Prompt Anda Hari Ini
+## Mulai Rapikan Prompt Anda Hari Ini
 
 Jika ingin hasil AI lebih bagus, mulai dari struktur prompt.
 

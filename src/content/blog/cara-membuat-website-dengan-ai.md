@@ -33,7 +33,7 @@ AI dapat membantu:
 
 Dalam panduan ini Anda akan mempelajari cara membuat website dengan AI dari awal hingga siap online.
 
-# Apa Itu Website AI?
+## Apa Itu Website AI?
 
 Website AI adalah website yang dibuat atau dibantu menggunakan teknologi kecerdasan buatan.
 
@@ -48,7 +48,7 @@ AI dapat membantu berbagai aspek pembuatan website seperti:
 
 Hasilnya jauh lebih cepat dibanding metode tradisional.
 
-# Mengapa Menggunakan AI untuk Membuat Website?
+## Mengapa Menggunakan AI untuk Membuat Website?
 
 ## Lebih Cepat
 
@@ -66,7 +66,7 @@ Cocok untuk UMKM dan pemula.
 
 AI dapat membantu membuat teks website secara otomatis.
 
-# Website Apa Saja yang Bisa Dibuat dengan AI?
+## Website Apa Saja yang Bisa Dibuat dengan AI?
 
 AI dapat digunakan untuk membuat:
 
@@ -80,9 +80,9 @@ AI dapat digunakan untuk membuat:
 * Website perusahaan
 * Website pribadi
 
-# Tools AI Terbaik untuk Membuat Website
+## Tools AI Terbaik untuk Membuat Website
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT sangat membantu dalam:
 
@@ -95,7 +95,7 @@ Contoh prompt:
 
 > Buatkan struktur website untuk jasa digital marketing.
 
-# 2. Hostinger AI Website Builder
+## 2. Hostinger AI Website Builder
 
 Hostinger memiliki fitur AI yang dapat membuat website secara otomatis.
 
@@ -105,7 +105,7 @@ Kelebihan:
 * Cocok untuk pemula
 * Integrasi hosting
 
-# 3. Wix AI
+## 3. Wix AI
 
 Wix AI dapat membuat website hanya berdasarkan beberapa pertanyaan.
 
@@ -115,7 +115,7 @@ Fitur:
 * Konten otomatis
 * Mudah dikustomisasi
 
-# 4. Framer AI
+## 4. Framer AI
 
 Framer menjadi salah satu AI website builder paling populer.
 
@@ -125,7 +125,7 @@ Cocok untuk:
 * Freelancer
 * Landing page
 
-# 5. Durable
+## 5. Durable
 
 Durable dapat membuat website bisnis dalam hitungan menit.
 
@@ -135,7 +135,7 @@ Sangat populer untuk:
 * UMKM
 * Konsultan
 
-# 6. WordPress + AI
+## 6. WordPress + AI
 
 Kombinasi WordPress dan AI merupakan pilihan terbaik untuk jangka panjang.
 
@@ -145,9 +145,9 @@ Kelebihan:
 * SEO friendly
 * Skalabel
 
-# Cara Membuat Website dengan AI Langkah Demi Langkah
+## Cara Membuat Website dengan AI Langkah Demi Langkah
 
-# Langkah 1: Tentukan Tujuan Website
+## Langkah 1: Tentukan Tujuan Website
 
 Tentukan terlebih dahulu:
 
@@ -158,7 +158,7 @@ Tentukan terlebih dahulu:
 
 Tujuan akan menentukan struktur website.
 
-# Langkah 2: Buat Struktur Website dengan ChatGPT
+## Langkah 2: Buat Struktur Website dengan ChatGPT
 
 Prompt:
 
@@ -172,7 +172,7 @@ Contoh hasil:
 * Blog
 * Kontak
 
-# Langkah 3: Pilih Platform
+## Langkah 3: Pilih Platform
 
 Untuk pemula:
 
@@ -184,7 +184,7 @@ Untuk jangka panjang:
 
 * WordPress
 
-# Langkah 4: Buat Konten dengan AI
+## Langkah 4: Buat Konten dengan AI
 
 Gunakan ChatGPT untuk membuat:
 
@@ -193,7 +193,7 @@ Gunakan ChatGPT untuk membuat:
 * Services page
 * FAQ
 
-# Langkah 5: Tambahkan Gambar AI
+## Langkah 5: Tambahkan Gambar AI
 
 Gunakan:
 
@@ -201,7 +201,7 @@ Gunakan:
 * Leonardo AI
 * Canva AI
 
-# Langkah 6: Optimasi SEO
+## Langkah 6: Optimasi SEO
 
 Gunakan AI untuk:
 
@@ -210,7 +210,7 @@ Gunakan AI untuk:
 * FAQ
 * Internal linking
 
-# Cara Membuat Website Bisnis dengan AI
+## Cara Membuat Website Bisnis dengan AI
 
 Website bisnis biasanya memiliki halaman:
 
@@ -234,7 +234,7 @@ Untuk SEO dan trafik organik.
 
 Membantu calon pelanggan menghubungi bisnis.
 
-# Cara Membuat Blog dengan AI
+## Cara Membuat Blog dengan AI
 
 Workflow:
 
@@ -245,7 +245,7 @@ Workflow:
 
 Model ini digunakan banyak publisher modern.
 
-# Cara Membuat Website UMKM dengan AI
+## Cara Membuat Website UMKM dengan AI
 
 AI sangat cocok untuk:
 
@@ -256,7 +256,7 @@ AI sangat cocok untuk:
 
 Karena biaya lebih rendah dibanding menyewa developer.
 
-# Cara Membuat Landing Page dengan AI
+## Cara Membuat Landing Page dengan AI
 
 Landing page dapat dibuat menggunakan:
 
@@ -270,7 +270,7 @@ Cocok untuk:
 * Jasa konsultasi
 * Affiliate marketing
 
-# Apakah Website AI Bisa Ranking di Google?
+## Apakah Website AI Bisa Ranking di Google?
 
 Bisa.
 
@@ -283,7 +283,7 @@ Syaratnya:
 
 Google tidak melarang penggunaan AI selama kontennya bermanfaat.
 
-# Kesalahan Saat Membuat Website dengan AI
+## Kesalahan Saat Membuat Website dengan AI
 
 ## Terlalu Mengandalkan Konten AI Mentah
 
@@ -307,7 +307,7 @@ Website harus dibuat untuk manusia, bukan hanya mesin pencari.
 
 ---
 
-# Cara Membuat Website dengan AI dari Nol
+## Cara Membuat Website dengan AI dari Nol
 
 Membuat website dengan AI bukan berarti semua proses otomatis selesai dalam satu klik.
 
@@ -345,7 +345,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Tentukan Jenis Website
+## Langkah 1: Tentukan Jenis Website
 
 Langkah pertama adalah menentukan jenis website.
 
@@ -438,7 +438,7 @@ Mulai dari versi sederhana yang bisa dipublikasikan lebih cepat.
 
 ---
 
-# Langkah 2: Buat Brief Website dengan AI
+## Langkah 2: Buat Brief Website dengan AI
 
 AI bisa membantu membuat brief website.
 
@@ -489,7 +489,7 @@ Website yang bagus dimulai dari strategi, bukan dari template.
 
 ---
 
-# Langkah 3: Buat Struktur Halaman Website
+## Langkah 3: Buat Struktur Halaman Website
 
 Setelah brief, buat struktur halaman.
 
@@ -549,7 +549,7 @@ Struktur website yang sederhana lebih mudah dibuat dan lebih mudah dipahami.
 
 ---
 
-# Langkah 4: Buat Copywriting Website dengan AI
+## Langkah 4: Buat Copywriting Website dengan AI
 
 AI sangat membantu membuat teks website.
 
@@ -634,7 +634,7 @@ Bukan hanya menjelaskan brand, tetapi menjelaskan manfaat untuk orang yang datan
 
 ---
 
-# Langkah 5: Buat Desain Website dengan AI
+## Langkah 5: Buat Desain Website dengan AI
 
 AI bisa membantu membuat konsep desain website.
 
@@ -693,7 +693,7 @@ Baca juga:
 
 ---
 
-# Langkah 6: Buat Konten Website dengan AI
+## Langkah 6: Buat Konten Website dengan AI
 
 Website membutuhkan konten yang cukup.
 
@@ -754,7 +754,7 @@ Baca juga:
 
 ---
 
-# Langkah 7: Pilih Cara Membuat Website
+## Langkah 7: Pilih Cara Membuat Website
 
 Ada beberapa cara membuat website dengan bantuan AI.
 
@@ -870,7 +870,7 @@ Jangan memilih teknologi hanya karena terlihat keren.
 
 ---
 
-# Langkah 8: Gunakan AI untuk Membantu Coding Website
+## Langkah 8: Gunakan AI untuk Membantu Coding Website
 
 Jika membuat website dengan kode, AI bisa membantu.
 
@@ -941,7 +941,7 @@ Baca juga:
 
 ---
 
-# Langkah 9: Optimasi SEO Dasar Website
+## Langkah 9: Optimasi SEO Dasar Website
 
 Website yang sudah jadi perlu SEO dasar.
 
@@ -998,7 +998,7 @@ Website harus membantu pengunjung menemukan jawaban atau solusi.
 
 ---
 
-# Langkah 10: Buat Gambar Website dengan AI
+## Langkah 10: Buat Gambar Website dengan AI
 
 Website membutuhkan visual.
 
@@ -1059,7 +1059,7 @@ Baca juga:
 
 ---
 
-# Langkah 11: Cek Tampilan Mobile
+## Langkah 11: Cek Tampilan Mobile
 
 Banyak pengunjung membuka website dari HP.
 
@@ -1107,7 +1107,7 @@ Tetapi juga kejelasan informasi dan kenyamanan membaca.
 
 ---
 
-# Langkah 12: Testing Website Sebelum Publish
+## Langkah 12: Testing Website Sebelum Publish
 
 Sebelum website dipublikasikan, lakukan pengecekan.
 
@@ -1162,7 +1162,7 @@ Testing penting agar website tidak terlihat setengah jadi saat pertama kali diku
 
 ---
 
-# Workflow Membuat Website dengan AI
+## Workflow Membuat Website dengan AI
 
 Gunakan workflow sederhana ini.
 
@@ -1227,7 +1227,7 @@ tentukan produk
 
 ---
 
-# Kesalahan Membuat Website dengan AI
+## Kesalahan Membuat Website dengan AI
 
 ## 1. Langsung Membuat Desain Tanpa Strategi
 
@@ -1297,7 +1297,7 @@ Jangan langsung deploy tanpa cek.
 
 ---
 
-# Checklist Membuat Website dengan AI
+## Checklist Membuat Website dengan AI
 
 Gunakan checklist ini.
 
@@ -1323,7 +1323,7 @@ Checklist ini membantu website lebih siap dipublikasikan.
 
 ---
 
-# Prompt Master Membuat Website dengan AI
+## Prompt Master Membuat Website dengan AI
 
 Gunakan prompt master berikut.
 
@@ -1371,7 +1371,7 @@ Jangan membuat klaim berlebihan.
 Jangan menyarankan fitur yang belum perlu untuk tahap awal.
 ```
 
-# Prompt Membuat Homepage Website
+## Prompt Membuat Homepage Website
 
 Gunakan prompt ini.
 
@@ -1415,7 +1415,7 @@ Gaya bahasa:
 jelas, natural, dan tidak berlebihan.
 ```
 
-# Prompt Review Website Sebelum Publish
+## Prompt Review Website Sebelum Publish
 
 Gunakan prompt ini.
 
@@ -1447,7 +1447,7 @@ Batasan:
 Fokus pada perbaikan praktis sebelum launch.
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat website otomatis?
 
@@ -1478,7 +1478,7 @@ Baca juga:
 - [Cara Membangun Agensi AI](/blog/cara-membangun-agensi-ai/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI membuat proses pembuatan website menjadi jauh lebih mudah, cepat, dan terjangkau. Dengan kombinasi ChatGPT, WordPress, Hostinger AI, atau Framer AI, siapa pun dapat membuat website profesional tanpa harus menjadi programmer.
 

@@ -23,7 +23,7 @@ draft: false
 
 Artikel ini membahas studi kasus penerapan AI untuk content creator secara praktis, mulai dari riset ide, content pillar, script, storyboard, prompt visual, voice-over, editing, caption, distribusi, repurposing, analitik, hingga monetisasi. Studi kasus ini bersifat simulasi realistis untuk kreator edukasi yang ingin membuat konten lebih konsisten tanpa mengorbankan kualitas, orisinalitas, dan kepercayaan audiens. Fokusnya bukan membuat konten massal dengan AI, tetapi membangun workflow kreatif yang lebih rapi, cepat, etis, dan bisa diulang.
 
-# Studi Kasus AI untuk Content Creator
+
 
 Banyak content creator ingin memakai AI.
 
@@ -110,7 +110,7 @@ Baca juga:
 
 ---
 
-# Profil Studi Kasus Content Creator
+## Profil Studi Kasus Content Creator
 
 Dalam studi kasus ini, kita memakai contoh kreator fiktif:
 
@@ -172,7 +172,7 @@ Tetapi untuk membuat sistem produksi lebih rapi.
 
 ---
 
-# Masalah Sebelum Menggunakan AI
+## Masalah Sebelum Menggunakan AI
 
 Sebelum memakai workflow AI, kreator mengalami beberapa masalah.
 
@@ -292,7 +292,7 @@ Baca juga:
 
 ---
 
-# Tujuan Implementasi AI
+## Tujuan Implementasi AI
 
 Tujuan implementasi AI dalam studi kasus ini adalah membuat workflow konten yang lebih rapi.
 
@@ -319,7 +319,7 @@ Membantu content creator membuat konten lebih konsisten, berkualitas, dan terhub
 
 ---
 
-# Tools AI yang Digunakan
+## Tools AI yang Digunakan
 
 Dalam studi kasus ini, tools yang digunakan adalah tools yang realistis untuk kreator pemula sampai menengah.
 
@@ -429,7 +429,7 @@ Baca juga:
 
 ---
 
-# Workflow AI untuk Content Creator
+## Workflow AI untuk Content Creator
 
 Workflow ini dibagi menjadi 10 tahap.
 
@@ -1036,7 +1036,7 @@ Output yang dicari:
 
 ---
 
-# Before dan After Workflow
+## Before dan After Workflow
 
 ## Sebelum AI
 
@@ -1071,7 +1071,7 @@ Justru membantu kreator bekerja lebih rapi.
 
 ---
 
-# Contoh Kalender Konten 14 Hari
+## Contoh Kalender Konten 14 Hari
 
 Berikut contoh kalender konten untuk brand “Belajar Produktif”.
 
@@ -1094,7 +1094,7 @@ Berikut contoh kalender konten untuk brand “Belajar Produktif”.
 
 ---
 
-# Workflow Produksi Harian
+## Workflow Produksi Harian
 
 Agar tidak berat, kreator memakai workflow harian sederhana.
 
@@ -1165,7 +1165,7 @@ Tugas:
 
 ---
 
-# Workflow Batch Production
+## Workflow Batch Production
 
 Jika kreator ingin hemat waktu, gunakan batch production.
 
@@ -1201,7 +1201,7 @@ AI membantu mempercepat batch, tetapi kreator tetap menjaga kualitas.
 
 ---
 
-# SOP Etika AI untuk Content Creator
+## SOP Etika AI untuk Content Creator
 
 Kreator harus punya SOP etika.
 
@@ -1287,7 +1287,7 @@ Ini berguna jika ada pertanyaan dari audiens, brand, atau platform.
 
 ---
 
-# Risiko Konten AI untuk Creator
+## Risiko Konten AI untuk Creator
 
 AI bisa membantu, tetapi ada risiko.
 
@@ -1361,7 +1361,7 @@ Solusi:
 
 ---
 
-# Monetisasi untuk Content Creator dengan Bantuan AI
+## Monetisasi untuk Content Creator dengan Bantuan AI
 
 AI bisa membantu monetisasi, tetapi bukan jalan pintas.
 
@@ -1474,7 +1474,7 @@ Baca juga:
 
 ---
 
-# Contoh Produk Digital dari Workflow Ini
+## Contoh Produk Digital dari Workflow Ini
 
 Dari satu workflow konten, kreator bisa membuat produk digital.
 
@@ -1533,7 +1533,7 @@ Isi:
 
 ---
 
-# Cara Menulis Studi Kasus Ini sebagai Portofolio
+## Cara Menulis Studi Kasus Ini sebagai Portofolio
 
 Jika kreator ingin menjadikan workflow ini sebagai portofolio, gunakan struktur berikut.
 
@@ -1569,7 +1569,7 @@ Baca juga:
 
 ---
 
-# Prompt Pack AI untuk Content Creator
+## Prompt Pack AI untuk Content Creator
 
 Berikut prompt siap pakai.
 
@@ -1741,7 +1741,7 @@ Jangan membuat data baru.
 
 ---
 
-# Checklist Produksi Konten dengan AI
+## Checklist Produksi Konten dengan AI
 
 Gunakan checklist ini sebelum publish.
 
@@ -1807,7 +1807,7 @@ Gunakan checklist ini sebelum publish.
 
 ---
 
-# Rencana Implementasi 30 Hari
+## Rencana Implementasi 30 Hari
 
 Berikut rencana 30 hari untuk kreator yang ingin mulai memakai AI.
 
@@ -1875,7 +1875,7 @@ Workflow konten mulai terhubung dengan monetisasi.
 
 ---
 
-# Kesalahan Content Creator Saat Memakai AI
+## Kesalahan Content Creator Saat Memakai AI
 
 ## 1. Semua Output AI Langsung Dipakai
 
@@ -1913,7 +1913,7 @@ Satu ide bagus seharusnya bisa hidup di banyak format.
 
 ---
 
-# Metrik yang Dipantau
+## Metrik yang Dipantau
 
 Kreator dalam studi kasus ini memantau metrik berikut.
 
@@ -1963,7 +1963,7 @@ Kreator bisa melihat konten mana yang benar-benar mendukung bisnis.
 
 ---
 
-# Studi Kasus Mini: Satu Ide Menjadi Banyak Konten
+## Studi Kasus Mini: Satu Ide Menjadi Banyak Konten
 
 Ide utama:
 
@@ -2052,7 +2052,7 @@ Satu ide bisa menjadi ekosistem konten.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa contoh penggunaan AI untuk content creator?
 
@@ -2084,7 +2084,7 @@ Mulai dari content pillar, bank ide, script pendek, caption, lalu repurposing. S
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Studi kasus AI untuk content creator menunjukkan bahwa AI paling berguna jika dipakai sebagai sistem kerja.
 
@@ -2147,7 +2147,7 @@ Itulah cara paling realistis menggunakan AI untuk content creator.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2172,23 +2172,23 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Studi Kasus AI](/kategori/studi-kasus-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
+- [Pusat Studi Kasus AI](/studi-kasus-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
 
 ---
 
-# Mulai dari Satu Workflow
+## Mulai dari Satu Workflow
 
 Jangan langsung membuat sistem besar.
 

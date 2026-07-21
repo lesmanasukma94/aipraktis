@@ -24,7 +24,7 @@ Dengan memanfaatkan tools AI yang tepat, guru dapat menghemat banyak waktu admin
 
 Artikel ini membahas tools AI terbaik untuk guru yang dapat digunakan di sekolah, madrasah, kursus, maupun lembaga pendidikan lainnya.
 
-# Mengapa Guru Perlu Menggunakan AI?
+## Mengapa Guru Perlu Menggunakan AI?
 
 AI dapat membantu guru:
 
@@ -38,7 +38,7 @@ AI dapat membantu guru:
 
 AI bukan pengganti guru, tetapi alat bantu yang dapat meningkatkan kualitas pembelajaran.
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT menjadi tools AI yang paling populer di kalangan guru.
 
@@ -54,7 +54,7 @@ Contoh prompt:
 
 > Buatkan 10 soal pilihan ganda tentang sistem pernapasan manusia untuk siswa kelas 8 SMP.
 
-# 2. Google Gemini
+## 2. Google Gemini
 
 Gemini sangat membantu untuk mencari informasi terbaru dan membuat materi berbasis sumber terkini.
 
@@ -64,7 +64,7 @@ Kelebihan:
 * Membantu riset materi
 * Membuat outline pembelajaran
 
-# 3. Canva AI
+## 3. Canva AI
 
 Canva menjadi salah satu tools favorit guru.
 
@@ -77,7 +77,7 @@ Fitur:
 
 Cocok digunakan untuk membuat materi yang lebih menarik secara visual.
 
-# 4. MagicSchool AI
+## 4. MagicSchool AI
 
 MagicSchool merupakan tools AI yang memang dirancang khusus untuk guru.
 
@@ -90,7 +90,7 @@ Fitur:
 
 Sangat populer di kalangan pendidik internasional.
 
-# 5. Curipod
+## 5. Curipod
 
 Curipod membantu membuat pembelajaran interaktif berbasis AI.
 
@@ -102,7 +102,7 @@ Fungsi:
 
 Cocok untuk meningkatkan partisipasi siswa.
 
-# 6. Gamma
+## 6. Gamma
 
 Gamma dapat membuat presentasi hanya dari satu topik.
 
@@ -112,7 +112,7 @@ Contoh:
 
 Dalam beberapa menit Gamma akan menghasilkan slide presentasi lengkap.
 
-# 7. Quizizz AI
+## 7. Quizizz AI
 
 Quizizz kini memiliki fitur AI yang dapat membuat soal secara otomatis.
 
@@ -122,7 +122,7 @@ Manfaat:
 * Evaluasi pembelajaran
 * Latihan mandiri siswa
 
-# 8. Kahoot AI
+## 8. Kahoot AI
 
 Kahoot memanfaatkan AI untuk membuat aktivitas pembelajaran yang lebih menarik.
 
@@ -132,7 +132,7 @@ Cocok untuk:
 * Kuis kelas
 * Pembelajaran berbasis game
 
-# 9. Notion AI
+## 9. Notion AI
 
 Notion AI membantu guru mengelola:
 
@@ -141,7 +141,7 @@ Notion AI membantu guru mengelola:
 * Catatan siswa
 * Perencanaan semester
 
-# 10. Grammarly
+## 10. Grammarly
 
 Untuk guru yang sering menulis materi atau artikel pendidikan.
 
@@ -151,7 +151,7 @@ Fungsi:
 * Parafrase
 * Perbaikan tulisan akademik
 
-# 11. Perplexity AI
+## 11. Perplexity AI
 
 Perplexity sangat membantu guru saat melakukan riset.
 
@@ -161,7 +161,7 @@ Kelebihan:
 * Informasi terbaru
 * Mudah digunakan
 
-# 12. ElevenLabs
+## 12. ElevenLabs
 
 ElevenLabs dapat mengubah teks menjadi suara alami.
 
@@ -171,7 +171,7 @@ Cocok untuk:
 * Video pembelajaran
 * Materi e-learning
 
-# 13. Otter AI
+## 13. Otter AI
 
 Otter AI membantu mengubah suara menjadi teks.
 
@@ -181,7 +181,7 @@ Berguna untuk:
 * Pelatihan guru
 * Diskusi kelas
 
-# 14. Microsoft Copilot
+## 14. Microsoft Copilot
 
 Terintegrasi dengan:
 
@@ -191,7 +191,7 @@ Terintegrasi dengan:
 
 Membantu mempercepat pekerjaan administrasi guru.
 
-# 15. SciSpace
+## 15. SciSpace
 
 SciSpace membantu guru yang sedang melakukan penelitian tindakan kelas atau studi akademik.
 
@@ -201,7 +201,7 @@ Fungsi:
 * Menjelaskan penelitian
 * Membuat ringkasan ilmiah
 
-# Kombinasi Tools AI Terbaik untuk Guru
+## Kombinasi Tools AI Terbaik untuk Guru
 
 ## Membuat Materi Pembelajaran
 
@@ -225,7 +225,7 @@ Fungsi:
 * Perplexity
 * SciSpace
 
-# Tools AI Gratis yang Direkomendasikan
+## Tools AI Gratis yang Direkomendasikan
 
 Jika baru mulai menggunakan AI:
 
@@ -237,7 +237,7 @@ Jika baru mulai menggunakan AI:
 
 Kelima tools ini sudah cukup membantu sebagian besar kebutuhan guru.
 
-# Kesalahan Guru Saat Menggunakan AI
+## Kesalahan Guru Saat Menggunakan AI
 
 Beberapa kesalahan yang perlu dihindari:
 
@@ -250,7 +250,7 @@ Guru tetap memegang peran utama dalam proses pembelajaran.
 
 ---
 
-# Cara Memilih Tools AI untuk Guru
+## Cara Memilih Tools AI untuk Guru
 
 Tools AI untuk guru sebaiknya dipilih berdasarkan kebutuhan mengajar, bukan hanya karena fitur terlihat canggih.
 
@@ -302,7 +302,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk Guru
+## Kategori Tools AI untuk Guru
 
 Agar tidak bingung, tools AI untuk guru bisa dibagi menjadi beberapa kategori.
 
@@ -631,7 +631,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Stack Tools AI untuk Guru
+## Rekomendasi Stack Tools AI untuk Guru
 
 ## Stack Pemula
 
@@ -699,7 +699,7 @@ Untuk sekolah, penggunaan AI sebaiknya punya panduan internal agar aman dan kons
 
 ---
 
-# Workflow Guru Menggunakan AI
+## Workflow Guru Menggunakan AI
 
 Berikut contoh workflow sederhana.
 
@@ -752,7 +752,7 @@ AI paling aman digunakan jika guru tetap menjadi pengambil keputusan utama.
 
 ---
 
-# AI untuk Diferensiasi Pembelajaran
+## AI untuk Diferensiasi Pembelajaran
 
 Setiap kelas biasanya punya siswa dengan kemampuan berbeda.
 
@@ -800,7 +800,7 @@ Dengan cara ini, guru lebih mudah menyesuaikan pembelajaran tanpa membuat semuan
 
 ---
 
-# AI untuk Feedback Siswa
+## AI untuk Feedback Siswa
 
 Memberi feedback satu per satu bisa memakan waktu.
 
@@ -851,7 +851,7 @@ Feedback yang baik membantu siswa tahu cara memperbaiki diri.
 
 ---
 
-# Risiko Menggunakan Tools AI untuk Guru
+## Risiko Menggunakan Tools AI untuk Guru
 
 AI sangat membantu, tetapi ada risiko yang harus diperhatikan.
 
@@ -913,7 +913,7 @@ Guru perlu menambahkan:
 
 ---
 
-# Checklist Menggunakan AI untuk Guru
+## Checklist Menggunakan AI untuk Guru
 
 Gunakan checklist ini sebelum memakai output AI di kelas.
 
@@ -936,7 +936,7 @@ Checklist ini membantu guru memakai AI dengan lebih aman.
 
 ---
 
-# Prompt Tools AI untuk Guru
+## Prompt Tools AI untuk Guru
 
 ## Prompt Membuat Materi Ajar
 
@@ -1078,7 +1078,7 @@ Baca juga:
 - [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 
-# FAQ
+## FAQ
 
 ## Apakah guru boleh menggunakan AI?
 
@@ -1096,7 +1096,7 @@ ChatGPT, Gemini, dan Canva.
 
 Tidak. AI hanya membantu pekerjaan guru dan tidak dapat menggantikan interaksi manusia dalam proses pendidikan.
 
-# Kesimpulan
+## Kesimpulan
 
 AI memberikan peluang besar bagi guru untuk meningkatkan kualitas pembelajaran sekaligus mengurangi beban administratif. Dengan menggunakan tools AI yang tepat, guru dapat membuat materi lebih menarik, menyusun evaluasi lebih cepat, dan memberikan pengalaman belajar yang lebih baik kepada siswa.
 

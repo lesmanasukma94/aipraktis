@@ -20,7 +20,7 @@ draft: false
 
 ------------------
 
-# Cara Menggunakan ChatGPT untuk UMKM
+
 
 ChatGPT menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh pelaku UMKM. Dengan bantuan ChatGPT, berbagai pekerjaan yang sebelumnya membutuhkan waktu berjam-jam kini dapat diselesaikan dalam hitungan menit.
 
@@ -182,7 +182,7 @@ Dengan langkah tersebut, Anda dapat mulai merasakan manfaat AI tanpa harus memil
 
 ---
 
-# Cara Menggunakan ChatGPT untuk UMKM secara Praktis
+## Cara Menggunakan ChatGPT untuk UMKM secara Praktis
 
 ChatGPT bisa membantu UMKM bekerja lebih cepat, terutama untuk pekerjaan yang sering berulang.
 
@@ -233,7 +233,7 @@ Baca juga:
 
 ---
 
-# 1. ChatGPT untuk Membuat Ide Promosi UMKM
+## 1. ChatGPT untuk Membuat Ide Promosi UMKM
 
 Promosi adalah salah satu kebutuhan paling umum untuk UMKM.
 
@@ -291,7 +291,7 @@ Baca juga:
 
 ---
 
-# 2. ChatGPT untuk Caption Instagram UMKM
+## 2. ChatGPT untuk Caption Instagram UMKM
 
 Caption Instagram yang baik tidak harus panjang.
 
@@ -352,7 +352,7 @@ Baca juga:
 
 ---
 
-# 3. ChatGPT untuk Template WhatsApp Pelanggan
+## 3. ChatGPT untuk Template WhatsApp Pelanggan
 
 Banyak UMKM memakai WhatsApp sebagai channel utama penjualan.
 
@@ -411,7 +411,7 @@ Namun, admin tetap perlu menyesuaikan jawaban dengan konteks pelanggan.
 
 ---
 
-# 4. ChatGPT untuk Customer Service UMKM
+## 4. ChatGPT untuk Customer Service UMKM
 
 Customer service yang rapi bisa meningkatkan kepercayaan pelanggan.
 
@@ -472,7 +472,7 @@ Baca juga:
 
 ---
 
-# 5. ChatGPT untuk Deskripsi Produk
+## 5. ChatGPT untuk Deskripsi Produk
 
 Deskripsi produk penting untuk marketplace, Instagram, katalog WhatsApp, dan website.
 
@@ -537,7 +537,7 @@ Pastikan tidak ada manfaat, bahan, ukuran, atau klaim yang salah.
 
 ---
 
-# 6. ChatGPT untuk Ide Konten UMKM
+## 6. ChatGPT untuk Ide Konten UMKM
 
 Konten UMKM tidak harus selalu promosi.
 
@@ -609,7 +609,7 @@ Baca juga:
 
 ---
 
-# 7. ChatGPT untuk Follow-Up Pelanggan
+## 7. ChatGPT untuk Follow-Up Pelanggan
 
 Follow-up penting karena tidak semua pelanggan langsung membeli.
 
@@ -672,7 +672,7 @@ Tujuannya membantu pelanggan mengambil keputusan.
 
 ---
 
-# 8. ChatGPT untuk Membuat SOP UMKM
+## 8. ChatGPT untuk Membuat SOP UMKM
 
 SOP membantu bisnis kecil berjalan lebih rapi.
 
@@ -725,7 +725,7 @@ Yang penting mudah dijalankan.
 
 ---
 
-# 9. ChatGPT untuk Laporan Penjualan UMKM
+## 9. ChatGPT untuk Laporan Penjualan UMKM
 
 Banyak UMKM sudah punya data penjualan, tetapi belum rutin dianalisis.
 
@@ -780,7 +780,7 @@ Baca juga:
 
 ---
 
-# 10. ChatGPT untuk Strategi UMKM 30 Hari
+## 10. ChatGPT untuk Strategi UMKM 30 Hari
 
 ChatGPT bisa membantu membuat rencana 30 hari yang lebih terstruktur.
 
@@ -846,7 +846,7 @@ analisis hasil, pilih konten terbaik, dan susun rencana bulan berikutnya.
 
 ---
 
-# Workflow Harian UMKM Menggunakan ChatGPT
+## Workflow Harian UMKM Menggunakan ChatGPT
 
 Agar ChatGPT benar-benar berguna, gunakan dalam workflow harian.
 
@@ -900,7 +900,7 @@ Workflow sederhana seperti ini lebih berguna daripada memakai ChatGPT hanya sese
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk UMKM
+## Kesalahan Menggunakan ChatGPT untuk UMKM
 
 ## 1. Prompt Terlalu Umum
 
@@ -966,7 +966,7 @@ Hindari memasukkan:
 
 ---
 
-# Checklist Menggunakan ChatGPT untuk UMKM
+## Checklist Menggunakan ChatGPT untuk UMKM
 
 Gunakan checklist ini sebelum memakai hasil ChatGPT.
 
@@ -989,7 +989,7 @@ Checklist ini membantu hasil ChatGPT lebih aman dan siap digunakan.
 
 ---
 
-# Prompt Master ChatGPT untuk UMKM
+## Prompt Master ChatGPT untuk UMKM
 
 Gunakan prompt master berikut jika ingin memulai dari satu prompt besar.
 
@@ -1035,7 +1035,7 @@ Jangan membuat klaim berlebihan.
 Jangan menyarankan langkah yang terlalu kompleks.
 ```
 
-# Prompt Review Hasil ChatGPT untuk UMKM
+## Prompt Review Hasil ChatGPT untuk UMKM
 
 Gunakan prompt ini sebelum memakai output ke pelanggan.
 
@@ -1080,7 +1080,7 @@ Jangan menambahkan promo yang tidak saya sebutkan.
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 ChatGPT merupakan salah satu tools AI yang paling mudah digunakan oleh UMKM. Dengan bantuan ChatGPT, pelaku usaha dapat membuat konten lebih cepat, melayani pelanggan lebih baik, dan meningkatkan produktivitas kerja sehari-hari.
 

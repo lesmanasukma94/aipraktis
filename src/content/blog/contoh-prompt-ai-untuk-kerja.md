@@ -24,7 +24,7 @@ Prompt AI untuk kerja dapat membantu karyawan, freelancer, admin, sales, markete
 
 Jika ingin menjadikan prompt kerja sebagai skill karier, baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami cara membangun portofolio AI dari workflow email, laporan, notulen, konten, dan produktivitas.
 
-# Contoh Prompt AI untuk Kerja
+
 
 AI bisa membantu banyak pekerjaan sehari-hari.
 
@@ -91,7 +91,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan Prompt AI untuk Kerja
+## Cara Menggunakan Prompt AI untuk Kerja
 
 Sebelum masuk ke daftar prompt, pahami dulu cara menggunakannya.
 
@@ -123,7 +123,7 @@ Hasilnya akan lebih mudah dipakai.
 
 ---
 
-# Prompt AI untuk Email Kerja
+## Prompt AI untuk Email Kerja
 
 Email adalah salah satu pekerjaan paling sering dilakukan di kantor.
 
@@ -186,7 +186,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Meeting dan Notulen
+## Prompt AI untuk Meeting dan Notulen
 
 Meeting sering menghasilkan banyak diskusi, tetapi tidak selalu menghasilkan catatan yang rapi.
 
@@ -239,7 +239,7 @@ Saya akan mengikuti meeting tentang [topik]. Buatkan 10 pertanyaan penting yang 
 
 ---
 
-# Prompt AI untuk Laporan Kerja
+## Prompt AI untuk Laporan Kerja
 
 Laporan kerja sering memakan waktu karena harus menyusun data, ringkasan, masalah, dan rekomendasi.
 
@@ -295,7 +295,7 @@ Laporan:
 
 ---
 
-# Prompt AI untuk Presentasi
+## Prompt AI untuk Presentasi
 
 AI sangat membantu untuk membuat struktur presentasi, isi slide, narasi, dan script pembicara.
 
@@ -346,7 +346,7 @@ Buatkan 15 kemungkinan pertanyaan dari audiens setelah presentasi tentang [topik
 
 ---
 
-# Prompt AI untuk Excel dan Spreadsheet
+## Prompt AI untuk Excel dan Spreadsheet
 
 AI dapat membantu membaca data, membuat formula, menyusun tabel, dan mencari insight.
 
@@ -396,7 +396,7 @@ Data:
 
 ---
 
-# Prompt AI untuk Riset Kerja
+## Prompt AI untuk Riset Kerja
 
 AI bisa membantu riset awal, membuat daftar pertanyaan, menyusun ringkasan, dan membandingkan opsi.
 
@@ -440,7 +440,7 @@ Catatan:
 
 ---
 
-# Prompt AI untuk Produktivitas Pribadi
+## Prompt AI untuk Produktivitas Pribadi
 
 AI juga bisa membantu mengatur waktu, prioritas, dan rencana kerja.
 
@@ -476,7 +476,7 @@ Bantu saya melakukan evaluasi kerja mingguan. Data saya: pekerjaan selesai [isi]
 
 ---
 
-# Prompt AI untuk Customer Service
+## Prompt AI untuk Customer Service
 
 Untuk tim customer service, AI bisa membantu membuat template balasan yang lebih empatik dan konsisten.
 
@@ -520,7 +520,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Sales
+## Prompt AI untuk Sales
 
 AI bisa membantu sales membuat follow-up, objection handling, script telepon, dan ringkasan prospek.
 
@@ -564,7 +564,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Marketing Kerja
+## Prompt AI untuk Marketing Kerja
 
 AI dapat membantu marketer membuat ide campaign, copy, CTA, email, dan kalender konten.
 
@@ -608,7 +608,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk SOP dan Dokumentasi Kerja
+## Prompt AI untuk SOP dan Dokumentasi Kerja
 
 Dokumentasi sering tertunda karena dianggap membosankan.
 
@@ -649,7 +649,7 @@ Buatkan dokumen onboarding untuk anggota tim baru di posisi [posisi]. Sertakan t
 
 ---
 
-# Prompt AI untuk Manajer dan Team Leader
+## Prompt AI untuk Manajer dan Team Leader
 
 Manager dapat memakai AI untuk menyusun rencana, mengevaluasi risiko, dan memperjelas komunikasi tim.
 
@@ -688,7 +688,7 @@ Buatkan decision memo untuk keputusan [topik]. Format: latar belakang, opsi, pro
 
 ---
 
-# Prompt AI untuk LinkedIn dan Komunikasi Profesional
+## Prompt AI untuk LinkedIn dan Komunikasi Profesional
 
 AI juga dapat membantu membangun personal branding profesional.
 
@@ -724,7 +724,7 @@ Pengalaman:
 
 ---
 
-# Prompt AI untuk Freelance dan Klien
+## Prompt AI untuk Freelance dan Klien
 
 Freelancer dapat memakai AI untuk proposal, brief, invoice reminder, dan komunikasi klien.
 
@@ -754,7 +754,7 @@ Bantu saya menjelaskan revisi proyek kepada klien. Konteks revisi: [jelaskan]. B
 
 ---
 
-# Prompt AI untuk Menghemat Waktu Kerja
+## Prompt AI untuk Menghemat Waktu Kerja
 
 Gunakan prompt ini untuk pekerjaan cepat.
 
@@ -805,7 +805,7 @@ Pesan:
 
 ---
 
-# Tips Menggunakan Prompt AI untuk Kerja
+## Tips Menggunakan Prompt AI untuk Kerja
 
 Agar hasilnya lebih baik, gunakan tips berikut.
 
@@ -888,7 +888,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Kerja
+## Checklist Prompt AI untuk Kerja
 
 Gunakan checklist berikut sebelum memakai AI untuk pekerjaan penting.
 
@@ -905,7 +905,7 @@ Gunakan checklist berikut sebelum memakai AI untuk pekerjaan penting.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk kerja?
 
@@ -937,7 +937,7 @@ Gunakan struktur sederhana: tugas, konteks, format, gaya bahasa, dan batasan. Se
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk kerja dapat membantu menyelesaikan banyak tugas lebih cepat.
 
@@ -987,7 +987,7 @@ Salah satu penggunaan prompt kerja paling praktis adalah spreadsheet. Baca [Cara
 
 Untuk contoh prompt kerja yang berhubungan dengan meeting, lanjutkan ke [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) agar catatan rapat bisa diubah menjadi keputusan, tugas, PIC, deadline, dan follow-up.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1009,21 +1009,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Karier AI](/kategori/karier-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Karier AI](/karier-ai/)
 
 ---
 
-# Gunakan AI untuk Kerja yang Lebih Rapi
+## Gunakan AI untuk Kerja yang Lebih Rapi
 
 AI bukan hanya untuk mencoba hal baru.
 

@@ -24,7 +24,7 @@ Prompt AI untuk SEO dapat membantu mempercepat riset keyword, analisis search in
 
 Untuk workflow lengkap dari prompt menjadi optimasi artikel yang siap dipakai, lanjutkan ke [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) agar riset keyword, search intent, content brief, internal link, dan update artikel lebih terarah.
 
-# Prompt AI untuk SEO
+
 
 SEO adalah salah satu area yang sangat terbantu oleh AI.
 
@@ -84,7 +84,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk SEO
+## Cara Menggunakan AI untuk SEO
 
 AI sebaiknya digunakan untuk membantu proses berpikir SEO, bukan menggantikan seluruh proses SEO.
 
@@ -124,7 +124,7 @@ AI paling bermanfaat jika digabungkan dengan:
 
 ---
 
-# Struktur Prompt SEO yang Baik
+## Struktur Prompt SEO yang Baik
 
 Prompt SEO yang baik biasanya memiliki beberapa elemen:
 
@@ -206,7 +206,7 @@ Jangan membuat klaim berlebihan. Jangan menyebut fitur tools yang perlu dicek ta
 
 ---
 
-# Prompt AI untuk Riset Keyword
+## Prompt AI untuk Riset Keyword
 
 Riset keyword adalah langkah awal dalam SEO.
 
@@ -244,7 +244,7 @@ Buatkan daftar keyword SEO untuk bisnis [jenis bisnis]. Target pelanggan [target
 
 ---
 
-# Prompt AI untuk Search Intent
+## Prompt AI untuk Search Intent
 
 Keyword yang sama bisa punya maksud pencarian berbeda.
 
@@ -288,7 +288,7 @@ Keyword:
 
 ---
 
-# Prompt AI untuk Topical Map
+## Prompt AI untuk Topical Map
 
 Topical map membantu website membangun otoritas topik.
 
@@ -337,7 +337,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Content Brief SEO
+## Prompt AI untuk Content Brief SEO
 
 Content brief membantu penulis memahami tujuan artikel sebelum menulis.
 
@@ -373,7 +373,7 @@ Buatkan content brief untuk artikel perbandingan [A] vs [B]. Sertakan kriteria p
 
 ---
 
-# Prompt AI untuk Outline Artikel SEO
+## Prompt AI untuk Outline Artikel SEO
 
 Outline yang baik membuat artikel lebih mudah ditulis dan lebih helpful.
 
@@ -417,7 +417,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Menulis Artikel SEO
+## Prompt AI untuk Menulis Artikel SEO
 
 AI bisa membantu membuat draft artikel, tetapi jangan langsung publikasikan tanpa editing.
 
@@ -462,7 +462,7 @@ Target pembaca:
 
 ---
 
-# Prompt AI untuk Meta Title dan Meta Description
+## Prompt AI untuk Meta Title dan Meta Description
 
 Meta title dan meta description membantu pengguna memutuskan apakah akan mengklik hasil pencarian.
 
@@ -504,7 +504,7 @@ Meta description:
 
 ---
 
-# Prompt AI untuk Heading dan Struktur Artikel
+## Prompt AI untuk Heading dan Struktur Artikel
 
 Heading membantu pembaca dan mesin pencari memahami struktur artikel.
 
@@ -546,7 +546,7 @@ FAQ:
 
 ---
 
-# Prompt AI untuk Internal Link
+## Prompt AI untuk Internal Link
 
 Internal link membantu pembaca menemukan artikel terkait dan membantu struktur website lebih jelas.
 
@@ -596,7 +596,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Content Gap
+## Prompt AI untuk Content Gap
 
 Content gap membantu menemukan bagian yang belum dibahas dalam artikel atau website.
 
@@ -650,7 +650,7 @@ Artikel:
 
 ---
 
-# Prompt AI untuk Audit Konten SEO
+## Prompt AI untuk Audit Konten SEO
 
 Audit konten membantu memperbaiki artikel lama.
 
@@ -701,7 +701,7 @@ Artikel:
 
 ---
 
-# Prompt AI untuk Optimasi Artikel yang Sudah Ada
+## Prompt AI untuk Optimasi Artikel yang Sudah Ada
 
 Optimasi tidak selalu berarti menambah keyword.
 
@@ -754,7 +754,7 @@ Artikel:
 
 ---
 
-# Prompt AI untuk SEO Teknis Dasar
+## Prompt AI untuk SEO Teknis Dasar
 
 AI bisa membantu membuat checklist teknis, tetapi implementasi tetap perlu dicek langsung di website.
 
@@ -795,7 +795,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Google Search Console
+## Prompt AI untuk Google Search Console
 
 Search Console adalah sumber data penting untuk SEO.
 
@@ -848,7 +848,7 @@ Bantu saya membuat analisis kemungkinan penyebab, data tambahan yang perlu dicek
 
 ---
 
-# Prompt AI untuk Kalender Konten SEO
+## Prompt AI untuk Kalender Konten SEO
 
 Kalender konten membantu produksi artikel lebih konsisten.
 
@@ -893,7 +893,7 @@ Data:
 
 ---
 
-# Prompt AI untuk SEO Lokal
+## Prompt AI untuk SEO Lokal
 
 SEO lokal penting untuk bisnis yang melayani area tertentu.
 
@@ -932,7 +932,7 @@ Halaman:
 
 ---
 
-# Prompt AI untuk SEO Affiliate
+## Prompt AI untuk SEO Affiliate
 
 SEO affiliate membutuhkan trust.
 
@@ -973,7 +973,7 @@ Buatkan 20 CTA affiliate yang natural untuk artikel tentang [produk/kategori]. C
 
 ---
 
-# Prompt AI untuk Audit Kompetitor SEO
+## Prompt AI untuk Audit Kompetitor SEO
 
 AI bisa membantu menganalisis kompetitor berdasarkan catatan yang Anda kumpulkan.
 
@@ -1024,7 +1024,7 @@ Catatan SERP:
 
 ---
 
-# Workflow SEO dengan AI
+## Workflow SEO dengan AI
 
 Berikut workflow praktis menggunakan AI untuk SEO.
 
@@ -1114,7 +1114,7 @@ Gunakan AI untuk membantu audit dan update, tetapi tetap lakukan pengecekan manu
 
 ---
 
-# Kesalahan Menggunakan AI untuk SEO
+## Kesalahan Menggunakan AI untuk SEO
 
 ## 1. Membuat Konten Massal Tanpa Review
 
@@ -1169,7 +1169,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk SEO
+## Checklist Prompt AI untuk SEO
 
 Gunakan checklist berikut.
 
@@ -1192,7 +1192,7 @@ Gunakan checklist berikut.
 
 ---
 
-# Template Prompt SEO Serbaguna
+## Template Prompt SEO Serbaguna
 
 Gunakan template ini untuk hampir semua kebutuhan SEO.
 
@@ -1234,7 +1234,7 @@ Fokus pada konten yang membantu pembaca, bukan hanya mengejar ranking.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk SEO?
 
@@ -1266,7 +1266,7 @@ Masukkan artikel lama ke AI, lalu minta audit search intent, content gap, intern
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk SEO dapat mempercepat banyak pekerjaan.
 
@@ -1298,7 +1298,7 @@ Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk SEO](/blog/ai-
 
 Jika ingin memakai prompt SEO untuk menulis artikel dari nol, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) yang membahas workflow riset, outline, draft, editing, dan fact-checking.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1321,21 +1321,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Gunakan AI untuk SEO yang Lebih Helpful
+## Gunakan AI untuk SEO yang Lebih Helpful
 
 AI bisa membuat SEO lebih cepat.
 

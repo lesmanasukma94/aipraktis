@@ -27,7 +27,7 @@ Jika ingin menerapkan tools AI ke workflow mengajar yang lebih lengkap, baca [AI
 
 Guru yang ingin memberi panduan penggunaan AI kepada siswa dapat merujuk [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar siswa memakai AI sebagai tutor, bukan mesin jawaban.
 
-# AI Tools untuk Guru
+
 
 Guru memiliki beban kerja yang besar.
 
@@ -87,7 +87,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Guru
+## Cara Memilih AI Tools untuk Guru
 
 Sebelum memilih tools, jangan mulai dari pertanyaan:
 
@@ -233,7 +233,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk Guru
+## Tabel AI Tools untuk Guru
 
 | Tools | Cocok untuk | Fungsi utama |
 |---|---|---|
@@ -255,7 +255,7 @@ Cocok untuk:
 
 ---
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT adalah salah satu AI tools paling fleksibel untuk guru.
 
@@ -362,7 +362,7 @@ Baca juga:
 
 ---
 
-# 2. Gemini for Education
+## 2. Gemini for Education
 
 Gemini for Education cocok untuk guru dan sekolah yang menggunakan ekosistem Google.
 
@@ -452,7 +452,7 @@ Baca juga:
 
 ---
 
-# 3. Microsoft Copilot
+## 3. Microsoft Copilot
 
 Microsoft Copilot cocok untuk guru dan sekolah yang memakai Microsoft 365.
 
@@ -536,7 +536,7 @@ Baca juga:
 
 ---
 
-# 4. Khanmigo
+## 4. Khanmigo
 
 Khanmigo adalah asisten AI dari Khan Academy yang dirancang untuk pendidikan.
 
@@ -610,7 +610,7 @@ Setelah Khanmigo memberi hasil, guru tetap perlu menyesuaikan:
 
 ---
 
-# 5. Canva Education
+## 5. Canva Education
 
 Canva Education sangat berguna untuk membuat materi visual.
 
@@ -700,7 +700,7 @@ Baca juga:
 
 ---
 
-# 6. MagicSchool
+## 6. MagicSchool
 
 MagicSchool adalah salah satu tools AI yang banyak dipakai guru karena menyediakan banyak template khusus pendidikan.
 
@@ -774,7 +774,7 @@ Selalu cek:
 
 ---
 
-# 7. Brisk Teaching
+## 7. Brisk Teaching
 
 Brisk Teaching cocok untuk guru yang bekerja dengan Google Docs, Google Classroom, Microsoft tools, atau materi digital yang sudah ada.
 
@@ -843,7 +843,7 @@ Tetapi keputusan akhir tetap di tangan guru.
 
 ---
 
-# 8. Quizizz AI
+## 8. Quizizz AI
 
 Quizizz AI cocok untuk membuat kuis interaktif.
 
@@ -913,7 +913,7 @@ Setelah kuis, bahas:
 
 ---
 
-# 9. Diffit
+## 9. Diffit
 
 Diffit cocok untuk diferensiasi teks bacaan.
 
@@ -979,7 +979,7 @@ Dengan begitu, siswa bisa belajar sesuai kemampuan tanpa merasa ditinggalkan.
 
 ---
 
-# 10. Curipod
+## 10. Curipod
 
 Curipod cocok untuk membuat presentasi interaktif dan aktivitas kelas.
 
@@ -1049,7 +1049,7 @@ Jangan semua slide dibuat interaktif jika tidak diperlukan.
 
 ---
 
-# 11. NotebookLM
+## 11. NotebookLM
 
 NotebookLM cocok untuk guru yang punya banyak dokumen.
 
@@ -1116,7 +1116,7 @@ Baca juga:
 
 ---
 
-# 12. Google Classroom
+## 12. Google Classroom
 
 Google Classroom bukan AI tool murni, tetapi sangat penting dalam workflow digital guru.
 
@@ -1167,7 +1167,7 @@ Buatkan komentar feedback untuk tugas siswa berdasarkan rubrik berikut.
 
 ---
 
-# 13. Google Forms dan Microsoft Forms
+## 13. Google Forms dan Microsoft Forms
 
 Google Forms dan Microsoft Forms cocok untuk membuat kuis, survei, refleksi, dan asesmen sederhana.
 
@@ -1221,7 +1221,7 @@ Buatkan survei minat belajar siswa sebelum memulai proyek kelompok. Gunakan pert
 
 ---
 
-# 14. Grammarly dan LanguageTool
+## 14. Grammarly dan LanguageTool
 
 Grammarly dan LanguageTool berguna untuk editing tulisan.
 
@@ -1279,7 +1279,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Tools Berdasarkan Kebutuhan Guru
+## Rekomendasi Tools Berdasarkan Kebutuhan Guru
 
 ## Untuk Membuat Materi Ajar
 
@@ -1393,7 +1393,7 @@ Workflow:
 
 ---
 
-# Workflow Guru Menggunakan AI
+## Workflow Guru Menggunakan AI
 
 Berikut workflow yang praktis.
 
@@ -1465,7 +1465,7 @@ Guru wajib mengecek:
 
 ---
 
-# Prompt AI untuk Guru
+## Prompt AI untuk Guru
 
 Berikut prompt siap pakai.
 
@@ -1525,7 +1525,7 @@ Buatkan email kepada orang tua tentang [topik]. Tone sopan, jelas, dan tidak men
 
 ---
 
-# Etika dan Keamanan AI untuk Guru
+## Etika dan Keamanan AI untuk Guru
 
 AI di pendidikan harus digunakan dengan hati-hati.
 
@@ -1611,7 +1611,7 @@ Guru dapat meminta siswa:
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Guru
+## Kesalahan Menggunakan AI Tools untuk Guru
 
 ## 1. Langsung Menggunakan Output AI Tanpa Review
 
@@ -1666,7 +1666,7 @@ Tetapi hubungan guru dan siswa tetap inti pembelajaran.
 
 ---
 
-# Checklist Memilih AI Tools untuk Guru
+## Checklist Memilih AI Tools untuk Guru
 
 Gunakan checklist ini.
 
@@ -1688,7 +1688,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rekomendasi Stack AI Tools untuk Guru
+## Rekomendasi Stack AI Tools untuk Guru
 
 ## Stack Minimal untuk Guru Pemula
 
@@ -1804,7 +1804,7 @@ Cocok untuk:
 
 ---
 
-# Rekomendasi untuk Guru di Indonesia
+## Rekomendasi untuk Guru di Indonesia
 
 Untuk guru di Indonesia, workflow yang paling realistis adalah mulai dari tools yang mudah diakses.
 
@@ -1854,7 +1854,7 @@ Misalnya:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk guru?
 
@@ -1886,7 +1886,7 @@ Tidak. AI bisa membantu guru menghemat waktu, tetapi tidak menggantikan peran gu
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk guru dapat membantu banyak pekerjaan pembelajaran.
 
@@ -1920,7 +1920,7 @@ Guru yang ingin membuat slide pembelajaran dapat membaca [Cara Menggunakan AI un
 
 Guru yang mengelola nilai, absensi, rubrik, atau rekap tugas dapat membaca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) untuk membuat rumus, menganalisis data kelas, dan menyusun laporan pembelajaran.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1946,22 +1946,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Pekerjaan Guru
+## Mulai dari Satu Pekerjaan Guru
 
 Jangan langsung memakai semua tools.
 

@@ -23,7 +23,7 @@ draft: false
 
 AI untuk TikToker dapat membantu proses produksi konten dari ide sampai evaluasi, mulai dari riset niche, content pillar, hook 3 detik, script video pendek, storyboard, caption, hashtag, kalender konten, editing, repurposing, analitik, hingga monetisasi. Namun, AI tidak boleh digunakan untuk membuat konten palsu, meniru wajah atau suara orang tanpa izin, mengarang testimoni, membuat klaim berlebihan, atau memproduksi konten massal yang generik. Cara terbaik memakai AI untuk TikTok adalah menjadikannya asisten ide, script, editing, dan analitik, sementara identitas, pengalaman, opini, dan kepercayaan tetap dibangun oleh kreator.
 
-# AI untuk TikToker
+
 
 TikTok adalah salah satu platform paling cepat untuk membangun awareness.
 
@@ -115,7 +115,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk TikToker?
+## Apa Itu AI untuk TikToker?
 
 AI untuk TikToker adalah penggunaan kecerdasan buatan untuk membantu proses kreatif dan produksi konten TikTok.
 
@@ -162,7 +162,7 @@ Kreator tetap menjadi pusatnya.
 
 ---
 
-# Mengapa TikToker Perlu Menggunakan AI?
+## Mengapa TikToker Perlu Menggunakan AI?
 
 AI membantu TikToker karena video pendek punya tekanan produksi yang tinggi.
 
@@ -223,7 +223,7 @@ Baca juga:
 
 ---
 
-# Prinsip AI untuk TikToker
+## Prinsip AI untuk TikToker
 
 Sebelum memakai AI, pahami prinsip berikut.
 
@@ -314,7 +314,7 @@ Misalnya:
 
 ---
 
-# Workflow AI untuk TikToker
+## Workflow AI untuk TikToker
 
 Berikut workflow lengkap TikToker dengan bantuan AI.
 
@@ -340,7 +340,7 @@ Kita bahas satu per satu.
 
 ---
 
-# Tahap 1: Menentukan Niche TikTok
+## Tahap 1: Menentukan Niche TikTok
 
 Niche adalah fokus konten.
 
@@ -423,7 +423,7 @@ Baca juga:
 
 ---
 
-# Tahap 2: Membuat Content Pillar TikTok
+## Tahap 2: Membuat Content Pillar TikTok
 
 Content pillar adalah pilar utama akun.
 
@@ -491,7 +491,7 @@ Pillar harus praktis dan bisa diproduksi rutin.
 
 ---
 
-# Tahap 3: Riset Ide Video TikTok
+## Tahap 3: Riset Ide Video TikTok
 
 AI bisa membantu membuat ide video yang lebih terarah.
 
@@ -554,7 +554,7 @@ Baca juga:
 
 ---
 
-# Tahap 4: Membuat Hook 3 Detik
+## Tahap 4: Membuat Hook 3 Detik
 
 Hook adalah pembuka video.
 
@@ -663,7 +663,7 @@ Saya dulu [masalah], sekarang [hasil].
 
 ---
 
-# Tahap 5: Membuat Script TikTok
+## Tahap 5: Membuat Script TikTok
 
 Script TikTok harus ringkas.
 
@@ -773,7 +773,7 @@ Script ini singkat, jelas, dan bisa langsung direkam.
 
 ---
 
-# Tahap 6: Membuat Storyboard TikTok
+## Tahap 6: Membuat Storyboard TikTok
 
 Storyboard membantu visual lebih rapi.
 
@@ -823,7 +823,7 @@ Storyboard membuat proses editing lebih cepat.
 
 ---
 
-# Tahap 7: Membuat Caption TikTok
+## Tahap 7: Membuat Caption TikTok
 
 Caption TikTok sebaiknya mendukung video.
 
@@ -889,7 +889,7 @@ Baca juga:
 
 ---
 
-# Tahap 8: Hashtag TikTok
+## Tahap 8: Hashtag TikTok
 
 Hashtag bukan satu-satunya faktor performa.
 
@@ -951,7 +951,7 @@ Jangan terlalu umum semua.
 
 ---
 
-# Tahap 9: Editing TikTok dengan Bantuan AI
+## Tahap 9: Editing TikTok dengan Bantuan AI
 
 AI bisa membantu editing.
 
@@ -1019,7 +1019,7 @@ Baca juga:
 
 ---
 
-# Tahap 10: Kalender Konten TikTok
+## Tahap 10: Kalender Konten TikTok
 
 TikTok membutuhkan konsistensi.
 
@@ -1081,7 +1081,7 @@ Content mix:
 
 ---
 
-# Tahap 11: Repurposing ke TikTok
+## Tahap 11: Repurposing ke TikTok
 
 AI bisa mengubah konten dari format lain menjadi TikTok.
 
@@ -1149,7 +1149,7 @@ Baca juga:
 
 ---
 
-# Tahap 12: Membaca Komentar TikTok
+## Tahap 12: Membaca Komentar TikTok
 
 Komentar adalah sumber ide.
 
@@ -1218,7 +1218,7 @@ Komentar membantu konten menjadi lebih relevan.
 
 ---
 
-# Tahap 13: Analitik TikTok
+## Tahap 13: Analitik TikTok
 
 TikToker perlu membaca analitik.
 
@@ -1314,7 +1314,7 @@ Tetapi saves, shares, dan komentar sering memberi sinyal nilai konten.
 
 ---
 
-# Tahap 14: Monetisasi TikTok dengan Bantuan AI
+## Tahap 14: Monetisasi TikTok dengan Bantuan AI
 
 TikTok bisa menjadi pintu monetisasi.
 
@@ -1410,7 +1410,7 @@ Baca juga:
 
 ---
 
-# Contoh Workflow TikToker Edukasi dengan AI
+## Contoh Workflow TikToker Edukasi dengan AI
 
 Misalnya akun TikTok edukasi AI.
 
@@ -1472,7 +1472,7 @@ TikTok menjadi bagian dari ekosistem konten.
 
 ---
 
-# Format Video TikTok yang Cocok Dibantu AI
+## Format Video TikTok yang Cocok Dibantu AI
 
 Berikut format video yang bisa dibuat dengan bantuan AI.
 
@@ -1590,7 +1590,7 @@ Tampilkan contoh → analisis → perbaikan
 
 ---
 
-# AI untuk TikToker Faceless
+## AI untuk TikToker Faceless
 
 AI sangat membantu TikToker faceless.
 
@@ -1642,7 +1642,7 @@ Konten faceless tetap harus punya:
 
 ---
 
-# AI untuk TikToker Personal Brand
+## AI untuk TikToker Personal Brand
 
 Jika akun memakai wajah kreator, AI bisa membantu tanpa menghilangkan sisi manusia.
 
@@ -1689,7 +1689,7 @@ AI hanya membantu merapikan.
 
 ---
 
-# AI untuk TikToker Jualan
+## AI untuk TikToker Jualan
 
 TikTok bisa menjadi channel jualan.
 
@@ -1754,7 +1754,7 @@ Baca juga:
 
 ---
 
-# AI untuk TikToker Edukasi
+## AI untuk TikToker Edukasi
 
 TikToker edukasi perlu menjaga akurasi.
 
@@ -1805,7 +1805,7 @@ Baca juga:
 
 ---
 
-# Prompt Pack AI untuk TikToker
+## Prompt Pack AI untuk TikToker
 
 Berikut prompt siap pakai.
 
@@ -2018,7 +2018,7 @@ Jangan membuat data baru.
 
 ---
 
-# SOP Etika AI untuk TikToker
+## SOP Etika AI untuk TikToker
 
 TikToker perlu SOP etika.
 
@@ -2075,7 +2075,7 @@ Jangan memasukkan data pelanggan, klien, siswa, pasien, atau orang lain ke AI pu
 
 ---
 
-# Kesalahan TikToker Saat Menggunakan AI
+## Kesalahan TikToker Saat Menggunakan AI
 
 ## 1. Semua Script Terasa Sama
 
@@ -2137,7 +2137,7 @@ Konten AI yang menyesatkan bisa merusak kepercayaan.
 
 ---
 
-# Checklist Produksi TikTok dengan AI
+## Checklist Produksi TikTok dengan AI
 
 Gunakan checklist ini.
 
@@ -2197,7 +2197,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 30 Hari AI untuk TikToker
+## Rencana 30 Hari AI untuk TikToker
 
 Berikut rencana sederhana.
 
@@ -2264,7 +2264,7 @@ Workflow TikTok yang bisa diulang.
 
 ---
 
-# Contoh Kalender TikTok 14 Hari
+## Contoh Kalender TikTok 14 Hari
 
 Contoh untuk akun AI praktis.
 
@@ -2287,7 +2287,7 @@ Contoh untuk akun AI praktis.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk TikToker?
 
@@ -2323,7 +2323,7 @@ Mulai dari niche, content pillar, ide video, hook, script, rekam, edit, caption,
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk TikToker bisa sangat membantu.
 
@@ -2385,7 +2385,7 @@ Tetap jadikan kreativitas dan kepercayaan audiens sebagai pusat akun.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2410,7 +2410,7 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
@@ -2425,7 +2425,7 @@ Temukan panduan AI sesuai kebutuhan Anda:
 
 ---
 
-# Mulai dari Satu Video TikTok
+## Mulai dari Satu Video TikTok
 
 Jangan langsung membuat 100 konten.
 

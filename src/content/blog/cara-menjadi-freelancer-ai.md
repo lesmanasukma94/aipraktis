@@ -302,7 +302,7 @@ Klien lebih mudah percaya pada orang yang terlihat aktif dan kompeten.
 
 ---
 
-# Cara Menjadi Freelancer AI dari Nol
+## Cara Menjadi Freelancer AI dari Nol
 
 Menjadi freelancer AI bukan berarti harus menjadi programmer atau membuat aplikasi AI sendiri.
 
@@ -346,7 +346,7 @@ Baca juga:
 
 ---
 
-# Skill Dasar Freelancer AI
+## Skill Dasar Freelancer AI
 
 Freelancer AI tidak harus menguasai semuanya sejak awal.
 
@@ -466,7 +466,7 @@ Jangan mengirim output AI tanpa review manusia.
 
 ---
 
-# Jenis Jasa Freelancer AI yang Bisa Dijual
+## Jenis Jasa Freelancer AI yang Bisa Dijual
 
 Berikut beberapa jasa yang realistis untuk pemula.
 
@@ -670,7 +670,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih Niche Freelancer AI
+## Cara Memilih Niche Freelancer AI
 
 Jangan mulai dengan target terlalu luas.
 
@@ -719,7 +719,7 @@ Niche yang jelas membuat jasa lebih mudah dijual.
 
 ---
 
-# Cara Membuat Portofolio Freelancer AI
+## Cara Membuat Portofolio Freelancer AI
 
 Portofolio penting agar calon klien percaya.
 
@@ -782,7 +782,7 @@ Baca juga:
 
 ---
 
-# Cara Menentukan Harga Jasa Freelancer AI
+## Cara Menentukan Harga Jasa Freelancer AI
 
 Harga jasa freelancer AI tergantung pada:
 
@@ -848,7 +848,7 @@ Jual output yang jelas.
 
 ---
 
-# Cara Mendapatkan Klien Freelancer AI
+## Cara Mendapatkan Klien Freelancer AI
 
 Klien pertama biasanya datang dari jaringan terdekat.
 
@@ -899,7 +899,7 @@ Tunjukkan contoh yang relevan terlebih dahulu.
 
 ---
 
-# Workflow Kerja Freelancer AI
+## Workflow Kerja Freelancer AI
 
 Agar terlihat profesional, gunakan workflow yang jelas.
 
@@ -978,7 +978,7 @@ Tambahkan panduan penggunaan jika perlu.
 
 ---
 
-# Tools yang Dibutuhkan Freelancer AI
+## Tools yang Dibutuhkan Freelancer AI
 
 Untuk mulai, tidak perlu terlalu banyak tools.
 
@@ -1037,7 +1037,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Menjadi Freelancer AI
+## Kesalahan Menjadi Freelancer AI
 
 ## 1. Menjual AI, Bukan Solusi
 
@@ -1112,7 +1112,7 @@ Batasan seperti ini mencegah scope melebar.
 
 ---
 
-# Checklist Menjadi Freelancer AI
+## Checklist Menjadi Freelancer AI
 
 Gunakan checklist ini.
 
@@ -1144,7 +1144,7 @@ kenapa klien bisa percaya.
 
 ---
 
-# Prompt Menentukan Jasa Freelancer AI
+## Prompt Menentukan Jasa Freelancer AI
 
 Gunakan prompt ini.
 
@@ -1183,7 +1183,7 @@ Bantu saya menentukan:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# Prompt Membuat Paket Freelancer AI
+## Prompt Membuat Paket Freelancer AI
 
 Gunakan prompt ini.
 
@@ -1217,7 +1217,7 @@ Batasan:
 Paket harus jelas, realistis, dan mudah dipahami calon klien.
 ```
 
-# Prompt Membuat Portofolio Freelancer AI
+## Prompt Membuat Portofolio Freelancer AI
 
 Gunakan prompt ini.
 
@@ -1249,7 +1249,7 @@ Fokus pada contoh nyata dan output yang bisa dilihat.
 Jangan membuat klaim berlebihan.
 ```
 
-# Prompt Brief Klien Freelancer AI
+## Prompt Brief Klien Freelancer AI
 
 Gunakan prompt ini sebelum mulai proyek.
 

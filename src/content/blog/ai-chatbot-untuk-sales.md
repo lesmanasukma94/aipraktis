@@ -22,7 +22,7 @@ AI chatbot untuk sales dapat membantu bisnis menjawab calon pelanggan lebih cepa
 
 Chatbot sales akan lebih efektif jika terhubung dengan workflow sales yang jelas. Baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami follow-up, qualification, objection handling, CRM, proposal, dan closing.
 
-# AI Chatbot untuk Sales
+
 
 Sales adalah salah satu bagian paling penting dalam bisnis.
 
@@ -68,7 +68,7 @@ Manusia tetap menangani konsultasi, negosiasi, relationship, dan closing bernila
 
 ---
 
-# Apa Itu AI Chatbot untuk Sales?
+## Apa Itu AI Chatbot untuk Sales?
 
 AI chatbot untuk sales adalah chatbot berbasis kecerdasan buatan yang membantu proses penjualan melalui percakapan otomatis atau semi-otomatis.
 
@@ -111,7 +111,7 @@ Baca juga:
 
 ---
 
-# Peran AI Chatbot dalam Proses Sales
+## Peran AI Chatbot dalam Proses Sales
 
 AI chatbot dapat membantu di beberapa tahap sales funnel.
 
@@ -204,7 +204,7 @@ AI chatbot dapat membantu membuat follow-up yang sopan, natural, dan konsisten.
 
 ---
 
-# Manfaat AI Chatbot untuk Sales
+## Manfaat AI Chatbot untuk Sales
 
 AI chatbot memberi banyak manfaat untuk proses sales.
 
@@ -333,7 +333,7 @@ Data ini bisa digunakan untuk memperbaiki penawaran, halaman pricing, script sal
 
 ---
 
-# Contoh Penggunaan AI Chatbot untuk Sales
+## Contoh Penggunaan AI Chatbot untuk Sales
 
 Berikut contoh penggunaan AI chatbot dalam sales.
 
@@ -406,7 +406,7 @@ Materi ini membantu prospek memahami penawaran sebelum bicara dengan sales.
 
 ---
 
-# Tools AI Chatbot untuk Sales
+## Tools AI Chatbot untuk Sales
 
 Berikut beberapa tools yang dapat dipertimbangkan.
 
@@ -522,7 +522,7 @@ Cocok untuk:
 
 ---
 
-# Cara Menggunakan AI Chatbot untuk Sales
+## Cara Menggunakan AI Chatbot untuk Sales
 
 Agar AI chatbot benar-benar membantu sales, gunakan langkah berikut.
 
@@ -646,7 +646,7 @@ Gunakan data ini untuk memperbaiki script sales dan penawaran.
 
 ---
 
-# Contoh Flow AI Chatbot untuk Sales
+## Contoh Flow AI Chatbot untuk Sales
 
 Berikut contoh flow chatbot untuk bisnis jasa konsultasi.
 
@@ -710,7 +710,7 @@ Flow ini membantu tim sales menerima informasi yang lebih siap pakai.
 
 ---
 
-# Prompt AI Chatbot untuk Sales
+## Prompt AI Chatbot untuk Sales
 
 Berikut prompt siap pakai.
 
@@ -758,7 +758,7 @@ Buatkan sistem lead scoring untuk bisnis [jenis bisnis]. Kelompokkan lead menjad
 
 ---
 
-# Strategi Meningkatkan Closing dengan AI Chatbot
+## Strategi Meningkatkan Closing dengan AI Chatbot
 
 AI chatbot bukan sekadar alat menjawab pertanyaan.
 
@@ -863,7 +863,7 @@ Pada titik ini, manusia lebih tepat mengambil alih.
 
 ---
 
-# Kesalahan Menggunakan AI Chatbot untuk Sales
+## Kesalahan Menggunakan AI Chatbot untuk Sales
 
 Hindari kesalahan berikut.
 
@@ -917,7 +917,7 @@ Gunakan klaim yang jujur dan realistis.
 
 ---
 
-# Checklist AI Chatbot untuk Sales
+## Checklist AI Chatbot untuk Sales
 
 Gunakan checklist ini sebelum menjalankan chatbot sales.
 
@@ -938,7 +938,7 @@ Gunakan checklist ini sebelum menjalankan chatbot sales.
 
 ---
 
-# Contoh Penerapan Berdasarkan Jenis Bisnis
+## Contoh Penerapan Berdasarkan Jenis Bisnis
 
 ## Untuk UMKM
 
@@ -1000,7 +1000,7 @@ Gunakan AI chatbot untuk:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI chatbot untuk sales?
 
@@ -1032,7 +1032,7 @@ Kesalahan terbesar adalah membuat chatbot terlalu agresif, tidak menyimpan data 
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI chatbot untuk sales dapat membantu bisnis menjual dengan lebih cepat, rapi, dan konsisten.
 
@@ -1054,7 +1054,7 @@ Jika digunakan dengan benar, AI chatbot dapat menjadi bagian penting dari mesin 
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1084,22 +1084,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Karier AI](/kategori/karier-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Karier AI](/karier-ai/)
 
 ---
 
-# Gunakan AI untuk Membantu Sales Lebih Konsisten
+## Gunakan AI untuk Membantu Sales Lebih Konsisten
 
 Sales yang baik bukan hanya soal menawarkan produk.
 

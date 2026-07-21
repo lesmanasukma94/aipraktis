@@ -19,7 +19,7 @@ draft: false
 
 AI chatbot untuk website dapat membantu bisnis menjawab pertanyaan pengunjung, menangkap lead, memberi rekomendasi produk, mengurangi beban customer service, dan meningkatkan peluang konversi. Artikel ini membahas manfaat, jenis website yang cocok menggunakan AI chatbot, rekomendasi tools, contoh alur percakapan, cara memasang chatbot di website, hingga checklist penerapan agar hasilnya lebih efektif.
 
-# AI Chatbot untuk Website
+
 
 Website bukan hanya tempat menampilkan informasi.
 
@@ -48,7 +48,7 @@ Bagi bisnis online, chatbot bukan hanya fitur tambahan. Chatbot dapat menjadi ba
 
 ---
 
-# Apa Itu AI Chatbot untuk Website?
+## Apa Itu AI Chatbot untuk Website?
 
 AI chatbot untuk website adalah program percakapan berbasis Artificial Intelligence yang dipasang di halaman website untuk berinteraksi dengan pengunjung secara otomatis.
 
@@ -79,7 +79,7 @@ Jika digunakan dengan benar, chatbot membuat website terasa lebih hidup dan resp
 
 ---
 
-# Manfaat AI Chatbot untuk Website
+## Manfaat AI Chatbot untuk Website
 
 AI chatbot memiliki banyak manfaat, terutama untuk bisnis yang menerima banyak pertanyaan berulang dari pengunjung.
 
@@ -187,7 +187,7 @@ Insight ini dapat digunakan untuk memperbaiki halaman landing page, FAQ, artikel
 
 ---
 
-# Website Apa yang Cocok Menggunakan AI Chatbot?
+## Website Apa yang Cocok Menggunakan AI Chatbot?
 
 Hampir semua website bisnis dapat menggunakan chatbot, tetapi manfaatnya paling terasa pada website yang menerima banyak pertanyaan pengunjung.
 
@@ -241,7 +241,7 @@ AI chatbot dapat membantu mengidentifikasi calon pelanggan yang serius, mengumpu
 
 ---
 
-# Jenis AI Chatbot untuk Website
+## Jenis AI Chatbot untuk Website
 
 Tidak semua chatbot memiliki fungsi yang sama.
 
@@ -317,7 +317,7 @@ Untuk sebagian besar bisnis, model hybrid adalah pilihan terbaik.
 
 ---
 
-# Rekomendasi Tools AI Chatbot untuk Website
+## Rekomendasi Tools AI Chatbot untuk Website
 
 Berikut beberapa tools yang dapat dipertimbangkan untuk memasang AI chatbot di website.
 
@@ -406,7 +406,7 @@ Baca juga:
 
 ---
 
-# Cara Memasang AI Chatbot di Website
+## Cara Memasang AI Chatbot di Website
 
 Berikut langkah praktis untuk mulai menggunakan AI chatbot di website.
 
@@ -561,7 +561,7 @@ Gunakan data tersebut untuk memperbaiki FAQ, flow, halaman website, dan strategi
 
 ---
 
-# Contoh Alur AI Chatbot untuk Website
+## Contoh Alur AI Chatbot untuk Website
 
 Berikut contoh sederhana alur chatbot untuk website bisnis jasa.
 
@@ -601,7 +601,7 @@ Alur seperti ini sederhana, tetapi sudah cukup untuk membantu banyak website bis
 
 ---
 
-# Prompt ChatGPT untuk Membuat AI Chatbot Website
+## Prompt ChatGPT untuk Membuat AI Chatbot Website
 
 Anda dapat menggunakan ChatGPT untuk menyiapkan bahan chatbot.
 
@@ -637,7 +637,7 @@ Buatkan panduan tone of voice untuk chatbot website bisnis [jenis bisnis]. Brand
 
 ---
 
-# Kesalahan yang Harus Dihindari
+## Kesalahan yang Harus Dihindari
 
 AI chatbot bisa sangat membantu, tetapi penerapannya perlu hati-hati.
 
@@ -687,7 +687,7 @@ Jangan meminta data sensitif jika tidak benar-benar diperlukan.
 
 ---
 
-# Checklist AI Chatbot untuk Website
+## Checklist AI Chatbot untuk Website
 
 Sebelum memasang AI chatbot, gunakan checklist berikut:
 
@@ -708,7 +708,7 @@ Checklist ini membantu memastikan chatbot tidak hanya terlihat modern, tetapi be
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI chatbot untuk website?
 
@@ -740,7 +740,7 @@ Langkah pertama adalah menentukan tujuan chatbot, lalu mengumpulkan pertanyaan y
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI chatbot untuk website dapat menjadi alat penting untuk meningkatkan pengalaman pengunjung, mempercepat respons, mengumpulkan lead, dan membantu customer service.
 
@@ -764,7 +764,7 @@ Chatbot website akan lebih efektif jika punya knowledge base yang kuat. Baca [AI
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -789,21 +789,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Bangun Website yang Lebih Responsif dengan AI
+## Bangun Website yang Lebih Responsif dengan AI
 
 Website yang baik bukan hanya terlihat profesional, tetapi juga membantu pengunjung mendapatkan jawaban dengan cepat.
 

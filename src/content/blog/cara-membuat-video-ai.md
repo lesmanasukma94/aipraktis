@@ -24,7 +24,7 @@ Banyak content creator, YouTuber, marketer, freelancer, dan pemilik bisnis mulai
 
 Dalam panduan ini Anda akan mempelajari cara membuat video AI langkah demi langkah, termasuk tools yang digunakan dan strategi agar hasilnya terlihat profesional.
 
-# Apa Itu Video AI?
+## Apa Itu Video AI?
 
 Video AI adalah video yang dibuat atau dibantu oleh teknologi kecerdasan buatan.
 
@@ -39,7 +39,7 @@ AI dapat membantu:
 
 Dalam banyak kasus, seseorang dapat membuat video tanpa harus tampil di depan kamera.
 
-# Keuntungan Membuat Video dengan AI
+## Keuntungan Membuat Video dengan AI
 
 Beberapa keuntungan menggunakan AI:
 
@@ -59,7 +59,7 @@ Banyak tools AI dirancang agar mudah digunakan.
 
 Creator dapat membuat lebih banyak video dalam waktu yang sama.
 
-# Jenis Video yang Bisa Dibuat dengan AI
+## Jenis Video yang Bisa Dibuat dengan AI
 
 AI dapat digunakan untuk membuat:
 
@@ -73,7 +73,7 @@ AI dapat digunakan untuk membuat:
 * Video produk
 * Video training
 
-# Tools AI Terbaik untuk Membuat Video
+## Tools AI Terbaik untuk Membuat Video
 
 ## ChatGPT
 
@@ -128,9 +128,9 @@ Digunakan untuk:
 * AI avatar
 * Video presenter virtual
 
-# Cara Membuat Video AI Langkah Demi Langkah
+## Cara Membuat Video AI Langkah Demi Langkah
 
-# Langkah 1: Tentukan Topik Video
+## Langkah 1: Tentukan Topik Video
 
 Pilih topik yang ingin dibuat.
 
@@ -144,7 +144,7 @@ Gunakan ChatGPT:
 
 > Berikan 20 ide video YouTube tentang AI untuk pemula.
 
-# Langkah 2: Buat Script Menggunakan AI
+## Langkah 2: Buat Script Menggunakan AI
 
 Script adalah fondasi video.
 
@@ -154,7 +154,7 @@ Contoh prompt:
 
 Hasil script dapat diedit agar sesuai dengan gaya Anda.
 
-# Langkah 3: Buat Voice Over
+## Langkah 3: Buat Voice Over
 
 Gunakan:
 
@@ -164,7 +164,7 @@ Gunakan:
 
 Masukkan script dan AI akan menghasilkan suara narasi.
 
-# Langkah 4: Siapkan Visual
+## Langkah 4: Siapkan Visual
 
 Visual dapat dibuat menggunakan:
 
@@ -174,7 +174,7 @@ Visual dapat dibuat menggunakan:
 
 Atau menggunakan gambar dan video stok.
 
-# Langkah 5: Gabungkan Menjadi Video
+## Langkah 5: Gabungkan Menjadi Video
 
 Gunakan:
 
@@ -189,7 +189,7 @@ Tambahkan:
 * Musik
 * Transisi
 
-# Langkah 6: Tambahkan Subtitle
+## Langkah 6: Tambahkan Subtitle
 
 Subtitle sangat penting untuk meningkatkan retensi penonton.
 
@@ -199,7 +199,7 @@ Gunakan:
 * Descript
 * VEED
 
-# Langkah 7: Export dan Upload
+## Langkah 7: Export dan Upload
 
 Setelah selesai:
 
@@ -208,7 +208,7 @@ Setelah selesai:
 * Upload ke TikTok
 * Upload ke Instagram
 
-# Cara Membuat Video YouTube AI
+## Cara Membuat Video YouTube AI
 
 Workflow sederhana:
 
@@ -220,7 +220,7 @@ Workflow sederhana:
 
 Ini adalah metode yang banyak digunakan channel faceless.
 
-# Cara Membuat Video TikTok AI
+## Cara Membuat Video TikTok AI
 
 Workflow:
 
@@ -229,7 +229,7 @@ Workflow:
 3. ElevenLabs → narasi
 4. TikTok → upload
 
-# Cara Membuat Video Presentasi AI
+## Cara Membuat Video Presentasi AI
 
 Gunakan:
 
@@ -239,7 +239,7 @@ Gunakan:
 
 AI dapat membantu membuat presentasi profesional dalam hitungan menit.
 
-# Apakah Video AI Bisa Dimonetisasi?
+## Apakah Video AI Bisa Dimonetisasi?
 
 Ya.
 
@@ -253,7 +253,7 @@ Video AI dapat dimonetisasi melalui:
 
 Namun tetap pastikan konten memiliki nilai tambah dan tidak hanya hasil AI mentah.
 
-# Kesalahan Saat Membuat Video AI
+## Kesalahan Saat Membuat Video AI
 
 ## Menggunakan Script Mentah
 
@@ -273,7 +273,7 @@ AI membantu produksi, tetapi ide dan strategi tetap harus berasal dari manusia.
 
 ---
 
-# Cara Membuat Video AI dari Nol
+## Cara Membuat Video AI dari Nol
 
 Membuat video AI tidak harus langsung dimulai dari tools video generator.
 
@@ -311,7 +311,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Tentukan Tujuan Video
+## Langkah 1: Tentukan Tujuan Video
 
 Sebelum membuat video AI, tentukan dulu tujuannya.
 
@@ -369,7 +369,7 @@ Jika tujuan video tidak jelas, hasil AI biasanya akan terasa acak.
 
 ---
 
-# Langkah 2: Buat Ide Video dengan AI
+## Langkah 2: Buat Ide Video dengan AI
 
 AI bisa membantu membuat ide video dari satu topik.
 
@@ -425,7 +425,7 @@ Jangan mulai dari konsep yang terlalu rumit jika baru belajar.
 
 ---
 
-# Langkah 3: Buat Script Video
+## Langkah 3: Buat Script Video
 
 Script adalah fondasi video.
 
@@ -507,7 +507,7 @@ Baca juga:
 
 ---
 
-# Langkah 4: Buat Storyboard Video
+## Langkah 4: Buat Storyboard Video
 
 Storyboard membantu mengubah script menjadi visual.
 
@@ -574,7 +574,7 @@ Storyboard membuat produksi video lebih rapi.
 
 ---
 
-# Langkah 5: Buat Prompt Visual untuk Video AI
+## Langkah 5: Buat Prompt Visual untuk Video AI
 
 Jika video memakai gambar AI atau footage AI, Anda perlu prompt visual yang jelas.
 
@@ -628,7 +628,7 @@ Baca juga:
 
 ---
 
-# Langkah 6: Buat Voice Over dengan AI
+## Langkah 6: Buat Voice Over dengan AI
 
 Voice over membantu video terasa lebih hidup.
 
@@ -676,7 +676,7 @@ Pastikan pengucapan nama, istilah, dan kalimat penting tidak aneh.
 
 ---
 
-# Langkah 7: Tambahkan Subtitle dan Teks Overlay
+## Langkah 7: Tambahkan Subtitle dan Teks Overlay
 
 Untuk video pendek, subtitle sangat penting.
 
@@ -721,7 +721,7 @@ Jika terlalu padat, penonton sulit membaca.
 
 ---
 
-# Langkah 8: Edit Video agar Terasa Natural
+## Langkah 8: Edit Video agar Terasa Natural
 
 AI bisa membantu membuat bahan video, tetapi editing tetap penting.
 
@@ -759,7 +759,7 @@ Video harus mudah dipahami.
 
 ---
 
-# Contoh Workflow Video AI untuk TikTok, Reels, dan Shorts
+## Contoh Workflow Video AI untuk TikTok, Reels, dan Shorts
 
 Untuk video pendek, gunakan workflow ini:
 
@@ -818,7 +818,7 @@ Baca juga:
 
 ---
 
-# Contoh Workflow Video AI untuk YouTube Panjang
+## Contoh Workflow Video AI untuk YouTube Panjang
 
 Untuk YouTube panjang, workflow-nya lebih detail.
 
@@ -887,7 +887,7 @@ Gunakan kombinasi:
 
 ---
 
-# Contoh Workflow Video AI untuk Promosi Produk
+## Contoh Workflow Video AI untuk Promosi Produk
 
 Video promosi harus fokus pada masalah pelanggan dan manfaat produk.
 
@@ -955,7 +955,7 @@ Baca juga:
 
 ---
 
-# Contoh Workflow Video AI Faceless
+## Contoh Workflow Video AI Faceless
 
 Video faceless cocok untuk orang yang tidak ingin tampil di kamera.
 
@@ -1007,7 +1007,7 @@ Jangan hanya menggabungkan gambar tanpa narasi yang jelas.
 
 ---
 
-# Kesalahan Membuat Video AI
+## Kesalahan Membuat Video AI
 
 ## 1. Langsung Membuat Visual Tanpa Script
 
@@ -1061,7 +1061,7 @@ Gunakan bahasa yang realistis.
 
 ---
 
-# Checklist Membuat Video AI Sebelum Publish
+## Checklist Membuat Video AI Sebelum Publish
 
 Gunakan checklist ini.
 
@@ -1088,7 +1088,7 @@ Checklist ini membantu video AI terlihat lebih profesional.
 
 ---
 
-# Prompt Master Membuat Video AI
+## Prompt Master Membuat Video AI
 
 Gunakan prompt master berikut.
 
@@ -1137,7 +1137,7 @@ Jangan membuat klaim berlebihan.
 Visual harus realistis dibuat dengan tools AI atau editor video sederhana.
 ```
 
-# Prompt Review Video AI
+## Prompt Review Video AI
 
 Gunakan prompt ini sebelum publish.
 
@@ -1166,7 +1166,7 @@ Cek:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# Prompt Membuat Caption Video AI
+## Prompt Membuat Caption Video AI
 
 Gunakan prompt ini setelah video selesai.
 
@@ -1199,7 +1199,7 @@ Gaya:
 natural, jelas, tidak berlebihan.
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah video AI gratis?
 
@@ -1230,7 +1230,7 @@ Baca juga:
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI membuat proses pembuatan video menjadi jauh lebih mudah dan cepat. Dengan kombinasi ChatGPT, Canva, CapCut, dan tools AI lainnya, siapa pun dapat membuat video profesional tanpa pengalaman editing yang rumit.
 

@@ -43,7 +43,7 @@ ChatGPT dapat membantu:
 
 AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivitas.
 
-# Prompt untuk Menjawab Pertanyaan Pelanggan
+## Prompt untuk Menjawab Pertanyaan Pelanggan
 
 ## Prompt 1
 
@@ -65,7 +65,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat jawaban mengenai cara pemesanan produk.
 
-# Prompt untuk WhatsApp Customer Service
+## Prompt untuk WhatsApp Customer Service
 
 ## Prompt 6
 
@@ -87,7 +87,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat template salam pembuka customer service.
 
-# Prompt untuk Menangani Komplain
+## Prompt untuk Menangani Komplain
 
 ## Prompt 11
 
@@ -109,7 +109,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat respon yang menunjukkan empati kepada pelanggan.
 
-# Prompt untuk Meningkatkan Kepuasan Pelanggan
+## Prompt untuk Meningkatkan Kepuasan Pelanggan
 
 ## Prompt 16
 
@@ -131,7 +131,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat strategi komunikasi pelanggan yang lebih baik.
 
-# Prompt untuk FAQ
+## Prompt untuk FAQ
 
 ## Prompt 21
 
@@ -153,7 +153,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat FAQ untuk layanan digital.
 
-# Prompt untuk Customer Support Toko Online
+## Prompt untuk Customer Support Toko Online
 
 ## Prompt 26
 
@@ -175,7 +175,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat jawaban untuk pelanggan yang mengalami kendala pembayaran.
 
-# Prompt untuk Email Customer Service
+## Prompt untuk Email Customer Service
 
 ## Prompt 31
 
@@ -197,7 +197,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat email informasi pengiriman.
 
-# Prompt untuk Pelanggan yang Sulit
+## Prompt untuk Pelanggan yang Sulit
 
 ## Prompt 36
 
@@ -219,7 +219,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat strategi menghadapi pelanggan yang emosional.
 
-# Prompt untuk Loyalitas Pelanggan
+## Prompt untuk Loyalitas Pelanggan
 
 ## Prompt 41
 
@@ -241,7 +241,7 @@ AI tidak menggantikan customer service, tetapi membantu meningkatkan produktivit
 
 > Buat kampanye apresiasi pelanggan.
 
-# Prompt untuk Analisis Customer Service
+## Prompt untuk Analisis Customer Service
 
 ## Prompt 46
 
@@ -298,7 +298,7 @@ Setelah membuat prompt customer service, Anda dapat mengembangkannya menjadi cha
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 ChatGPT dapat membantu customer service memberikan layanan yang lebih cepat, lebih konsisten, dan lebih profesional. Dengan prompt yang tepat, bisnis dapat meningkatkan kepuasan pelanggan sekaligus menghemat waktu tim layanan pelanggan.
 

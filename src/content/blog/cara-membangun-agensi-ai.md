@@ -340,7 +340,7 @@ Menjadi agensi AI yang berkembang.
 
 ---
 
-# Cara Membangun Agensi AI dari Nol
+## Cara Membangun Agensi AI dari Nol
 
 Membangun agensi AI bukan berarti harus langsung membuat software AI sendiri.
 
@@ -383,7 +383,7 @@ Baca juga:
 
 ---
 
-# Model Agensi AI yang Bisa Dimulai Pemula
+## Model Agensi AI yang Bisa Dimulai Pemula
 
 Ada beberapa model agensi AI yang bisa dipilih.
 
@@ -630,7 +630,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Pilih Niche Agensi AI
+## Langkah 1: Pilih Niche Agensi AI
 
 Jangan mulai dengan target terlalu luas.
 
@@ -675,7 +675,7 @@ Positioning seperti ini lebih kuat karena langsung menjelaskan masalah dan outpu
 
 ---
 
-# Langkah 2: Tentukan Layanan Utama
+## Langkah 2: Tentukan Layanan Utama
 
 Agensi AI pemula sebaiknya tidak menawarkan terlalu banyak layanan.
 
@@ -718,7 +718,7 @@ Semakin jelas outputnya, semakin mudah klien memahami nilai layanan Anda.
 
 ---
 
-# Langkah 3: Buat Paket Jasa AI
+## Langkah 3: Buat Paket Jasa AI
 
 Paket jasa membantu calon klien mengambil keputusan.
 
@@ -809,7 +809,7 @@ Baca juga:
 
 ---
 
-# Langkah 4: Buat Portofolio Agensi AI
+## Langkah 4: Buat Portofolio Agensi AI
 
 Sebelum mencari klien, siapkan portofolio.
 
@@ -875,7 +875,7 @@ Portofolio seperti ini membantu calon klien melihat hasil nyata.
 
 ---
 
-# Langkah 5: Cari Klien Pertama
+## Langkah 5: Cari Klien Pertama
 
 Klien pertama biasanya datang dari jaringan terdekat.
 
@@ -927,7 +927,7 @@ Kuncinya: beri contoh yang relevan, bukan hanya menawarkan jasa.
 
 ---
 
-# Langkah 6: Buat Proses Kerja Agensi
+## Langkah 6: Buat Proses Kerja Agensi
 
 Agar agensi terlihat profesional, buat proses kerja yang jelas.
 
@@ -1000,7 +1000,7 @@ Pastikan mereka tahu cara menjalankan.
 
 ---
 
-# Langkah 7: Buat SOP Internal Agensi AI
+## Langkah 7: Buat SOP Internal Agensi AI
 
 Agensi AI juga perlu SOP internal.
 
@@ -1045,7 +1045,7 @@ SOP penting agar agensi tidak bergantung pada improvisasi.
 
 ---
 
-# Langkah 8: Jaga Data dan Kepercayaan Klien
+## Langkah 8: Jaga Data dan Kepercayaan Klien
 
 Agensi AI sering menerima data bisnis klien.
 
@@ -1085,7 +1085,7 @@ Jangan mengejar hasil cepat dengan mengorbankan privasi klien.
 
 ---
 
-# Langkah 9: Tentukan Harga Agensi AI
+## Langkah 9: Tentukan Harga Agensi AI
 
 Harga agensi AI tergantung pada nilai, kompleksitas, dan target pasar.
 
@@ -1187,7 +1187,7 @@ Sesuaikan dengan:
 
 ---
 
-# Kesalahan Membangun Agensi AI
+## Kesalahan Membangun Agensi AI
 
 ## 1. Menjual AI, Bukan Solusi
 
@@ -1253,7 +1253,7 @@ Gunakan klaim realistis.
 
 ---
 
-# Checklist Membangun Agensi AI
+## Checklist Membangun Agensi AI
 
 Gunakan checklist ini.
 
@@ -1289,7 +1289,7 @@ kenapa klien bisa percaya.
 
 ---
 
-# Prompt Membuat Konsep Agensi AI
+## Prompt Membuat Konsep Agensi AI
 
 Gunakan prompt ini.
 
@@ -1326,7 +1326,7 @@ Bantu saya menentukan:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# Prompt Membuat Paket Jasa Agensi AI
+## Prompt Membuat Paket Jasa Agensi AI
 
 Gunakan prompt ini.
 
@@ -1360,7 +1360,7 @@ Batasan:
 Paket harus jelas dan mudah dipahami calon klien.
 ```
 
-# Prompt Membuat Proposal Agensi AI
+## Prompt Membuat Proposal Agensi AI
 
 Gunakan prompt ini.
 
@@ -1401,7 +1401,7 @@ Buat proposal dengan struktur:
 Gunakan bahasa profesional, jelas, dan tidak berlebihan.
 ```
 
-# Prompt Membuat Portofolio Agensi AI
+## Prompt Membuat Portofolio Agensi AI
 
 Gunakan prompt ini.
 

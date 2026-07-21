@@ -23,7 +23,7 @@ draft: false
 
 Artikel ini membahas studi kasus penerapan AI untuk UMKM secara praktis. Studi kasus ini bersifat simulasi realistis berdasarkan masalah umum bisnis kecil: promosi tidak konsisten, deskripsi produk kurang menarik, chat pelanggan lambat dibalas, pertanyaan berulang, stok tidak rapi, laporan penjualan tidak dianalisis, dan konten social media dibuat mendadak. Dengan bantuan AI, UMKM bisa membuat workflow sederhana untuk deskripsi produk, caption, template WhatsApp, FAQ, customer service, ide promo, kalender konten, katalog, laporan penjualan, dan SOP operasional. Fokusnya bukan memakai tools paling canggih, tetapi membuat bisnis kecil bekerja lebih rapi, cepat, dan konsisten.
 
-# Studi Kasus AI untuk UMKM
+
 
 Banyak UMKM tertarik memakai AI, tetapi bingung mulai dari mana.
 
@@ -87,7 +87,7 @@ Baca juga:
 
 ---
 
-# Profil Studi Kasus UMKM
+## Profil Studi Kasus UMKM
 
 Dalam studi kasus ini, kita memakai contoh UMKM fiktif:
 
@@ -146,7 +146,7 @@ Tetapi AI bisa membantu membuat sistem kerja yang lebih rapi.
 
 ---
 
-# Masalah Sebelum Menggunakan AI
+## Masalah Sebelum Menggunakan AI
 
 Sebelum memakai AI, Dapur Rasa Lokal punya beberapa masalah.
 
@@ -249,7 +249,7 @@ Baca juga:
 
 ---
 
-# Tujuan Implementasi AI
+## Tujuan Implementasi AI
 
 Tujuan penerapan AI di studi kasus ini bukan membuat sistem rumit.
 
@@ -278,7 +278,7 @@ Tools yang digunakan juga sederhana.
 
 ---
 
-# Tools AI yang Digunakan
+## Tools AI yang Digunakan
 
 Dalam studi kasus ini, tools yang digunakan:
 
@@ -356,7 +356,7 @@ Bisa digunakan bertahap.
 
 ---
 
-# Workflow AI yang Dibangun
+## Workflow AI yang Dibangun
 
 Implementasi AI dibagi menjadi 7 workflow.
 
@@ -927,7 +927,7 @@ Manfaat:
 
 ---
 
-# Hasil Setelah Menggunakan AI
+## Hasil Setelah Menggunakan AI
 
 Setelah workflow AI diterapkan, UMKM dalam studi kasus ini mendapatkan beberapa perbaikan.
 
@@ -977,7 +977,7 @@ Ada template, SOP, dan dokumen kerja.
 
 ---
 
-# Before dan After
+## Before dan After
 
 ## Sebelum AI
 
@@ -1011,7 +1011,7 @@ Yang dibutuhkan adalah workflow.
 
 ---
 
-# Metrik yang Dipantau
+## Metrik yang Dipantau
 
 Agar penerapan AI tidak hanya terasa “lebih rapi”, UMKM perlu memantau metrik.
 
@@ -1104,7 +1104,7 @@ Baca juga:
 
 ---
 
-# Prompt Pack Studi Kasus AI untuk UMKM
+## Prompt Pack Studi Kasus AI untuk UMKM
 
 Berikut kumpulan prompt siap pakai.
 
@@ -1236,7 +1236,7 @@ Jangan membuat data baru.
 
 ---
 
-# Rencana Implementasi 30 Hari
+## Rencana Implementasi 30 Hari
 
 Berikut rencana implementasi AI untuk UMKM.
 
@@ -1299,7 +1299,7 @@ Output:
 
 ---
 
-# SOP Penggunaan AI untuk UMKM
+## SOP Penggunaan AI untuk UMKM
 
 Agar AI aman digunakan, buat SOP sederhana.
 
@@ -1355,7 +1355,7 @@ Jika harga, stok, produk, atau kebijakan berubah, update FAQ dan template.
 
 ---
 
-# Kesalahan Saat UMKM Memakai AI
+## Kesalahan Saat UMKM Memakai AI
 
 ## 1. Memakai AI Tanpa Data Produk
 
@@ -1403,7 +1403,7 @@ Jangan langsung membuat sistem kompleks jika template manual saja belum rapi.
 
 ---
 
-# Checklist Implementasi AI untuk UMKM
+## Checklist Implementasi AI untuk UMKM
 
 Gunakan checklist ini.
 
@@ -1428,7 +1428,7 @@ Gunakan checklist ini.
 
 ---
 
-# Mini Template Dokumentasi Studi Kasus
+## Mini Template Dokumentasi Studi Kasus
 
 Jika UMKM ingin mendokumentasikan penerapan AI, gunakan format ini.
 
@@ -1477,7 +1477,7 @@ Baca juga:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa contoh penerapan AI untuk UMKM?
 
@@ -1509,7 +1509,7 @@ Pantau metrik seperti waktu respons chat, jumlah konten per minggu, produk terla
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Studi kasus AI untuk UMKM menunjukkan bahwa AI tidak harus rumit.
 
@@ -1566,7 +1566,7 @@ Itulah cara paling realistis menerapkan AI untuk UMKM.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1591,23 +1591,23 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Studi Kasus AI](/kategori/studi-kasus-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat Studi Kasus AI](/studi-kasus-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Mulai dari Satu Masalah UMKM
+## Mulai dari Satu Masalah UMKM
 
 Jangan mulai dari semua hal sekaligus.
 

@@ -62,7 +62,7 @@ Lebih efektif:
 
 Semakin lengkap informasi yang diberikan, semakin baik hasil yang diperoleh.
 
-# Prompt untuk Ide Promosi
+## Prompt untuk Ide Promosi
 
 ## 1. Ide Promosi Bulanan
 
@@ -80,7 +80,7 @@ Semakin lengkap informasi yang diberikan, semakin baik hasil yang diperoleh.
 
 > Buatkan program loyalitas pelanggan sederhana yang dapat diterapkan oleh UMKM dengan biaya rendah.
 
-# Prompt untuk Caption Media Sosial
+## Prompt untuk Caption Media Sosial
 
 ## 5. Caption Instagram
 
@@ -98,7 +98,7 @@ Semakin lengkap informasi yang diberikan, semakin baik hasil yang diperoleh.
 
 > Buatkan caption edukatif yang memberikan tips terkait [topik] sekaligus memperkenalkan produk secara natural.
 
-# Prompt untuk Deskripsi Produk
+## Prompt untuk Deskripsi Produk
 
 ## 9. Deskripsi Produk Marketplace
 
@@ -116,7 +116,7 @@ Semakin lengkap informasi yang diberikan, semakin baik hasil yang diperoleh.
 
 > Buatkan deskripsi produk maksimal 100 kata yang tetap menarik dan persuasif.
 
-# Prompt untuk Pelayanan Pelanggan
+## Prompt untuk Pelayanan Pelanggan
 
 ## 13. Balasan Pertanyaan Harga
 
@@ -134,7 +134,7 @@ Semakin lengkap informasi yang diberikan, semakin baik hasil yang diperoleh.
 
 > Buatkan pesan follow up kepada pelanggan yang sudah bertanya tetapi belum melakukan pembelian.
 
-# Prompt untuk Pengembangan Bisnis
+## Prompt untuk Pengembangan Bisnis
 
 ## 17. Ide Produk Baru
 

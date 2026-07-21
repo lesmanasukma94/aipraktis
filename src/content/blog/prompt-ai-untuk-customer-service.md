@@ -24,7 +24,7 @@ Prompt AI untuk customer service dapat membantu membuat template balasan pelangg
 
 Jika ingin menerapkan prompt customer service ke sistem layanan yang lebih lengkap, baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk memahami FAQ, knowledge base, ticketing, chatbot, escalation, quality control, dan analisis feedback pelanggan.
 
-# Prompt AI untuk Customer Service
+
 
 Customer service adalah bagian penting dari bisnis.
 
@@ -113,7 +113,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Customer Service
+## Cara Menggunakan AI untuk Customer Service
 
 Jangan hanya menulis:
 
@@ -159,7 +159,7 @@ AI tidak hanya membuat jawaban yang enak dibaca, tetapi juga mengikuti batasan l
 
 ---
 
-# Struktur Prompt Customer Service yang Baik
+## Struktur Prompt Customer Service yang Baik
 
 Prompt customer service yang baik biasanya berisi:
 
@@ -208,7 +208,7 @@ Jika kasus sensitif, sarankan eskalasi ke tim manusia.
 
 ---
 
-# Prompt AI untuk Template Balasan Customer Service
+## Prompt AI untuk Template Balasan Customer Service
 
 Template balasan membantu tim menjawab lebih cepat dan konsisten.
 
@@ -258,7 +258,7 @@ Pesan pelanggan:
 
 ---
 
-# Prompt AI untuk Pertanyaan Harga dan Produk
+## Prompt AI untuk Pertanyaan Harga dan Produk
 
 Pertanyaan harga adalah salah satu pertanyaan paling umum dalam customer service.
 
@@ -299,7 +299,7 @@ Buatkan balasan untuk pelanggan yang ingin membeli produk [produk], tetapi stok 
 
 ---
 
-# Prompt AI untuk Cara Order dan Pembayaran
+## Prompt AI untuk Cara Order dan Pembayaran
 
 Customer service harus membuat proses order terasa mudah.
 
@@ -337,7 +337,7 @@ Buatkan balasan setelah pelanggan berhasil melakukan order. Ucapkan terima kasih
 
 ---
 
-# Prompt AI untuk Pengiriman dan Resi
+## Prompt AI untuk Pengiriman dan Resi
 
 Masalah pengiriman sering membuat pelanggan cemas.
 
@@ -375,7 +375,7 @@ Buatkan balasan untuk pelanggan yang salah memasukkan alamat pengiriman. Jelaska
 
 ---
 
-# Prompt AI untuk Handling Komplain
+## Prompt AI untuk Handling Komplain
 
 Komplain harus ditangani dengan hati-hati.
 
@@ -421,7 +421,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Refund, Retur, dan Garansi
+## Prompt AI untuk Refund, Retur, dan Garansi
 
 Refund dan retur harus mengikuti kebijakan bisnis.
 
@@ -459,7 +459,7 @@ Buatkan balasan untuk menolak permintaan refund karena tidak sesuai kebijakan. G
 
 ---
 
-# Prompt AI untuk FAQ Customer Service
+## Prompt AI untuk FAQ Customer Service
 
 FAQ membantu menjawab pertanyaan berulang.
 
@@ -503,7 +503,7 @@ FAQ:
 
 ---
 
-# Prompt AI untuk WhatsApp Customer Service
+## Prompt AI untuk WhatsApp Customer Service
 
 Di Indonesia, banyak bisnis melayani pelanggan lewat WhatsApp.
 
@@ -546,7 +546,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Chatbot Customer Service
+## Prompt AI untuk Chatbot Customer Service
 
 Chatbot customer service harus punya batasan.
 
@@ -595,7 +595,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Knowledge Base Customer Service
+## Prompt AI untuk Knowledge Base Customer Service
 
 Knowledge base adalah pusat informasi untuk pelanggan dan tim CS.
 
@@ -639,7 +639,7 @@ Buatkan format knowledge base yang cocok untuk chatbot customer service. Setiap 
 
 ---
 
-# Prompt AI untuk Ticketing dan Ringkasan Percakapan
+## Prompt AI untuk Ticketing dan Ringkasan Percakapan
 
 AI dapat membantu mengubah percakapan menjadi tiket support yang rapi.
 
@@ -692,7 +692,7 @@ Tiket:
 
 ---
 
-# Prompt AI untuk SOP Customer Service
+## Prompt AI untuk SOP Customer Service
 
 SOP membantu tim CS bekerja konsisten.
 
@@ -730,7 +730,7 @@ Buatkan checklist kualitas customer service. Kriteria: kecepatan respons, empati
 
 ---
 
-# Prompt AI untuk Training Tim Customer Service
+## Prompt AI untuk Training Tim Customer Service
 
 AI bisa membantu membuat materi training untuk admin baru.
 
@@ -769,7 +769,7 @@ Buatkan panduan tone of voice customer service untuk brand [nama brand]. Karakte
 
 ---
 
-# Prompt AI untuk Laporan Customer Service
+## Prompt AI untuk Laporan Customer Service
 
 Laporan CS membantu bisnis melihat masalah berulang.
 
@@ -819,7 +819,7 @@ Laporan:
 
 ---
 
-# Prompt AI untuk Customer Service Marketplace
+## Prompt AI untuk Customer Service Marketplace
 
 Marketplace memiliki pola pertanyaan yang sering berulang.
 
@@ -860,7 +860,7 @@ Buatkan pesan follow-up untuk pelanggan marketplace yang sudah menerima produk. 
 
 ---
 
-# Prompt AI untuk Customer Service Produk Digital
+## Prompt AI untuk Customer Service Produk Digital
 
 Produk digital memiliki kebutuhan CS yang berbeda.
 
@@ -908,7 +908,7 @@ Buatkan checklist troubleshooting untuk pelanggan yang mengalami kendala menggun
 
 ---
 
-# Prompt AI untuk Customer Service SaaS atau Aplikasi
+## Prompt AI untuk Customer Service SaaS atau Aplikasi
 
 Untuk SaaS atau aplikasi, customer service sering menangani masalah teknis.
 
@@ -952,7 +952,7 @@ Percakapan:
 
 ---
 
-# Prompt AI untuk Customer Service AI Praktis Indonesia
+## Prompt AI untuk Customer Service AI Praktis Indonesia
 
 Berikut contoh prompt yang cocok untuk proyek edukasi AI Praktis Indonesia.
 
@@ -994,7 +994,7 @@ Buatkan struktur knowledge base untuk AI Praktis Indonesia. Kategori: belajar AI
 
 ---
 
-# Workflow Customer Service dengan AI
+## Workflow Customer Service dengan AI
 
 Berikut workflow praktis menggunakan AI untuk customer service.
 
@@ -1056,7 +1056,7 @@ Buatkan laporan mingguan customer service berdasarkan data tiket dan chat beriku
 
 ---
 
-# Kesalahan Menggunakan AI untuk Customer Service
+## Kesalahan Menggunakan AI untuk Customer Service
 
 ## 1. Menjawab Terlalu Cepat tetapi Tidak Akurat
 
@@ -1129,7 +1129,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Customer Service
+## Checklist Prompt AI untuk Customer Service
 
 Gunakan checklist berikut sebelum memakai AI untuk customer service.
 
@@ -1151,7 +1151,7 @@ Gunakan checklist berikut sebelum memakai AI untuk customer service.
 
 ---
 
-# Template Prompt Customer Service Serbaguna
+## Template Prompt Customer Service Serbaguna
 
 Gunakan template ini untuk hampir semua kebutuhan customer service.
 
@@ -1191,7 +1191,7 @@ Jika kasus sensitif, sarankan eskalasi ke tim manusia.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk customer service?
 
@@ -1223,7 +1223,7 @@ Buat knowledge base yang jelas, tetapkan batasan jawaban, sediakan eskalasi ke m
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk customer service dapat membantu bisnis menjawab pelanggan lebih cepat, lebih rapi, dan lebih konsisten.
 
@@ -1263,7 +1263,7 @@ Untuk melihat penerapan AI customer service dalam workflow kerja harian, baca [C
 
 Jika ingin menerapkan prompt customer service ke email pelanggan, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) untuk membuat balasan komplain, template FAQ, follow-up, dan email empatik yang aman.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1289,21 +1289,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Gunakan AI untuk Layanan yang Lebih Manusiawi
+## Gunakan AI untuk Layanan yang Lebih Manusiawi
 
 AI bisa mempercepat customer service.
 

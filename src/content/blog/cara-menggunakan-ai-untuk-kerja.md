@@ -27,7 +27,7 @@ Jika Anda masih baru dengan AI, baca [AI untuk Pemula](/blog/ai-untuk-pemula/) s
 
 Penggunaan AI untuk kerja bisa menjadi awal karier baru. Baca [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk melihat pilihan profesi, skill yang perlu dipelajari, dan project portofolio yang bisa dibuat.
 
-# Cara Menggunakan AI untuk Kerja
+
 
 AI semakin sering digunakan di tempat kerja.
 
@@ -95,7 +95,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Menggunakan AI untuk Kerja?
+## Apa Itu Menggunakan AI untuk Kerja?
 
 Menggunakan AI untuk kerja berarti memakai tools AI untuk membantu menyelesaikan tugas profesional.
 
@@ -151,7 +151,7 @@ Prompt kedua memberi konteks, data, tujuan, dan format.
 
 ---
 
-# Prinsip Aman Menggunakan AI untuk Kerja
+## Prinsip Aman Menggunakan AI untuk Kerja
 
 Sebelum masuk ke contoh, pahami dulu prinsip dasarnya.
 
@@ -253,7 +253,7 @@ Lebih baik gunakan AI dalam beberapa tahap:
 
 ---
 
-# Tugas Kerja yang Cocok Dibantu AI
+## Tugas Kerja yang Cocok Dibantu AI
 
 AI cocok untuk banyak pekerjaan berbasis teks, ide, struktur, dan analisis awal.
 
@@ -336,7 +336,7 @@ Baca juga:
 
 ---
 
-# Tugas Kerja yang Perlu Hati-hati dengan AI
+## Tugas Kerja yang Perlu Hati-hati dengan AI
 
 AI tidak cocok digunakan sembarangan untuk semua hal.
 
@@ -361,7 +361,7 @@ Tetapi hasilnya harus direview orang yang berwenang.
 
 ---
 
-# Cara Menggunakan AI untuk Email Kerja
+## Cara Menggunakan AI untuk Email Kerja
 
 Email adalah salah satu penggunaan AI paling praktis.
 
@@ -440,7 +440,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Meeting
+## Cara Menggunakan AI untuk Meeting
 
 Meeting sering menghasilkan banyak catatan.
 
@@ -531,7 +531,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Laporan Kerja
+## Cara Menggunakan AI untuk Laporan Kerja
 
 AI sangat berguna untuk membuat draft laporan.
 
@@ -612,7 +612,7 @@ Minta AI membuat insight, bukan hanya ringkasan.
 
 ---
 
-# Cara Menggunakan AI untuk Riset Kerja
+## Cara Menggunakan AI untuk Riset Kerja
 
 Riset kerja bisa muncul dalam banyak bentuk.
 
@@ -696,7 +696,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Presentasi Kerja
+## Cara Menggunakan AI untuk Presentasi Kerja
 
 Presentasi kerja sering membutuhkan waktu lama karena harus menyusun alur, slide, data, visual, dan narasi.
 
@@ -766,7 +766,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Spreadsheet dan Data Sederhana
+## Cara Menggunakan AI untuk Spreadsheet dan Data Sederhana
 
 AI bisa membantu pekerjaan data sederhana.
 
@@ -851,7 +851,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Admin Harian
+## Cara Menggunakan AI untuk Admin Harian
 
 Pekerjaan admin sering terlihat kecil, tetapi banyak.
 
@@ -919,7 +919,7 @@ Saya hanya punya waktu fokus 3 jam per hari.
 
 ---
 
-# Cara Menggunakan AI untuk Customer Service
+## Cara Menggunakan AI untuk Customer Service
 
 AI sangat membantu customer service karena banyak pertanyaan pelanggan berulang.
 
@@ -986,7 +986,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Sales
+## Cara Menggunakan AI untuk Sales
 
 AI bisa membantu tim sales bekerja lebih rapi.
 
@@ -1056,7 +1056,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Marketing dan Konten
+## Cara Menggunakan AI untuk Marketing dan Konten
 
 AI sangat berguna untuk tim marketing.
 
@@ -1119,7 +1119,7 @@ Baca juga:
 
 ---
 
-# Tools AI yang Cocok untuk Kerja
+## Tools AI yang Cocok untuk Kerja
 
 Berikut beberapa tools yang bisa digunakan berdasarkan kebutuhan.
 
@@ -1236,7 +1236,7 @@ Baca juga:
 
 ---
 
-# Workflow Harian Menggunakan AI untuk Kerja
+## Workflow Harian Menggunakan AI untuk Kerja
 
 Berikut contoh workflow sederhana untuk satu hari kerja.
 
@@ -1300,7 +1300,7 @@ Bukan hanya dipakai sekali.
 
 ---
 
-# Template Prompt Serbaguna untuk Kerja
+## Template Prompt Serbaguna untuk Kerja
 
 Gunakan template ini untuk hampir semua pekerjaan.
 
@@ -1367,7 +1367,7 @@ Buatkan email update proyek.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Kerja
+## Kesalahan Menggunakan AI untuk Kerja
 
 ## 1. Prompt Terlalu Umum
 
@@ -1431,7 +1431,7 @@ Contoh:
 
 ---
 
-# Checklist Menggunakan AI untuk Kerja
+## Checklist Menggunakan AI untuk Kerja
 
 Gunakan checklist ini sebelum memakai hasil AI.
 
@@ -1452,7 +1452,7 @@ Gunakan checklist ini sebelum memakai hasil AI.
 
 ---
 
-# Rencana 7 Hari Mulai Menggunakan AI untuk Kerja
+## Rencana 7 Hari Mulai Menggunakan AI untuk Kerja
 
 Agar tidak bingung, mulai dari rencana 7 hari.
 
@@ -1538,7 +1538,7 @@ Gunakan secara rutin.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk kerja?
 
@@ -1570,7 +1570,7 @@ Ya. AI bisa membantu membuat agenda, notulen, ringkasan keputusan, action items,
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk kerja sebenarnya tidak harus rumit.
 
@@ -1634,7 +1634,7 @@ Jika pekerjaan Anda sering memakai spreadsheet, baca [Cara Menggunakan AI untuk 
 
 Jika pekerjaan Anda sering melibatkan meeting, baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) untuk membuat agenda, ringkasan rapat, keputusan, action items, PIC, deadline, dan email follow-up.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1660,22 +1660,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Tugas Kerja
+## Mulai dari Satu Tugas Kerja
 
 Jangan mulai dari semua kemungkinan.
 

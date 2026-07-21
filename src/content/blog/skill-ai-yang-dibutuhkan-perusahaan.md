@@ -23,7 +23,7 @@ draft: false
 
 Skill AI yang dibutuhkan perusahaan bukan hanya kemampuan coding atau machine learning. Perusahaan semakin membutuhkan karyawan dan fresh graduate yang memahami AI literacy, prompt engineering, data literacy, workflow automation, critical thinking, komunikasi, etika AI, problem solving, domain knowledge, dan kemampuan menggunakan AI untuk menyelesaikan pekerjaan nyata. Bagi pemula, langkah terbaik adalah membangun skill AI yang praktis, membuat portofolio kecil, dan menunjukkan bagaimana AI dapat membantu pekerjaan menjadi lebih cepat, rapi, akurat, dan bernilai bisnis.
 
-# Skill AI yang Dibutuhkan Perusahaan
+
 
 Banyak orang mulai sadar bahwa AI akan memengaruhi dunia kerja.
 
@@ -107,7 +107,7 @@ Baca juga:
 
 ---
 
-# Mengapa Skill AI Semakin Dibutuhkan Perusahaan?
+## Mengapa Skill AI Semakin Dibutuhkan Perusahaan?
 
 Perusahaan membutuhkan skill AI karena cara kerja sedang berubah.
 
@@ -174,7 +174,7 @@ Skill AI juga penting untuk:
 
 ---
 
-# Skill AI Bukan Sekadar Bisa ChatGPT
+## Skill AI Bukan Sekadar Bisa ChatGPT
 
 Banyak orang menulis di CV:
 
@@ -222,7 +222,7 @@ Bukan sekadar daftar tools.
 
 ---
 
-# 1. AI Literacy
+## 1. AI Literacy
 
 Skill pertama adalah AI literacy.
 
@@ -278,7 +278,7 @@ Baca juga:
 
 ---
 
-# 2. Prompt Engineering Praktis
+## 2. Prompt Engineering Praktis
 
 Prompt engineering adalah kemampuan memberi instruksi yang jelas kepada AI.
 
@@ -340,7 +340,7 @@ Baca juga:
 
 ---
 
-# 3. Critical Thinking
+## 3. Critical Thinking
 
 Critical thinking adalah kemampuan menilai hasil AI.
 
@@ -394,7 +394,7 @@ Tanpa critical thinking, AI bisa menjadi sumber kesalahan.
 
 ---
 
-# 4. Data Literacy
+## 4. Data Literacy
 
 Data literacy adalah kemampuan membaca, memahami, dan menggunakan data.
 
@@ -460,7 +460,7 @@ Baca juga:
 
 ---
 
-# 5. Workflow Automation
+## 5. Workflow Automation
 
 Perusahaan menyukai orang yang bisa membuat pekerjaan lebih efisien.
 
@@ -510,7 +510,7 @@ Baca juga:
 
 ---
 
-# 6. Problem Solving Berbasis AI
+## 6. Problem Solving Berbasis AI
 
 Perusahaan tidak membutuhkan orang yang hanya bertanya ke AI.
 
@@ -564,7 +564,7 @@ Tugas:
 
 ---
 
-# 7. Communication Skill
+## 7. Communication Skill
 
 AI tidak mengurangi pentingnya komunikasi.
 
@@ -619,7 +619,7 @@ Baca juga:
 
 ---
 
-# 8. Domain Knowledge
+## 8. Domain Knowledge
 
 Domain knowledge adalah pemahaman bidang kerja.
 
@@ -664,7 +664,7 @@ Perkuat juga bidang Anda.
 
 ---
 
-# 9. Ethical AI dan Data Privacy
+## 9. Ethical AI dan Data Privacy
 
 Perusahaan sangat membutuhkan orang yang paham etika AI.
 
@@ -720,7 +720,7 @@ Baca juga:
 
 ---
 
-# 10. AI-Assisted Writing
+## 10. AI-Assisted Writing
 
 Banyak pekerjaan membutuhkan tulisan.
 
@@ -786,7 +786,7 @@ Baca juga:
 
 ---
 
-# 11. AI untuk Riset
+## 11. AI untuk Riset
 
 Riset adalah bagian penting dari banyak pekerjaan.
 
@@ -839,7 +839,7 @@ Baca juga:
 
 ---
 
-# 12. Collaboration dengan AI dan Tim
+## 12. Collaboration dengan AI dan Tim
 
 Di perusahaan, AI jarang dipakai sendirian.
 
@@ -888,7 +888,7 @@ Format:
 
 ---
 
-# Skill AI untuk Fresh Graduate
+## Skill AI untuk Fresh Graduate
 
 Fresh graduate tidak harus punya pengalaman kerja panjang.
 
@@ -939,7 +939,7 @@ Baca juga:
 
 ---
 
-# Skill AI untuk Karyawan
+## Skill AI untuk Karyawan
 
 Karyawan yang sudah bekerja perlu fokus pada dampak pekerjaan.
 
@@ -1013,7 +1013,7 @@ Baca juga:
 
 ---
 
-# Skill AI Teknis vs Non-Teknis
+## Skill AI Teknis vs Non-Teknis
 
 Skill AI bisa dibagi menjadi dua jalur.
 
@@ -1075,7 +1075,7 @@ Setelah itu, jika tertarik, lanjut ke jalur teknis.
 
 ---
 
-# Roadmap Belajar Skill AI 90 Hari
+## Roadmap Belajar Skill AI 90 Hari
 
 Berikut roadmap praktis.
 
@@ -1187,7 +1187,7 @@ Target:
 
 ---
 
-# Contoh Portofolio Skill AI yang Disukai Perusahaan
+## Contoh Portofolio Skill AI yang Disukai Perusahaan
 
 ## 1. AI Meeting Workflow
 
@@ -1256,7 +1256,7 @@ Isi:
 
 ---
 
-# Cara Menulis Skill AI di CV
+## Cara Menulis Skill AI di CV
 
 Hindari menulis terlalu umum.
 
@@ -1318,7 +1318,7 @@ Membuat template AI customer service untuk FAQ, komplain, dan follow-up pelangga
 
 ---
 
-# Tools yang Perlu Dikuasai
+## Tools yang Perlu Dikuasai
 
 Pemula tidak perlu menguasai semua tools.
 
@@ -1418,7 +1418,7 @@ Baca juga:
 
 ---
 
-# Kesalahan dalam Membangun Skill AI
+## Kesalahan dalam Membangun Skill AI
 
 ## 1. Hanya Menghafal Tools
 
@@ -1460,7 +1460,7 @@ Jika tidak bisa menjelaskan proses, perusahaan sulit percaya pada skill Anda.
 
 ---
 
-# Checklist Skill AI yang Dibutuhkan Perusahaan
+## Checklist Skill AI yang Dibutuhkan Perusahaan
 
 Gunakan checklist ini.
 
@@ -1485,7 +1485,7 @@ Gunakan checklist ini.
 
 ---
 
-# Template Prompt Belajar Skill AI
+## Template Prompt Belajar Skill AI
 
 ```plaintext
 Bertindaklah sebagai mentor skill AI untuk dunia kerja.
@@ -1516,7 +1516,7 @@ Bantu saya:
 
 ---
 
-# Template Prompt Membuat Portofolio Skill AI
+## Template Prompt Membuat Portofolio Skill AI
 
 ```plaintext
 Bantu saya membuat portofolio skill AI untuk melamar kerja.
@@ -1542,7 +1542,7 @@ Buatkan:
 
 ---
 
-# Template Prompt Review Skill AI di CV
+## Template Prompt Review Skill AI di CV
 
 ```plaintext
 Review bagian skill AI di CV saya.
@@ -1563,7 +1563,7 @@ Tugas:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Skill AI apa yang paling dibutuhkan perusahaan?
 
@@ -1595,7 +1595,7 @@ Sertifikat bisa membantu, tetapi perusahaan akan lebih percaya jika Anda punya p
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Skill AI yang dibutuhkan perusahaan bukan hanya coding.
 
@@ -1631,7 +1631,7 @@ Tetapi orang yang bisa belajar cepat, berpikir kritis, memahami masalah, dan mem
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1660,23 +1660,23 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
 
 ---
 
-# Mulai dari Satu Skill yang Bisa Dibuktikan
+## Mulai dari Satu Skill yang Bisa Dibuktikan
 
 Jangan mulai dari semua skill sekaligus.
 

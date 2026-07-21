@@ -267,7 +267,7 @@ Agar hasil lebih baik:
 
 ---
 
-# Cara Menggunakan Prompt ChatGPT untuk UMKM
+## Cara Menggunakan Prompt ChatGPT untuk UMKM
 
 Prompt ChatGPT untuk UMKM akan lebih bermanfaat jika langsung dikaitkan dengan pekerjaan bisnis sehari-hari.
 
@@ -331,7 +331,7 @@ Baca juga:
 
 ---
 
-# Kategori Prompt ChatGPT untuk UMKM
+## Kategori Prompt ChatGPT untuk UMKM
 
 Prompt untuk UMKM sebaiknya dibagi berdasarkan kebutuhan bisnis.
 
@@ -355,7 +355,7 @@ Berikut kategori prompt yang paling praktis.
 
 ---
 
-# Prompt ChatGPT untuk Promosi UMKM
+## Prompt ChatGPT untuk Promosi UMKM
 
 Promosi adalah kebutuhan paling umum untuk UMKM.
 
@@ -414,7 +414,7 @@ Prompt ini bisa membantu UMKM membuat promosi tanpa harus mulai dari nol.
 
 ---
 
-# Prompt ChatGPT untuk Caption Instagram UMKM
+## Prompt ChatGPT untuk Caption Instagram UMKM
 
 Caption Instagram harus menarik, tetapi tetap jelas.
 
@@ -468,7 +468,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk WhatsApp Pelanggan
+## Prompt ChatGPT untuk WhatsApp Pelanggan
 
 Banyak UMKM menjual lewat WhatsApp.
 
@@ -513,7 +513,7 @@ Template seperti ini membantu admin membalas lebih cepat dan konsisten.
 
 ---
 
-# Prompt ChatGPT untuk Customer Service UMKM
+## Prompt ChatGPT untuk Customer Service UMKM
 
 Pertanyaan pelanggan sering berulang.
 
@@ -561,7 +561,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Ide Konten UMKM
+## Prompt ChatGPT untuk Ide Konten UMKM
 
 Konten UMKM tidak harus selalu jualan.
 
@@ -623,7 +623,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Deskripsi Produk
+## Prompt ChatGPT untuk Deskripsi Produk
 
 Deskripsi produk sangat penting untuk marketplace, katalog WhatsApp, website, dan Instagram.
 
@@ -676,7 +676,7 @@ Bagaimana cara order?
 
 ---
 
-# Prompt ChatGPT untuk Nama Produk dan Paket Bundling
+## Prompt ChatGPT untuk Nama Produk dan Paket Bundling
 
 UMKM bisa memakai ChatGPT untuk membuat nama produk atau paket promo.
 
@@ -718,7 +718,7 @@ Paket Weekend
 
 ---
 
-# Prompt ChatGPT untuk Strategi Penjualan UMKM
+## Prompt ChatGPT untuk Strategi Penjualan UMKM
 
 Strategi penjualan UMKM harus sederhana dan bisa dijalankan.
 
@@ -769,7 +769,7 @@ konten yang paling banyak respon.
 
 ---
 
-# Prompt ChatGPT untuk Follow-Up Pelanggan
+## Prompt ChatGPT untuk Follow-Up Pelanggan
 
 Follow-up sangat penting untuk UMKM, terutama jika pelanggan sering bertanya tetapi belum membeli.
 
@@ -808,7 +808,7 @@ Mau info, produk [nama produk] sudah tersedia lagi. Kalau Kakak ingin repeat ord
 
 ---
 
-# Prompt ChatGPT untuk Komplain Pelanggan
+## Prompt ChatGPT untuk Komplain Pelanggan
 
 Komplain harus dijawab dengan tenang dan profesional.
 
@@ -854,7 +854,7 @@ follow-up sampai selesai.
 
 ---
 
-# Prompt ChatGPT untuk Laporan Penjualan UMKM
+## Prompt ChatGPT untuk Laporan Penjualan UMKM
 
 ChatGPT bisa membantu membaca data penjualan sederhana.
 
@@ -895,7 +895,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk SOP UMKM
+## Prompt ChatGPT untuk SOP UMKM
 
 SOP membantu bisnis kecil berjalan lebih rapi.
 
@@ -936,7 +936,7 @@ SOP posting konten harian.
 
 ---
 
-# Prompt ChatGPT untuk Riset Kompetitor UMKM
+## Prompt ChatGPT untuk Riset Kompetitor UMKM
 
 Riset kompetitor tidak harus rumit.
 
@@ -972,7 +972,7 @@ Riset kompetitor yang baik tetap memperhatikan identitas brand sendiri.
 
 ---
 
-# Prompt ChatGPT untuk Mengelola Review dan Testimoni
+## Prompt ChatGPT untuk Mengelola Review dan Testimoni
 
 Review pelanggan bisa menjadi bahan marketing.
 
@@ -1008,7 +1008,7 @@ Testimoni bisa digunakan untuk:
 
 ---
 
-# Workflow UMKM Menggunakan ChatGPT
+## Workflow UMKM Menggunakan ChatGPT
 
 Berikut workflow sederhana agar ChatGPT benar-benar membantu bisnis.
 
@@ -1057,7 +1057,7 @@ input data penjualan
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk UMKM
+## Kesalahan Menggunakan ChatGPT untuk UMKM
 
 ## 1. Prompt Terlalu Umum
 
@@ -1114,7 +1114,7 @@ Hindari memasukkan:
 
 ---
 
-# Checklist Prompt ChatGPT untuk UMKM
+## Checklist Prompt ChatGPT untuk UMKM
 
 Gunakan checklist ini sebelum memakai prompt.
 
@@ -1135,7 +1135,7 @@ Checklist ini membuat hasil ChatGPT lebih siap digunakan.
 
 ---
 
-# Prompt Master ChatGPT untuk UMKM
+## Prompt Master ChatGPT untuk UMKM
 
 Gunakan prompt master berikut jika ingin membuat strategi UMKM dari awal.
 
@@ -1179,7 +1179,7 @@ Fokus pada langkah yang bisa dilakukan UMKM kecil.
 Jangan membuat klaim berlebihan.
 ```
 
-# Prompt Repurposing Konten UMKM
+## Prompt Repurposing Konten UMKM
 
 Gunakan prompt ini untuk mengubah satu ide menjadi banyak konten.
 
@@ -1212,7 +1212,7 @@ Buat:
 Gunakan bahasa Indonesia natural.
 ```
 
-# Prompt Evaluasi Promosi UMKM
+## Prompt Evaluasi Promosi UMKM
 
 Gunakan prompt ini setelah menjalankan promosi.
 

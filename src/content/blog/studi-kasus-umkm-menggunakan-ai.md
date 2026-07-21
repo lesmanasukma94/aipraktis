@@ -18,7 +18,7 @@ draft: false
 
 ## Ringkasan
 
-# Studi Kasus UMKM Menggunakan AI
+
 
 Artificial Intelligence (AI) semakin banyak digunakan oleh pelaku UMKM di Indonesia. Tidak hanya perusahaan besar, bisnis kecil dan menengah juga mulai memanfaatkan AI untuk meningkatkan produktivitas, mempercepat pekerjaan, dan mengembangkan usaha dengan biaya yang lebih efisien.
 
@@ -282,7 +282,7 @@ Mulailah dari satu proses bisnis terlebih dahulu sebelum memperluas penggunaan A
 * [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI bukan lagi teknologi yang hanya dapat digunakan oleh perusahaan besar. Saat ini, UMKM juga dapat memanfaatkan AI untuk meningkatkan produktivitas, mempercepat pekerjaan, dan mengembangkan bisnis secara lebih efisien.
 

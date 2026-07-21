@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu membuat konten harian lebih konsisten, mulai dari mencari ide, menyusun content pillar, membuat kalender konten, menulis hook, membuat script, caption, carousel, prompt visual, video pendek, email newsletter, artikel blog, sampai repurposing satu ide menjadi banyak format. Namun, AI tidak boleh digunakan hanya untuk membuat konten sebanyak mungkin tanpa arah. Konten tetap perlu strategi, sudut pandang, kualitas, konsistensi brand, human review, dan evaluasi performa.
 
-# Cara Menggunakan AI untuk Membuat Konten
+
 
 Membuat konten harian terdengar mudah.
 
@@ -120,7 +120,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Membuat Konten dengan AI?
+## Apa Itu Membuat Konten dengan AI?
 
 Membuat konten dengan AI berarti menggunakan AI untuk membantu proses perencanaan, produksi, editing, dan distribusi konten.
 
@@ -175,7 +175,7 @@ Semakin jelas konteksnya, semakin berguna hasilnya.
 
 ---
 
-# Prinsip Menggunakan AI untuk Membuat Konten
+## Prinsip Menggunakan AI untuk Membuat Konten
 
 Sebelum masuk ke langkah teknis, pahami prinsip ini.
 
@@ -275,7 +275,7 @@ Cek:
 
 ---
 
-# Workflow Membuat Konten Harian dengan AI
+## Workflow Membuat Konten Harian dengan AI
 
 Berikut workflow lengkap yang bisa digunakan.
 
@@ -814,7 +814,7 @@ Baca juga:
 
 ---
 
-# Workflow Produksi Konten Harian dengan AI
+## Workflow Produksi Konten Harian dengan AI
 
 Berikut workflow praktis.
 
@@ -882,7 +882,7 @@ Cari:
 
 ---
 
-# Template Prompt Lengkap Membuat Konten Harian
+## Template Prompt Lengkap Membuat Konten Harian
 
 Gunakan template ini.
 
@@ -936,7 +936,7 @@ Buatkan:
 
 ---
 
-# Contoh Workflow Konten untuk Brand Edukasi AI
+## Contoh Workflow Konten untuk Brand Edukasi AI
 
 Misalnya brand Anda membahas AI praktis.
 
@@ -1014,7 +1014,7 @@ Outline:
 
 ---
 
-# Tools AI untuk Membuat Konten
+## Tools AI untuk Membuat Konten
 
 Berikut tools yang bisa digunakan.
 
@@ -1124,7 +1124,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Evaluasi Konten
+## Cara Menggunakan AI untuk Evaluasi Konten
 
 AI tidak hanya berguna sebelum posting.
 
@@ -1190,7 +1190,7 @@ Konten berhasil jika sesuai tujuan.
 
 ---
 
-# Cara Menggunakan AI untuk Konten Blog
+## Cara Menggunakan AI untuk Konten Blog
 
 AI bisa membantu membuat konten blog dari ide social media.
 
@@ -1230,7 +1230,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Konten Video Pendek
+## Cara Menggunakan AI untuk Konten Video Pendek
 
 Video pendek membutuhkan struktur yang cepat.
 
@@ -1282,7 +1282,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Konten Carousel
+## Cara Menggunakan AI untuk Konten Carousel
 
 Carousel cocok untuk edukasi bertahap.
 
@@ -1320,7 +1320,7 @@ Maksimal 5 hashtag.
 
 ---
 
-# Cara Menggunakan AI untuk Konten YouTube
+## Cara Menggunakan AI untuk Konten YouTube
 
 Untuk YouTube, AI bisa membantu:
 
@@ -1363,7 +1363,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Membuat Konten
+## Kesalahan Menggunakan AI untuk Membuat Konten
 
 ## 1. Konten Terlalu Generik
 
@@ -1409,7 +1409,7 @@ Gunakan repurposing dan scheduling.
 
 ---
 
-# Checklist Membuat Konten dengan AI
+## Checklist Membuat Konten dengan AI
 
 Gunakan checklist ini.
 
@@ -1434,7 +1434,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Membuat Konten dengan AI
+## Rencana 7 Hari Membuat Konten dengan AI
 
 ## Hari 1: Buat Content Pillar
 
@@ -1472,7 +1472,7 @@ Buat rencana minggu berikutnya.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat konten harian?
 
@@ -1504,7 +1504,7 @@ Workflow terbaik adalah: tentukan tujuan, buat content pillar, buat bank ide, su
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk membuat konten harian bukan sekadar meminta AI menulis caption.
 
@@ -1566,7 +1566,7 @@ Jika konten dibuat untuk bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/st
 
 Jika konten dibuat untuk banyak klien, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) agar produksi konten, brief visual, approval, reporting, dan QC berjalan lebih sistematis.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1590,22 +1590,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Ide Konten
+## Mulai dari Satu Ide Konten
 
 Jangan mulai dari semua platform sekaligus.
 

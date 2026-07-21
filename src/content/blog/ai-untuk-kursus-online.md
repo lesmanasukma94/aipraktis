@@ -23,7 +23,7 @@ draft: false
 
 AI untuk kursus online dapat membantu creator, guru, dosen, trainer, coach, konsultan, dan pemilik bisnis membuat kursus lebih cepat dan terstruktur. AI bisa digunakan untuk riset audiens, validasi ide, kurikulum, modul, learning outcomes, script video, slide, worksheet, kuis, rubrik, landing page, email marketing, caption promosi, FAQ peserta, dan evaluasi pembelajaran. Namun, AI tidak boleh menggantikan keahlian pengajar. Kursus online yang baik tetap membutuhkan pengalaman, struktur belajar, contoh nyata, latihan, feedback, etika, dan kualitas materi yang dicek manusia.
 
-# AI untuk Kursus Online
+
 
 Kursus online semakin populer.
 
@@ -127,7 +127,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Kursus Online?
+## Apa Itu AI untuk Kursus Online?
 
 AI untuk kursus online adalah penggunaan kecerdasan buatan untuk membantu proses pembuatan, pengelolaan, promosi, dan evaluasi kursus digital.
 
@@ -182,7 +182,7 @@ Manusia menjaga kepercayaan peserta.
 
 ---
 
-# Siapa yang Cocok Memakai AI untuk Kursus Online?
+## Siapa yang Cocok Memakai AI untuk Kursus Online?
 
 AI untuk kursus online cocok untuk banyak pihak.
 
@@ -282,7 +282,7 @@ Baca juga:
 
 ---
 
-# Manfaat AI untuk Membuat Kursus Online
+## Manfaat AI untuk Membuat Kursus Online
 
 AI membantu creator kursus dalam beberapa hal.
 
@@ -359,7 +359,7 @@ AI bisa membantu menganalisis:
 
 ---
 
-# Kesalahan Umum Saat Membuat Kursus Online dengan AI
+## Kesalahan Umum Saat Membuat Kursus Online dengan AI
 
 Sebelum masuk workflow, pahami dulu kesalahan yang sering terjadi.
 
@@ -451,7 +451,7 @@ Mulai dari:
 
 ---
 
-# Workflow AI untuk Membuat Kursus Online
+## Workflow AI untuk Membuat Kursus Online
 
 Berikut workflow lengkap.
 
@@ -478,7 +478,7 @@ Kita bahas satu per satu.
 
 ---
 
-# Tahap 1: Riset Audiens
+## Tahap 1: Riset Audiens
 
 Sebelum membuat kursus, pahami peserta.
 
@@ -561,7 +561,7 @@ Baca juga:
 
 ---
 
-# Tahap 2: Validasi Ide Kursus
+## Tahap 2: Validasi Ide Kursus
 
 Jangan langsung membuat kursus panjang.
 
@@ -628,7 +628,7 @@ Validasi membantu menghindari kursus yang tidak dibutuhkan pasar.
 
 ---
 
-# Tahap 3: Menentukan Learning Outcomes
+## Tahap 3: Menentukan Learning Outcomes
 
 Learning outcomes adalah hasil belajar yang diharapkan.
 
@@ -705,7 +705,7 @@ Learning outcomes seperti ini lebih jelas.
 
 ---
 
-# Tahap 4: Membuat Kurikulum Kursus
+## Tahap 4: Membuat Kurikulum Kursus
 
 Setelah outcomes jelas, buat kurikulum.
 
@@ -780,7 +780,7 @@ Kurikulum ini praktis karena setiap modul menghasilkan output.
 
 ---
 
-# Tahap 5: Membuat Modul dan Lesson
+## Tahap 5: Membuat Modul dan Lesson
 
 Setiap modul perlu dipecah menjadi lesson.
 
@@ -860,7 +860,7 @@ Struktur:
 
 ---
 
-# Tahap 6: Membuat Script Video Kursus
+## Tahap 6: Membuat Script Video Kursus
 
 AI bisa membantu membuat script.
 
@@ -922,7 +922,7 @@ Script seperti ini mudah dibacakan.
 
 ---
 
-# Tahap 7: Membuat Slide Kursus
+## Tahap 7: Membuat Slide Kursus
 
 Slide kursus online sebaiknya tidak terlalu penuh.
 
@@ -967,7 +967,7 @@ Baca juga:
 
 ---
 
-# Tahap 8: Membuat Worksheet dan Workbook
+## Tahap 8: Membuat Worksheet dan Workbook
 
 Worksheet membuat kursus lebih aktif.
 
@@ -1046,7 +1046,7 @@ Worksheet membantu peserta menghasilkan sesuatu.
 
 ---
 
-# Tahap 9: Membuat Kuis
+## Tahap 9: Membuat Kuis
 
 Kuis membantu mengecek pemahaman.
 
@@ -1110,7 +1110,7 @@ Tetapi pengajar tetap harus mengecek.
 
 ---
 
-# Tahap 10: Membuat Project Akhir
+## Tahap 10: Membuat Project Akhir
 
 Kursus online sebaiknya punya project akhir.
 
@@ -1179,7 +1179,7 @@ Project harus realistis untuk peserta pemula.
 
 ---
 
-# Tahap 11: Membuat Landing Page Kursus
+## Tahap 11: Membuat Landing Page Kursus
 
 Landing page adalah halaman penjualan kursus.
 
@@ -1276,7 +1276,7 @@ Baca juga:
 
 ---
 
-# Tahap 12: Membuat Email Marketing
+## Tahap 12: Membuat Email Marketing
 
 Email penting untuk menjual kursus.
 
@@ -1350,7 +1350,7 @@ Baca juga:
 
 ---
 
-# Tahap 13: Membuat Konten Promosi
+## Tahap 13: Membuat Konten Promosi
 
 Kursus online butuh promosi.
 
@@ -1418,7 +1418,7 @@ Baca juga:
 
 ---
 
-# Tahap 14: Membuat Onboarding Peserta
+## Tahap 14: Membuat Onboarding Peserta
 
 Onboarding penting agar peserta tidak bingung.
 
@@ -1473,7 +1473,7 @@ Target akhir kursus ini adalah Anda memiliki prompt library pribadi untuk pekerj
 
 ---
 
-# Tahap 15: Evaluasi dan Revisi Kursus
+## Tahap 15: Evaluasi dan Revisi Kursus
 
 Kursus online tidak selesai setelah publish.
 
@@ -1538,7 +1538,7 @@ Tugas:
 
 ---
 
-# Contoh Kursus Online Berbantuan AI
+## Contoh Kursus Online Berbantuan AI
 
 Berikut contoh kursus yang dibuat dengan bantuan AI.
 
@@ -1597,7 +1597,7 @@ Mulai bangun workflow AI untuk pekerjaan harian Anda.
 
 ---
 
-# Tools AI untuk Kursus Online
+## Tools AI untuk Kursus Online
 
 Berikut tools yang bisa digunakan.
 
@@ -1689,7 +1689,7 @@ Contoh fungsi yang dibutuhkan:
 
 ---
 
-# SOP Etika AI untuk Kursus Online
+## SOP Etika AI untuk Kursus Online
 
 Creator kursus perlu punya SOP.
 
@@ -1750,7 +1750,7 @@ Tujuan kursus adalah membantu peserta mencapai hasil belajar.
 
 ---
 
-# Checklist Membuat Kursus Online dengan AI
+## Checklist Membuat Kursus Online dengan AI
 
 Gunakan checklist ini.
 
@@ -1807,7 +1807,7 @@ Gunakan checklist ini.
 
 ---
 
-# Roadmap 30 Hari Membuat Kursus Online dengan AI
+## Roadmap 30 Hari Membuat Kursus Online dengan AI
 
 Berikut rencana sederhana.
 
@@ -1877,7 +1877,7 @@ Kursus siap dijual lebih luas.
 
 ---
 
-# Prompt Pack AI untuk Kursus Online
+## Prompt Pack AI untuk Kursus Online
 
 Berikut prompt siap pakai.
 
@@ -2084,7 +2084,7 @@ Tugas:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat kursus online?
 
@@ -2116,7 +2116,7 @@ Tidak. Untuk pemula, mini course sering lebih baik. Kursus singkat yang menyeles
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk kursus online bisa mempercepat banyak proses.
 
@@ -2170,7 +2170,7 @@ Tetapi kursus yang benar-benar membantu peserta belajar.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2197,7 +2197,7 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
@@ -2213,7 +2213,7 @@ Temukan panduan AI sesuai kebutuhan Anda:
 
 ---
 
-# Mulai dari Kursus Kecil
+## Mulai dari Kursus Kecil
 
 Jangan langsung membuat kursus besar.
 

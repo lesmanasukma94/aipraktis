@@ -24,7 +24,7 @@ Saat ini Artificial Intelligence (AI) dapat membantu membuat surat lamaran kerja
 
 Dengan bantuan AI, proses yang biasanya membutuhkan waktu berjam-jam dapat diselesaikan hanya dalam beberapa menit.
 
-# Apa Itu Surat Lamaran Kerja AI?
+## Apa Itu Surat Lamaran Kerja AI?
 
 Surat lamaran kerja AI adalah surat lamaran yang dibuat atau dibantu menggunakan teknologi Artificial Intelligence.
 
@@ -38,7 +38,7 @@ AI dapat membantu:
 
 AI tidak menggantikan kandidat, tetapi membantu menyusun surat yang lebih baik.
 
-# Mengapa Menggunakan AI untuk Membuat Surat Lamaran?
+## Mengapa Menggunakan AI untuk Membuat Surat Lamaran?
 
 ## Lebih Cepat
 
@@ -56,9 +56,9 @@ Setiap surat dapat disesuaikan dengan lowongan yang berbeda.
 
 Bagi yang belum memiliki pengalaman membuat surat lamaran, AI sangat membantu.
 
-# Tools AI Terbaik untuk Membuat Surat Lamaran Kerja
+## Tools AI Terbaik untuk Membuat Surat Lamaran Kerja
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT merupakan tools paling populer untuk membuat surat lamaran.
 
@@ -68,25 +68,25 @@ Fungsi:
 * Menyesuaikan dengan lowongan
 * Memperbaiki surat lama
 
-# 2. Gemini
+## 2. Gemini
 
 Gemini dapat membantu membuat draft surat profesional.
 
-# 3. Kickresume
+## 3. Kickresume
 
 Platform khusus untuk CV dan cover letter.
 
-# 4. Rezi
+## 4. Rezi
 
 Membantu membuat surat lamaran yang ATS friendly.
 
-# 5. Canva AI
+## 5. Canva AI
 
 Dapat digunakan untuk membuat surat lamaran dengan desain profesional.
 
-# Cara Membuat Surat Lamaran Kerja dengan ChatGPT
+## Cara Membuat Surat Lamaran Kerja dengan ChatGPT
 
-# Langkah 1: Siapkan Informasi Dasar
+## Langkah 1: Siapkan Informasi Dasar
 
 Siapkan:
 
@@ -96,7 +96,7 @@ Siapkan:
 * Posisi yang dilamar
 * Nama perusahaan
 
-# Langkah 2: Salin Deskripsi Lowongan
+## Langkah 2: Salin Deskripsi Lowongan
 
 Ambil informasi dari lowongan pekerjaan.
 
@@ -106,7 +106,7 @@ Misalnya:
 * Kualifikasi
 * Keahlian yang dibutuhkan
 
-# Langkah 3: Gunakan Prompt yang Tepat
+## Langkah 3: Gunakan Prompt yang Tepat
 
 Contoh prompt:
 
@@ -118,7 +118,7 @@ Lalu masukkan:
 * Pengalaman
 * Lowongan pekerjaan
 
-# Langkah 4: Sesuaikan Hasil AI
+## Langkah 4: Sesuaikan Hasil AI
 
 Tambahkan:
 
@@ -126,7 +126,7 @@ Tambahkan:
 * Prestasi
 * Alasan melamar
 
-# Langkah 5: Periksa Sebelum Mengirim
+## Langkah 5: Periksa Sebelum Mengirim
 
 Pastikan:
 
@@ -134,7 +134,7 @@ Pastikan:
 * Posisi sesuai
 * Tidak ada kesalahan penulisan
 
-# Contoh Prompt Surat Lamaran Kerja
+## Contoh Prompt Surat Lamaran Kerja
 
 ## Untuk Fresh Graduate
 
@@ -148,7 +148,7 @@ Pastikan:
 
 > Buatkan surat lamaran kerja untuk posisi Administrasi Perkantoran dengan pengalaman mengelola dokumen dan Microsoft Office.
 
-# Cara Membuat Surat Lamaran ATS Friendly
+## Cara Membuat Surat Lamaran ATS Friendly
 
 Banyak perusahaan menggunakan ATS untuk memproses aplikasi kerja.
 
@@ -171,7 +171,7 @@ Hindari desain berlebihan.
 
 Tunjukkan bahwa Anda memenuhi kebutuhan perusahaan.
 
-# Kesalahan Umum Saat Membuat Surat Lamaran
+## Kesalahan Umum Saat Membuat Surat Lamaran
 
 ## Menggunakan Template yang Sama
 
@@ -189,7 +189,7 @@ Surat lamaran harus melengkapi CV, bukan mengulanginya.
 
 Selalu lakukan revisi sebelum mengirim.
 
-# Cara Membuat Surat Lamaran untuk Fresh Graduate
+## Cara Membuat Surat Lamaran untuk Fresh Graduate
 
 Jika belum memiliki pengalaman kerja:
 
@@ -203,7 +203,7 @@ Fokus pada:
 
 AI dapat membantu menyusun semuanya menjadi lebih menarik.
 
-# Cara Membuat Surat Lamaran untuk Karier AI
+## Cara Membuat Surat Lamaran untuk Karier AI
 
 Jika melamar posisi:
 
@@ -219,7 +219,7 @@ Tambahkan:
 * Sertifikasi AI
 * Proyek AI
 
-# Cara Membuat Cover Letter Bahasa Inggris dengan AI
+## Cara Membuat Cover Letter Bahasa Inggris dengan AI
 
 Prompt:
 
@@ -229,7 +229,7 @@ AI dapat membantu menghasilkan surat profesional berbahasa Inggris.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Surat Lamaran Kerja
+## Cara Menggunakan AI untuk Membuat Surat Lamaran Kerja
 
 AI bisa membantu membuat surat lamaran kerja yang lebih rapi, tetapi hasilnya tidak boleh langsung dikirim begitu saja.
 
@@ -283,7 +283,7 @@ Baca juga:
 
 ---
 
-# Struktur Surat Lamaran Kerja yang Baik
+## Struktur Surat Lamaran Kerja yang Baik
 
 Surat lamaran kerja sebaiknya singkat, jelas, dan langsung menunjukkan kecocokan Anda dengan posisi yang dilamar.
 
@@ -365,7 +365,7 @@ Terima kasih atas waktu dan perhatian Bapak/Ibu.
 
 ---
 
-# Data yang Perlu Disiapkan Sebelum Memakai AI
+## Data yang Perlu Disiapkan Sebelum Memakai AI
 
 Sebelum meminta AI membuat surat lamaran, siapkan data berikut.
 
@@ -415,7 +415,7 @@ Dari input seperti ini, AI bisa membuat surat yang lebih relevan.
 
 ---
 
-# Prompt Membuat Surat Lamaran Kerja dengan AI
+## Prompt Membuat Surat Lamaran Kerja dengan AI
 
 Gunakan prompt berikut.
 
@@ -481,7 +481,7 @@ Buat versi maksimal 250 kata.
 
 ---
 
-# Contoh Surat Lamaran Kerja yang Dibantu AI
+## Contoh Surat Lamaran Kerja yang Dibantu AI
 
 Berikut contoh draft yang bisa dijadikan referensi.
 
@@ -511,7 +511,7 @@ Jangan mengirim surat lamaran yang terlalu generik ke banyak perusahaan tanpa pe
 
 ---
 
-# Cara Membuat Surat Lamaran Lebih Personal
+## Cara Membuat Surat Lamaran Lebih Personal
 
 Surat lamaran yang baik tidak harus panjang.
 
@@ -549,7 +549,7 @@ Kalimat seperti ini terasa lebih spesifik.
 
 ---
 
-# Cara Menyesuaikan Surat Lamaran dengan Lowongan
+## Cara Menyesuaikan Surat Lamaran dengan Lowongan
 
 Jangan memakai satu surat lamaran yang sama untuk semua posisi.
 
@@ -592,7 +592,7 @@ Prompt ini sangat berguna karena AI bisa membantu mencocokkan pengalaman Anda de
 
 ---
 
-# Kesalahan Saat Membuat Surat Lamaran dengan AI
+## Kesalahan Saat Membuat Surat Lamaran dengan AI
 
 ## 1. Mengirim Output AI Mentah
 
@@ -640,7 +640,7 @@ Pastikan nama posisi, perusahaan, penerima, tanggal, dan lampiran sudah benar.
 
 ---
 
-# Checklist Surat Lamaran Kerja Sebelum Dikirim
+## Checklist Surat Lamaran Kerja Sebelum Dikirim
 
 Gunakan checklist ini.
 
@@ -670,7 +670,7 @@ Portofolio_Nama.pdf
 
 ---
 
-# Prompt Review Surat Lamaran Kerja
+## Prompt Review Surat Lamaran Kerja
 
 Setelah membuat draft, gunakan AI untuk mengecek kualitasnya.
 
@@ -706,7 +706,7 @@ Prompt ini membantu Anda memperbaiki draft sebelum dikirim.
 
 ---
 
-# Prompt Membuat Email Lamaran Kerja
+## Prompt Membuat Email Lamaran Kerja
 
 Jika lamaran dikirim lewat email, gunakan prompt ini.
 
@@ -760,7 +760,7 @@ Hormat saya,
 
 ---
 
-# Prompt Membuat Surat Lamaran untuk Fresh Graduate
+## Prompt Membuat Surat Lamaran untuk Fresh Graduate
 
 Gunakan prompt ini jika belum punya banyak pengalaman kerja.
 
@@ -817,7 +817,7 @@ Baca juga:
 
 ---
 
-# Prompt Membuat Surat Lamaran untuk Career Switcher
+## Prompt Membuat Surat Lamaran untuk Career Switcher
 
 Gunakan prompt ini jika ingin pindah bidang kerja.
 
@@ -870,7 +870,7 @@ problem solving.
 
 ---
 
-# Prompt Membuat Surat Lamaran Bahasa Inggris
+## Prompt Membuat Surat Lamaran Bahasa Inggris
 
 Jika perusahaan meminta lamaran bahasa Inggris, gunakan prompt ini.
 
@@ -910,7 +910,7 @@ Requirements:
 
 Setelah AI membuat versi bahasa Inggris, tetap cek grammar dan pastikan semua informasi sesuai fakta.
 
-# FAQ
+## FAQ
 
 ## Apakah surat lamaran dari AI boleh digunakan?
 
@@ -943,7 +943,7 @@ Baca juga:
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Mendapatkan Klien AI Consultant](/blog/cara-mendapatkan-klien-ai-consultant/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI dapat membantu membuat surat lamaran kerja yang lebih profesional, cepat, dan relevan dengan posisi yang dilamar. Dengan menggunakan ChatGPT dan tools AI lainnya, pencari kerja dapat meningkatkan kualitas aplikasi kerja sekaligus menghemat banyak waktu.
 

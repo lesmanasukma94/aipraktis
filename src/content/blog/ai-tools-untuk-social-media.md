@@ -23,7 +23,7 @@ draft: false
 
 AI tools untuk social media dapat membantu membuat ide konten, caption, hook, carousel, script video, Reels, TikTok, YouTube Shorts, kalender konten, jadwal posting, repurposing, analisis performa, social listening, dan balasan komentar. Tools seperti ChatGPT, Canva AI, CapCut, Buffer, Hootsuite, Later, Metricool, Meta Business Suite, YouTube Studio, TikTok Creative Center, Notion AI, Sprout Social, dan beberapa tools lain bisa digunakan sesuai kebutuhan. Namun, AI tidak boleh menggantikan strategi konten, pemahaman audiens, konsistensi brand, dan evaluasi performa manual.
 
-# AI Tools untuk Social Media
+
 
 Social media terlihat sederhana dari luar.
 
@@ -131,7 +131,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Social Media
+## Cara Memilih AI Tools untuk Social Media
 
 Sebelum memilih tools, jangan mulai dari pertanyaan:
 
@@ -292,7 +292,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk Social Media
+## Tabel AI Tools untuk Social Media
 
 | Tools | Cocok untuk | Kelebihan utama |
 |---|---|---|
@@ -314,7 +314,7 @@ Cocok untuk:
 
 ---
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT adalah tools paling fleksibel untuk social media.
 
@@ -425,7 +425,7 @@ Baca juga:
 
 ---
 
-# 2. Claude
+## 2. Claude
 
 Claude cocok untuk social media yang membutuhkan tone lebih matang, struktur rapi, dan caption yang tidak terlalu generik.
 
@@ -491,7 +491,7 @@ Baca juga:
 
 ---
 
-# 3. Canva AI
+## 3. Canva AI
 
 Canva AI cocok untuk membuat visual social media.
 
@@ -581,7 +581,7 @@ Baca juga:
 
 ---
 
-# 4. CapCut
+## 4. CapCut
 
 CapCut adalah tools penting untuk social media video, terutama Reels, TikTok, dan YouTube Shorts.
 
@@ -668,7 +668,7 @@ Baca juga:
 
 ---
 
-# 5. Buffer
+## 5. Buffer
 
 Buffer cocok untuk scheduling, planning, content repurposing, dan manajemen konten social media yang sederhana.
 
@@ -750,7 +750,7 @@ Baca juga:
 
 ---
 
-# 6. Hootsuite
+## 6. Hootsuite
 
 Hootsuite cocok untuk manajemen social media yang lebih besar.
 
@@ -827,7 +827,7 @@ Pastikan ada:
 
 ---
 
-# 7. Later
+## 7. Later
 
 Later cocok untuk social media visual, terutama Instagram, TikTok, Pinterest, dan platform berbasis visual lainnya.
 
@@ -897,7 +897,7 @@ Cek:
 
 ---
 
-# 8. Metricool
+## 8. Metricool
 
 Metricool cocok untuk planning, analytics, reporting, competitor tracking, dan manajemen social media lintas platform.
 
@@ -972,7 +972,7 @@ Setiap minggu, cek:
 
 ---
 
-# 9. Meta Business Suite
+## 9. Meta Business Suite
 
 Meta Business Suite cocok untuk mengelola Facebook dan Instagram.
 
@@ -1050,7 +1050,7 @@ Baca juga:
 
 ---
 
-# 10. YouTube Studio
+## 10. YouTube Studio
 
 YouTube Studio penting untuk creator YouTube dan YouTube Shorts.
 
@@ -1135,7 +1135,7 @@ Baca juga:
 
 ---
 
-# 11. TikTok Creative Center
+## 11. TikTok Creative Center
 
 TikTok Creative Center cocok untuk mencari inspirasi konten dan tren.
 
@@ -1209,7 +1209,7 @@ Baca juga:
 
 ---
 
-# 12. Notion AI
+## 12. Notion AI
 
 Notion AI cocok untuk mengatur sistem kerja social media.
 
@@ -1286,7 +1286,7 @@ Baca juga:
 
 ---
 
-# 13. Sprout Social
+## 13. Sprout Social
 
 Sprout Social cocok untuk brand dan tim yang membutuhkan analytics, social listening, engagement, reporting, dan workflow kolaboratif.
 
@@ -1356,7 +1356,7 @@ Fokus pada:
 
 ---
 
-# 14. OpusClip
+## 14. OpusClip
 
 OpusClip cocok untuk mengubah video panjang menjadi video pendek.
 
@@ -1430,7 +1430,7 @@ Baca juga:
 
 ---
 
-# 15. Descript
+## 15. Descript
 
 Descript cocok untuk social media yang berasal dari video panjang, podcast, interview, webinar, atau talking-head video.
 
@@ -1484,7 +1484,7 @@ Hapus bagian berulang dari transkrip ini dan buat rough cut untuk video edukasi 
 
 ---
 
-# Rekomendasi Tools Berdasarkan Platform
+## Rekomendasi Tools Berdasarkan Platform
 
 ## Untuk Instagram
 
@@ -1597,7 +1597,7 @@ Cocok untuk:
 
 ---
 
-# Rekomendasi Stack AI Social Media untuk Pemula
+## Rekomendasi Stack AI Social Media untuk Pemula
 
 Jika Anda baru mulai, jangan gunakan terlalu banyak tools.
 
@@ -1615,7 +1615,7 @@ Setelah konten mulai rutin, baru tambahkan Buffer, Metricool, Later, atau tools 
 
 ---
 
-# Rekomendasi Stack untuk UMKM
+## Rekomendasi Stack untuk UMKM
 
 Untuk UMKM, fokus utama adalah promosi, edukasi, balasan pelanggan, dan konsistensi konten.
 
@@ -1644,7 +1644,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Stack untuk Content Creator
+## Rekomendasi Stack untuk Content Creator
 
 Untuk content creator, fokus utama adalah ide, produksi, distribusi, dan repurposing.
 
@@ -1675,7 +1675,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Stack untuk AI Praktis Indonesia
+## Rekomendasi Stack untuk AI Praktis Indonesia
 
 Untuk AI Praktis Indonesia, stack social media yang stabil adalah:
 
@@ -1722,7 +1722,7 @@ Social media AI Praktis Indonesia sebaiknya fokus pada:
 
 ---
 
-# Workflow Social Media dengan AI
+## Workflow Social Media dengan AI
 
 Berikut workflow yang praktis.
 
@@ -1806,7 +1806,7 @@ Analisis data performa konten berikut. Cari topik terbaik, format terbaik, hook 
 
 ---
 
-# Prompt AI untuk Social Media
+## Prompt AI untuk Social Media
 
 Berikut prompt siap pakai.
 
@@ -1860,7 +1860,7 @@ Audit konten social media berikut. Cek hook, kejelasan pesan, tone, CTA, potensi
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Social Media
+## Kesalahan Menggunakan AI Tools untuk Social Media
 
 ## 1. Konten Terlalu Generik
 
@@ -1944,7 +1944,7 @@ Jangan gunakan AI untuk:
 
 ---
 
-# Checklist AI Tools untuk Social Media
+## Checklist AI Tools untuk Social Media
 
 Gunakan checklist ini.
 
@@ -1969,7 +1969,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rekomendasi Stack Minimal
+## Rekomendasi Stack Minimal
 
 Jika ingin mulai sederhana, gunakan:
 
@@ -1996,7 +1996,7 @@ Jika ingin mengubah tools social media menjadi workflow produksi harian, baca [C
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk social media?
 
@@ -2028,7 +2028,7 @@ Berikan konteks brand, target audiens, contoh gaya bahasa, tujuan konten, platfo
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk social media dapat membantu produksi konten menjadi lebih cepat dan terstruktur.
 
@@ -2076,7 +2076,7 @@ UMKM yang ingin memakai social media untuk jualan dapat membaca [AI Tools untuk 
 
 Agency social media dapat membaca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk menghubungkan tools social media dengan content plan, approval, reporting, SOP, dan quality control.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2104,22 +2104,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Platform Dulu
+## Mulai dari Satu Platform Dulu
 
 Kesalahan umum pemula adalah ingin aktif di semua platform sekaligus.
 

@@ -22,7 +22,7 @@ draft: false
 
 Prompt ChatGPT untuk menulis dapat membantu membuat ide, outline, artikel, email, caption, copywriting, script video, storytelling, newsletter, deskripsi produk, dan draft tulisan lain dengan lebih cepat. Namun, ChatGPT sebaiknya digunakan sebagai asisten menulis, bukan pengganti suara, pengalaman, dan penilaian manusia. Artikel ini berisi kumpulan prompt siap pakai untuk menulis, mengedit, memperbaiki gaya bahasa, membuat struktur, mengembangkan ide, dan membuat workflow menulis yang lebih rapi.
 
-# Prompt ChatGPT untuk Menulis
+
 
 Menulis sering terlihat sederhana, tetapi dalam praktiknya tidak selalu mudah.
 
@@ -99,7 +99,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Menulis
+## Cara Menggunakan ChatGPT untuk Menulis
 
 Agar ChatGPT benar-benar membantu proses menulis, gunakan AI dalam beberapa tahap.
 
@@ -143,7 +143,7 @@ Baca juga:
 
 ---
 
-# Struktur Prompt Menulis yang Baik
+## Struktur Prompt Menulis yang Baik
 
 Prompt menulis yang baik biasanya memiliki elemen berikut:
 
@@ -210,7 +210,7 @@ Jangan membuat klaim berlebihan. Jangan menyebut fitur yang perlu diverifikasi t
 
 ---
 
-# Prompt ChatGPT untuk Mencari Ide Tulisan
+## Prompt ChatGPT untuk Mencari Ide Tulisan
 
 Gunakan prompt ini saat belum tahu harus menulis apa.
 
@@ -246,7 +246,7 @@ Dari topik utama [topik], buatkan 25 ide turunan untuk artikel blog, caption Ins
 
 ---
 
-# Prompt ChatGPT untuk Membuat Outline
+## Prompt ChatGPT untuk Membuat Outline
 
 Outline adalah kerangka tulisan.
 
@@ -287,7 +287,7 @@ Outline:
 
 ---
 
-# Prompt ChatGPT untuk Menulis Artikel Blog
+## Prompt ChatGPT untuk Menulis Artikel Blog
 
 AI dapat membantu membuat draft artikel, tetapi jangan langsung mempublikasikan tanpa editing.
 
@@ -328,7 +328,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Email
+## Prompt ChatGPT untuk Email
 
 ChatGPT sangat berguna untuk menulis email profesional.
 
@@ -375,7 +375,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Caption Media Sosial
+## Prompt ChatGPT untuk Caption Media Sosial
 
 Caption yang baik tidak hanya indah, tetapi juga jelas tujuannya.
 
@@ -419,7 +419,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Copywriting
+## Prompt ChatGPT untuk Copywriting
 
 Copywriting membantu tulisan lebih persuasif.
 
@@ -464,7 +464,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Storytelling
+## Prompt ChatGPT untuk Storytelling
 
 Storytelling membuat tulisan lebih hidup.
 
@@ -506,7 +506,7 @@ Tulisan:
 
 ---
 
-# Prompt ChatGPT untuk Editing Tulisan
+## Prompt ChatGPT untuk Editing Tulisan
 
 Editing adalah bagian penting dari menulis.
 
@@ -559,7 +559,7 @@ Tulisan:
 
 ---
 
-# Prompt ChatGPT untuk Menyesuaikan Gaya Bahasa
+## Prompt ChatGPT untuk Menyesuaikan Gaya Bahasa
 
 Satu pesan bisa ditulis dalam banyak gaya.
 
@@ -613,7 +613,7 @@ Tulisan:
 
 ---
 
-# Prompt ChatGPT untuk Judul dan Hook
+## Prompt ChatGPT untuk Judul dan Hook
 
 Judul menentukan apakah orang tertarik membaca.
 
@@ -652,7 +652,7 @@ Buatkan 30 hook video pendek tentang [topik]. Hook harus maksimal 10 kata, menar
 
 ---
 
-# Prompt ChatGPT untuk Menulis Script Video
+## Prompt ChatGPT untuk Menulis Script Video
 
 Script video butuh bahasa yang lebih lisan.
 
@@ -691,7 +691,7 @@ Buatkan voice-over untuk video tentang [topik]. Durasi sekitar [durasi]. Gaya ba
 
 ---
 
-# Prompt ChatGPT untuk Newsletter
+## Prompt ChatGPT untuk Newsletter
 
 Newsletter membutuhkan hubungan yang lebih personal dengan pembaca.
 
@@ -730,7 +730,7 @@ Artikel:
 
 ---
 
-# Prompt ChatGPT untuk Deskripsi Produk
+## Prompt ChatGPT untuk Deskripsi Produk
 
 Deskripsi produk harus membantu pembeli memahami manfaat.
 
@@ -769,7 +769,7 @@ Spesifikasi:
 
 ---
 
-# Prompt ChatGPT untuk Menulis dengan Data dan Riset
+## Prompt ChatGPT untuk Menulis dengan Data dan Riset
 
 Untuk tulisan serius, gunakan riset.
 
@@ -825,7 +825,7 @@ Baca juga:
 
 ---
 
-# Workflow Menulis dengan ChatGPT
+## Workflow Menulis dengan ChatGPT
 
 Berikut workflow praktis yang bisa digunakan.
 
@@ -892,7 +892,7 @@ Pastikan tulisan sesuai dengan:
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Menulis
+## Kesalahan Menggunakan ChatGPT untuk Menulis
 
 ## 1. Meminta Tulisan Final Terlalu Cepat
 
@@ -932,7 +932,7 @@ Edit agar lebih spesifik, natural, dan sesuai brand.
 
 ---
 
-# Checklist Prompt ChatGPT untuk Menulis
+## Checklist Prompt ChatGPT untuk Menulis
 
 Gunakan checklist ini sebelum meminta ChatGPT menulis.
 
@@ -951,7 +951,7 @@ Gunakan checklist ini sebelum meminta ChatGPT menulis.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt ChatGPT untuk menulis?
 
@@ -983,7 +983,7 @@ Minta ChatGPT menggunakan bahasa Indonesia natural, beri contoh gaya tulisan yan
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt ChatGPT untuk menulis dapat membantu proses menulis menjadi lebih cepat, rapi, dan terarah.
 
@@ -1035,7 +1035,7 @@ Untuk mengubah draft tulisan menjadi artikel yang lebih SEO-friendly, gunakan [A
 
 Jika ingin memakai prompt menulis untuk kebutuhan email, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) agar prompt email kerja, follow-up, customer service, sales, dan email marketing lebih terarah.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1058,21 +1058,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai Menulis dengan Prompt yang Lebih Jelas
+## Mulai Menulis dengan Prompt yang Lebih Jelas
 
 Jika Anda sering merasa tulisan AI terlalu umum, jangan langsung menyalahkan tools.
 

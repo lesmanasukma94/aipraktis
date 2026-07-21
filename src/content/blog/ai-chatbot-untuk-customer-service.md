@@ -23,7 +23,7 @@ AI chatbot untuk customer service dapat membantu bisnis menjawab pertanyaan pela
 
 Chatbot customer service akan lebih akurat jika didukung SOP dan knowledge base yang jelas. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk membangun workflow layanan pelanggan dari FAQ sampai eskalasi.
 
-# AI Chatbot untuk Customer Service
+
 
 Customer service adalah salah satu bagian bisnis yang paling melelahkan tetapi sangat penting.
 
@@ -68,7 +68,7 @@ Artikel ini akan membahas cara menggunakan AI chatbot untuk customer service sec
 
 ---
 
-# Apa Itu AI Chatbot untuk Customer Service?
+## Apa Itu AI Chatbot untuk Customer Service?
 
 AI chatbot untuk customer service adalah sistem berbasis kecerdasan buatan yang dapat membantu menjawab pertanyaan pelanggan, memberi informasi produk, membuat balasan otomatis, menyarankan respons kepada agent, dan membantu proses layanan pelanggan.
 
@@ -122,7 +122,7 @@ Namun, sistem seperti ini perlu data yang rapi dan aturan eskalasi ke manusia.
 
 ---
 
-# Manfaat AI Chatbot untuk Customer Service
+## Manfaat AI Chatbot untuk Customer Service
 
 AI chatbot dapat memberi banyak manfaat untuk bisnis.
 
@@ -230,7 +230,7 @@ Jika digabungkan dengan agent manusia yang responsif, pengalaman pelanggan bisa 
 
 ---
 
-# Contoh Penggunaan AI Chatbot untuk Customer Service
+## Contoh Penggunaan AI Chatbot untuk Customer Service
 
 Berikut beberapa contoh penggunaan AI chatbot dalam customer service.
 
@@ -329,7 +329,7 @@ Buatkan 7 contoh pesan follow-up WhatsApp untuk pelanggan yang sudah bertanya st
 
 ---
 
-# Tools AI Chatbot untuk Customer Service
+## Tools AI Chatbot untuk Customer Service
 
 Ada banyak tools yang dapat digunakan untuk customer service.
 
@@ -596,7 +596,7 @@ Baca juga:
 
 ---
 
-# Tabel Perbandingan AI Chatbot untuk Customer Service
+## Tabel Perbandingan AI Chatbot untuk Customer Service
 
 | Tools | Fungsi Utama | Cocok Untuk | Catatan |
 |---|---|---|---|
@@ -610,7 +610,7 @@ Baca juga:
 
 ---
 
-# Cara Menerapkan AI Chatbot untuk Customer Service
+## Cara Menerapkan AI Chatbot untuk Customer Service
 
 Agar AI chatbot benar-benar membantu, jangan langsung memasangnya tanpa persiapan.
 
@@ -742,7 +742,7 @@ AI customer service harus terus diperbaiki.
 
 ---
 
-# Contoh Prompt AI untuk Customer Service
+## Contoh Prompt AI untuk Customer Service
 
 Berikut prompt siap pakai.
 
@@ -792,7 +792,7 @@ Ringkas percakapan pelanggan berikut menjadi poin-poin penting: masalah utama, d
 
 ---
 
-# Kesalahan Menggunakan AI Chatbot untuk Customer Service
+## Kesalahan Menggunakan AI Chatbot untuk Customer Service
 
 AI chatbot bisa membantu, tetapi penggunaannya harus hati-hati.
 
@@ -842,7 +842,7 @@ Gunakan platform bisnis atau enterprise jika data customer service bersifat sens
 
 ---
 
-# Checklist Sebelum Memakai AI Chatbot Customer Service
+## Checklist Sebelum Memakai AI Chatbot Customer Service
 
 Gunakan checklist ini sebelum mulai.
 
@@ -866,7 +866,7 @@ Jika customer service bisnis Anda banyak berjalan lewat WhatsApp, baca juga arti
 
 ---
 
-# Rekomendasi Berdasarkan Jenis Bisnis
+## Rekomendasi Berdasarkan Jenis Bisnis
 
 ## Untuk UMKM
 
@@ -928,7 +928,7 @@ Agency perlu menjaga respons cepat dan komunikasi profesional.
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI chatbot untuk customer service dapat membantu bisnis memberikan layanan yang lebih cepat, konsisten, dan profesional.
 
@@ -954,7 +954,7 @@ Untuk penerapan customer service pada toko online, lanjutkan ke [AI untuk UMKM O
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI chatbot terbaik untuk customer service?
 
@@ -998,7 +998,7 @@ Customer service berbasis AI harus tetap memiliki knowledge base dan handoff ke 
 
 Agar chatbot customer service punya jawaban yang lebih aman dan konsisten, gunakan [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) untuk membuat knowledge base, FAQ, aturan eskalasi, dan template balasan.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan AI chatbot dan bisnis berikut:
 
@@ -1023,21 +1023,21 @@ Pelajari juga panduan AI chatbot dan bisnis berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Gunakan AI untuk Membuat Customer Service Lebih Cepat dan Rapi
+## Gunakan AI untuk Membuat Customer Service Lebih Cepat dan Rapi
 
 Customer service yang baik dapat meningkatkan kepercayaan pelanggan.
 

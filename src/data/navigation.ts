@@ -1,26 +1,26 @@
 export const navigation = [
   {
     title: "Belajar AI",
-    href: "/kategori/belajar-ai"
+    href: "/belajar-ai/"
   },
   {
     title: "AI Chatbot",
-    href: "/kategori/ai-chatbot"
+    href: "/ai-chatbot/"
   },
   {
     title: "Prompt Engineering",
-    href: "/kategori/prompt-engineering"
+    href: "/prompt-engineering/"
   },
   {
     title: "AI Tools",
-    href: "/kategori/ai-tools"
+    href: "/ai-tools/"
   },
   {
     title: "Tutorial AI",
-    href: "/kategori/tutorial-ai"
+    href: "/tutorial-ai/"
   },
   {
     title: "AI Bisnis",
-    href: "/kategori/ai-untuk-bisnis"
+    href: "/ai-untuk-bisnis/"
   }
 ];

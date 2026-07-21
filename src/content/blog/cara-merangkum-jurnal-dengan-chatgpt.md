@@ -20,7 +20,7 @@ draft: false
 
 ------------------
 
-# Cara Merangkum Jurnal dengan ChatGPT: Panduan Lengkap untuk Mahasiswa
+
 
 Membaca jurnal ilmiah merupakan bagian penting dari proses belajar, penelitian, dan penyusunan skripsi. Namun banyak mahasiswa mengalami kesulitan karena jurnal akademik sering kali panjang, menggunakan bahasa formal, dan membahas konsep yang kompleks.
 
@@ -237,7 +237,7 @@ Namun AI tetap tidak dapat menggantikan proses penelitian yang sebenarnya.
 
 ---
 
-# Cara Merangkum Jurnal dengan ChatGPT secara Aman
+## Cara Merangkum Jurnal dengan ChatGPT secara Aman
 
 ChatGPT bisa membantu merangkum jurnal, tetapi harus digunakan dengan cara yang benar.
 
@@ -272,7 +272,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Baca Judul dan Abstrak Terlebih Dahulu
+## Langkah 1: Baca Judul dan Abstrak Terlebih Dahulu
 
 Sebelum memakai ChatGPT, baca dulu judul dan abstrak jurnal.
 
@@ -318,7 +318,7 @@ Untuk tugas kuliah, skripsi, atau penelitian, Anda tetap perlu membaca bagian me
 
 ---
 
-# Langkah 2: Pecah Jurnal Menjadi Beberapa Bagian
+## Langkah 2: Pecah Jurnal Menjadi Beberapa Bagian
 
 Jangan langsung menempel seluruh jurnal panjang ke ChatGPT tanpa struktur.
 
@@ -376,7 +376,7 @@ Dengan memecah jurnal, ringkasan menjadi lebih akurat dan mudah dipahami.
 
 ---
 
-# Langkah 3: Minta Ringkasan Terstruktur
+## Langkah 3: Minta Ringkasan Terstruktur
 
 Ringkasan jurnal sebaiknya tidak hanya berupa paragraf panjang.
 
@@ -416,7 +416,7 @@ Ini membantu mencegah ChatGPT mengarang informasi yang tidak ada di jurnal.
 
 ---
 
-# Langkah 4: Minta Penjelasan Istilah Sulit
+## Langkah 4: Minta Penjelasan Istilah Sulit
 
 Jurnal sering memakai istilah akademik yang sulit.
 
@@ -466,7 +466,7 @@ Baca juga:
 
 ---
 
-# Langkah 5: Minta Pertanyaan Kritis
+## Langkah 5: Minta Pertanyaan Kritis
 
 Ringkasan saja belum cukup.
 
@@ -511,7 +511,7 @@ Pertanyaan seperti ini berguna untuk diskusi kelas, seminar proposal, atau bimbi
 
 ---
 
-# Langkah 6: Bandingkan Beberapa Jurnal
+## Langkah 6: Bandingkan Beberapa Jurnal
 
 Untuk skripsi atau literature review, Anda biasanya perlu membaca lebih dari satu jurnal.
 
@@ -568,7 +568,7 @@ Jangan membiarkan ChatGPT mengisi penulis, tahun, atau hasil penelitian jika inf
 
 ---
 
-# Langkah 7: Buat Catatan untuk Skripsi atau Makalah
+## Langkah 7: Buat Catatan untuk Skripsi atau Makalah
 
 Setelah jurnal dirangkum, ubah ringkasan menjadi catatan yang bisa dipakai untuk menulis.
 
@@ -605,7 +605,7 @@ ChatGPT boleh membantu membuat parafrase awal, tetapi Anda harus memastikan makn
 
 ---
 
-# Contoh Prompt Lengkap Merangkum Jurnal
+## Contoh Prompt Lengkap Merangkum Jurnal
 
 Gunakan prompt lengkap berikut.
 
@@ -654,7 +654,7 @@ Jika jurnal sangat panjang, gunakan per bagian.
 
 ---
 
-# Prompt untuk Menjelaskan Metode Penelitian
+## Prompt untuk Menjelaskan Metode Penelitian
 
 Bagian metode sering paling sulit dipahami.
 
@@ -684,7 +684,7 @@ Prompt ini membantu memahami apakah penelitian memakai pendekatan kuantitatif, k
 
 ---
 
-# Prompt untuk Membuat Literature Matrix
+## Prompt untuk Membuat Literature Matrix
 
 Gunakan prompt ini jika sedang menyusun skripsi.
 
@@ -720,7 +720,7 @@ Ini juga membantu menemukan research gap.
 
 ---
 
-# Prompt untuk Mencari Research Gap dari Ringkasan Jurnal
+## Prompt untuk Mencari Research Gap dari Ringkasan Jurnal
 
 ChatGPT bisa membantu mencari kemungkinan gap dari beberapa ringkasan jurnal.
 
@@ -756,7 +756,7 @@ Tetap diskusikan dengan dosen pembimbing dan cek jurnal asli.
 
 ---
 
-# Kesalahan Merangkum Jurnal dengan ChatGPT
+## Kesalahan Merangkum Jurnal dengan ChatGPT
 
 ## 1. Hanya Membaca Ringkasan AI
 
@@ -794,7 +794,7 @@ Pahami dulu, lalu tulis ulang sesuai kebutuhan akademik.
 
 ---
 
-# Checklist Merangkum Jurnal dengan ChatGPT
+## Checklist Merangkum Jurnal dengan ChatGPT
 
 Gunakan checklist ini.
 
@@ -816,7 +816,7 @@ Checklist ini membantu penggunaan ChatGPT tetap aman dan berguna untuk belajar.
 
 ---
 
-# Workflow Merangkum Jurnal dengan ChatGPT
+## Workflow Merangkum Jurnal dengan ChatGPT
 
 Gunakan workflow berikut.
 
@@ -852,7 +852,7 @@ Workflow ini membuat ChatGPT menjadi alat bantu belajar, bukan jalan pintas yang
 
 ---
 
-# Prompt Review Ringkasan Jurnal
+## Prompt Review Ringkasan Jurnal
 
 Setelah membuat ringkasan, minta ChatGPT mengecek kualitasnya.
 

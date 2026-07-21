@@ -25,7 +25,7 @@ Karier AI tidak hanya untuk programmer, data scientist, atau lulusan teknik. Pem
 
 Jika konsep dasar AI masih belum kuat, mulai dari [AI untuk Pemula](/blog/ai-untuk-pemula/) sebelum membangun roadmap karier, portofolio, dan skill AI yang lebih profesional.
 
-# Karier AI untuk Pemula
+
 
 Banyak orang tertarik dengan AI, tetapi bingung harus mulai dari mana.
 
@@ -100,7 +100,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Karier AI?
+## Apa Itu Karier AI?
 
 Karier AI adalah pekerjaan atau jalur profesional yang menggunakan AI sebagai bagian penting dari proses kerja.
 
@@ -156,7 +156,7 @@ Jalur ini cocok untuk orang yang bisa menjelaskan AI dengan sederhana dan memban
 
 ---
 
-# Apakah Karier AI Harus Bisa Coding?
+## Apakah Karier AI Harus Bisa Coding?
 
 Tidak selalu.
 
@@ -220,7 +220,7 @@ Jika suatu hari ingin masuk jalur teknis, coding akan sangat membantu.
 
 ---
 
-# Mengapa Karier AI Menarik untuk Pemula?
+## Mengapa Karier AI Menarik untuk Pemula?
 
 Karier AI menarik karena AI sedang masuk ke banyak bidang kerja.
 
@@ -264,7 +264,7 @@ AI membuka peluang bagi orang yang mau belajar cepat dan bisa menerapkan teknolo
 
 ---
 
-# Prinsip Memulai Karier AI untuk Pemula
+## Prinsip Memulai Karier AI untuk Pemula
 
 Sebelum memilih profesi, pahami prinsip berikut.
 
@@ -370,7 +370,7 @@ Etika adalah bagian dari skill karier AI.
 
 ---
 
-# Pilihan Profesi AI untuk Pemula
+## Pilihan Profesi AI untuk Pemula
 
 Berikut beberapa profesi AI yang bisa dipertimbangkan pemula.
 
@@ -689,7 +689,7 @@ Baca juga:
 
 ---
 
-# Skill Dasar untuk Karier AI
+## Skill Dasar untuk Karier AI
 
 Berikut skill yang perlu dipelajari pemula.
 
@@ -825,7 +825,7 @@ Domain knowledge membuat output AI lebih relevan.
 
 ---
 
-# Roadmap Karier AI untuk Pemula
+## Roadmap Karier AI untuk Pemula
 
 Berikut roadmap sederhana.
 
@@ -990,7 +990,7 @@ Mulai dari masalah nyata.
 
 ---
 
-# Contoh Portofolio Karier AI untuk Pemula
+## Contoh Portofolio Karier AI untuk Pemula
 
 Berikut contoh portofolio yang bisa dibuat.
 
@@ -1085,7 +1085,7 @@ Cocok untuk:
 
 ---
 
-# Tools AI untuk Membangun Karier
+## Tools AI untuk Membangun Karier
 
 Berikut tools yang bisa dipelajari pemula.
 
@@ -1188,7 +1188,7 @@ Baca juga:
 
 ---
 
-# Cara Mencari Pekerjaan AI untuk Pemula
+## Cara Mencari Pekerjaan AI untuk Pemula
 
 Jika ingin mencari kerja di bidang AI, jangan hanya mencari keyword “AI engineer”.
 
@@ -1255,7 +1255,7 @@ Membuat template AI customer service untuk FAQ, komplain, follow-up, dan eskalas
 
 ---
 
-# Cara Memulai Freelance AI
+## Cara Memulai Freelance AI
 
 Freelance AI cocok untuk pemula yang ingin membangun pengalaman.
 
@@ -1324,7 +1324,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Pemula dalam Karier AI
+## Kesalahan Pemula dalam Karier AI
 
 ## 1. Terlalu Fokus pada Tools
 
@@ -1378,7 +1378,7 @@ Belajar harus berkelanjutan.
 
 ---
 
-# Checklist Karier AI untuk Pemula
+## Checklist Karier AI untuk Pemula
 
 Gunakan checklist ini.
 
@@ -1400,7 +1400,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 30 Hari Memulai Karier AI
+## Rencana 30 Hari Memulai Karier AI
 
 Jika Anda benar-benar pemula, gunakan rencana ini.
 
@@ -1480,7 +1480,7 @@ Output:
 
 ---
 
-# Template Prompt untuk Menentukan Jalur Karier AI
+## Template Prompt untuk Menentukan Jalur Karier AI
 
 Gunakan prompt ini.
 
@@ -1516,7 +1516,7 @@ Bantu saya:
 
 ---
 
-# Template Prompt untuk Membuat Portofolio AI
+## Template Prompt untuk Membuat Portofolio AI
 
 ```text
 Bantu saya membuat ide portofolio AI.
@@ -1541,7 +1541,7 @@ Buatkan:
 
 ---
 
-# Template Prompt untuk Review CV Karier AI
+## Template Prompt untuk Review CV Karier AI
 
 ```text
 Review CV saya untuk melamar posisi terkait AI.
@@ -1568,7 +1568,7 @@ CV:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah pemula bisa membangun karier AI?
 
@@ -1600,7 +1600,7 @@ Minggu pertama pelajari dasar AI. Minggu kedua pilih bidang fokus. Minggu ketiga
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Karier AI untuk pemula sangat mungkin dimulai dari nol.
 
@@ -1646,7 +1646,7 @@ Karier AI yang kuat bukan dibangun dari hafalan tools, tetapi dari kemampuan bel
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1674,23 +1674,23 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
 
 ---
 
-# Mulai dari Satu Project Kecil
+## Mulai dari Satu Project Kecil
 
 Jangan menunggu sampai merasa siap sepenuhnya.
 

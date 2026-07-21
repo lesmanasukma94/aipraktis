@@ -36,7 +36,7 @@ Semakin detail instruksi yang diberikan, semakin baik hasil yang diperoleh.
 
 ---
 
-# Prompt Membuat Materi Ajar
+## Prompt Membuat Materi Ajar
 
 ### 1
 
@@ -60,7 +60,7 @@ Buat penjelasan sederhana tentang [TOPIK] untuk siswa yang baru pertama kali mem
 
 ---
 
-# Prompt Membuat Soal Pilihan Ganda
+## Prompt Membuat Soal Pilihan Ganda
 
 ### 6
 
@@ -84,7 +84,7 @@ Buat soal yang menguji pemahaman konsep, bukan hafalan.
 
 ---
 
-# Prompt Membuat Soal Essay
+## Prompt Membuat Soal Essay
 
 ### 11
 
@@ -108,7 +108,7 @@ Buat soal yang menghubungkan materi dengan kehidupan sehari-hari.
 
 ---
 
-# Prompt Membuat Presentasi
+## Prompt Membuat Presentasi
 
 ### 16
 
@@ -132,7 +132,7 @@ Buat presentasi pembelajaran interaktif selama 45 menit.
 
 ---
 
-# Prompt Membuat Aktivitas Kelas
+## Prompt Membuat Aktivitas Kelas
 
 ### 21
 
@@ -156,7 +156,7 @@ Buat simulasi sederhana untuk menjelaskan [TOPIK].
 
 ---
 
-# Prompt Membuat Rubrik Penilaian
+## Prompt Membuat Rubrik Penilaian
 
 ### 26
 
@@ -180,7 +180,7 @@ Buat rubrik penilaian keterampilan praktik.
 
 ---
 
-# Prompt Administrasi Guru
+## Prompt Administrasi Guru
 
 ### 31
 
@@ -204,7 +204,7 @@ Buat template dokumentasi kegiatan sekolah.
 
 ---
 
-# Prompt Membuat RPP dan Perencanaan
+## Prompt Membuat RPP dan Perencanaan
 
 ### 36
 
@@ -228,7 +228,7 @@ Buat rencana pembelajaran berbasis proyek.
 
 ---
 
-# Prompt Membantu Siswa Belajar
+## Prompt Membantu Siswa Belajar
 
 ### 41
 
@@ -252,7 +252,7 @@ Buat daftar pertanyaan yang dapat membantu siswa memahami [TOPIK].
 
 ---
 
-# Prompt Kreativitas Guru
+## Prompt Kreativitas Guru
 
 ### 46
 

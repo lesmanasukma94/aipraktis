@@ -23,7 +23,7 @@ draft: false
 
 AI tools untuk menulis dapat membantu membuat ide, outline, artikel blog, email, caption, copywriting, newsletter, script video, proposal, ringkasan, dan editing tulisan. Tools seperti ChatGPT, Claude, Gemini, Grammarly, Notion AI, Jasper, Copy.ai, Canva AI, QuillBot, dan Hemingway dapat dipakai sesuai kebutuhan. Namun, AI writing tools sebaiknya digunakan sebagai asisten menulis, bukan pengganti penulis. Hasil AI tetap perlu diedit, dicek fakta, disesuaikan dengan suara brand, dan diperiksa agar tidak generik.
 
-# AI Tools untuk Menulis
+
 
 Menulis adalah salah satu pekerjaan yang paling sering dibantu oleh AI.
 
@@ -95,7 +95,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Menulis
+## Cara Memilih AI Tools untuk Menulis
 
 Sebelum memilih tools, tentukan dulu kebutuhan utama Anda.
 
@@ -222,7 +222,7 @@ Tools yang cocok:
 
 ---
 
-# Tabel AI Tools untuk Menulis
+## Tabel AI Tools untuk Menulis
 
 | Tools | Cocok untuk | Kelebihan utama |
 |---|---|---|
@@ -242,7 +242,7 @@ Tools yang cocok:
 
 ---
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT adalah salah satu AI tools paling fleksibel untuk menulis.
 
@@ -334,7 +334,7 @@ Baca juga:
 
 ---
 
-# 2. Claude
+## 2. Claude
 
 Claude cocok untuk menulis panjang, menganalisis dokumen, memperbaiki gaya bahasa, dan membuat tulisan yang lebih terstruktur.
 
@@ -407,7 +407,7 @@ Baca juga:
 
 ---
 
-# 3. Gemini untuk Google Docs dan Gmail
+## 3. Gemini untuk Google Docs dan Gmail
 
 Gemini cocok untuk pengguna Google Workspace.
 
@@ -489,7 +489,7 @@ Baca juga:
 
 ---
 
-# 4. Microsoft Copilot
+## 4. Microsoft Copilot
 
 Microsoft Copilot cocok untuk pengguna Microsoft 365.
 
@@ -572,7 +572,7 @@ Baca juga:
 
 ---
 
-# 5. Grammarly
+## 5. Grammarly
 
 Grammarly cocok untuk editing, proofreading, grammar, clarity, dan tone.
 
@@ -647,7 +647,7 @@ Baca juga:
 
 ---
 
-# 6. Notion AI
+## 6. Notion AI
 
 Notion AI cocok untuk sistem kerja menulis.
 
@@ -726,7 +726,7 @@ Baca juga:
 
 ---
 
-# 7. Jasper
+## 7. Jasper
 
 Jasper cocok untuk tim marketing dan bisnis yang membutuhkan konten dalam jumlah banyak dengan brand voice yang konsisten.
 
@@ -803,7 +803,7 @@ Baca juga:
 
 ---
 
-# 8. Copy.ai
+## 8. Copy.ai
 
 Copy.ai cocok untuk copywriting, content creation, sales outreach, dan go-to-market content.
 
@@ -879,7 +879,7 @@ Baca juga:
 
 ---
 
-# 9. Canva AI untuk Tulisan Visual
+## 9. Canva AI untuk Tulisan Visual
 
 Canva tidak hanya untuk desain.
 
@@ -955,7 +955,7 @@ Baca juga:
 
 ---
 
-# 10. QuillBot
+## 10. QuillBot
 
 QuillBot cocok untuk paraphrasing, grammar, summarizing, dan memperbaiki kalimat.
 
@@ -1016,7 +1016,7 @@ Workflow aman:
 
 ---
 
-# 11. Hemingway Editor
+## 11. Hemingway Editor
 
 Hemingway Editor cocok untuk menyederhanakan tulisan.
 
@@ -1077,7 +1077,7 @@ Baca juga:
 
 ---
 
-# 12. Perplexity untuk Riset Tulisan
+## 12. Perplexity untuk Riset Tulisan
 
 Perplexity bukan tools menulis murni, tetapi berguna sebelum menulis.
 
@@ -1134,7 +1134,7 @@ Baca juga:
 
 ---
 
-# 13. NotebookLM untuk Menulis dari Sumber
+## 13. NotebookLM untuk Menulis dari Sumber
 
 NotebookLM cocok untuk tulisan yang berbasis dokumen.
 
@@ -1189,7 +1189,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Tools Berdasarkan Kebutuhan Menulis
+## Rekomendasi Tools Berdasarkan Kebutuhan Menulis
 
 ## Untuk Menulis Artikel Blog
 
@@ -1306,7 +1306,7 @@ Workflow:
 
 ---
 
-# Workflow Menulis dengan AI Tools
+## Workflow Menulis dengan AI Tools
 
 Berikut workflow yang paling aman dan praktis.
 
@@ -1387,7 +1387,7 @@ Cek secara manual:
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Menulis
+## Kesalahan Menggunakan AI Tools untuk Menulis
 
 ## 1. Langsung Menyalin Output AI
 
@@ -1466,7 +1466,7 @@ Gunakan AI untuk mengembangkan ide sendiri, bukan menyembunyikan penyalinan.
 
 ---
 
-# Checklist Memilih AI Tools untuk Menulis
+## Checklist Memilih AI Tools untuk Menulis
 
 Gunakan checklist berikut sebelum memilih tools.
 
@@ -1486,7 +1486,7 @@ Gunakan checklist berikut sebelum memilih tools.
 
 ---
 
-# Rekomendasi Stack AI Writing Tools
+## Rekomendasi Stack AI Writing Tools
 
 ## Stack Minimal untuk Pemula
 
@@ -1576,7 +1576,7 @@ Cocok untuk:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk menulis?
 
@@ -1608,7 +1608,7 @@ Berikan konteks yang spesifik, target pembaca, brand voice, contoh gaya bahasa, 
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk menulis dapat mempercepat banyak pekerjaan.
 
@@ -1674,7 +1674,7 @@ Untuk penerapan writing tools dalam komunikasi kerja, lanjutkan ke [Cara Menggun
 
 Jika writing tools ingin dipakai untuk produksi konten harian, lanjutkan ke [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) agar ide, hook, caption, script, artikel, newsletter, dan repurposing bisa dibuat lebih konsisten.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1698,22 +1698,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Workflow Menulis
+## Mulai dari Satu Workflow Menulis
 
 Jangan mulai dengan mencoba semua tools.
 

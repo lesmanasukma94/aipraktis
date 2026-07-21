@@ -26,7 +26,7 @@ Kabar baiknya, Anda tidak perlu menjadi programmer untuk mulai mempelajari Promp
 
 Artikel ini akan membantu Anda memahami langkah demi langkah cara belajar Prompt Engineering dari nol hingga siap digunakan dalam pekerjaan maupun bisnis.
 
-# Apa Itu Prompt Engineering?
+## Apa Itu Prompt Engineering?
 
 Prompt Engineering adalah kemampuan menyusun instruksi yang jelas, spesifik, dan terstruktur agar AI menghasilkan jawaban sesuai kebutuhan.
 
@@ -43,7 +43,7 @@ Prompt Engineering digunakan untuk berbagai keperluan seperti:
 * Menyusun laporan.
 * Membangun AI Agent.
 
-# Mengapa Prompt Engineering Penting?
+## Mengapa Prompt Engineering Penting?
 
 Saat ini hampir semua pekerjaan yang memanfaatkan AI membutuhkan kemampuan membuat prompt.
 
@@ -58,7 +58,7 @@ Keuntungan menguasai Prompt Engineering antara lain:
 
 Banyak perusahaan kini mencari kandidat yang mampu memanfaatkan AI secara efektif.
 
-# Apakah Harus Bisa Coding?
+## Apakah Harus Bisa Coding?
 
 Tidak.
 
@@ -74,7 +74,7 @@ Prompt Engineering lebih banyak berhubungan dengan:
 
 Pengetahuan coding akan menjadi nilai tambah, tetapi bukan syarat utama.
 
-# Langkah Belajar Prompt Engineering
+## Langkah Belajar Prompt Engineering
 
 ## 1. Pahami Cara Kerja AI
 
@@ -145,7 +145,7 @@ Anda dapat membuat:
 
 Dengan begitu, pekerjaan dapat dilakukan lebih cepat dan konsisten.
 
-# Tools Terbaik untuk Belajar Prompt Engineering
+## Tools Terbaik untuk Belajar Prompt Engineering
 
 ## ChatGPT
 
@@ -167,7 +167,7 @@ Membantu membuat prompt dalam lingkungan Microsoft 365.
 
 Berguna untuk melakukan riset sekaligus menguji prompt yang berkaitan dengan pencarian informasi.
 
-# Roadmap Belajar Prompt Engineering
+## Roadmap Belajar Prompt Engineering
 
 ### Minggu 1
 
@@ -191,7 +191,7 @@ Berguna untuk melakukan riset sekaligus menguji prompt yang berkaitan dengan pen
 * Mencoba project nyata.
 * Mengoptimalkan prompt untuk kebutuhan bisnis.
 
-# Kesalahan yang Sering Dilakukan Pemula
+## Kesalahan yang Sering Dilakukan Pemula
 
 Beberapa kesalahan yang sering terjadi:
 
@@ -203,7 +203,7 @@ Beberapa kesalahan yang sering terjadi:
 
 Prompt Engineering adalah proses yang terus diperbaiki melalui eksperimen.
 
-# Bagaimana Cara Mengukur Prompt yang Baik?
+## Bagaimana Cara Mengukur Prompt yang Baik?
 
 Prompt yang baik biasanya menghasilkan:
 
@@ -215,7 +215,7 @@ Prompt yang baik biasanya menghasilkan:
 
 Jika hasil AI masih kurang sesuai, ubahlah prompt secara bertahap hingga menemukan format terbaik.
 
-# Peluang Karier Prompt Engineering
+## Peluang Karier Prompt Engineering
 
 Kemampuan Prompt Engineering dapat digunakan untuk berbagai profesi seperti:
 
@@ -230,7 +230,7 @@ Kemampuan Prompt Engineering dapat digunakan untuk berbagai profesi seperti:
 
 Selain bekerja di perusahaan, keterampilan ini juga dapat dimanfaatkan untuk membuka jasa freelance maupun konsultasi AI.
 
-# FAQ
+## FAQ
 
 ## Berapa lama belajar Prompt Engineering?
 
@@ -261,7 +261,7 @@ Baca juga:
 - [AI Specialist](/blog/ai-specialist/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt Engineering merupakan salah satu keterampilan paling penting di era Artificial Intelligence. Dengan memahami cara menyusun instruksi yang tepat, Anda dapat memanfaatkan AI secara lebih efektif untuk belajar, bekerja, membangun bisnis, maupun mengembangkan karier.
 

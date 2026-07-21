@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu pekerjaan Excel dan spreadsheet menjadi lebih cepat, mulai dari membuat rumus, menjelaskan formula, membersihkan data, mengubah data mentah menjadi tabel, membuat kategori, mencari pola, membuat grafik, menyusun laporan, menganalisis penjualan, membuat dashboard sederhana, dan membantu memahami data. Namun, AI tidak boleh langsung dipercaya untuk angka penting. Semua rumus, total, hasil analisis, dan kesimpulan tetap harus dicek manual sebelum digunakan untuk keputusan kerja, bisnis, keuangan, atau laporan resmi.
 
-# Cara Menggunakan AI untuk Excel
+
 
 Excel dan spreadsheet adalah tools kerja yang sangat sering digunakan.
 
@@ -112,7 +112,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Menggunakan AI untuk Excel?
+## Apa Itu Menggunakan AI untuk Excel?
 
 Menggunakan AI untuk Excel berarti memakai tools AI untuk membantu pekerjaan spreadsheet.
 
@@ -160,7 +160,7 @@ Jika error, minta AI memperbaiki dengan memberi pesan error yang muncul.
 
 ---
 
-# Kapan AI Cocok Digunakan untuk Excel?
+## Kapan AI Cocok Digunakan untuk Excel?
 
 AI cocok digunakan untuk banyak pekerjaan spreadsheet.
 
@@ -270,7 +270,7 @@ Contoh:
 
 ---
 
-# Kapan Harus Berhati-hati Menggunakan AI untuk Excel?
+## Kapan Harus Berhati-hati Menggunakan AI untuk Excel?
 
 AI perlu digunakan hati-hati jika spreadsheet berisi data penting.
 
@@ -309,7 +309,7 @@ Jika harus memakai data asli, pastikan sesuai kebijakan perusahaan, keamanan dat
 
 ---
 
-# Prinsip Menggunakan AI untuk Spreadsheet
+## Prinsip Menggunakan AI untuk Spreadsheet
 
 ## 1. Jelaskan Struktur Kolom
 
@@ -386,7 +386,7 @@ Anda juga belajar.
 
 ---
 
-# Template Prompt Dasar untuk Excel
+## Template Prompt Dasar untuk Excel
 
 Gunakan template ini.
 
@@ -442,7 +442,7 @@ Buatkan rumus Excel.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Rumus Excel
+## Cara Menggunakan AI untuk Membuat Rumus Excel
 
 Ini penggunaan AI paling praktis.
 
@@ -537,7 +537,7 @@ Selalu sebutkan:
 
 ---
 
-# Cara Menggunakan AI untuk Menjelaskan Rumus
+## Cara Menggunakan AI untuk Menjelaskan Rumus
 
 Kadang Anda menerima file dari orang lain dan tidak paham rumusnya.
 
@@ -566,7 +566,7 @@ Bukan hanya mencari jawaban cepat.
 
 ---
 
-# Cara Menggunakan AI untuk Memperbaiki Error Formula
+## Cara Menggunakan AI untuk Memperbaiki Error Formula
 
 Formula Excel bisa error.
 
@@ -624,7 +624,7 @@ Rumus yang mungkin diberikan:
 
 ---
 
-# Cara Menggunakan AI untuk Membersihkan Data
+## Cara Menggunakan AI untuk Membersihkan Data
 
 Data mentah sering berantakan.
 
@@ -700,7 +700,7 @@ Sebelum membersihkan data:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Tabel Spreadsheet
+## Cara Menggunakan AI untuk Membuat Tabel Spreadsheet
 
 AI bisa membantu merancang tabel dari nol.
 
@@ -763,7 +763,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Analisis Data Sederhana
+## Cara Menggunakan AI untuk Analisis Data Sederhana
 
 AI sangat berguna untuk membantu membaca data sederhana.
 
@@ -845,7 +845,7 @@ Misalnya:
 
 ---
 
-# Cara Menggunakan AI untuk PivotTable
+## Cara Menggunakan AI untuk PivotTable
 
 PivotTable membantu merangkum data besar.
 
@@ -905,7 +905,7 @@ Cari:
 
 ---
 
-# Cara Menggunakan AI untuk Grafik dan Chart
+## Cara Menggunakan AI untuk Grafik dan Chart
 
 Data lebih mudah dipahami jika divisualkan.
 
@@ -955,7 +955,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Dashboard Sederhana
+## Cara Menggunakan AI untuk Membuat Dashboard Sederhana
 
 Dashboard membantu melihat kondisi penting secara cepat.
 
@@ -1019,7 +1019,7 @@ Dashboard yang baik:
 
 ---
 
-# Cara Menggunakan AI untuk Laporan dari Spreadsheet
+## Cara Menggunakan AI untuk Laporan dari Spreadsheet
 
 Data spreadsheet sering perlu diubah menjadi laporan.
 
@@ -1077,7 +1077,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Google Sheets
+## Cara Menggunakan AI untuk Google Sheets
 
 Jika Anda memakai Google Sheets, AI tetap bisa membantu.
 
@@ -1124,7 +1124,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Data UMKM
+## Cara Menggunakan AI untuk Data UMKM
 
 UMKM bisa memakai AI untuk spreadsheet sederhana.
 
@@ -1180,7 +1180,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Data Marketing
+## Cara Menggunakan AI untuk Data Marketing
 
 Tim marketing sering memakai spreadsheet untuk:
 
@@ -1252,7 +1252,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Data Pendidikan
+## Cara Menggunakan AI untuk Data Pendidikan
 
 Guru dan sekolah juga bisa memakai AI untuk spreadsheet.
 
@@ -1307,7 +1307,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Data Content Creator
+## Cara Menggunakan AI untuk Data Content Creator
 
 Content creator bisa memakai spreadsheet untuk mengelola:
 
@@ -1369,7 +1369,7 @@ Baca juga:
 
 ---
 
-# Tools AI yang Bisa Dipakai untuk Excel dan Spreadsheet
+## Tools AI yang Bisa Dipakai untuk Excel dan Spreadsheet
 
 Berikut tools yang bisa membantu.
 
@@ -1447,7 +1447,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap untuk Excel
+## Template Prompt Lengkap untuk Excel
 
 Gunakan template ini.
 
@@ -1482,7 +1482,7 @@ Batasan:
 
 ---
 
-# Template Prompt Audit Spreadsheet
+## Template Prompt Audit Spreadsheet
 
 Gunakan prompt ini untuk mengecek spreadsheet.
 
@@ -1511,7 +1511,7 @@ Berikan rekomendasi perbaikan.
 
 ---
 
-# Template Prompt Analisis Data
+## Template Prompt Analisis Data
 
 ```text
 Analisis data berikut.
@@ -1542,7 +1542,7 @@ Format output:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Excel
+## Kesalahan Menggunakan AI untuk Excel
 
 ## 1. Tidak Menjelaskan Struktur Kolom
 
@@ -1597,7 +1597,7 @@ Spreadsheet penting harus punya catatan:
 
 ---
 
-# Checklist Menggunakan AI untuk Excel
+## Checklist Menggunakan AI untuk Excel
 
 Gunakan checklist ini.
 
@@ -1621,7 +1621,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Belajar AI untuk Excel
+## Rencana 7 Hari Belajar AI untuk Excel
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1665,7 +1665,7 @@ Gunakan berulang.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat rumus Excel?
 
@@ -1697,7 +1697,7 @@ Cara terbaik adalah menjelaskan struktur kolom, menyebutkan tujuan, meminta rumu
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk Excel dan spreadsheet tidak harus rumit.
 
@@ -1747,7 +1747,7 @@ UMKM yang mencatat stok dan order di spreadsheet dapat membaca [AI untuk UMKM On
 
 Spreadsheet UMKM bisa menjadi dasar analisis bisnis. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh struktur stok, order, dashboard, dan laporan penjualan mingguan.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1771,22 +1771,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Rumus
+## Mulai dari Satu Rumus
 
 Jangan mulai dari dashboard besar.
 

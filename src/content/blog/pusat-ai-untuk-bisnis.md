@@ -37,7 +37,7 @@ Dengan penggunaan yang tepat, AI dapat membantu bisnis berkembang lebih cepat ta
 
 ---
 
-# AI untuk UMKM
+## AI untuk UMKM
 
 UMKM merupakan salah satu sektor yang paling diuntungkan oleh perkembangan AI.
 
@@ -56,7 +56,7 @@ AI dapat membantu UMKM membuat konten, menjawab pelanggan, menyusun strategi pem
 
 ---
 
-# AI untuk Marketing dan Promosi
+## AI untuk Marketing dan Promosi
 
 Pemasaran merupakan salah satu area bisnis yang paling mudah ditingkatkan menggunakan AI.
 
@@ -77,7 +77,7 @@ Melalui AI, bisnis dapat membuat lebih banyak konten dalam waktu yang lebih sing
 
 ---
 
-# AI untuk Penjualan
+## AI untuk Penjualan
 
 Tim penjualan dapat menggunakan AI untuk meningkatkan efektivitas komunikasi dengan calon pelanggan.
 
@@ -98,7 +98,7 @@ AI dapat membantu membuat skrip penjualan, balasan pelanggan, dan strategi follo
 
 ---
 
-# AI untuk Produktivitas Bisnis
+## AI untuk Produktivitas Bisnis
 
 Produktivitas merupakan salah satu alasan utama bisnis mulai menggunakan AI.
 
@@ -115,7 +115,7 @@ Dengan bantuan AI, pekerjaan yang biasanya membutuhkan waktu berjam-jam dapat di
 
 ---
 
-# AI untuk Keuangan dan Operasional
+## AI untuk Keuangan dan Operasional
 
 Pengelolaan keuangan yang baik sangat penting untuk pertumbuhan bisnis.
 
@@ -129,7 +129,7 @@ AI dapat membantu analisis data, penyusunan laporan, dan berbagai pekerjaan admi
 
 ---
 
-# AI untuk Toko Online dan E-Commerce
+## AI untuk Toko Online dan E-Commerce
 
 Bisnis online dapat memanfaatkan AI untuk meningkatkan penjualan dan pelayanan pelanggan.
 
@@ -147,7 +147,7 @@ AI dapat membantu membuat deskripsi produk, promosi, serta menjawab pertanyaan p
 
 ---
 
-# AI untuk Bisnis Kuliner
+## AI untuk Bisnis Kuliner
 
 Bisnis kuliner dapat menggunakan AI untuk:
 
@@ -162,7 +162,7 @@ Baca:
 
 ---
 
-# AI untuk Toko Fashion
+## AI untuk Toko Fashion
 
 AI juga dapat membantu toko fashion meningkatkan efisiensi pemasaran dan penjualan.
 
@@ -172,7 +172,7 @@ Baca:
 
 ---
 
-# AI untuk Jasa Profesional
+## AI untuk Jasa Profesional
 
 Konsultan, akuntan, agen properti, desainer, dan berbagai profesi lainnya dapat menggunakan AI untuk meningkatkan produktivitas.
 
@@ -182,7 +182,7 @@ Baca:
 
 ---
 
-# Langkah Awal Memulai AI untuk Bisnis
+## Langkah Awal Memulai AI untuk Bisnis
 
 Jika Anda baru mengenal AI, ikuti urutan berikut:
 
@@ -197,7 +197,7 @@ Setelah memahami dasar-dasar tersebut, Anda dapat mulai menerapkan AI dalam akti
 
 ---
 
-# Tools AI yang Direkomendasikan untuk Bisnis
+## Tools AI yang Direkomendasikan untuk Bisnis
 
 Beberapa tools AI yang paling sering digunakan oleh pelaku bisnis saat ini antara lain:
 
@@ -211,7 +211,7 @@ Pemilihan tools tergantung pada kebutuhan bisnis, ukuran tim, dan jenis pekerjaa
 
 Salah satu penerapan prompt bisnis yang paling penting adalah marketing. Lanjutkan ke [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk melihat cara memakai AI dalam campaign, social media, SEO, email, copywriting, iklan, dan analisis data.
 
-# Kesimpulan
+## Kesimpulan
 
 AI bukan lagi teknologi masa depan. Saat ini AI sudah menjadi alat kerja yang dapat membantu bisnis berkembang lebih cepat, lebih efisien, dan lebih kompetitif.
 

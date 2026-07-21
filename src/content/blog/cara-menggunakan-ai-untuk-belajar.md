@@ -25,7 +25,7 @@ AI bisa membantu proses belajar menjadi lebih cepat, terarah, dan interaktif. An
 
 Sebelum memakai AI untuk belajar, pahami dulu dasar-dasarnya melalui [AI untuk Pemula](/blog/ai-untuk-pemula/) agar Anda tahu manfaat, batasan, risiko, dan cara bertanya yang benar kepada AI.
 
-# Cara Menggunakan AI untuk Belajar
+
 
 Belajar sering terasa berat.
 
@@ -116,7 +116,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Menggunakan AI untuk Belajar?
+## Apa Itu Menggunakan AI untuk Belajar?
 
 Menggunakan AI untuk belajar berarti memakai AI sebagai alat bantu memahami, melatih, mengulang, dan mengevaluasi materi.
 
@@ -153,7 +153,7 @@ Bukan hanya untuk menyelesaikan tugas secepat mungkin.
 
 ---
 
-# Prinsip Menggunakan AI untuk Belajar
+## Prinsip Menggunakan AI untuk Belajar
 
 Sebelum memakai AI, pahami prinsip berikut.
 
@@ -226,7 +226,7 @@ Jika ragu, tanya guru atau dosen.
 
 ---
 
-# Cara Menggunakan AI untuk Memahami Materi Sulit
+## Cara Menggunakan AI untuk Memahami Materi Sulit
 
 Salah satu manfaat terbesar AI adalah membantu menjelaskan materi sulit dengan bahasa sederhana.
 
@@ -279,7 +279,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Jadwal Belajar
+## Cara Menggunakan AI untuk Membuat Jadwal Belajar
 
 Banyak orang gagal belajar bukan karena malas, tetapi karena tidak punya rencana.
 
@@ -333,7 +333,7 @@ Jadwal yang terlalu ambisius biasanya tidak bertahan lama.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Roadmap Belajar
+## Cara Menggunakan AI untuk Membuat Roadmap Belajar
 
 Jika ingin belajar skill baru, AI bisa membantu membuat roadmap.
 
@@ -384,7 +384,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Merangkum Materi
+## Cara Menggunakan AI untuk Merangkum Materi
 
 AI bisa membantu merangkum catatan, artikel, modul, atau transkrip.
 
@@ -443,7 +443,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Latihan Soal
+## Cara Menggunakan AI untuk Membuat Latihan Soal
 
 Latihan soal penting untuk belajar.
 
@@ -487,7 +487,7 @@ Prompt ini lebih baik karena membuat belajar aktif.
 
 ---
 
-# Cara Menggunakan AI untuk Mengecek Jawaban
+## Cara Menggunakan AI untuk Mengecek Jawaban
 
 Setelah mengerjakan soal, gunakan AI untuk mengecek.
 
@@ -522,7 +522,7 @@ Bukan hanya mengetahui benar atau salah.
 
 ---
 
-# Cara Menggunakan AI untuk Flashcard
+## Cara Menggunakan AI untuk Flashcard
 
 Flashcard membantu mengingat istilah, definisi, rumus, dan konsep.
 
@@ -563,7 +563,7 @@ Anda bisa memindahkan flashcard ke tools seperti Quizlet, Anki, atau spreadsheet
 
 ---
 
-# Cara Menggunakan AI untuk Belajar Bahasa
+## Cara Menggunakan AI untuk Belajar Bahasa
 
 AI sangat berguna untuk belajar bahasa.
 
@@ -626,7 +626,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Belajar Coding
+## Cara Menggunakan AI untuk Belajar Coding
 
 AI bisa membantu belajar coding.
 
@@ -689,7 +689,7 @@ Bukan hanya menyelesaikan tugas.
 
 ---
 
-# Cara Menggunakan AI untuk Belajar Matematika
+## Cara Menggunakan AI untuk Belajar Matematika
 
 Untuk matematika, gunakan AI sebagai pembimbing langkah.
 
@@ -732,7 +732,7 @@ Jangan hanya meminta hasil akhir.
 
 ---
 
-# Cara Menggunakan AI untuk Belajar dari Video atau Artikel
+## Cara Menggunakan AI untuk Belajar dari Video atau Artikel
 
 Jika Anda menonton video atau membaca artikel, AI bisa membantu mengolah materi.
 
@@ -763,7 +763,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Persiapan Ujian
+## Cara Menggunakan AI untuk Persiapan Ujian
 
 AI bisa membantu membuat rencana belajar ujian.
 
@@ -813,7 +813,7 @@ Buatkan ringkasan H-1 ujian untuk materi [materi]. Fokus pada konsep penting, ru
 
 ---
 
-# Cara Menggunakan AI untuk Belajar Skripsi atau Tugas Akademik
+## Cara Menggunakan AI untuk Belajar Skripsi atau Tugas Akademik
 
 Mahasiswa bisa memakai AI untuk membantu proses akademik.
 
@@ -872,7 +872,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Catatan Belajar
+## Cara Menggunakan AI untuk Membuat Catatan Belajar
 
 Catatan belajar yang baik tidak harus panjang.
 
@@ -923,7 +923,7 @@ Topik utama → subtopik → detail → contoh.
 
 ---
 
-# Cara Menggunakan AI untuk Review Mingguan
+## Cara Menggunakan AI untuk Review Mingguan
 
 Belajar lebih efektif jika ada evaluasi.
 
@@ -958,7 +958,7 @@ Ajukan 10 pertanyaan refleksi untuk mengevaluasi cara belajar saya minggu ini. F
 
 ---
 
-# Tools AI yang Cocok untuk Belajar
+## Tools AI yang Cocok untuk Belajar
 
 Berikut beberapa tools yang bisa digunakan.
 
@@ -1046,7 +1046,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap untuk Belajar dengan AI
+## Template Prompt Lengkap untuk Belajar dengan AI
 
 Gunakan template ini.
 
@@ -1086,7 +1086,7 @@ Bantu saya belajar topik ini secara bertahap.
 
 ---
 
-# Template Prompt untuk Mode Tutor
+## Template Prompt untuk Mode Tutor
 
 ```text
 Bertindaklah sebagai tutor Socratic.
@@ -1104,7 +1104,7 @@ Aturan:
 
 ---
 
-# Template Prompt untuk Membuat Kuis
+## Template Prompt untuk Membuat Kuis
 
 ```text
 Buatkan kuis untuk materi [materi].
@@ -1118,7 +1118,7 @@ Format:
 
 ---
 
-# Template Prompt untuk Rangkuman Belajar
+## Template Prompt untuk Rangkuman Belajar
 
 ```text
 Ringkas materi berikut untuk belajar.
@@ -1138,7 +1138,7 @@ Materi:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Belajar
+## Kesalahan Menggunakan AI untuk Belajar
 
 ## 1. Hanya Meminta Jawaban
 
@@ -1184,7 +1184,7 @@ Jangan memakai AI untuk menipu, menyalin jawaban, atau mengumpulkan tugas yang b
 
 ---
 
-# Checklist Belajar dengan AI
+## Checklist Belajar dengan AI
 
 Gunakan checklist ini.
 
@@ -1206,7 +1206,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Belajar dengan AI
+## Rencana 7 Hari Belajar dengan AI
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1248,7 +1248,7 @@ Minta AI mengevaluasi progres dan membuat rencana minggu berikutnya.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membantu belajar?
 
@@ -1280,7 +1280,7 @@ Ya. AI bisa membantu menjelaskan konsep, memberi langkah penyelesaian, membuat s
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk belajar bukan sekadar bertanya lalu menerima jawaban.
 
@@ -1332,7 +1332,7 @@ Bukan menggantikan proses belajar.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Jika belajar AI ingin diarahkan ke peluang kerja, lanjutkan ke [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/) untuk memahami roadmap skill, pilihan profesi, portofolio, dan langkah 30 hari memulai karier AI.
 
@@ -1359,22 +1359,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Mulai dari Satu Materi
+## Mulai dari Satu Materi
 
 Jangan mulai dari semua mata pelajaran.
 

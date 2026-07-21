@@ -26,7 +26,7 @@ Baik Anda seorang pemula maupun developer profesional, memahami cara menggunakan
 
 Pada artikel ini Anda akan mempelajari cara menginstal, menggunakan, serta memaksimalkan GitHub Copilot dalam aktivitas coding sehari-hari.
 
-# Apa Itu GitHub Copilot?
+## Apa Itu GitHub Copilot?
 
 GitHub Copilot adalah AI Coding Assistant yang dikembangkan oleh GitHub bekerja sama dengan OpenAI.
 
@@ -44,7 +44,7 @@ GitHub Copilot dapat digunakan untuk:
 * Membuat unit testing.
 * Membantu dokumentasi project.
 
-# Mengapa Banyak Developer Menggunakan GitHub Copilot?
+## Mengapa Banyak Developer Menggunakan GitHub Copilot?
 
 Beberapa alasan utama:
 
@@ -56,7 +56,7 @@ Beberapa alasan utama:
 
 GitHub menyebut Copilot sebagai "AI Pair Programmer" karena perannya mendampingi developer saat bekerja.
 
-# Cara Menginstal GitHub Copilot
+## Cara Menginstal GitHub Copilot
 
 Proses instalasinya cukup sederhana.
 
@@ -86,7 +86,7 @@ Masuk menggunakan akun GitHub.
 
 Setelah proses selesai, Copilot langsung aktif.
 
-# Cara Menggunakan GitHub Copilot
+
 
 Setelah aktif, Anda dapat langsung mulai menulis kode.
 
@@ -102,7 +102,7 @@ Beberapa saat kemudian Copilot biasanya akan memberikan saran implementasi fungs
 
 Tekan tombol **Tab** untuk menerima saran.
 
-# Mengenal Fitur GitHub Copilot
+## Mengenal Fitur GitHub Copilot
 
 ## 1. Code Completion
 
@@ -128,7 +128,7 @@ Membantu membuat dokumentasi kode.
 
 Copilot dapat membuat contoh unit testing berdasarkan fungsi yang sudah dibuat.
 
-# Bahasa Pemrograman yang Didukung
+## Bahasa Pemrograman yang Didukung
 
 GitHub Copilot mendukung berbagai bahasa populer.
 
@@ -149,7 +149,7 @@ Antara lain:
 * HTML
 * CSS
 
-# Cara Menggunakan Copilot Chat
+## Cara Menggunakan Copilot Chat
 
 Selain auto-complete, GitHub Copilot juga menyediakan fitur Chat.
 
@@ -165,7 +165,7 @@ Anda dapat bertanya seperti:
 
 Jawaban diberikan secara langsung di dalam editor.
 
-# Tips Menggunakan GitHub Copilot
+## Tips Menggunakan GitHub Copilot
 
 Agar hasil lebih maksimal:
 
@@ -193,7 +193,7 @@ AI tetap dapat menghasilkan solusi yang kurang optimal.
 
 Copilot membantu mempercepat pekerjaan, tetapi dokumentasi resmi framework tetap penting untuk dipelajari.
 
-# Kelebihan GitHub Copilot
+## Kelebihan GitHub Copilot
 
 Beberapa kelebihannya:
 
@@ -204,7 +204,7 @@ Beberapa kelebihannya:
 * Mengurangi pekerjaan repetitif.
 * Mempercepat development.
 
-# Kekurangan GitHub Copilot
+## Kekurangan GitHub Copilot
 
 Beberapa kekurangannya:
 
@@ -213,7 +213,7 @@ Beberapa kekurangannya:
 * Tetap membutuhkan review manusia.
 * Beberapa fitur hanya tersedia pada paket berbayar.
 
-# GitHub Copilot vs Cursor AI
+## GitHub Copilot vs Cursor AI
 
 Keduanya merupakan AI Coding Assistant terbaik.
 
@@ -232,7 +232,7 @@ Sedangkan Cursor AI unggul dalam:
 
 Banyak developer bahkan menggunakan keduanya secara bersamaan.
 
-# Siapa yang Cocok Menggunakan GitHub Copilot?
+## Siapa yang Cocok Menggunakan GitHub Copilot?
 
 GitHub Copilot cocok untuk:
 
@@ -246,7 +246,7 @@ GitHub Copilot cocok untuk:
 * AI Engineer.
 * Freelancer.
 
-# FAQ
+## FAQ
 
 ## Apakah GitHub Copilot gratis?
 
@@ -277,7 +277,7 @@ Baca juga:
 - [Alternatif ChatGPT Terbaik](/blog/alternatif-chatgpt-terbaik/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 GitHub Copilot merupakan salah satu AI Coding Assistant terbaik yang mampu meningkatkan produktivitas programmer secara signifikan. Dengan fitur auto-complete, AI Chat, pembuatan fungsi otomatis, hingga bantuan debugging, Copilot dapat menjadi pendamping yang sangat berguna dalam proses pengembangan perangkat lunak.
 

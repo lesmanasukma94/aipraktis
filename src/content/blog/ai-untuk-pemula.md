@@ -23,7 +23,7 @@ draft: false
 
 AI untuk pemula adalah panduan dasar untuk memahami apa itu AI, bagaimana cara kerjanya, apa manfaatnya, apa risikonya, dan bagaimana mulai menggunakan AI dalam kehidupan sehari-hari, belajar, kerja, bisnis, konten, dan produktivitas. Pemula tidak perlu langsung belajar coding, matematika rumit, atau machine learning tingkat lanjut. Langkah pertama yang lebih penting adalah memahami konsep dasar AI, belajar memakai tools seperti ChatGPT, Gemini, Claude, Perplexity, NotebookLM, Canva AI, dan CapCut, lalu mulai membuat prompt sederhana untuk menyelesaikan masalah nyata.
 
-# AI untuk Pemula
+
 
 AI sedang menjadi salah satu teknologi paling penting saat ini.
 
@@ -113,7 +113,7 @@ Setelah itu, Anda bisa lanjut ke:
 
 ---
 
-# Apa Itu AI?
+## Apa Itu AI?
 
 AI adalah singkatan dari Artificial Intelligence.
 
@@ -173,7 +173,7 @@ Baca juga:
 
 ---
 
-# Apakah AI Sama dengan ChatGPT?
+## Apakah AI Sama dengan ChatGPT?
 
 Tidak.
 
@@ -226,7 +226,7 @@ Baca juga:
 
 ---
 
-# Cara Kerja AI Secara Sederhana
+## Cara Kerja AI Secara Sederhana
 
 AI bekerja dengan mempelajari pola dari data.
 
@@ -285,7 +285,7 @@ Karena itu, hasil AI harus tetap dicek.
 
 ---
 
-# Jenis AI yang Perlu Dipahami Pemula
+## Jenis AI yang Perlu Dipahami Pemula
 
 Pemula tidak perlu mempelajari semua jenis AI sekaligus.
 
@@ -365,7 +365,7 @@ Baca juga:
 
 ---
 
-# Manfaat AI untuk Pemula
+## Manfaat AI untuk Pemula
 
 AI bisa membantu banyak hal.
 
@@ -560,7 +560,7 @@ Baca juga:
 
 ---
 
-# Tools AI yang Cocok untuk Pemula
+## Tools AI yang Cocok untuk Pemula
 
 Pemula tidak perlu mencoba semua tools sekaligus.
 
@@ -670,7 +670,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Prompt?
+## Apa Itu Prompt?
 
 Prompt adalah instruksi yang Anda berikan kepada AI.
 
@@ -709,7 +709,7 @@ Baca juga:
 
 ---
 
-# Rumus Prompt Sederhana untuk Pemula
+## Rumus Prompt Sederhana untuk Pemula
 
 Gunakan rumus ini:
 
@@ -790,7 +790,7 @@ Fokus pada praktik, bukan teori berat.
 
 ---
 
-# Cara Menggunakan AI dengan Benar
+## Cara Menggunakan AI dengan Benar
 
 AI bisa sangat membantu jika dipakai dengan cara yang benar.
 
@@ -882,7 +882,7 @@ Tambahkan CTA yang lebih jelas.
 
 ---
 
-# Contoh Penggunaan AI untuk Pemula
+## Contoh Penggunaan AI untuk Pemula
 
 Berikut contoh praktis.
 
@@ -961,7 +961,7 @@ Teks:
 
 ---
 
-# Hal yang Tidak Boleh Dilakukan Pemula
+## Hal yang Tidak Boleh Dilakukan Pemula
 
 AI berguna, tetapi harus digunakan dengan hati-hati.
 
@@ -1024,7 +1024,7 @@ Bukan membuat Anda berhenti berpikir.
 
 ---
 
-# Kesalahan Pemula Saat Belajar AI
+## Kesalahan Pemula Saat Belajar AI
 
 Berikut kesalahan yang sering terjadi.
 
@@ -1086,7 +1086,7 @@ Buat project kecil.
 
 ---
 
-# Roadmap Belajar AI untuk Pemula
+## Roadmap Belajar AI untuk Pemula
 
 Berikut roadmap sederhana.
 
@@ -1166,7 +1166,7 @@ Baca juga:
 
 ---
 
-# Skill Dasar AI untuk Pemula
+## Skill Dasar AI untuk Pemula
 
 Skill yang perlu dipelajari:
 
@@ -1210,7 +1210,7 @@ Baca juga:
 
 ---
 
-# Apakah Belajar AI Harus Bisa Coding?
+## Apakah Belajar AI Harus Bisa Coding?
 
 Tidak harus.
 
@@ -1251,7 +1251,7 @@ Jika nanti ingin lebih dalam, Anda bisa belajar:
 
 ---
 
-# AI untuk Pemula Non-Teknis
+## AI untuk Pemula Non-Teknis
 
 Jika Anda bukan programmer, mulai dari penggunaan praktis.
 
@@ -1320,7 +1320,7 @@ Gunakan AI untuk:
 
 ---
 
-# AI untuk Pemula yang Ingin Karier
+## AI untuk Pemula yang Ingin Karier
 
 Jika Anda ingin membangun karier AI, jangan hanya belajar tools.
 
@@ -1347,7 +1347,7 @@ Baca juga:
 
 ---
 
-# Checklist AI untuk Pemula
+## Checklist AI untuk Pemula
 
 Gunakan checklist ini.
 
@@ -1368,7 +1368,7 @@ Gunakan checklist ini.
 
 ---
 
-# Template Prompt AI untuk Pemula
+## Template Prompt AI untuk Pemula
 
 Gunakan template ini.
 
@@ -1405,7 +1405,7 @@ Gunakan contoh yang dekat dengan kehidupan sehari-hari di Indonesia.
 
 ---
 
-# Template Prompt untuk Belajar AI 7 Hari
+## Template Prompt untuk Belajar AI 7 Hari
 
 ```text
 Buatkan rencana belajar AI selama 7 hari untuk pemula.
@@ -1432,7 +1432,7 @@ Fokus pada praktik sederhana.
 
 ---
 
-# Template Prompt untuk Mengecek Output AI
+## Template Prompt untuk Mengecek Output AI
 
 ```text
 Audit output AI berikut.
@@ -1452,7 +1452,7 @@ Output:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI untuk pemula?
 
@@ -1484,7 +1484,7 @@ Mulai dari memahami apa itu AI, mencoba ChatGPT atau Gemini, membuat prompt sede
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk pemula tidak harus rumit.
 
@@ -1534,7 +1534,7 @@ Dari situlah perjalanan belajar AI dimulai.
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1562,23 +1562,23 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Karier AI](/kategori/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Karier AI](/karier-ai/)
 
 ---
 
-# Mulai dari Satu Prompt
+## Mulai dari Satu Prompt
 
 Jangan menunggu sampai paham semuanya.
 

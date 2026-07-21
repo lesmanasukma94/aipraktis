@@ -24,7 +24,7 @@ Banyak UMKM, reseller, dropshipper, dan pemilik bisnis saat ini mulai memanfaatk
 
 Dalam panduan ini Anda akan mempelajari cara membuat toko online dengan AI dari nol hingga siap menerima pelanggan.
 
-# Apa Itu Toko Online Berbasis AI?
+## Apa Itu Toko Online Berbasis AI?
 
 Toko online berbasis AI adalah toko online yang proses pembuatannya dibantu oleh teknologi kecerdasan buatan.
 
@@ -40,7 +40,7 @@ AI dapat membantu:
 
 AI tidak menggantikan pemilik bisnis, tetapi mempercepat berbagai pekerjaan yang biasanya memakan banyak waktu.
 
-# Mengapa Menggunakan AI untuk Membuat Toko Online?
+## Mengapa Menggunakan AI untuk Membuat Toko Online?
 
 ## Lebih Cepat
 
@@ -58,7 +58,7 @@ AI dapat membuat ratusan deskripsi produk dengan cepat.
 
 Banyak tools AI memiliki versi gratis atau biaya yang terjangkau.
 
-# Model Toko Online yang Bisa Dibuat
+## Model Toko Online yang Bisa Dibuat
 
 AI dapat digunakan untuk berbagai jenis toko online:
 
@@ -70,9 +70,9 @@ AI dapat digunakan untuk berbagai jenis toko online:
 * Jasa profesional
 * Affiliate marketing
 
-# Tools AI Terbaik untuk Membuat Toko Online
+## Tools AI Terbaik untuk Membuat Toko Online
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT dapat membantu:
 
@@ -85,7 +85,7 @@ Contoh prompt:
 
 > Buatkan deskripsi produk untuk sepatu olahraga pria dengan gaya persuasif.
 
-# 2. Shopify Magic
+## 2. Shopify Magic
 
 Shopify memiliki fitur AI bawaan yang membantu:
 
@@ -93,11 +93,11 @@ Shopify memiliki fitur AI bawaan yang membantu:
 * Membuat email marketing
 * Membuat konten toko
 
-# 3. WooCommerce + ChatGPT
+## 3. WooCommerce + ChatGPT
 
 Kombinasi yang sangat populer karena fleksibel dan SEO friendly.
 
-# 4. Canva AI
+## 4. Canva AI
 
 Canva membantu membuat:
 
@@ -105,15 +105,15 @@ Canva membantu membuat:
 * Poster promosi
 * Konten media sosial
 
-# 5. Leonardo AI
+## 5. Leonardo AI
 
 Leonardo AI dapat digunakan untuk membuat visual produk dan materi promosi.
 
-# 6. Midjourney
+## 6. Midjourney
 
 Cocok untuk membuat visual produk yang menarik.
 
-# Langkah 1: Menentukan Produk yang Akan Dijual
+## Langkah 1: Menentukan Produk yang Akan Dijual
 
 Sebelum membuat toko online, tentukan produk terlebih dahulu.
 
@@ -129,7 +129,7 @@ Prompt:
 
 > Berikan 20 ide produk yang cocok dijual secara online di Indonesia tahun 2026.
 
-# Langkah 2: Membuat Nama Brand dengan AI
+## Langkah 2: Membuat Nama Brand dengan AI
 
 Prompt:
 
@@ -137,7 +137,7 @@ Prompt:
 
 AI dapat menghasilkan banyak ide dalam hitungan detik.
 
-# Langkah 3: Membuat Website Toko Online
+## Langkah 3: Membuat Website Toko Online
 
 Beberapa platform yang direkomendasikan:
 
@@ -157,7 +157,7 @@ Cepat dan ramah pemula.
 
 Praktis dan mudah digunakan.
 
-# Langkah 4: Membuat Deskripsi Produk dengan AI
+## Langkah 4: Membuat Deskripsi Produk dengan AI
 
 Deskripsi produk yang baik dapat meningkatkan konversi.
 
@@ -165,7 +165,7 @@ Prompt:
 
 > Buatkan deskripsi produk untuk tas wanita premium dengan fokus pada manfaat dan kualitas.
 
-# Langkah 5: Membuat Foto Produk dengan AI
+## Langkah 5: Membuat Foto Produk dengan AI
 
 AI dapat membantu membuat:
 
@@ -179,7 +179,7 @@ Tools yang bisa digunakan:
 * Leonardo AI
 * Midjourney
 
-# Langkah 6: Membuat Halaman Penting
+## Langkah 6: Membuat Halaman Penting
 
 Minimal memiliki:
 
@@ -203,7 +203,7 @@ Memudahkan pelanggan menghubungi Anda.
 
 Menjawab pertanyaan umum pelanggan.
 
-# Cara Menggunakan AI untuk SEO Toko Online
+## Cara Menggunakan AI untuk SEO Toko Online
 
 SEO membantu toko online mendapatkan trafik gratis dari Google.
 
@@ -218,7 +218,7 @@ Contoh prompt:
 
 > Buatkan 30 ide artikel SEO untuk toko online fashion wanita.
 
-# Cara Menggunakan AI untuk Customer Service
+## Cara Menggunakan AI untuk Customer Service
 
 AI dapat membantu menjawab pelanggan lebih cepat.
 
@@ -234,7 +234,7 @@ Manfaatnya:
 * Respon lebih cepat
 * Pelayanan lebih konsisten
 
-# Cara Menggunakan AI untuk Marketing
+## Cara Menggunakan AI untuk Marketing
 
 AI dapat digunakan untuk:
 
@@ -256,7 +256,7 @@ Prompt:
 
 > Buatkan email promosi diskon akhir bulan untuk pelanggan toko online.
 
-# Cara Menggunakan AI untuk Analisis Penjualan
+## Cara Menggunakan AI untuk Analisis Penjualan
 
 AI dapat membantu memahami:
 
@@ -265,7 +265,7 @@ AI dapat membantu memahami:
 * Tren pelanggan
 * Peluang peningkatan penjualan
 
-# Kesalahan Saat Membuat Toko Online dengan AI
+## Kesalahan Saat Membuat Toko Online dengan AI
 
 ## Hanya Mengandalkan AI
 
@@ -283,7 +283,7 @@ SEO merupakan sumber trafik jangka panjang.
 
 Pengalaman pelanggan tetap menjadi prioritas utama.
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat toko online otomatis?
 
@@ -314,7 +314,7 @@ Baca juga:
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [Studi Kasus UMKM Menggunakan AI](/blog/studi-kasus-umkm-menggunakan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah membuat proses membangun toko online menjadi lebih mudah dibanding sebelumnya. Dengan bantuan ChatGPT, Shopify AI, Canva AI, dan berbagai tools lainnya, pemilik bisnis dapat membuat toko online profesional, menjalankan pemasaran, serta meningkatkan produktivitas tanpa harus memiliki tim besar.
 

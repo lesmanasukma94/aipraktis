@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu SEO website dan artikel blog, mulai dari riset keyword, memahami search intent, membuat outline, menyusun content brief, menulis draft, membuat meta title, meta description, FAQ, internal link, audit artikel, update konten lama, sampai membaca data Search Console. Namun, AI tidak boleh digunakan untuk membuat konten massal yang dangkal. Cara terbaik menggunakan AI untuk SEO adalah menggabungkan riset, data, pengalaman manusia, struktur website yang rapi, dan evaluasi rutin.
 
-# Cara Menggunakan AI untuk SEO
+
 
 SEO adalah proses membuat website lebih mudah ditemukan, dipahami, dan dipercaya oleh mesin pencari serta pembaca.
 
@@ -91,7 +91,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Menggunakan AI untuk SEO?
+## Apa Itu Menggunakan AI untuk SEO?
 
 Menggunakan AI untuk SEO berarti memakai tools AI untuk membantu proses optimasi website dan konten agar lebih mudah ditemukan pembaca melalui mesin pencari.
 
@@ -135,7 +135,7 @@ SEO yang baik membantu pembaca menemukan jawaban yang mereka cari.
 
 ---
 
-# Prinsip Menggunakan AI untuk SEO
+## Prinsip Menggunakan AI untuk SEO
 
 Sebelum memakai AI untuk SEO, pahami prinsip ini.
 
@@ -239,7 +239,7 @@ Baca juga:
 
 ---
 
-# Workflow Menggunakan AI untuk SEO
+## Workflow Menggunakan AI untuk SEO
 
 Berikut workflow lengkap memakai AI untuk SEO.
 
@@ -631,7 +631,7 @@ Sertakan contoh prompt.
 
 ---
 
-# Cara Menggunakan AI untuk Riset Keyword
+## Cara Menggunakan AI untuk Riset Keyword
 
 AI bisa membantu membuat daftar keyword awal.
 
@@ -692,7 +692,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Search Intent
+## Cara Menggunakan AI untuk Search Intent
 
 Search intent menentukan struktur artikel.
 
@@ -741,7 +741,7 @@ Tetap cek hasil pencarian.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Outline Artikel SEO
+## Cara Menggunakan AI untuk Membuat Outline Artikel SEO
 
 Outline membantu artikel tetap fokus.
 
@@ -794,7 +794,7 @@ Outline yang baik:
 
 ---
 
-# Cara Menggunakan AI untuk Meta Title
+## Cara Menggunakan AI untuk Meta Title
 
 Meta title membantu pembaca memahami isi halaman dari hasil pencarian.
 
@@ -848,7 +848,7 @@ Kalimat seperti itu berlebihan.
 
 ---
 
-# Cara Menggunakan AI untuk Meta Description
+## Cara Menggunakan AI untuk Meta Description
 
 Meta description membantu pembaca memahami ringkasan halaman.
 
@@ -887,7 +887,7 @@ Jangan mengisi meta description dengan daftar keyword.
 
 ---
 
-# Cara Menggunakan AI untuk Optimasi Heading
+## Cara Menggunakan AI untuk Optimasi Heading
 
 Heading membantu pembaca dan mesin pencari memahami struktur artikel.
 
@@ -935,7 +935,7 @@ Cara Menggunakan AI untuk Riset Keyword
 
 ---
 
-# Cara Menggunakan AI untuk Internal Link
+## Cara Menggunakan AI untuk Internal Link
 
 Internal link penting untuk SEO.
 
@@ -990,7 +990,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Audit Artikel Lama
+## Cara Menggunakan AI untuk Audit Artikel Lama
 
 SEO tidak hanya publish artikel baru.
 
@@ -1056,7 +1056,7 @@ Data:
 
 ---
 
-# Cara Menggunakan AI untuk Membaca Search Console
+## Cara Menggunakan AI untuk Membaca Search Console
 
 Search Console adalah salah satu sumber data SEO terpenting.
 
@@ -1110,7 +1110,7 @@ Bukan sumber data.
 
 ---
 
-# Cara Menggunakan AI untuk Content Refresh
+## Cara Menggunakan AI untuk Content Refresh
 
 Content refresh adalah proses memperbarui artikel lama.
 
@@ -1166,7 +1166,7 @@ Saat update artikel, cek:
 
 ---
 
-# Cara Menggunakan AI untuk Technical SEO Dasar
+## Cara Menggunakan AI untuk Technical SEO Dasar
 
 AI bisa membantu technical SEO, tetapi hati-hati.
 
@@ -1227,7 +1227,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk SEO Gambar
+## Cara Menggunakan AI untuk SEO Gambar
 
 Gambar juga bisa dioptimalkan.
 
@@ -1279,7 +1279,7 @@ AI SEO tools keyword artikel blog SEO terbaik AI SEO.
 
 ---
 
-# Cara Menggunakan AI untuk FAQ SEO
+## Cara Menggunakan AI untuk FAQ SEO
 
 FAQ membantu menjawab pertanyaan pembaca.
 
@@ -1317,7 +1317,7 @@ FAQ yang baik menjawab pertanyaan seperti:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Laporan SEO
+## Cara Menggunakan AI untuk Membuat Laporan SEO
 
 AI juga bisa membantu membuat laporan SEO.
 
@@ -1366,7 +1366,7 @@ Laporan harus menjelaskan:
 
 ---
 
-# Tools yang Bisa Digunakan untuk AI SEO
+## Tools yang Bisa Digunakan untuk AI SEO
 
 Berikut tools yang bisa dipakai.
 
@@ -1467,7 +1467,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk SEO
+## Template Prompt Lengkap AI untuk SEO
 
 Gunakan template ini.
 
@@ -1521,7 +1521,7 @@ Batasan:
 
 ---
 
-# Contoh Workflow SEO untuk Artikel Baru
+## Contoh Workflow SEO untuk Artikel Baru
 
 Misalnya Anda ingin membuat artikel:
 
@@ -1602,7 +1602,7 @@ Lihat:
 
 ---
 
-# Kesalahan Menggunakan AI untuk SEO
+## Kesalahan Menggunakan AI untuk SEO
 
 ## 1. Menganggap AI Bisa Menjamin Ranking
 
@@ -1656,7 +1656,7 @@ Tetapi strategi, konten, struktur, dan konsistensi tetap lebih penting.
 
 ---
 
-# Checklist Menggunakan AI untuk SEO
+## Checklist Menggunakan AI untuk SEO
 
 Gunakan checklist ini.
 
@@ -1685,7 +1685,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Belajar AI untuk SEO
+## Rencana 7 Hari Belajar AI untuk SEO
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1735,7 +1735,7 @@ Pantau Search Console setelah artikel mulai muncul.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa digunakan untuk SEO?
 
@@ -1767,7 +1767,7 @@ Tidak sepenuhnya. AI bisa membantu pekerjaan teknis dan editorial, tetapi SEO sp
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk SEO tidak dimulai dari membuat artikel sebanyak mungkin.
 
@@ -1825,7 +1825,7 @@ Konten SEO dapat diperluas menjadi konten social media. Gunakan [Cara Menggunaka
 
 Jika SEO menjadi layanan agency, baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk memahami workflow riset keyword, content brief, audit artikel, reporting, dan rekomendasi klien.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1850,22 +1850,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Artikel SEO
+## Mulai dari Satu Artikel SEO
 
 Jangan mulai dari semua hal sekaligus.
 

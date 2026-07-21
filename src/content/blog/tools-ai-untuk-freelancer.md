@@ -26,7 +26,7 @@ Untungnya, perkembangan Artificial Intelligence memungkinkan freelancer menyeles
 
 Dalam artikel ini Anda akan menemukan tools AI terbaik untuk freelancer yang dapat membantu meningkatkan produktivitas sekaligus membuka peluang mendapatkan lebih banyak proyek.
 
-# Mengapa Freelancer Perlu Menggunakan AI?
+## Mengapa Freelancer Perlu Menggunakan AI?
 
 AI membantu freelancer dengan cara:
 
@@ -39,9 +39,9 @@ AI membantu freelancer dengan cara:
 
 Freelancer yang mampu memanfaatkan AI memiliki keunggulan dibanding kompetitor yang masih bekerja sepenuhnya secara manual.
 
-# 15 Tools AI Terbaik untuk Freelancer
+## 15 Tools AI Terbaik untuk Freelancer
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT menjadi tools AI yang hampir wajib dimiliki freelancer.
 
@@ -57,7 +57,7 @@ Dapat digunakan untuk:
 
 Cocok untuk hampir semua jenis freelancer.
 
-# 2. Claude
+## 2. Claude
 
 Claude unggul dalam membaca dan mengolah dokumen panjang.
 
@@ -68,7 +68,7 @@ Sangat membantu untuk:
 * Laporan.
 * SOP.
 
-# 3. Gemini
+## 3. Gemini
 
 Gemini sangat bermanfaat bagi freelancer yang menggunakan Google Workspace.
 
@@ -79,7 +79,7 @@ Fitur utamanya:
 * Bantuan penulisan.
 * Integrasi Google Docs dan Gmail.
 
-# 4. Canva AI
+## 4. Canva AI
 
 Canva AI membantu membuat:
 
@@ -92,7 +92,7 @@ Canva AI membantu membuat:
 
 Sangat cocok bagi freelancer desain maupun digital marketing.
 
-# 5. Grammarly
+## 5. Grammarly
 
 Membantu memperbaiki:
 
@@ -101,7 +101,7 @@ Membantu memperbaiki:
 * Nada komunikasi.
 * Profesionalitas email.
 
-# 6. Notion AI
+## 6. Notion AI
 
 Notion AI memudahkan pengelolaan pekerjaan.
 
@@ -113,7 +113,7 @@ Gunakan untuk:
 * SOP pribadi.
 * Dokumentasi klien.
 
-# 7. Perplexity
+## 7. Perplexity
 
 Perplexity mempercepat proses riset.
 
@@ -124,21 +124,21 @@ Sangat membantu sebelum:
 * Meeting klien.
 * Melakukan analisis pasar.
 
-# 8. Gamma
+## 8. Gamma
 
 Gamma memungkinkan freelancer membuat presentasi profesional hanya dalam beberapa menit.
 
-# 9. Fireflies AI
+## 9. Fireflies AI
 
 Fireflies merekam dan merangkum meeting secara otomatis.
 
 Tidak perlu lagi membuat notulen secara manual.
 
-# 10. Otter AI
+## 10. Otter AI
 
 Otter membantu mencatat hasil diskusi bersama klien.
 
-# 11. Zapier AI
+## 11. Zapier AI
 
 Zapier mengotomatisasi berbagai pekerjaan rutin.
 
@@ -149,27 +149,27 @@ Contoh:
 * Reminder proyek.
 * Sinkronisasi aplikasi.
 
-# 12. Make
+## 12. Make
 
 Alternatif Zapier dengan workflow otomatis yang lebih fleksibel.
 
-# 13. Midjourney
+## 13. Midjourney
 
 Sangat populer untuk menghasilkan ilustrasi berkualitas tinggi menggunakan AI.
 
 Cocok bagi freelancer desain.
 
-# 14. GitHub Copilot
+## 14. GitHub Copilot
 
 Tools AI yang membantu programmer menulis kode lebih cepat.
 
 Sangat cocok untuk freelancer developer.
 
-# 15. Adobe Firefly
+## 15. Adobe Firefly
 
 Adobe Firefly membantu menghasilkan gambar dan aset visual menggunakan AI yang terintegrasi dengan ekosistem Adobe.
 
-# Cara Memilih Tools AI Sesuai Profesi Freelancer
+## Cara Memilih Tools AI Sesuai Profesi Freelancer
 
 ## Penulis
 
@@ -205,7 +205,7 @@ Gunakan:
 * Gamma
 * Notion AI
 
-# Contoh Workflow Freelancer dengan AI
+## Contoh Workflow Freelancer dengan AI
 
 Sebagai contoh freelancer content writer:
 
@@ -219,7 +219,7 @@ Sebagai contoh freelancer content writer:
 
 Dengan workflow ini, satu proyek dapat diselesaikan jauh lebih cepat dibanding cara manual.
 
-# Apakah AI Akan Menggantikan Freelancer?
+## Apakah AI Akan Menggantikan Freelancer?
 
 Tidak.
 
@@ -233,7 +233,7 @@ AI memang mampu mempercepat proses kerja, tetapi klien tetap membutuhkan freelan
 
 Freelancer yang menguasai AI justru memiliki peluang lebih besar mendapatkan proyek dibanding mereka yang tidak memanfaatkannya.
 
-# Tips Menggunakan AI sebagai Freelancer
+## Tips Menggunakan AI sebagai Freelancer
 
 * Jadikan AI sebagai asisten kerja, bukan pengganti kemampuan Anda.
 * Selalu periksa kembali hasil AI sebelum dikirim ke klien.
@@ -241,7 +241,7 @@ Freelancer yang menguasai AI justru memiliki peluang lebih besar mendapatkan pro
 * Fokus meningkatkan kualitas layanan, bukan hanya kecepatan.
 * Terus mengikuti perkembangan tools AI terbaru.
 
-# FAQ
+## FAQ
 
 ## Apakah freelancer wajib menggunakan AI?
 
@@ -272,7 +272,7 @@ Baca juga:
 - [Tools AI untuk Content Creator](/blog/tools-ai-untuk-content-creator/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Artificial Intelligence telah menjadi salah satu investasi terbaik bagi freelancer modern. Dengan memilih tools AI yang sesuai, Anda dapat bekerja lebih cepat, meningkatkan kualitas hasil, mengurangi pekerjaan administratif, dan memiliki lebih banyak waktu untuk mengembangkan bisnis freelance.
 

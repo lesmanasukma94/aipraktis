@@ -26,7 +26,7 @@ Kabar baiknya, Anda tidak harus memiliki gelar khusus di bidang Artificial Intel
 
 Artikel ini akan membahas langkah demi langkah cara mendapatkan pekerjaan AI, profesi yang tersedia, skill yang harus dipelajari, serta tips agar lebih unggul dalam proses rekrutmen.
 
-# Mengapa Karier AI Sangat Menjanjikan?
+## Mengapa Karier AI Sangat Menjanjikan?
 
 Permintaan tenaga kerja AI terus meningkat karena perusahaan ingin:
 
@@ -38,7 +38,7 @@ Permintaan tenaga kerja AI terus meningkat karena perusahaan ingin:
 
 Selain peluang kerja yang luas, banyak posisi AI juga menawarkan kompensasi yang kompetitif dibandingkan banyak profesi digital lainnya.
 
-# Jenis Pekerjaan di Bidang AI
+## Jenis Pekerjaan di Bidang AI
 
 Berikut beberapa profesi yang saat ini banyak dicari.
 
@@ -74,7 +74,7 @@ Mengelola pengembangan produk berbasis AI.
 
 Membangun aplikasi yang memanfaatkan model Artificial Intelligence.
 
-# Skill yang Harus Dimiliki
+## Skill yang Harus Dimiliki
 
 Tidak semua pekerjaan AI membutuhkan kemampuan coding.
 
@@ -105,7 +105,7 @@ Mampu menjelaskan solusi AI kepada rekan kerja maupun klien.
 
 Menggunakan berbagai tools AI untuk mempercepat pekerjaan.
 
-# Apakah Harus Bisa Coding?
+## Apakah Harus Bisa Coding?
 
 Tidak selalu.
 
@@ -120,7 +120,7 @@ lebih banyak membutuhkan kemampuan memahami AI dan menggunakannya dalam konteks 
 
 Namun jika ingin menjadi AI Developer atau Machine Learning Engineer, kemampuan coding tetap menjadi nilai tambah yang penting.
 
-# Roadmap Mendapatkan Pekerjaan AI
+## Roadmap Mendapatkan Pekerjaan AI
 
 ## Langkah 1: Pelajari Dasar AI
 
@@ -171,7 +171,7 @@ Bagikan pengalaman belajar melalui:
 * GitHub (untuk developer)
 * Media sosial profesional
 
-# Cara Membuat Portofolio AI
+## Cara Membuat Portofolio AI
 
 Beberapa contoh portofolio yang menarik:
 
@@ -184,13 +184,13 @@ Beberapa contoh portofolio yang menarik:
 
 Portofolio menunjukkan bahwa Anda mampu menerapkan AI untuk menyelesaikan masalah nyata.
 
-# Sertifikasi yang Membantu
+## Sertifikasi yang Membantu
 
 Sertifikasi bukan syarat mutlak, tetapi dapat meningkatkan kredibilitas.
 
 Pilih sertifikasi yang relevan dan berasal dari penyelenggara terpercaya.
 
-# Cara Menemukan Lowongan Kerja AI
+## Cara Menemukan Lowongan Kerja AI
 
 Cari peluang melalui:
 
@@ -209,7 +209,7 @@ Gunakan kata kunci seperti:
 * Generative AI
 * AI Automation
 
-# Tips Lolos Seleksi Kerja AI
+## Tips Lolos Seleksi Kerja AI
 
 ## Tunjukkan Portofolio
 
@@ -227,7 +227,7 @@ Siapkan contoh penggunaan AI dalam berbagai situasi bisnis.
 
 Perkembangan AI sangat cepat. Kemampuan belajar berkelanjutan menjadi nilai penting.
 
-# Kesalahan yang Sering Dilakukan
+## Kesalahan yang Sering Dilakukan
 
 * Hanya mengandalkan sertifikat.
 * Tidak memiliki portofolio.
@@ -235,7 +235,7 @@ Perkembangan AI sangat cepat. Kemampuan belajar berkelanjutan menjadi nilai pent
 * Tidak membangun personal branding.
 * Tidak memahami kebutuhan bisnis.
 
-# FAQ
+## FAQ
 
 ## Apakah lulusan non-IT bisa bekerja di bidang AI?
 
@@ -269,7 +269,7 @@ Baca juga:
 - [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Karier di bidang Artificial Intelligence masih memiliki peluang yang sangat besar. Kunci untuk mendapatkan pekerjaan AI bukan hanya mempelajari teori, tetapi juga membangun portofolio, memahami kebutuhan bisnis, dan terus mengikuti perkembangan teknologi.
 

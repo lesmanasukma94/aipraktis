@@ -293,7 +293,7 @@ Belajar 30 menit setiap hari lebih baik daripada belajar 5 jam sekali seminggu.
 
 ---
 
-# Cara Memilih Kursus AI Gratis yang Tepat
+## Cara Memilih Kursus AI Gratis yang Tepat
 
 Kursus AI gratis terbaik bukan selalu kursus yang paling terkenal.
 
@@ -340,7 +340,7 @@ Baca juga:
 
 ---
 
-# Perbedaan Kursus AI Gratis dan Sertifikat Gratis
+## Perbedaan Kursus AI Gratis dan Sertifikat Gratis
 
 Sebelum mendaftar, pahami satu hal penting.
 
@@ -392,7 +392,7 @@ Yang paling penting adalah skill dan hasil praktik yang Anda bangun.
 
 ---
 
-# Rekomendasi Jenis Kursus AI Gratis untuk Pemula
+## Rekomendasi Jenis Kursus AI Gratis untuk Pemula
 
 Berikut jenis kursus AI gratis yang paling cocok untuk pemula.
 
@@ -556,7 +556,7 @@ Jika belum pernah coding, mulai dari Python dasar dulu.
 
 ---
 
-# Platform Kursus AI Gratis yang Bisa Dicoba
+## Platform Kursus AI Gratis yang Bisa Dicoba
 
 Berikut platform yang bisa Anda cek untuk belajar AI.
 
@@ -702,7 +702,7 @@ Cocok untuk:
 
 ---
 
-# Roadmap Belajar dari Kursus AI Gratis
+## Roadmap Belajar dari Kursus AI Gratis
 
 Agar tidak bingung, gunakan roadmap sederhana berikut.
 
@@ -817,7 +817,7 @@ Baca juga:
 
 ---
 
-# Cara Belajar dari Kursus AI agar Tidak Berhenti di Tengah
+## Cara Belajar dari Kursus AI agar Tidak Berhenti di Tengah
 
 Banyak orang mendaftar kursus gratis, tetapi tidak menyelesaikannya.
 
@@ -888,7 +888,7 @@ Contoh:
 
 ---
 
-# Kesalahan Saat Mengikuti Kursus AI Gratis
+## Kesalahan Saat Mengikuti Kursus AI Gratis
 
 ## 1. Hanya Mengejar Sertifikat
 
@@ -934,7 +934,7 @@ daripada:
 
 ---
 
-# Checklist Memilih Kursus AI Gratis
+## Checklist Memilih Kursus AI Gratis
 
 Gunakan checklist ini.
 
@@ -957,7 +957,7 @@ Jika kursus tidak memenuhi banyak poin di atas, cari kursus lain.
 
 ---
 
-# Prompt untuk Memilih Kursus AI Gratis
+## Prompt untuk Memilih Kursus AI Gratis
 
 Gunakan prompt ini.
 
@@ -994,7 +994,7 @@ Prioritaskan kursus gratis atau murah.
 Jangan menyarankan jalur terlalu teknis jika belum perlu.
 ```
 
-# Prompt untuk Membuat Jadwal Belajar AI dari Kursus Gratis
+## Prompt untuk Membuat Jadwal Belajar AI dari Kursus Gratis
 
 Gunakan prompt ini.
 
@@ -1027,7 +1027,7 @@ Tambahkan juga:
 3. cara menghindari berhenti di tengah
 ```
 
-# Prompt untuk Membuat Portofolio Setelah Kursus AI
+## Prompt untuk Membuat Portofolio Setelah Kursus AI
 
 Gunakan prompt ini.
 

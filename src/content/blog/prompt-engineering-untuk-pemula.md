@@ -22,7 +22,7 @@ Prompt engineering adalah keterampilan menulis instruksi yang jelas, terstruktur
 
 Prompt engineering akan lebih mudah dipahami setelah mengetahui dasar AI. Mulai dari [AI untuk Pemula](/blog/ai-untuk-pemula/) untuk memahami apa itu AI, cara memakai tools AI, dan mengapa prompt sangat penting.
 
-# Prompt Engineering untuk Pemula
+
 
 Banyak orang memakai AI chatbot dengan cara yang sangat sederhana.
 
@@ -90,7 +90,7 @@ Artikel ini akan membahas prompt engineering dari nol, khusus untuk pemula.
 
 ---
 
-# Apa Itu Prompt Engineering?
+## Apa Itu Prompt Engineering?
 
 Prompt engineering adalah proses membuat, mengatur, menguji, dan memperbaiki prompt agar AI menghasilkan output yang lebih baik.
 
@@ -136,7 +136,7 @@ Baca juga:
 
 ---
 
-# Mengapa Prompt Engineering Penting?
+## Mengapa Prompt Engineering Penting?
 
 Prompt engineering penting karena AI bukan pembaca pikiran.
 
@@ -220,7 +220,7 @@ Tanpa arahan gaya, AI bisa menghasilkan bahasa yang tidak cocok dengan kebutuhan
 
 ---
 
-# Struktur Prompt yang Baik
+## Struktur Prompt yang Baik
 
 Untuk pemula, gunakan struktur sederhana berikut.
 
@@ -377,7 +377,7 @@ Jika tidak yakin, sebutkan bahwa data perlu diverifikasi.
 
 ---
 
-# Contoh Prompt Buruk vs Prompt Baik
+## Contoh Prompt Buruk vs Prompt Baik
 
 ## Contoh 1: Artikel Blog
 
@@ -437,7 +437,7 @@ Buatkan 30 ide konten Instagram Reels untuk akun edukasi AI bagi pemula Indonesi
 
 ---
 
-# Teknik Dasar Prompt Engineering untuk Pemula
+## Teknik Dasar Prompt Engineering untuk Pemula
 
 Berikut teknik dasar yang paling penting.
 
@@ -565,7 +565,7 @@ Ini sangat berguna untuk artikel, email, proposal, dan strategi.
 
 ---
 
-# Framework Prompt Sederhana: KTFGB
+## Framework Prompt Sederhana: KTFGB
 
 Untuk pemula, gunakan framework **KTFGB**:
 
@@ -598,7 +598,7 @@ Framework ini mudah digunakan untuk hampir semua kebutuhan.
 
 ---
 
-# Template Prompt Serbaguna
+## Template Prompt Serbaguna
 
 Gunakan template ini.
 
@@ -650,7 +650,7 @@ Jangan terlalu panjang. Jangan memberi diskon jika tidak disebutkan.
 
 ---
 
-# Contoh Prompt Siap Pakai untuk Pemula
+## Contoh Prompt Siap Pakai untuk Pemula
 
 ## Prompt untuk Belajar
 
@@ -703,7 +703,7 @@ Buatkan 30 ide konten untuk [platform] tentang [topik]. Target audiens [target].
 
 ---
 
-# Prompt Engineering untuk Berbagai Kebutuhan
+## Prompt Engineering untuk Berbagai Kebutuhan
 
 ## Untuk Kerja
 
@@ -799,7 +799,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Umum dalam Prompt Engineering
+## Kesalahan Umum dalam Prompt Engineering
 
 ## 1. Prompt Terlalu Pendek
 
@@ -849,7 +849,7 @@ Buat prompt library agar tidak mulai dari nol setiap kali.
 
 ---
 
-# Cara Melatih Skill Prompt Engineering
+## Cara Melatih Skill Prompt Engineering
 
 Prompt engineering adalah skill praktis.
 
@@ -924,7 +924,7 @@ Checklist sederhana ini sangat membantu.
 
 ---
 
-# Prompt Engineering Bukan Sekadar Trik
+## Prompt Engineering Bukan Sekadar Trik
 
 Banyak orang mengira prompt engineering adalah kumpulan trik.
 
@@ -961,7 +961,7 @@ Untuk keputusan penting, tetap gunakan verifikasi manusia.
 
 ---
 
-# Checklist Prompt Engineering untuk Pemula
+## Checklist Prompt Engineering untuk Pemula
 
 Gunakan checklist berikut.
 
@@ -978,7 +978,7 @@ Gunakan checklist berikut.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt engineering?
 
@@ -1010,7 +1010,7 @@ Langkah pertama adalah mulai dari kebutuhan nyata. Pilih satu tugas, buat prompt
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt engineering adalah skill penting untuk menggunakan AI secara efektif.
 
@@ -1052,7 +1052,7 @@ Untuk praktik langsung dalam pekerjaan harian, lanjutkan ke [Prompt ChatGPT untu
 
 Jika ingin langsung mempraktikkan prompt untuk membuat tulisan, baca [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/) yang berisi contoh prompt artikel, email, caption, copywriting, dan editing.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1076,22 +1076,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Mulai dari Prompt yang Lebih Jelas
+## Mulai dari Prompt yang Lebih Jelas
 
 Jika selama ini jawaban AI terasa biasa saja, jangan langsung ganti tools.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "ChatGPT untuk Sales: Cara Menggunakan AI untuk Meningkatkan Penjualan"
 description: "Pelajari cara menggunakan ChatGPT untuk sales, prospecting, follow up pelanggan, membuat skrip penjualan, dan meningkatkan produktivitas tim sales."
 pubDate: "2026-06-19"
@@ -17,7 +17,7 @@ draft: false
 
 ## Ringkasan
 
-# ChatGPT untuk Sales
+
 
 ChatGPT telah menjadi salah satu tools Artificial Intelligence (AI) yang paling banyak digunakan oleh tim sales modern. Dengan bantuan AI, proses prospecting, komunikasi pelanggan, follow up, hingga penyusunan strategi penjualan dapat dilakukan lebih cepat dan efisien.
 
@@ -254,7 +254,7 @@ Jika ingin membuat email sales yang lebih sopan dan tidak terlalu hard selling, 
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
-* [ChatGPT untuk Customer Service](blog/chatgpt-untuk-costumer-service)
+* [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 
 ## Jelajahi Panduan AI Lainnya
 

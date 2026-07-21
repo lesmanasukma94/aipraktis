@@ -21,7 +21,7 @@ draft: false
 
 Memilih AI chatbot tidak boleh hanya berdasarkan popularitas. Chatbot yang cocok untuk menulis artikel belum tentu cocok untuk customer service. Chatbot yang bagus untuk riset belum tentu cocok untuk WhatsApp bisnis. Chatbot yang kuat untuk perusahaan belum tentu perlu untuk UMKM. Artikel ini membahas cara memilih AI chatbot berdasarkan kebutuhan, fitur, kualitas jawaban, bahasa Indonesia, integrasi, keamanan data, biaya, kemudahan penggunaan, dan contoh rekomendasi untuk kerja, belajar, bisnis, marketing, sales, customer service, website, CRM, dan otomasi bisnis.
 
-# Cara Memilih AI Chatbot
+
 
 AI chatbot semakin banyak.
 
@@ -59,7 +59,7 @@ Artikel ini akan membantu Anda memilih AI chatbot dengan lebih terarah.
 
 ---
 
-# Mengapa Memilih AI Chatbot Harus Hati-Hati?
+## Mengapa Memilih AI Chatbot Harus Hati-Hati?
 
 AI chatbot bisa sangat membantu.
 
@@ -138,7 +138,7 @@ Jika tools yang dipilih tidak bisa masuk ke workflow, manfaatnya terbatas.
 
 ---
 
-# Langkah Pertama: Tentukan Kebutuhan Utama
+## Langkah Pertama: Tentukan Kebutuhan Utama
 
 Sebelum memilih AI chatbot, jawab pertanyaan ini:
 
@@ -273,7 +273,7 @@ Baca juga:
 
 ---
 
-# Jenis AI Chatbot yang Perlu Dipahami
+## Jenis AI Chatbot yang Perlu Dipahami
 
 Sebelum memilih, pahami jenis-jenis AI chatbot.
 
@@ -463,7 +463,7 @@ Baca juga:
 
 ---
 
-# Kriteria Memilih AI Chatbot
+## Kriteria Memilih AI Chatbot
 
 Berikut kriteria utama yang perlu diperhatikan.
 
@@ -658,7 +658,7 @@ Untuk bisnis yang sedang berkembang, skalabilitas penting.
 
 ---
 
-# Rekomendasi AI Chatbot Berdasarkan Kebutuhan
+## Rekomendasi AI Chatbot Berdasarkan Kebutuhan
 
 Berikut panduan sederhana.
 
@@ -677,7 +677,7 @@ Berikut panduan sederhana.
 
 ---
 
-# Cara Menguji AI Chatbot Sebelum Dipakai
+## Cara Menguji AI Chatbot Sebelum Dipakai
 
 Sebelum membayar tools, lakukan pengujian.
 
@@ -777,7 +777,7 @@ Jangan hanya melihat harga awal.
 
 ---
 
-# Kesalahan Saat Memilih AI Chatbot
+## Kesalahan Saat Memilih AI Chatbot
 
 Hindari beberapa kesalahan berikut.
 
@@ -827,7 +827,7 @@ Ukur apakah chatbot benar-benar membantu.
 
 ---
 
-# Checklist Memilih AI Chatbot
+## Checklist Memilih AI Chatbot
 
 Gunakan checklist ini sebelum memutuskan.
 
@@ -851,7 +851,7 @@ Gunakan checklist ini sebelum memutuskan.
 
 ---
 
-# Rekomendasi Berdasarkan Profil Pengguna
+## Rekomendasi Berdasarkan Profil Pengguna
 
 ## Untuk Pemula
 
@@ -1024,7 +1024,7 @@ Untuk perusahaan, keputusan memilih AI chatbot sebaiknya melibatkan tim IT, lega
 
 ---
 
-# Prompt ChatGPT untuk Membantu Memilih AI Chatbot
+## Prompt ChatGPT untuk Membantu Memilih AI Chatbot
 
 Berikut prompt siap pakai.
 
@@ -1067,7 +1067,7 @@ Buatkan SOP penggunaan AI chatbot untuk tim [sales/customer service/marketing]. 
 
 ---
 
-# Contoh Matriks Penilaian AI Chatbot
+## Contoh Matriks Penilaian AI Chatbot
 
 Gunakan skor 1 sampai 5.
 
@@ -1095,7 +1095,7 @@ Pertimbangkan juga pengalaman tim saat mencoba tools tersebut.
 
 ---
 
-# Tanda AI Chatbot Cocok untuk Anda
+## Tanda AI Chatbot Cocok untuk Anda
 
 AI chatbot mungkin cocok jika:
 
@@ -1113,7 +1113,7 @@ Jika tools terlihat canggih tetapi jarang dipakai, berarti belum cocok.
 
 ---
 
-# Tanda AI Chatbot Belum Cocok
+## Tanda AI Chatbot Belum Cocok
 
 AI chatbot mungkin belum cocok jika:
 
@@ -1135,7 +1135,7 @@ Setelah proses lebih rapi, baru pilih chatbot yang lebih serius.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI chatbot terbaik?
 
@@ -1167,7 +1167,7 @@ Kesalahan terbesar adalah memilih tools karena viral, bukan karena kebutuhan. Ke
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Memilih AI chatbot harus dimulai dari kebutuhan, bukan dari nama tools.
 
@@ -1203,7 +1203,7 @@ AI chatbot yang tepat adalah yang membantu pekerjaan Anda menjadi lebih cepat, l
 
 Setelah memilih tools yang tepat, pastikan Anda juga memahami risiko penggunaannya. Baca panduan [Kesalahan Menggunakan AI Chatbot](/blog/kesalahan-menggunakan-ai-chatbot/) agar tidak salah memakai prompt, data, automation, dan customer service AI.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1227,20 +1227,20 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Pilih AI Chatbot Berdasarkan Masalah Nyata
+## Pilih AI Chatbot Berdasarkan Masalah Nyata
 
 AI chatbot bukan tujuan akhir.
 

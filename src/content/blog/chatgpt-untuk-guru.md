@@ -204,7 +204,7 @@ Kemampuan menggunakan AI kemungkinan akan menjadi salah satu kompetensi penting 
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Guru
+## Cara Menggunakan ChatGPT untuk Guru
 
 ChatGPT bisa membantu guru bekerja lebih cepat, tetapi penggunaannya harus tetap terarah.
 
@@ -243,7 +243,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Rencana Pembelajaran
+## ChatGPT untuk Membuat Rencana Pembelajaran
 
 Salah satu manfaat ChatGPT untuk guru adalah membantu membuat rencana pembelajaran.
 
@@ -311,7 +311,7 @@ ChatGPT membantu mempercepat persiapan, tetapi keputusan akhir tetap di tangan g
 
 ---
 
-# ChatGPT untuk Membuat Materi Ajar
+## ChatGPT untuk Membuat Materi Ajar
 
 Guru bisa memakai ChatGPT untuk membuat materi ajar yang lebih mudah dipahami.
 
@@ -378,7 +378,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Soal Latihan
+## ChatGPT untuk Membuat Soal Latihan
 
 Membuat soal latihan sering memakan waktu.
 
@@ -440,7 +440,7 @@ Untuk soal evaluasi penting, jangan langsung memakai output ChatGPT tanpa review
 
 ---
 
-# ChatGPT untuk Membuat Rubrik Penilaian
+## ChatGPT untuk Membuat Rubrik Penilaian
 
 Rubrik membantu penilaian menjadi lebih jelas dan adil.
 
@@ -495,7 +495,7 @@ Guru bisa membagikan rubrik sebelum tugas dikerjakan agar siswa tahu apa yang ak
 
 ---
 
-# ChatGPT untuk Membuat Worksheet Siswa
+## ChatGPT untuk Membuat Worksheet Siswa
 
 Worksheet membantu siswa belajar aktif.
 
@@ -550,7 +550,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Slide Pembelajaran
+## ChatGPT untuk Membuat Slide Pembelajaran
 
 Guru juga bisa memakai ChatGPT untuk membuat outline slide.
 
@@ -603,7 +603,7 @@ akhiri dengan pertanyaan atau latihan
 
 ---
 
-# ChatGPT untuk Memberi Feedback Siswa
+## ChatGPT untuk Memberi Feedback Siswa
 
 Memberi feedback yang baik membutuhkan waktu.
 
@@ -647,7 +647,7 @@ Fokus pada hasil tugas dan proses belajar.
 
 ---
 
-# ChatGPT untuk Diferensiasi Pembelajaran
+## ChatGPT untuk Diferensiasi Pembelajaran
 
 Dalam satu kelas, kemampuan siswa bisa berbeda-beda.
 
@@ -701,7 +701,7 @@ Dengan diferensiasi, guru bisa membantu siswa sesuai kebutuhannya.
 
 ---
 
-# Risiko Menggunakan ChatGPT untuk Guru
+## Risiko Menggunakan ChatGPT untuk Guru
 
 ChatGPT sangat membantu, tetapi ada risiko yang harus diperhatikan.
 
@@ -748,7 +748,7 @@ Tetapi siswa tidak boleh hanya menyalin jawaban tanpa memahami.
 
 ---
 
-# Checklist Menggunakan ChatGPT untuk Guru
+## Checklist Menggunakan ChatGPT untuk Guru
 
 Gunakan checklist ini sebelum memakai output ChatGPT di kelas.
 
@@ -771,7 +771,7 @@ Checklist ini penting agar ChatGPT benar-benar membantu pembelajaran, bukan seka
 
 ---
 
-# Prompt ChatGPT untuk Guru
+## Prompt ChatGPT untuk Guru
 
 ## Prompt Rencana Pembelajaran
 

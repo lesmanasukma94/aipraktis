@@ -22,7 +22,7 @@ draft: false
 
 Prompt AI untuk copywriting dapat membantu membuat headline, iklan, landing page, CTA, email marketing, caption promosi, deskripsi produk, WhatsApp broadcast, sales page, script video, dan materi penjualan dengan lebih cepat. Namun, copywriting yang baik bukan hanya kata-kata yang menjual. Copywriting yang baik harus jelas, jujur, relevan dengan kebutuhan audiens, tidak menyesatkan, dan tidak membuat klaim berlebihan. Artikel ini berisi kumpulan prompt AI untuk copywriting yang siap dipakai dan bisa disesuaikan untuk bisnis, UMKM, content creator, marketer, sales, dan freelancer.
 
-# Prompt AI untuk Copywriting
+
 
 Copywriting adalah seni menulis untuk mendorong tindakan.
 
@@ -115,7 +115,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Copywriting
+## Cara Menggunakan AI untuk Copywriting
 
 AI paling berguna jika Anda memberi konteks yang jelas.
 
@@ -169,7 +169,7 @@ Hasilnya akan lebih siap dipakai.
 
 ---
 
-# Struktur Prompt Copywriting yang Baik
+## Struktur Prompt Copywriting yang Baik
 
 Prompt copywriting yang baik biasanya memiliki elemen berikut:
 
@@ -227,7 +227,7 @@ Template ini bisa dipakai untuk hampir semua kebutuhan copywriting.
 
 ---
 
-# Prompt AI untuk Headline
+## Prompt AI untuk Headline
 
 Headline adalah pintu masuk.
 
@@ -272,7 +272,7 @@ Headline:
 
 ---
 
-# Prompt AI untuk Hook
+## Prompt AI untuk Hook
 
 Hook adalah kalimat awal yang menarik perhatian.
 
@@ -313,7 +313,7 @@ Hook:
 
 ---
 
-# Prompt AI untuk Iklan
+## Prompt AI untuk Iklan
 
 Copy iklan harus singkat, jelas, dan relevan.
 
@@ -359,7 +359,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Landing Page
+## Prompt AI untuk Landing Page
 
 Landing page bertujuan mengarahkan pengunjung ke satu tindakan utama.
 
@@ -415,7 +415,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk CTA
+## Prompt AI untuk CTA
 
 CTA atau call-to-action adalah instruksi yang mengarahkan audiens ke langkah berikutnya.
 
@@ -458,7 +458,7 @@ CTA:
 
 ---
 
-# Prompt AI untuk Email Marketing
+## Prompt AI untuk Email Marketing
 
 Email marketing membutuhkan copy yang jelas, relevan, dan tidak terasa spam.
 
@@ -504,7 +504,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk WhatsApp Copywriting
+## Prompt AI untuk WhatsApp Copywriting
 
 Untuk pasar Indonesia, WhatsApp sering menjadi channel penjualan utama.
 
@@ -551,7 +551,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Social Media Copywriting
+## Prompt AI untuk Social Media Copywriting
 
 Social media membutuhkan copy yang singkat, menarik, dan sesuai platform.
 
@@ -595,7 +595,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Deskripsi Produk
+## Prompt AI untuk Deskripsi Produk
 
 Deskripsi produk harus menjelaskan manfaat, bukan hanya fitur.
 
@@ -641,7 +641,7 @@ Deskripsi:
 
 ---
 
-# Prompt AI untuk Sales Page
+## Prompt AI untuk Sales Page
 
 Sales page lebih panjang daripada landing page biasa.
 
@@ -682,7 +682,7 @@ Sales page:
 
 ---
 
-# Prompt AI untuk Objection Handling
+## Prompt AI untuk Objection Handling
 
 Objection adalah alasan calon pelanggan belum mengambil keputusan.
 
@@ -736,7 +736,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Copywriting UMKM
+## Prompt AI untuk Copywriting UMKM
 
 UMKM membutuhkan copy yang sederhana, jelas, dan mudah dipakai.
 
@@ -784,7 +784,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Copywriting Jasa
+## Prompt AI untuk Copywriting Jasa
 
 Bisnis jasa perlu membangun kepercayaan.
 
@@ -822,7 +822,7 @@ Buatkan copy portofolio untuk proyek [jenis proyek]. Struktur: masalah klien, so
 
 ---
 
-# Prompt AI untuk Copywriting Produk Digital
+## Prompt AI untuk Copywriting Produk Digital
 
 Produk digital seperti ebook, template, course, membership, dan webinar membutuhkan copy yang edukatif.
 
@@ -860,7 +860,7 @@ Buatkan copy penawaran membership [topik/komunitas]. Target member [target]. Jel
 
 ---
 
-# Prompt AI untuk Formula Copywriting
+## Prompt AI untuk Formula Copywriting
 
 AI juga bisa membantu menerapkan formula copywriting.
 
@@ -909,7 +909,7 @@ Buatkan 5 versi copy untuk [produk/jasa] menggunakan formula AIDA, PAS, BAB, FAB
 
 ---
 
-# Prompt AI untuk Brand Voice
+## Prompt AI untuk Brand Voice
 
 Copy yang bagus harus konsisten dengan brand.
 
@@ -964,7 +964,7 @@ Copy:
 
 ---
 
-# Prompt AI untuk Audit Copywriting
+## Prompt AI untuk Audit Copywriting
 
 Audit membantu memastikan copy tidak hanya menarik, tetapi juga jelas dan aman.
 
@@ -1015,7 +1015,7 @@ Copy:
 
 ---
 
-# Workflow Copywriting dengan AI
+## Workflow Copywriting dengan AI
 
 Berikut workflow praktis membuat copy dengan AI.
 
@@ -1083,7 +1083,7 @@ Pastikan copy:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Copywriting
+## Kesalahan Menggunakan AI untuk Copywriting
 
 ## 1. Terlalu Fokus pada Kata-Kata Bombastis
 
@@ -1141,7 +1141,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Copywriting
+## Checklist Prompt AI untuk Copywriting
 
 Gunakan checklist ini sebelum membuat copy dengan AI.
 
@@ -1164,7 +1164,7 @@ Gunakan checklist ini sebelum membuat copy dengan AI.
 
 ---
 
-# Template Prompt Copywriting Serbaguna
+## Template Prompt Copywriting Serbaguna
 
 Gunakan template ini untuk hampir semua kebutuhan copywriting.
 
@@ -1210,7 +1210,7 @@ Gunakan bahasa Indonesia natural, jelas, dan persuasif.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk copywriting?
 
@@ -1248,7 +1248,7 @@ Copywriting produk online shop akan lebih efektif jika mengikuti data produk yan
 
 Copywriting agency membutuhkan brand context dan quality control. Baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk workflow membuat caption, ad copy, landing page copy, dan creative brief klien.
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk copywriting dapat membantu membuat materi penjualan lebih cepat dan lebih rapi.
 
@@ -1290,7 +1290,7 @@ Jika ingin menggabungkan copywriting dan artikel blog, baca [Cara Menggunakan AI
 
 Copywriting juga penting dalam email. Baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) untuk membuat subject line, CTA, email promosi, newsletter, dan follow-up yang lebih jelas.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1317,21 +1317,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Gunakan AI untuk Copywriting yang Lebih Jelas
+## Gunakan AI untuk Copywriting yang Lebih Jelas
 
 Copywriting bukan tentang membuat orang tertipu.
 

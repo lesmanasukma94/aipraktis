@@ -1,4 +1,4 @@
----
+﻿---
 title: "ChatGPT untuk Marketing: Cara Menggunakan AI untuk Meningkatkan Strategi Pemasaran"
 description: "Pelajari ChatGPT untuk Marketing dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-19"
@@ -88,7 +88,7 @@ Berikut beberapa cara praktis menggunakan ChatGPT.
 
 Contoh prompt:
 
-> Berikan 30 ide konten Instagram untuk bisnis fashion wanita yang menargetkan usia 20–35 tahun.
+> Berikan 30 ide konten Instagram untuk bisnis fashion wanita yang menargetkan usia 20â€“35 tahun.
 
 ### Membuat Caption Media Sosial
 
@@ -241,8 +241,8 @@ Untuk penerapan ChatGPT di level agency, lanjutkan ke [AI untuk Digital Marketin
 * [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
-* [ChatGPT untuk Sales](blog/chatgpt-untuk-sales)
-* [ChatGPT untuk Customer Service](blog/chatgpt-untuk-costumer-service)
+* [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
+* [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 
 ## Jelajahi Panduan AI Lainnya
 

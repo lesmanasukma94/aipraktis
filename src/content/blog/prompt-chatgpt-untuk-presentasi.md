@@ -22,7 +22,7 @@ draft: false
 
 Prompt ChatGPT untuk presentasi dapat membantu membuat ide slide, outline, struktur cerita, isi slide, script pembicara, narasi, Q&A, pitch deck, presentasi laporan, presentasi bisnis, materi edukasi, dan checklist sebelum tampil. Dengan prompt yang tepat, ChatGPT bisa membantu mempercepat proses membuat presentasi dari nol. Namun, hasil AI tetap perlu diedit, disesuaikan dengan audiens, diperiksa faktanya, dan dirapikan secara visual sebelum digunakan.
 
-# Prompt ChatGPT untuk Presentasi
+
 
 Membuat presentasi sering memakan waktu.
 
@@ -112,7 +112,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Membuat Presentasi
+## Cara Menggunakan ChatGPT untuk Membuat Presentasi
 
 Sebelum memakai prompt, pahami dulu workflow yang tepat.
 
@@ -162,7 +162,7 @@ Workflow terbaik:
 
 ---
 
-# Struktur Prompt Presentasi yang Baik
+## Struktur Prompt Presentasi yang Baik
 
 Prompt presentasi yang baik biasanya mencakup:
 
@@ -240,7 +240,7 @@ Jangan terlalu teknis. Hindari klaim bahwa AI akan menggantikan semua pekerjaan 
 
 ---
 
-# Prompt ChatGPT untuk Ide Presentasi
+## Prompt ChatGPT untuk Ide Presentasi
 
 Gunakan prompt ini jika Anda belum punya topik atau angle yang jelas.
 
@@ -276,7 +276,7 @@ Buatkan big idea untuk presentasi tentang [topik]. Big idea harus sederhana, rel
 
 ---
 
-# Prompt ChatGPT untuk Outline Presentasi
+## Prompt ChatGPT untuk Outline Presentasi
 
 Outline adalah kerangka utama presentasi.
 
@@ -322,7 +322,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Isi Slide
+## Prompt ChatGPT untuk Isi Slide
 
 Setelah outline siap, lanjutkan ke isi slide.
 
@@ -382,7 +382,7 @@ Laporan:
 
 ---
 
-# Prompt ChatGPT untuk Script Pembicara
+## Prompt ChatGPT untuk Script Pembicara
 
 Slide bukan naskah lengkap.
 
@@ -432,7 +432,7 @@ Script:
 
 ---
 
-# Prompt ChatGPT untuk Opening Presentasi
+## Prompt ChatGPT untuk Opening Presentasi
 
 Pembuka menentukan perhatian audiens.
 
@@ -470,7 +470,7 @@ Buatkan opening presentasi bisnis tentang [topik]. Audiensnya [investor/atasan/k
 
 ---
 
-# Prompt ChatGPT untuk Closing Presentasi
+## Prompt ChatGPT untuk Closing Presentasi
 
 Penutup harus membuat pesan utama melekat.
 
@@ -511,7 +511,7 @@ Buatkan closing pitch deck untuk [produk/startup/proyek]. Fokus pada peluang, al
 
 ---
 
-# Prompt ChatGPT untuk Desain Slide
+## Prompt ChatGPT untuk Desain Slide
 
 ChatGPT tidak menggantikan desainer visual, tetapi bisa membantu memberi arahan desain.
 
@@ -556,7 +556,7 @@ Buatkan 10 ide visual metaphor untuk menjelaskan konsep [konsep]. Setiap ide har
 
 ---
 
-# Prompt ChatGPT untuk Presentasi Data
+## Prompt ChatGPT untuk Presentasi Data
 
 Presentasi data harus jelas, bukan sekadar menampilkan angka.
 
@@ -612,7 +612,7 @@ Data:
 
 ---
 
-# Prompt ChatGPT untuk Presentasi Bisnis
+## Prompt ChatGPT untuk Presentasi Bisnis
 
 Presentasi bisnis harus jelas, ringkas, dan berorientasi keputusan.
 
@@ -653,7 +653,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Pitch Deck
+## Prompt ChatGPT untuk Pitch Deck
 
 Pitch deck harus singkat, tajam, dan meyakinkan.
 
@@ -692,7 +692,7 @@ Pitch deck:
 
 ---
 
-# Prompt ChatGPT untuk Presentasi Edukasi
+## Prompt ChatGPT untuk Presentasi Edukasi
 
 Presentasi edukasi harus mudah dipahami, tidak terlalu padat, dan interaktif.
 
@@ -733,7 +733,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Presentasi Training
+## Prompt ChatGPT untuk Presentasi Training
 
 Training berbeda dari presentasi biasa.
 
@@ -771,7 +771,7 @@ Buatkan form evaluasi training tentang [topik]. Sertakan pertanyaan tentang pema
 
 ---
 
-# Prompt ChatGPT untuk Presentasi Wawancara dan Karier
+## Prompt ChatGPT untuk Presentasi Wawancara dan Karier
 
 Presentasi juga sering dibutuhkan dalam proses kerja dan karier.
 
@@ -818,7 +818,7 @@ Baca juga:
 
 ---
 
-# Prompt ChatGPT untuk Q&A Presentasi
+## Prompt ChatGPT untuk Q&A Presentasi
 
 Q&A sering menentukan kesan akhir.
 
@@ -865,7 +865,7 @@ Presentasi:
 
 ---
 
-# Prompt ChatGPT untuk Latihan Presentasi
+## Prompt ChatGPT untuk Latihan Presentasi
 
 Latihan membuat penyampaian lebih kuat.
 
@@ -910,7 +910,7 @@ Saya gugup sebelum presentasi tentang [topik]. Bantu saya membuat rencana persia
 
 ---
 
-# Prompt ChatGPT untuk Revisi Presentasi
+## Prompt ChatGPT untuk Revisi Presentasi
 
 Presentasi yang baik biasanya melewati beberapa revisi.
 
@@ -961,7 +961,7 @@ Presentasi:
 
 ---
 
-# Workflow Membuat Presentasi dengan ChatGPT
+## Workflow Membuat Presentasi dengan ChatGPT
 
 Berikut workflow praktis dari nol.
 
@@ -1023,7 +1023,7 @@ Audit presentasi ini dari sisi kejelasan, alur, relevansi audiens, risiko data, 
 
 ---
 
-# Kesalahan Menggunakan ChatGPT untuk Presentasi
+## Kesalahan Menggunakan ChatGPT untuk Presentasi
 
 ## 1. Langsung Meminta Slide Final
 
@@ -1075,7 +1075,7 @@ Baca juga:
 
 ---
 
-# Checklist Presentasi dengan ChatGPT
+## Checklist Presentasi dengan ChatGPT
 
 Gunakan checklist berikut.
 
@@ -1097,7 +1097,7 @@ Gunakan checklist berikut.
 
 ---
 
-# Template Prompt Presentasi Serbaguna
+## Template Prompt Presentasi Serbaguna
 
 Gunakan template ini untuk hampir semua jenis presentasi.
 
@@ -1148,7 +1148,7 @@ Tambahkan:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt ChatGPT untuk presentasi?
 
@@ -1180,7 +1180,7 @@ Gunakan ChatGPT untuk membuat script, cue card, estimasi durasi, kemungkinan Q&A
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt ChatGPT untuk presentasi dapat membantu membuat presentasi lebih cepat, rapi, dan terarah.
 
@@ -1214,7 +1214,7 @@ Jika materi presentasi ingin dikembangkan menjadi artikel blog, gunakan panduan 
 
 Untuk workflow lengkap dari prompt menjadi slide siap pakai, lanjutkan ke [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) agar proses outline, isi slide, speaker notes, desain, dan latihan Q&A lebih terarah.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1237,21 +1237,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Karier AI](/kategori/karier-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Karier AI](/karier-ai/)
 
 ---
 
-# Mulai dari Outline, Bukan Slide
+## Mulai dari Outline, Bukan Slide
 
 Jika ingin membuat presentasi dengan ChatGPT, jangan langsung mulai dari desain slide.
 

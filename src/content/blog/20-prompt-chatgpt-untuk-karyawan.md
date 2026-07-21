@@ -68,7 +68,7 @@ Misalnya:
 
 Dengan kombinasi tersebut, hasil yang diperoleh biasanya jauh lebih baik.
 
-# Prompt untuk Email
+## Prompt untuk Email
 
 ## 1. Membuat Email Profesional
 
@@ -86,7 +86,7 @@ Dengan kombinasi tersebut, hasil yang diperoleh biasanya jauh lebih baik.
 
 > Buatkan email permintaan maaf kepada pelanggan karena keterlambatan layanan. Sertakan solusi yang dapat diberikan perusahaan.
 
-# Prompt untuk Laporan
+## Prompt untuk Laporan
 
 ## 5. Membuat Laporan Mingguan
 
@@ -104,7 +104,7 @@ Dengan kombinasi tersebut, hasil yang diperoleh biasanya jauh lebih baik.
 
 > Analisis data berikut dan buatkan ringkasan yang menjelaskan pencapaian utama serta area yang perlu ditingkatkan.
 
-# Prompt untuk Meeting dan Rapat
+## Prompt untuk Meeting dan Rapat
 
 ## 9. Membuat Agenda Rapat
 
@@ -122,7 +122,7 @@ Dengan kombinasi tersebut, hasil yang diperoleh biasanya jauh lebih baik.
 
 > Ringkas hasil diskusi berikut menjadi 5 poin utama yang dapat langsung ditindaklanjuti.
 
-# Prompt untuk Presentasi
+## Prompt untuk Presentasi
 
 ## 13. Membuat Outline Presentasi
 
@@ -140,7 +140,7 @@ Dengan kombinasi tersebut, hasil yang diperoleh biasanya jauh lebih baik.
 
 > Buatkan slide kesimpulan yang merangkum poin-poin penting dan rekomendasi tindakan selanjutnya.
 
-# Prompt untuk Produktivitas Kerja
+## Prompt untuk Produktivitas Kerja
 
 ## 17. Menyusun Prioritas Tugas
 

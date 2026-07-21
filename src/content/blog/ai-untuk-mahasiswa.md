@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu mahasiswa belajar lebih cepat, membaca materi lebih efisien, merangkum jurnal, membuat jadwal belajar, memahami konsep sulit, menyiapkan presentasi, membuat outline tugas, melakukan riset awal, menyusun pertanyaan penelitian, membuat catatan kuliah, dan meningkatkan produktivitas. Namun, AI tidak boleh digunakan untuk menyalin tugas, mengarang sumber, membuat skripsi palsu, atau menggantikan proses berpikir. Cara terbaik menggunakan AI untuk mahasiswa adalah menjadikannya asisten belajar, asisten riset, dan partner berpikir yang tetap dikendalikan manusia.
 
-# AI untuk Mahasiswa
+
 
 Mahasiswa punya banyak tuntutan.
 
@@ -145,7 +145,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Mahasiswa?
+## Apa Itu AI untuk Mahasiswa?
 
 AI untuk mahasiswa adalah penggunaan kecerdasan buatan untuk membantu proses belajar, riset, penulisan, presentasi, produktivitas, dan pengembangan diri selama kuliah.
 
@@ -191,7 +191,7 @@ Mahasiswa yang cerdas menggunakan AI untuk membuat proses belajar lebih terarah.
 
 ---
 
-# Prinsip Menggunakan AI untuk Mahasiswa
+## Prinsip Menggunakan AI untuk Mahasiswa
 
 Sebelum memakai AI, pahami prinsip berikut.
 
@@ -274,7 +274,7 @@ Jika Anda tidak bisa menjelaskan isi tugas saat ditanya, berarti Anda belum bena
 
 ---
 
-# Bagian Kuliah yang Bisa Dibantu AI
+## Bagian Kuliah yang Bisa Dibantu AI
 
 AI bisa membantu banyak kebutuhan mahasiswa.
 
@@ -326,7 +326,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Memahami Materi Kuliah
+## Cara Menggunakan AI untuk Memahami Materi Kuliah
 
 Materi kuliah sering terasa abstrak.
 
@@ -381,7 +381,7 @@ Bukan hanya mesin penjelasan.
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Catatan Kuliah
+## Cara Menggunakan AI untuk Membuat Catatan Kuliah
 
 Catatan kuliah sering berantakan.
 
@@ -437,7 +437,7 @@ Catatan yang rapi membantu belajar sebelum ujian.
 
 ---
 
-# Cara Menggunakan AI untuk Membaca Jurnal
+## Cara Menggunakan AI untuk Membaca Jurnal
 
 Membaca jurnal adalah tantangan besar bagi banyak mahasiswa.
 
@@ -507,7 +507,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Riset Akademik
+## Cara Menggunakan AI untuk Riset Akademik
 
 AI bisa membantu riset akademik, terutama pada tahap awal.
 
@@ -568,7 +568,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Skripsi
+## Cara Menggunakan AI untuk Skripsi
 
 AI bisa membantu skripsi, tetapi harus digunakan dengan sangat hati-hati.
 
@@ -645,7 +645,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Membuat Tugas Kuliah
+## Cara Menggunakan AI untuk Membuat Tugas Kuliah
 
 AI bisa membantu tugas kuliah jika digunakan sebagai pendamping.
 
@@ -704,7 +704,7 @@ Prompt seperti ini menjaga proses belajar.
 
 ---
 
-# Cara Menggunakan AI untuk Presentasi Kuliah
+## Cara Menggunakan AI untuk Presentasi Kuliah
 
 Mahasiswa sering mendapat tugas presentasi.
 
@@ -759,7 +759,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Belajar Ujian
+## Cara Menggunakan AI untuk Belajar Ujian
 
 AI bisa membantu membuat rencana belajar ujian.
 
@@ -822,7 +822,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Produktivitas Mahasiswa
+## Cara Menggunakan AI untuk Produktivitas Mahasiswa
 
 Mahasiswa sering kesulitan mengatur waktu.
 
@@ -880,7 +880,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Magang dan Karier
+## Cara Menggunakan AI untuk Magang dan Karier
 
 Mahasiswa juga bisa memakai AI untuk persiapan karier.
 
@@ -940,7 +940,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Bahasa Inggris Akademik
+## Cara Menggunakan AI untuk Bahasa Inggris Akademik
 
 Banyak mahasiswa harus membaca jurnal bahasa Inggris.
 
@@ -986,7 +986,7 @@ Tetapi jangan gunakan AI untuk membuat argumen palsu.
 
 ---
 
-# Tools AI yang Cocok untuk Mahasiswa
+## Tools AI yang Cocok untuk Mahasiswa
 
 Berikut tools yang bisa membantu mahasiswa.
 
@@ -1085,7 +1085,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk Mahasiswa
+## Template Prompt Lengkap AI untuk Mahasiswa
 
 Gunakan template ini.
 
@@ -1124,7 +1124,7 @@ Bantu saya menyusun langkah belajar dan pengerjaan yang benar.
 
 ---
 
-# Template Prompt untuk Jurnal
+## Template Prompt untuk Jurnal
 
 ```text
 Bantu saya memahami jurnal berikut.
@@ -1149,7 +1149,7 @@ Tugas:
 
 ---
 
-# Template Prompt untuk Skripsi
+## Template Prompt untuk Skripsi
 
 ```text
 Saya sedang menyiapkan skripsi.
@@ -1180,7 +1180,7 @@ Jangan mengarang referensi.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Mahasiswa
+## Kesalahan Menggunakan AI untuk Mahasiswa
 
 ## 1. Menyalin Jawaban AI Mentah-Mentah
 
@@ -1228,7 +1228,7 @@ Bukan membuat Anda tidak bisa berpikir tanpa AI.
 
 ---
 
-# Checklist AI untuk Mahasiswa
+## Checklist AI untuk Mahasiswa
 
 Gunakan checklist ini.
 
@@ -1249,7 +1249,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Mulai AI untuk Mahasiswa
+## Rencana 7 Hari Mulai AI untuk Mahasiswa
 
 Jika Anda baru mulai memakai AI, gunakan rencana ini.
 
@@ -1293,7 +1293,7 @@ Minta AI membantu menyusun jadwal minggu depan berdasarkan deadline.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa manfaat AI untuk mahasiswa?
 
@@ -1325,7 +1325,7 @@ Ya. AI bisa membantu review CV, cover letter, latihan interview, memahami job de
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk mahasiswa sangat berguna jika digunakan dengan benar.
 
@@ -1383,7 +1383,7 @@ Dengan pendekatan yang benar, AI bisa membantu mahasiswa belajar lebih terarah, 
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1409,22 +1409,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 
 ---
 
-# Mulai dari Satu Tugas Kuliah
+## Mulai dari Satu Tugas Kuliah
 
 Jangan langsung memakai AI untuk semua hal.
 

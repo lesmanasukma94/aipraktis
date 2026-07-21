@@ -23,7 +23,7 @@ draft: false
 
 Portofolio AI adalah bukti nyata bahwa Anda bisa menggunakan AI untuk menyelesaikan masalah, bukan sekadar memakai tools. Untuk pemula, portofolio AI tidak harus berupa aplikasi rumit atau project machine learning. Portofolio bisa berupa workflow AI untuk membuat konten, template customer service, sistem follow-up sales, dashboard sederhana, riset kompetitor, materi ajar, SOP penggunaan AI, atau studi kasus penerapan AI untuk UMKM. Yang penting adalah project tersebut punya masalah yang jelas, proses yang terdokumentasi, tools yang digunakan, hasil akhir, dan dampak yang bisa dijelaskan.
 
-# Cara Membangun Portofolio AI
+
 
 Banyak orang sekarang menulis di CV:
 
@@ -112,7 +112,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Portofolio AI?
+## Apa Itu Portofolio AI?
 
 Portofolio AI adalah kumpulan project yang menunjukkan kemampuan Anda menggunakan AI untuk menyelesaikan tugas, membuat workflow, menghasilkan output, atau meningkatkan proses kerja.
 
@@ -178,7 +178,7 @@ Apa yang akan diperbaiki berikutnya?
 
 ---
 
-# Mengapa Portofolio AI Penting?
+## Mengapa Portofolio AI Penting?
 
 Portofolio AI penting karena skill AI sulit dinilai hanya dari kata-kata.
 
@@ -247,7 +247,7 @@ Ini membantu Anda dikenal sebagai orang yang serius belajar AI.
 
 ---
 
-# Prinsip Portofolio AI yang Baik
+## Prinsip Portofolio AI yang Baik
 
 Sebelum membuat project, pahami prinsip berikut.
 
@@ -357,7 +357,7 @@ Ini menunjukkan Anda berpikir kritis.
 
 ---
 
-# Struktur Portofolio AI yang Disarankan
+## Struktur Portofolio AI yang Disarankan
 
 Gunakan struktur berikut untuk setiap project.
 
@@ -480,7 +480,7 @@ Tahap berikutnya adalah mengubah FAQ menjadi chatbot sederhana untuk website ata
 
 ---
 
-# Jenis Portofolio AI untuk Pemula
+## Jenis Portofolio AI untuk Pemula
 
 Berikut jenis portofolio yang bisa dibuat.
 
@@ -683,7 +683,7 @@ Baca juga:
 
 ---
 
-# 10 Ide Project Portofolio AI untuk Pemula
+## 10 Ide Project Portofolio AI untuk Pemula
 
 Berikut ide project yang bisa langsung dibuat.
 
@@ -983,7 +983,7 @@ Manfaat:
 
 ---
 
-# Cara Mendokumentasikan Project AI
+## Cara Mendokumentasikan Project AI
 
 Dokumentasi adalah bagian paling penting dalam portofolio.
 
@@ -1092,7 +1092,7 @@ Tahap berikutnya adalah mengubah FAQ menjadi chatbot sederhana dan menghubungkan
 
 ---
 
-# Cara Membuat Halaman Portofolio AI
+## Cara Membuat Halaman Portofolio AI
 
 Anda bisa membuat portofolio di beberapa tempat.
 
@@ -1171,7 +1171,7 @@ Gunakan LinkedIn untuk:
 
 ---
 
-# Struktur README untuk Project AI
+## Struktur README untuk Project AI
 
 Jika memakai GitHub atau folder project, buat README yang jelas.
 
@@ -1220,7 +1220,7 @@ Jangan biarkan folder project kosong tanpa penjelasan.
 
 ---
 
-# Cara Menampilkan Prompt dalam Portofolio
+## Cara Menampilkan Prompt dalam Portofolio
 
 Prompt adalah bagian penting dari portofolio AI.
 
@@ -1256,7 +1256,7 @@ Baca juga:
 
 ---
 
-# Cara Menulis Portofolio AI di CV
+## Cara Menulis Portofolio AI di CV
 
 Di CV, jangan hanya menulis tools.
 
@@ -1305,7 +1305,7 @@ Baca juga:
 
 ---
 
-# Cara Menjelaskan Portofolio AI Saat Interview
+## Cara Menjelaskan Portofolio AI Saat Interview
 
 Saat interview, jangan hanya berkata:
 
@@ -1335,7 +1335,7 @@ Jawaban seperti ini menunjukkan:
 
 ---
 
-# Portofolio AI untuk Freelance
+## Portofolio AI untuk Freelance
 
 Jika ingin freelance, portofolio harus lebih dekat dengan kebutuhan klien.
 
@@ -1395,7 +1395,7 @@ Baca juga:
 
 ---
 
-# Portofolio AI untuk Fresh Graduate
+## Portofolio AI untuk Fresh Graduate
 
 Fresh graduate bisa membuat portofolio meskipun belum punya pengalaman kerja.
 
@@ -1431,7 +1431,7 @@ Baca juga:
 
 ---
 
-# Portofolio AI untuk Karyawan
+## Portofolio AI untuk Karyawan
 
 Karyawan bisa membuat portofolio internal.
 
@@ -1467,7 +1467,7 @@ Data pada portofolio ini sudah dianonimkan dan tidak menampilkan informasi perus
 
 ---
 
-# Kesalahan dalam Membangun Portofolio AI
+## Kesalahan dalam Membangun Portofolio AI
 
 ## 1. Hanya Menampilkan Tools
 
@@ -1521,7 +1521,7 @@ Project lama perlu disempurnakan.
 
 ---
 
-# Checklist Portofolio AI
+## Checklist Portofolio AI
 
 Gunakan checklist ini.
 
@@ -1544,7 +1544,7 @@ Gunakan checklist ini.
 
 ---
 
-# Roadmap 30 Hari Membangun Portofolio AI
+## Roadmap 30 Hari Membangun Portofolio AI
 
 Jika Anda mulai dari nol, ikuti roadmap ini.
 
@@ -1634,7 +1634,7 @@ Perbaiki.
 
 ---
 
-# Template Prompt Membuat Ide Portofolio AI
+## Template Prompt Membuat Ide Portofolio AI
 
 Gunakan prompt ini.
 
@@ -1668,7 +1668,7 @@ Bantu saya membuat:
 
 ---
 
-# Template Prompt Dokumentasi Project AI
+## Template Prompt Dokumentasi Project AI
 
 ```text
 Bantu saya menulis dokumentasi project portofolio AI.
@@ -1712,7 +1712,7 @@ Profesional, jelas, dan mudah dipahami recruiter atau klien.
 
 ---
 
-# Template Prompt Review Portofolio AI
+## Template Prompt Review Portofolio AI
 
 ```text
 Review portofolio AI saya.
@@ -1740,7 +1740,7 @@ Berikan:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu portofolio AI?
 
@@ -1772,7 +1772,7 @@ Gunakan format berbasis hasil: “Membuat [project] menggunakan [tools] untuk [t
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Portofolio AI adalah bukti kemampuan.
 
@@ -1838,7 +1838,7 @@ Itulah cara paling realistis membangun portofolio AI untuk kerja, freelance, dan
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Studi kasus UMKM dapat menjadi project portofolio AI yang kuat. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh masalah, workflow, prompt, output, dan hasil yang bisa didokumentasikan.
 
@@ -1870,23 +1870,23 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
 
 ---
 
-# Mulai dari Satu Project Kecil
+## Mulai dari Satu Project Kecil
 
 Jangan menunggu sampai skill Anda sempurna.
 

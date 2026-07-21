@@ -24,7 +24,7 @@ Banyak programmer mulai beralih dari Visual Studio Code ke Cursor karena kemampu
 
 Jika Anda baru mengenal Cursor AI, artikel ini akan memandu Anda mulai dari instalasi hingga cara memanfaatkan fitur-fiturnya secara maksimal.
 
-# Apa Itu Cursor AI?
+## Apa Itu Cursor AI?
 
 Cursor AI adalah editor kode modern yang dibangun di atas Visual Studio Code dan dilengkapi kemampuan Artificial Intelligence.
 
@@ -40,7 +40,7 @@ Berbeda dengan editor biasa, Cursor mampu:
 
 Karena tampilannya sangat mirip VS Code, pengguna tidak memerlukan waktu lama untuk beradaptasi.
 
-# Mengapa Banyak Developer Menggunakan Cursor AI?
+## Mengapa Banyak Developer Menggunakan Cursor AI?
 
 Beberapa alasan utama:
 
@@ -53,7 +53,7 @@ Beberapa alasan utama:
 
 Bagi banyak developer, Cursor bukan sekadar editor, tetapi menjadi pasangan kerja (AI pair programmer).
 
-# Cara Menginstal Cursor AI
+## Cara Menginstal Cursor AI
 
 Langkah-langkah instalasi:
 
@@ -65,7 +65,7 @@ Langkah-langkah instalasi:
 
 Dalam beberapa menit Cursor sudah siap digunakan.
 
-# Mengenal Tampilan Cursor AI
+## Mengenal Tampilan Cursor AI
 
 Beberapa bagian penting:
 
@@ -78,7 +78,7 @@ Beberapa bagian penting:
 
 Jika Anda pernah menggunakan Visual Studio Code, tampilannya akan terasa sangat familiar.
 
-# Cara Membuat Project Baru
+## Cara Membuat Project Baru
 
 Sebagai contoh membuat project sederhana.
 
@@ -90,7 +90,7 @@ Sebagai contoh membuat project sederhana.
 
 Pada tahap ini Anda sudah dapat meminta bantuan AI.
 
-# Cara Menggunakan AI Chat
+## Cara Menggunakan AI Chat
 
 Salah satu fitur terbaik Cursor adalah AI Chat.
 
@@ -106,7 +106,7 @@ Contoh pertanyaan:
 
 AI akan memberikan jawaban lengkap beserta perubahan kode yang relevan.
 
-# Cara Menulis Kode Menggunakan AI
+## Cara Menulis Kode Menggunakan AI
 
 Misalnya Anda ingin membuat REST API.
 
@@ -118,7 +118,7 @@ Cursor akan menghasilkan struktur kode yang dapat langsung digunakan.
 
 Namun tetap lakukan review sebelum menggunakannya pada project produksi.
 
-# Cara Memperbaiki Error
+## Cara Memperbaiki Error
 
 Ketika terjadi error:
 
@@ -130,7 +130,7 @@ Ketika terjadi error:
 
 Pendekatan ini biasanya jauh lebih cepat dibanding mencari solusi secara manual.
 
-# Cara Melakukan Refactoring
+## Cara Melakukan Refactoring
 
 Cursor dapat membantu:
 
@@ -141,7 +141,7 @@ Cursor dapat membantu:
 
 Refactoring menjadi lebih aman karena AI memahami konteks project.
 
-# Cara Memahami Codebase Besar
+## Cara Memahami Codebase Besar
 
 Bagi developer yang bergabung pada project lama, Cursor sangat membantu.
 
@@ -155,7 +155,7 @@ Anda dapat bertanya:
 
 Cursor akan membaca seluruh project dan memberikan penjelasan yang mudah dipahami.
 
-# Bahasa Pemrograman yang Didukung
+## Bahasa Pemrograman yang Didukung
 
 Cursor mendukung hampir semua bahasa populer seperti:
 
@@ -172,7 +172,7 @@ Cursor mendukung hampir semua bahasa populer seperti:
 * CSS
 * SQL
 
-# Tips Menggunakan Cursor AI
+## Tips Menggunakan Cursor AI
 
 Agar hasil lebih maksimal:
 
@@ -182,7 +182,7 @@ Agar hasil lebih maksimal:
 * Gunakan AI untuk memahami, bukan sekadar menyalin.
 * Simpan perubahan menggunakan Git sebelum melakukan refactoring besar.
 
-# Kelebihan Cursor AI
+## Kelebihan Cursor AI
 
 Beberapa keunggulannya:
 
@@ -193,7 +193,7 @@ Beberapa keunggulannya:
 * Produktivitas meningkat.
 * Mendukung berbagai model AI.
 
-# Kekurangan Cursor AI
+## Kekurangan Cursor AI
 
 Beberapa hal yang perlu diperhatikan:
 
@@ -201,7 +201,7 @@ Beberapa hal yang perlu diperhatikan:
 * Versi gratis memiliki batas penggunaan.
 * Tetap membutuhkan kemampuan dasar pemrograman untuk mengevaluasi hasil AI.
 
-# FAQ
+## FAQ
 
 ## Apakah Cursor AI gratis?
 
@@ -232,7 +232,7 @@ Baca juga:
 - [Cara Belajar Prompt Engineering](/blog/cara-belajar-prompt-engineering/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 Cursor AI merupakan salah satu editor kode berbasis Artificial Intelligence terbaik saat ini. Dengan fitur seperti AI Chat, auto-complete cerdas, debugging, dan pemahaman codebase, Cursor mampu membantu developer bekerja lebih cepat dan lebih efisien.
 

@@ -33,7 +33,7 @@ Dengan bantuan AI, Anda dapat:
 
 Dalam artikel ini Anda akan mempelajari cara membuat CV menggunakan AI langkah demi langkah.
 
-# Apa Itu CV ATS Friendly?
+## Apa Itu CV ATS Friendly?
 
 Banyak perusahaan menggunakan ATS (Applicant Tracking System) untuk menyaring kandidat.
 
@@ -49,7 +49,7 @@ CV yang tidak sesuai format ATS sering kali tidak lolos tahap awal.
 
 Karena itu AI dapat membantu membuat CV yang lebih mudah dibaca oleh sistem ATS.
 
-# Mengapa Menggunakan AI untuk Membuat CV?
+## Mengapa Menggunakan AI untuk Membuat CV?
 
 ## Lebih Cepat
 
@@ -67,9 +67,9 @@ AI membantu mengoptimalkan kata kunci yang dicari perusahaan.
 
 Sangat membantu fresh graduate yang belum pernah membuat CV.
 
-# Tools AI Terbaik untuk Membuat CV
+## Tools AI Terbaik untuk Membuat CV
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT sangat membantu dalam:
 
@@ -81,7 +81,7 @@ Contoh prompt:
 
 > Buatkan CV untuk posisi Digital Marketing Specialist dengan pengalaman 2 tahun.
 
-# 2. Canva AI
+## 2. Canva AI
 
 Canva menyediakan template CV profesional yang mudah digunakan.
 
@@ -91,7 +91,7 @@ Kelebihan:
 * ATS friendly
 * Mudah diedit
 
-# 3. Rezi
+## 3. Rezi
 
 Rezi dirancang khusus untuk membuat CV ATS Friendly.
 
@@ -101,7 +101,7 @@ Fitur:
 * ATS scoring
 * Resume builder
 
-# 4. Kickresume
+## 4. Kickresume
 
 Kickresume menggunakan AI untuk membuat CV dan surat lamaran.
 
@@ -111,7 +111,7 @@ Cocok untuk:
 * Profesional
 * Freelancer
 
-# 5. Resume.io
+## 5. Resume.io
 
 Resume.io membantu membuat CV profesional dengan cepat.
 
@@ -120,15 +120,15 @@ Kelebihan:
 * Template siap pakai
 * Mudah digunakan
 
-# 6. Teal
+## 6. Teal
 
 Teal membantu menyesuaikan CV dengan lowongan pekerjaan tertentu.
 
 Sangat berguna untuk pencari kerja aktif.
 
-# Cara Membuat CV dengan AI Langkah Demi Langkah
+## Cara Membuat CV dengan AI Langkah Demi Langkah
 
-# Langkah 1: Kumpulkan Informasi
+## Langkah 1: Kumpulkan Informasi
 
 Siapkan:
 
@@ -138,7 +138,7 @@ Siapkan:
 * Keahlian
 * Sertifikasi
 
-# Langkah 2: Buat Ringkasan Profesional
+## Langkah 2: Buat Ringkasan Profesional
 
 Gunakan ChatGPT.
 
@@ -150,7 +150,7 @@ Contoh hasil:
 
 > Fresh graduate Teknik Informatika dengan minat pada analisis data, visualisasi data, dan pemecahan masalah berbasis data.
 
-# Langkah 3: Tulis Pengalaman Kerja
+## Langkah 3: Tulis Pengalaman Kerja
 
 Prompt:
 
@@ -160,7 +160,7 @@ Masukkan pengalaman Anda.
 
 AI akan membantu memperbaiki penulisannya.
 
-# Langkah 4: Tambahkan Skill
+## Langkah 4: Tambahkan Skill
 
 Contoh:
 
@@ -172,7 +172,7 @@ Contoh:
 
 Sesuaikan dengan posisi yang dilamar.
 
-# Langkah 5: Sesuaikan dengan Lowongan
+## Langkah 5: Sesuaikan dengan Lowongan
 
 Masukkan deskripsi pekerjaan ke ChatGPT.
 
@@ -180,7 +180,7 @@ Prompt:
 
 > Sesuaikan CV saya agar lebih relevan dengan posisi Social Media Specialist.
 
-# Langkah 6: Gunakan Template Profesional
+## Langkah 6: Gunakan Template Profesional
 
 Gunakan:
 
@@ -190,7 +190,7 @@ Gunakan:
 
 Pilih desain yang sederhana dan profesional.
 
-# Cara Membuat CV ATS Friendly dengan AI
+## Cara Membuat CV ATS Friendly dengan AI
 
 Beberapa tips:
 
@@ -216,7 +216,7 @@ Lebih baik:
 
 > Meningkatkan engagement Instagram sebesar 45% dalam 6 bulan.
 
-# Cara Membuat CV untuk Fresh Graduate
+## Cara Membuat CV untuk Fresh Graduate
 
 Fresh graduate sering kali belum memiliki pengalaman kerja.
 
@@ -230,7 +230,7 @@ Fokus pada:
 
 AI dapat membantu menyusun pengalaman tersebut menjadi lebih menarik.
 
-# Cara Membuat CV untuk Freelancer
+## Cara Membuat CV untuk Freelancer
 
 Freelancer dapat menampilkan:
 
@@ -241,7 +241,7 @@ Freelancer dapat menampilkan:
 
 AI membantu menuliskan pencapaian secara profesional.
 
-# Cara Membuat CV untuk Karier AI
+## Cara Membuat CV untuk Karier AI
 
 Jika ingin masuk industri AI:
 
@@ -256,7 +256,7 @@ Tambahkan:
 
 Ini dapat meningkatkan peluang diterima pada posisi terkait AI.
 
-# Kesalahan Saat Membuat CV
+## Kesalahan Saat Membuat CV
 
 ## Terlalu Panjang
 
@@ -276,7 +276,7 @@ Selalu periksa kembali sebelum mengirim.
 
 ---
 
-# Cara Membuat CV dengan AI dari Nol
+## Cara Membuat CV dengan AI dari Nol
 
 AI bisa membantu membuat CV lebih cepat, tetapi CV tetap harus berdasarkan pengalaman asli.
 
@@ -303,7 +303,7 @@ Baca juga:
 
 ---
 
-# Struktur CV yang Baik
+## Struktur CV yang Baik
 
 Sebelum memakai AI, pahami dulu struktur CV yang umum digunakan.
 
@@ -330,7 +330,7 @@ Untuk freelancer, bagian portofolio dan hasil project bisa menjadi fokus utama.
 
 ---
 
-# Data yang Perlu Disiapkan Sebelum Membuat CV dengan AI
+## Data yang Perlu Disiapkan Sebelum Membuat CV dengan AI
 
 Sebelum meminta AI membuat CV, siapkan data berikut.
 
@@ -383,7 +383,7 @@ Buatkan CV untuk saya.
 
 ---
 
-# Prompt Membuat CV dengan AI
+## Prompt Membuat CV dengan AI
 
 Gunakan prompt berikut.
 
@@ -449,7 +449,7 @@ Buat versi maksimal 1 halaman.
 
 ---
 
-# Cara Membuat Ringkasan Profil CV dengan AI
+## Cara Membuat Ringkasan Profil CV dengan AI
 
 Ringkasan profil adalah bagian singkat di awal CV.
 
@@ -496,7 +496,7 @@ Ringkasan ini jelas karena menyebut latar belakang, pengalaman, skill, dan arah 
 
 ---
 
-# Cara Menulis Pengalaman Kerja dengan AI
+## Cara Menulis Pengalaman Kerja dengan AI
 
 Bagian pengalaman kerja sebaiknya tidak hanya berisi daftar tugas.
 
@@ -555,7 +555,7 @@ Angka membuat CV lebih kuat jika memang benar.
 
 ---
 
-# Cara Menyesuaikan CV dengan Lowongan Kerja
+## Cara Menyesuaikan CV dengan Lowongan Kerja
 
 Satu CV tidak selalu cocok untuk semua lowongan.
 
@@ -595,7 +595,7 @@ Lebih baik tulis sebagai minat belajar atau sedang dipelajari jika relevan.
 
 ---
 
-# CV untuk Fresh Graduate dengan AI
+## CV untuk Fresh Graduate dengan AI
 
 Fresh graduate sering merasa CV kosong karena belum punya pengalaman kerja formal.
 
@@ -657,7 +657,7 @@ Baca juga:
 
 ---
 
-# CV untuk Career Switcher dengan AI
+## CV untuk Career Switcher dengan AI
 
 Career switcher adalah orang yang ingin pindah bidang kerja.
 
@@ -720,7 +720,7 @@ CV career switcher harus menjelaskan hubungan antara pengalaman lama dan posisi 
 
 ---
 
-# CV untuk Freelancer dengan AI
+## CV untuk Freelancer dengan AI
 
 Freelancer bisa memakai CV atau portofolio profil untuk mencari klien.
 
@@ -774,7 +774,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Membuat CV dengan AI
+## Kesalahan Membuat CV dengan AI
 
 ## 1. Membuat Pengalaman Palsu
 
@@ -820,7 +820,7 @@ AI bisa membantu menulis, tetapi Anda tetap harus mengecek typo, format, nama pe
 
 ---
 
-# Checklist CV Sebelum Dikirim
+## Checklist CV Sebelum Dikirim
 
 Gunakan checklist ini.
 
@@ -851,7 +851,7 @@ Nama file yang rapi memberi kesan profesional.
 
 ---
 
-# Prompt Review CV dengan AI
+## Prompt Review CV dengan AI
 
 Setelah CV selesai, gunakan AI untuk review.
 
@@ -888,7 +888,7 @@ Prompt review ini membantu menemukan kelemahan CV sebelum dikirim.
 
 ---
 
-# Prompt Master Membuat CV dengan AI
+## Prompt Master Membuat CV dengan AI
 
 Gunakan prompt master berikut.
 
@@ -924,7 +924,7 @@ Jika membutuhkan angka, gunakan placeholder [angka] dan minta saya melengkapinya
 Gunakan bahasa profesional, jelas, dan tidak berlebihan.
 ```
 
-# Prompt Membuat CV Bahasa Inggris
+## Prompt Membuat CV Bahasa Inggris
 
 Gunakan prompt ini jika ingin membuat CV bahasa Inggris.
 
@@ -958,7 +958,7 @@ Use natural, professional English.
 If numbers are needed, use placeholders like [number] or [percentage].
 ```
 
-# Prompt Membuat Bullet Point CV yang Lebih Kuat
+## Prompt Membuat Bullet Point CV yang Lebih Kuat
 
 Gunakan prompt ini untuk memperbaiki pengalaman kerja.
 
@@ -982,7 +982,7 @@ Jangan membuat data palsu.
 Gunakan placeholder jika membutuhkan angka.
 ```
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat CV otomatis?
 
@@ -1013,7 +1013,7 @@ Baca juga:
 - [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI membuat proses pembuatan CV menjadi jauh lebih mudah dan cepat. Dengan menggunakan ChatGPT, Canva AI, Rezi, dan tools lainnya, Anda dapat membuat CV profesional yang lebih menarik dan ATS Friendly.
 

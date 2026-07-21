@@ -28,7 +28,7 @@ Karena itulah semakin banyak developer, freelancer, founder startup, dan pebisni
 
 Dalam artikel ini Anda akan mempelajari cara membuat SaaS AI dari nol, tools yang digunakan, model bisnis yang populer, hingga strategi monetisasi yang digunakan startup AI modern.
 
-# Apa Itu SaaS AI?
+## Apa Itu SaaS AI?
 
 SaaS adalah singkatan dari:
 
@@ -53,7 +53,7 @@ Contoh:
 * Grammarly
 * Midjourney
 
-# Mengapa SaaS AI Sangat Menarik?
+## Mengapa SaaS AI Sangat Menarik?
 
 Ada beberapa alasan mengapa banyak orang membangun SaaS AI.
 
@@ -73,35 +73,35 @@ Tidak memerlukan banyak staf.
 
 AI masih berada dalam fase pertumbuhan yang sangat cepat.
 
-# Contoh Ide SaaS AI
+## Contoh Ide SaaS AI
 
-# AI Content Writer
+## AI Content Writer
 
 Membantu menulis artikel, email, dan konten marketing.
 
-# AI Resume Builder
+## AI Resume Builder
 
 Membuat CV otomatis.
 
-# AI Customer Service
+## AI Customer Service
 
 Membantu bisnis menjawab pelanggan.
 
-# AI Social Media Assistant
+## AI Social Media Assistant
 
 Membantu membuat konten media sosial.
 
-# AI SEO Assistant
+## AI SEO Assistant
 
 Membantu riset keyword dan optimasi artikel.
 
-# AI Tutor
+## AI Tutor
 
 Membantu proses belajar.
 
-# Langkah-Langkah Membuat SaaS AI
+## Langkah-Langkah Membuat SaaS AI
 
-# Langkah 1: Cari Masalah yang Nyata
+## Langkah 1: Cari Masalah yang Nyata
 
 Kesalahan terbesar founder pemula adalah membangun produk tanpa memahami kebutuhan pasar.
 
@@ -115,7 +115,7 @@ Contoh:
 * Mahasiswa kesulitan merangkum jurnal
 * Sales kesulitan menulis email
 
-# Langkah 2: Validasi Ide
+## Langkah 2: Validasi Ide
 
 Sebelum membuat produk:
 
@@ -125,7 +125,7 @@ Sebelum membuat produk:
 
 Tujuannya memastikan ada permintaan nyata.
 
-# Langkah 3: Pilih Model AI
+## Langkah 3: Pilih Model AI
 
 Saat ini pilihan paling populer:
 
@@ -149,7 +149,7 @@ Contoh:
 * Mistral
 * DeepSeek
 
-# Langkah 4: Bangun MVP
+## Langkah 4: Bangun MVP
 
 MVP adalah:
 
@@ -161,7 +161,7 @@ Jangan langsung membuat produk besar.
 
 Fokus pada satu masalah terlebih dahulu.
 
-# Langkah 5: Tambahkan Sistem Berlangganan
+## Langkah 5: Tambahkan Sistem Berlangganan
 
 Model SaaS biasanya menggunakan:
 
@@ -174,37 +174,37 @@ Tools populer:
 * Lemon Squeezy
 * Paddle
 
-# Tools Terbaik untuk Membuat SaaS AI
+## Tools Terbaik untuk Membuat SaaS AI
 
-# 1. OpenAI API
+## 1. OpenAI API
 
 Digunakan oleh banyak startup AI.
 
-# 2. Claude API
+## 2. Claude API
 
 Cocok untuk aplikasi berbasis dokumen.
 
-# 3. Gemini API
+## 3. Gemini API
 
 Pilihan menarik bagi pengguna Google.
 
-# 4. Bubble
+## 4. Bubble
 
 No-code builder yang sangat populer.
 
-# 5. FlutterFlow
+## 5. FlutterFlow
 
 Untuk aplikasi mobile.
 
-# 6. Supabase
+## 6. Supabase
 
 Database modern untuk startup.
 
-# 7. Vercel
+## 7. Vercel
 
 Hosting populer untuk SaaS modern.
 
-# Cara Membuat SaaS AI Tanpa Coding
+## Cara Membuat SaaS AI Tanpa Coding
 
 Saat ini banyak founder non-teknis berhasil membangun SaaS menggunakan:
 
@@ -220,7 +220,7 @@ Workflow sederhana:
 3. Tambahkan pembayaran
 4. Publikasikan
 
-# Cara Membuat SaaS AI dengan Coding
+## Cara Membuat SaaS AI dengan Coding
 
 Stack populer:
 
@@ -245,7 +245,7 @@ AI:
 * Claude
 * Gemini
 
-# Cara Mendapatkan Pengguna Pertama
+## Cara Mendapatkan Pengguna Pertama
 
 Banyak SaaS gagal bukan karena produknya buruk, tetapi karena tidak memiliki pengguna.
 
@@ -267,13 +267,13 @@ Reddit, Discord, Facebook Group.
 
 Tempat populer untuk peluncuran startup.
 
-# Cara Monetisasi SaaS AI
+## Cara Monetisasi SaaS AI
 
-# Paket Gratis
+## Paket Gratis
 
 Menarik pengguna baru.
 
-# Paket Berbayar
+## Paket Berbayar
 
 Contoh:
 
@@ -281,19 +281,19 @@ Contoh:
 * Pro
 * Business
 
-# Paket Enterprise
+## Paket Enterprise
 
 Untuk perusahaan besar.
 
-# Affiliate
+## Affiliate
 
 Menawarkan program afiliasi.
 
-# White Label
+## White Label
 
 Produk digunakan oleh bisnis lain dengan branding mereka sendiri.
 
-# Berapa Modal Membuat SaaS AI?
+## Berapa Modal Membuat SaaS AI?
 
 Biaya awal relatif kecil.
 
@@ -311,7 +311,7 @@ AI API:
 
 Banyak SaaS AI dapat dibangun dengan modal yang jauh lebih rendah dibanding bisnis tradisional.
 
-# Kesalahan yang Harus Dihindari
+## Kesalahan yang Harus Dihindari
 
 ## Terlalu Banyak Fitur
 
@@ -329,7 +329,7 @@ Model bisnis harus jelas sejak awal.
 
 Pengalaman pengguna sangat penting.
 
-# Peluang Bisnis SaaS AI di Indonesia
+## Peluang Bisnis SaaS AI di Indonesia
 
 Pasar Indonesia masih sangat terbuka.
 
@@ -344,7 +344,7 @@ Peluang besar ada di:
 
 Masih banyak masalah yang belum memiliki solusi AI lokal.
 
-# FAQ
+## FAQ
 
 ## Apakah saya bisa membuat SaaS AI tanpa coding?
 
@@ -375,7 +375,7 @@ Baca juga:
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
 
-# Kesimpulan
+## Kesimpulan
 
 SaaS AI merupakan salah satu peluang bisnis digital paling menarik saat ini. Dengan bantuan OpenAI, Claude, Gemini, dan berbagai platform modern, siapa pun dapat membangun produk AI yang membantu pengguna menyelesaikan masalah nyata.
 

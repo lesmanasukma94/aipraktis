@@ -287,7 +287,7 @@ Karena itulah AI Content Editor diperkirakan menjadi salah satu profesi baru yan
 
 ---
 
-# Tugas Utama AI Content Editor
+## Tugas Utama AI Content Editor
 
 AI content editor bukan hanya orang yang memakai AI untuk menulis.
 
@@ -325,7 +325,7 @@ Baca juga:
 
 ---
 
-# Skill yang Dibutuhkan AI Content Editor
+## Skill yang Dibutuhkan AI Content Editor
 
 Untuk menjadi AI content editor, Anda tidak harus menjadi programmer.
 
@@ -478,7 +478,7 @@ Baca juga:
 
 ---
 
-# Workflow Kerja AI Content Editor
+## Workflow Kerja AI Content Editor
 
 Berikut workflow sederhana yang bisa digunakan.
 
@@ -611,7 +611,7 @@ Tools ini dapat membantu mempercepat proses promosi, tetapi hasil penjualan teta
 
 ---
 
-# Checklist AI Content Editor Sebelum Publish
+## Checklist AI Content Editor Sebelum Publish
 
 Gunakan checklist ini.
 
@@ -648,7 +648,7 @@ artikel terkait sesuai
 
 ---
 
-# Contoh Prompt untuk AI Content Editor
+## Contoh Prompt untuk AI Content Editor
 
 Gunakan prompt berikut untuk mengedit artikel.
 
@@ -683,7 +683,7 @@ Artikel:
 [tempel artikel]
 ```
 
-# Kesalahan AI Content Editor Pemula
+## Kesalahan AI Content Editor Pemula
 
 ## 1. Terlalu Percaya Output AI
 

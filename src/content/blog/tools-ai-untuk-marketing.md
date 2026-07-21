@@ -24,7 +24,7 @@ Tidak heran jika semakin banyak marketer, UMKM, freelancer, dan perusahaan mulai
 
 Dalam artikel ini Anda akan menemukan tools AI terbaik untuk marketing yang dapat digunakan untuk content marketing, SEO, email marketing, social media marketing, hingga digital advertising.
 
-# Mengapa Marketing Membutuhkan AI?
+## Mengapa Marketing Membutuhkan AI?
 
 AI dapat membantu:
 
@@ -39,7 +39,7 @@ AI dapat membantu:
 
 AI bukan pengganti marketer, tetapi alat bantu yang membuat pekerjaan marketing menjadi lebih efektif.
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT menjadi salah satu tools AI marketing paling populer saat ini.
 
@@ -56,7 +56,7 @@ Contoh prompt:
 
 > Buatkan 10 ide konten Instagram untuk bisnis fashion wanita.
 
-# 2. Google Gemini
+## 2. Google Gemini
 
 Gemini sangat membantu untuk riset pasar dan pencarian tren terbaru.
 
@@ -66,7 +66,7 @@ Kelebihan:
 * Integrasi Google
 * Cocok untuk riset konten
 
-# 3. Jasper AI
+## 3. Jasper AI
 
 Jasper dikenal sebagai salah satu AI khusus marketing.
 
@@ -77,7 +77,7 @@ Cocok untuk:
 * Iklan Facebook
 * Google Ads
 
-# 4. Copy.ai
+## 4. Copy.ai
 
 Copy.ai membantu membuat berbagai jenis copy marketing.
 
@@ -88,7 +88,7 @@ Fungsi:
 * Email promosi
 * Copy iklan
 
-# 5. Canva AI
+## 5. Canva AI
 
 Canva membantu marketer membuat desain dengan cepat.
 
@@ -99,7 +99,7 @@ Kegunaan:
 * Presentasi bisnis
 * Materi iklan
 
-# 6. Surfer SEO
+## 6. Surfer SEO
 
 Surfer SEO membantu optimasi konten agar lebih mudah masuk halaman pertama Google.
 
@@ -111,7 +111,7 @@ Fitur:
 
 Sangat cocok untuk content marketing.
 
-# 7. Semrush AI
+## 7. Semrush AI
 
 Semrush menjadi salah satu tools SEO dan digital marketing terbaik.
 
@@ -122,7 +122,7 @@ Fungsi:
 * SEO audit
 * Content planning
 
-# 8. Ahrefs
+## 8. Ahrefs
 
 Ahrefs sangat populer di kalangan digital marketer.
 
@@ -132,7 +132,7 @@ Manfaat:
 * Analisis backlink
 * Analisis kompetitor
 
-# 9. Notion AI
+## 9. Notion AI
 
 Notion AI membantu tim marketing mengelola proyek dan ide konten.
 
@@ -142,7 +142,7 @@ Cocok untuk:
 * Campaign planning
 * Dokumentasi tim
 
-# 10. Perplexity AI
+## 10. Perplexity AI
 
 Perplexity membantu marketer melakukan riset pasar dengan cepat.
 
@@ -152,7 +152,7 @@ Kelebihan:
 * Informasi terbaru
 * Cocok untuk content research
 
-# 11. Midjourney
+## 11. Midjourney
 
 Midjourney digunakan untuk membuat visual marketing berkualitas tinggi.
 
@@ -162,7 +162,7 @@ Cocok untuk:
 * Landing page
 * Media sosial
 
-# 12. Leonardo AI
+## 12. Leonardo AI
 
 Alternatif Midjourney yang populer.
 
@@ -172,7 +172,7 @@ Banyak digunakan untuk:
 * Branding
 * Visual campaign
 
-# 13. Opus Clip
+## 13. Opus Clip
 
 Opus Clip mengubah video panjang menjadi video pendek otomatis.
 
@@ -182,7 +182,7 @@ Sangat cocok untuk:
 * TikTok
 * Shorts
 
-# 14. ElevenLabs
+## 14. ElevenLabs
 
 ElevenLabs membantu membuat voice over profesional.
 
@@ -192,7 +192,7 @@ Banyak digunakan untuk:
 * Konten promosi
 * Podcast bisnis
 
-# 15. HubSpot AI
+## 15. HubSpot AI
 
 HubSpot kini memiliki fitur AI untuk CRM dan marketing automation.
 
@@ -202,7 +202,7 @@ Fungsi:
 * Lead management
 * Customer engagement
 
-# Kombinasi Tools AI Marketing Terbaik
+## Kombinasi Tools AI Marketing Terbaik
 
 ## Untuk Content Marketing
 
@@ -228,7 +228,7 @@ Fungsi:
 * Copy.ai
 * HubSpot
 
-# Tools AI Marketing Gratis yang Direkomendasikan
+## Tools AI Marketing Gratis yang Direkomendasikan
 
 Jika baru memulai:
 
@@ -240,7 +240,7 @@ Jika baru memulai:
 
 Kelima tools ini sudah cukup untuk membantu sebagian besar aktivitas marketing.
 
-# Kesalahan Saat Menggunakan AI untuk Marketing
+## Kesalahan Saat Menggunakan AI untuk Marketing
 
 Beberapa kesalahan yang sering terjadi:
 
@@ -253,7 +253,7 @@ AI harus digunakan sebagai alat bantu strategi, bukan sebagai pengganti strategi
 
 ---
 
-# Cara Memilih Tools AI untuk Marketing
+## Cara Memilih Tools AI untuk Marketing
 
 Tools AI untuk marketing sebaiknya dipilih berdasarkan tujuan pemasaran, bukan hanya karena fitur terlihat canggih.
 
@@ -307,7 +307,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk Marketing
+## Kategori Tools AI untuk Marketing
 
 Agar lebih mudah, tools AI untuk marketing bisa dibagi menjadi beberapa kategori.
 
@@ -768,7 +768,7 @@ Pastikan data tidak berisi informasi sensitif yang tidak boleh dibagikan ke tool
 
 ---
 
-# Rekomendasi Stack Tools AI untuk Marketing
+## Rekomendasi Stack Tools AI untuk Marketing
 
 ## Stack Pemula
 
@@ -842,7 +842,7 @@ Jangan memakai terlalu banyak tools jika proses dasar belum rapi.
 
 ---
 
-# Contoh Workflow Marketing dengan Bantuan AI
+## Contoh Workflow Marketing dengan Bantuan AI
 
 Berikut contoh workflow campaign marketing sederhana.
 
@@ -942,7 +942,7 @@ Gunakan AI untuk membaca pola dan memberi rekomendasi.
 
 ---
 
-# Kesalahan Menggunakan Tools AI untuk Marketing
+## Kesalahan Menggunakan Tools AI untuk Marketing
 
 ## 1. Terlalu Banyak Tools
 
@@ -1019,7 +1019,7 @@ contoh konkret, CTA sederhana, bahasa Indonesia natural.
 
 ---
 
-# Checklist Menggunakan AI untuk Marketing
+## Checklist Menggunakan AI untuk Marketing
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -1041,7 +1041,7 @@ Hasil campaign siap dicatat
 
 ---
 
-# Prompt Tools AI untuk Marketing
+## Prompt Tools AI untuk Marketing
 
 ## Prompt Riset Audiens
 
@@ -1189,7 +1189,7 @@ Baca juga:
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
 
-# FAQ
+## FAQ
 
 ## Apa tools AI terbaik untuk marketing?
 
@@ -1207,7 +1207,7 @@ Sangat membantu, terutama untuk riset keyword, optimasi konten, dan analisis kom
 
 Tentu. Banyak tools AI yang memiliki versi gratis dan cocok digunakan UMKM.
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah menjadi salah satu teknologi paling penting dalam dunia marketing modern. Dengan memanfaatkan tools AI yang tepat, bisnis dapat membuat konten lebih cepat, menjangkau lebih banyak pelanggan, dan meningkatkan efektivitas pemasaran secara keseluruhan.
 

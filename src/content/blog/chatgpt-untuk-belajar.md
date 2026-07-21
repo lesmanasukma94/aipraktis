@@ -210,7 +210,7 @@ Gunakan ChatGPT sebagai alat bantu belajar dan produktivitas.
 
 ---
 
-# Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif
+## Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif
 
 ChatGPT bisa membantu proses belajar, tetapi cara penggunaannya harus tepat.
 
@@ -251,7 +251,7 @@ Baca juga:
 
 ---
 
-# ChatGPT sebagai Tutor Pribadi
+## ChatGPT sebagai Tutor Pribadi
 
 Salah satu manfaat terbesar ChatGPT untuk belajar adalah menjadi tutor pribadi.
 
@@ -310,7 +310,7 @@ Buatkan analogi lain yang lebih mudah dipahami.
 
 ---
 
-# ChatGPT untuk Membuat Ringkasan Materi
+## ChatGPT untuk Membuat Ringkasan Materi
 
 ChatGPT juga bisa membantu merangkum materi panjang.
 
@@ -369,7 +369,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Soal Latihan
+## ChatGPT untuk Membuat Soal Latihan
 
 Belajar akan lebih kuat jika Anda latihan.
 
@@ -422,7 +422,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Membuat Jadwal Belajar
+## ChatGPT untuk Membuat Jadwal Belajar
 
 Banyak orang gagal belajar bukan karena tidak mampu, tetapi karena tidak punya jadwal.
 
@@ -476,7 +476,7 @@ Baca juga:
 
 ---
 
-# ChatGPT untuk Menjelaskan Materi Sulit
+## ChatGPT untuk Menjelaskan Materi Sulit
 
 Jika menemukan istilah atau konsep yang sulit, gunakan ChatGPT untuk memecahnya menjadi bagian kecil.
 
@@ -526,7 +526,7 @@ Justru ini cara efektif untuk memahami konsep dari dasar.
 
 ---
 
-# ChatGPT untuk Belajar Bahasa
+## ChatGPT untuk Belajar Bahasa
 
 ChatGPT juga sangat berguna untuk belajar bahasa.
 
@@ -579,7 +579,7 @@ Berikan arti, contoh kalimat, dan cara penggunaannya.
 
 ---
 
-# ChatGPT untuk Belajar Mandiri Tanpa Guru
+## ChatGPT untuk Belajar Mandiri Tanpa Guru
 
 ChatGPT bisa membantu belajar mandiri, tetapi Anda tetap perlu disiplin.
 
@@ -615,7 +615,7 @@ Anda juga berlatih, menguji pemahaman, dan memperbaiki kesalahan.
 
 ---
 
-# Kesalahan Saat Menggunakan ChatGPT untuk Belajar
+## Kesalahan Saat Menggunakan ChatGPT untuk Belajar
 
 ## 1. Langsung Meminta Jawaban
 
@@ -667,7 +667,7 @@ Jangan beri jawaban dulu.
 
 ---
 
-# Checklist Belajar dengan ChatGPT
+## Checklist Belajar dengan ChatGPT
 
 Gunakan checklist ini agar belajar lebih efektif.
 
@@ -687,7 +687,7 @@ Mengulang materi secara berkala
 
 ---
 
-# Prompt ChatGPT untuk Belajar
+## Prompt ChatGPT untuk Belajar
 
 ## Prompt Tutor Pribadi
 

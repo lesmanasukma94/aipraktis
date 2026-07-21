@@ -28,7 +28,7 @@ Karena itulah semakin banyak startup, freelancer, UMKM, dan content creator yang
 
 Dalam artikel ini Anda akan mempelajari cara membuat aplikasi AI dari nol, tools yang digunakan, model AI yang tersedia, hingga peluang bisnis yang dapat dihasilkan.
 
-# Apa Itu Aplikasi AI?
+## Apa Itu Aplikasi AI?
 
 Aplikasi AI adalah aplikasi yang memanfaatkan Artificial Intelligence untuk membantu pengguna menyelesaikan tugas tertentu.
 
@@ -42,7 +42,7 @@ Contohnya:
 
 Aplikasi semacam ini menggunakan model AI untuk memahami, menganalisis, dan menghasilkan output secara otomatis.
 
-# Mengapa Banyak Orang Membuat Aplikasi AI?
+## Mengapa Banyak Orang Membuat Aplikasi AI?
 
 Karena permintaan pasar sangat besar.
 
@@ -58,9 +58,9 @@ AI digunakan untuk:
 
 Banyak startup baru bahkan dibangun sepenuhnya di atas teknologi AI.
 
-# Jenis Aplikasi AI yang Populer
+## Jenis Aplikasi AI yang Populer
 
-# Aplikasi Chatbot AI
+## Aplikasi Chatbot AI
 
 Contoh:
 
@@ -68,7 +68,7 @@ Contoh:
 * Konsultasi
 * Asisten virtual
 
-# Aplikasi Penulisan AI
+## Aplikasi Penulisan AI
 
 Contoh:
 
@@ -76,7 +76,7 @@ Contoh:
 * Email
 * Copywriting
 
-# Aplikasi AI untuk Bisnis
+## Aplikasi AI untuk Bisnis
 
 Contoh:
 
@@ -84,14 +84,14 @@ Contoh:
 * Analitik
 * Otomatisasi
 
-# Aplikasi AI untuk Pendidikan
+## Aplikasi AI untuk Pendidikan
 
 Contoh:
 
 * Tutor AI
 * Pembelajaran personal
 
-# Aplikasi AI untuk Desain
+## Aplikasi AI untuk Desain
 
 Contoh:
 
@@ -99,9 +99,9 @@ Contoh:
 * Gambar
 * Presentasi
 
-# Langkah-Langkah Membuat Aplikasi AI
+## Langkah-Langkah Membuat Aplikasi AI
 
-# Langkah 1: Tentukan Masalah yang Ingin Diselesaikan
+## Langkah 1: Tentukan Masalah yang Ingin Diselesaikan
 
 Kesalahan terbesar pemula adalah langsung membuat aplikasi tanpa memahami masalah pengguna.
 
@@ -115,7 +115,7 @@ Contoh:
 * Membantu membuat CV
 * Membantu UMKM menjawab pelanggan
 
-# Langkah 2: Tentukan Target Pengguna
+## Langkah 2: Tentukan Target Pengguna
 
 Contoh:
 
@@ -127,7 +127,7 @@ Contoh:
 
 Semakin spesifik targetnya, semakin mudah aplikasi berkembang.
 
-# Langkah 3: Pilih Model AI
+## Langkah 3: Pilih Model AI
 
 Saat ini beberapa model AI yang paling populer:
 
@@ -160,11 +160,11 @@ Contoh:
 * Mistral
 * DeepSeek
 
-# Langkah 4: Pilih Cara Membangun Aplikasi
+## Langkah 4: Pilih Cara Membangun Aplikasi
 
 Ada dua pendekatan utama.
 
-# No-Code
+## No-Code
 
 Cocok untuk pemula.
 
@@ -175,7 +175,7 @@ Tools:
 * Glide
 * Replit AI
 
-# Coding
+## Coding
 
 Cocok untuk developer.
 
@@ -185,9 +185,9 @@ Bahasa yang populer:
 * Python
 * TypeScript
 
-# Tools Terbaik untuk Membuat Aplikasi AI
+## Tools Terbaik untuk Membuat Aplikasi AI
 
-# 1. OpenAI API
+## 1. OpenAI API
 
 Salah satu pilihan paling populer.
 
@@ -197,33 +197,33 @@ Kelebihan:
 * Dokumentasi lengkap
 * Ekosistem besar
 
-# 2. Claude API
+## 2. Claude API
 
 Cocok untuk aplikasi yang membutuhkan analisis dokumen panjang.
 
-# 3. Gemini API
+## 3. Gemini API
 
 Pilihan menarik bagi pengguna ekosistem Google.
 
-# 4. Bubble
+## 4. Bubble
 
 Platform no-code yang sangat populer.
 
 Banyak startup AI dibangun menggunakan Bubble.
 
-# 5. FlutterFlow
+## 5. FlutterFlow
 
 Cocok untuk membuat aplikasi mobile AI.
 
-# 6. Replit
+## 6. Replit
 
 Membantu membangun aplikasi lebih cepat menggunakan AI.
 
-# 7. Vercel
+## 7. Vercel
 
 Populer untuk deployment aplikasi AI modern.
 
-# Cara Membuat Aplikasi AI Tanpa Coding
+## Cara Membuat Aplikasi AI Tanpa Coding
 
 Banyak orang mengira membangun aplikasi AI harus menjadi programmer.
 
@@ -238,7 +238,7 @@ Contoh workflow:
 
 Dalam beberapa jam Anda sudah memiliki aplikasi AI sederhana.
 
-# Cara Membuat Aplikasi AI dengan Coding
+## Cara Membuat Aplikasi AI dengan Coding
 
 Developer biasanya menggunakan stack seperti:
 
@@ -263,31 +263,31 @@ Database:
 * PostgreSQL
 * Supabase
 
-# Contoh Ide Aplikasi AI yang Menghasilkan Uang
+## Contoh Ide Aplikasi AI yang Menghasilkan Uang
 
-# AI Resume Builder
+## AI Resume Builder
 
 Membantu membuat CV otomatis.
 
-# AI Content Writer
+## AI Content Writer
 
 Membantu menulis artikel dan konten.
 
-# AI Marketing Assistant
+## AI Marketing Assistant
 
 Membantu membuat strategi pemasaran.
 
-# AI Customer Service
+## AI Customer Service
 
 Membantu menjawab pelanggan.
 
-# AI Tutor
+## AI Tutor
 
 Membantu belajar dan mengajar.
 
-# Cara Monetisasi Aplikasi AI
+## Cara Monetisasi Aplikasi AI
 
-# Langganan Bulanan
+## Langganan Bulanan
 
 Model paling umum.
 
@@ -296,19 +296,19 @@ Contoh:
 * Rp99.000/bulan
 * Rp199.000/bulan
 
-# Freemium
+## Freemium
 
 Versi gratis dengan fitur terbatas.
 
-# Pay Per Use
+## Pay Per Use
 
 Pengguna membayar berdasarkan penggunaan.
 
-# Jasa Premium
+## Jasa Premium
 
 Aplikasi digunakan sebagai alat untuk menjual jasa.
 
-# Berapa Modal Membuat Aplikasi AI?
+## Berapa Modal Membuat Aplikasi AI?
 
 Untuk tahap awal:
 
@@ -326,7 +326,7 @@ API AI:
 
 Banyak aplikasi AI dapat dibuat dengan modal yang relatif kecil.
 
-# Kesalahan Saat Membuat Aplikasi AI
+## Kesalahan Saat Membuat Aplikasi AI
 
 ## Tidak Memvalidasi Ide
 
@@ -344,7 +344,7 @@ Tentukan model bisnis sejak awal.
 
 UX sangat penting.
 
-# Peluang Bisnis Aplikasi AI
+## Peluang Bisnis Aplikasi AI
 
 Pasar AI masih berkembang sangat cepat.
 
@@ -358,7 +358,7 @@ Peluang yang tersedia:
 
 Banyak bisnis AI yang dimulai oleh individu atau tim kecil.
 
-# FAQ
+## FAQ
 
 ## Apakah saya bisa membuat aplikasi AI tanpa coding?
 
@@ -389,7 +389,7 @@ Baca juga:
 - [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
 - [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
 
-# Kesimpulan
+## Kesimpulan
 
 Membuat aplikasi AI kini jauh lebih mudah dibandingkan beberapa tahun lalu. Dengan bantuan model seperti GPT, Claude, Gemini, serta platform no-code modern, siapa pun dapat membangun produk AI yang bermanfaat bagi pengguna.
 

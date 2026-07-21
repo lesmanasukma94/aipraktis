@@ -23,7 +23,7 @@ draft: false
 
 AI untuk dosen dapat membantu banyak pekerjaan akademik, mulai dari riset, literature review, penyusunan materi kuliah, pembuatan RPS, slide, kuis, rubrik, feedback mahasiswa, administrasi akademik, publikasi ilmiah, dan produktivitas harian. Namun, AI harus digunakan secara bertanggung jawab. Dosen tetap perlu menjaga integritas akademik, privasi data, akurasi sumber, kualitas pembelajaran, keadilan penilaian, transparansi penggunaan AI, dan peran manusia dalam keputusan akademik. Cara terbaik memakai AI adalah menjadikannya asisten akademik, bukan pengganti keahlian dosen.
 
-# AI untuk Dosen
+
 
 AI semakin banyak digunakan di dunia pendidikan tinggi.
 
@@ -122,7 +122,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Dosen?
+## Apa Itu AI untuk Dosen?
 
 AI untuk dosen adalah penggunaan kecerdasan buatan untuk membantu pekerjaan akademik dan pembelajaran di perguruan tinggi.
 
@@ -187,7 +187,7 @@ pengganti tanggung jawab akademik.
 
 ---
 
-# Mengapa Dosen Perlu Memahami AI?
+## Mengapa Dosen Perlu Memahami AI?
 
 Dosen perlu memahami AI karena mahasiswa juga sudah memakai AI.
 
@@ -248,7 +248,7 @@ Baca juga:
 
 ---
 
-# Prinsip Dasar AI untuk Dosen
+## Prinsip Dasar AI untuk Dosen
 
 Sebelum memakai AI, dosen perlu memiliki prinsip dasar.
 
@@ -310,7 +310,7 @@ Dosen perlu menyesuaikan output AI dengan:
 
 ---
 
-# AI untuk Riset Dosen
+## AI untuk Riset Dosen
 
 Salah satu penggunaan AI paling bermanfaat untuk dosen adalah riset.
 
@@ -396,7 +396,7 @@ Baca juga:
 
 ---
 
-# AI untuk Literature Review
+## AI untuk Literature Review
 
 Literature review sering memakan waktu.
 
@@ -488,7 +488,7 @@ Gunakan hanya informasi dari tabel.
 
 ---
 
-# AI untuk Academic Writing
+## AI untuk Academic Writing
 
 AI bisa membantu dosen menulis akademik.
 
@@ -573,7 +573,7 @@ Baca juga:
 
 ---
 
-# AI untuk Proposal Hibah dan Penelitian
+## AI untuk Proposal Hibah dan Penelitian
 
 Dosen sering perlu membuat proposal.
 
@@ -657,7 +657,7 @@ Berikan feedback dalam bentuk:
 
 ---
 
-# AI untuk Materi Kuliah
+## AI untuk Materi Kuliah
 
 AI sangat membantu dalam penyusunan materi kuliah.
 
@@ -749,7 +749,7 @@ Baca juga:
 
 ---
 
-# AI untuk RPS dan Desain Pembelajaran
+## AI untuk RPS dan Desain Pembelajaran
 
 RPS membutuhkan struktur yang rapi.
 
@@ -831,7 +831,7 @@ Draft:
 
 ---
 
-# AI untuk Slide Kuliah
+## AI untuk Slide Kuliah
 
 Slide kuliah yang baik tidak hanya berisi teks.
 
@@ -894,7 +894,7 @@ Baca juga:
 
 ---
 
-# AI untuk Kuis dan Soal Ujian
+## AI untuk Kuis dan Soal Ujian
 
 AI bisa membantu membuat soal.
 
@@ -962,7 +962,7 @@ Soal:
 
 ---
 
-# AI untuk Rubrik Penilaian
+## AI untuk Rubrik Penilaian
 
 Rubrik membantu penilaian lebih konsisten.
 
@@ -1029,7 +1029,7 @@ Buat rubrik yang menilai:
 
 ---
 
-# AI untuk Feedback Mahasiswa
+## AI untuk Feedback Mahasiswa
 
 AI bisa membantu membuat draft feedback.
 
@@ -1079,7 +1079,7 @@ Tetapi dosen tetap menentukan nilai.
 
 ---
 
-# AI untuk Administrasi Akademik
+## AI untuk Administrasi Akademik
 
 Dosen sering terbebani administrasi.
 
@@ -1147,7 +1147,7 @@ Baca juga:
 
 ---
 
-# AI untuk Bimbingan Skripsi, Tesis, dan Disertasi
+## AI untuk Bimbingan Skripsi, Tesis, dan Disertasi
 
 AI bisa membantu proses bimbingan.
 
@@ -1233,7 +1233,7 @@ Baca juga:
 
 ---
 
-# Kebijakan AI di Kelas
+## Kebijakan AI di Kelas
 
 Dosen sebaiknya membuat kebijakan AI di mata kuliah.
 
@@ -1294,7 +1294,7 @@ Bukan hanya takut dihukum.
 
 ---
 
-# Mendesain Tugas yang Lebih Tahan AI
+## Mendesain Tugas yang Lebih Tahan AI
 
 Dosen perlu menyesuaikan desain tugas.
 
@@ -1353,7 +1353,7 @@ Buat tugas baru yang:
 
 ---
 
-# Integritas Akademik dan AI
+## Integritas Akademik dan AI
 
 AI membuat integritas akademik semakin penting.
 
@@ -1418,7 +1418,7 @@ Baca juga:
 
 ---
 
-# AI untuk Kelas Aktif
+## AI untuk Kelas Aktif
 
 AI juga bisa membantu membuat kelas lebih aktif.
 
@@ -1463,7 +1463,7 @@ Aktivitas seperti ini membuat AI menjadi bahan belajar, bukan ancaman.
 
 ---
 
-# AI untuk Dosen Non-Teknis
+## AI untuk Dosen Non-Teknis
 
 Dosen non-teknis tidak perlu langsung belajar coding.
 
@@ -1505,7 +1505,7 @@ Jangan mencoba semua tools sekaligus.
 
 ---
 
-# AI untuk Dosen Teknis
+## AI untuk Dosen Teknis
 
 Untuk dosen teknis, AI bisa digunakan lebih lanjut.
 
@@ -1558,7 +1558,7 @@ Baca juga:
 
 ---
 
-# Workflow Mingguan Dosen dengan AI
+## Workflow Mingguan Dosen dengan AI
 
 Berikut contoh workflow sederhana.
 
@@ -1607,7 +1607,7 @@ Berikut contoh workflow sederhana.
 
 ---
 
-# Prompt Pack AI untuk Dosen
+## Prompt Pack AI untuk Dosen
 
 Berikut prompt siap pakai.
 
@@ -1789,7 +1789,7 @@ Buat:
 
 ---
 
-# Checklist Aman AI untuk Dosen
+## Checklist Aman AI untuk Dosen
 
 Gunakan checklist ini.
 
@@ -1826,7 +1826,7 @@ Gunakan checklist ini.
 
 ---
 
-# Kesalahan Dosen Saat Menggunakan AI
+## Kesalahan Dosen Saat Menggunakan AI
 
 ## 1. Memakai Output AI Tanpa Review
 
@@ -1872,7 +1872,7 @@ AI detector tidak boleh menjadi satu-satunya dasar keputusan akademik.
 
 ---
 
-# Rencana 30 Hari Menggunakan AI untuk Dosen
+## Rencana 30 Hari Menggunakan AI untuk Dosen
 
 Berikut rencana sederhana.
 
@@ -1942,7 +1942,7 @@ Kebijakan penggunaan AI untuk mata kuliah.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah dosen boleh menggunakan AI?
 
@@ -1978,7 +1978,7 @@ Tools yang dapat digunakan antara lain ChatGPT, Gemini, Claude, Microsoft Copilo
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk dosen bisa menjadi alat yang sangat bermanfaat.
 
@@ -2040,7 +2040,7 @@ Dengan pendekatan yang tepat, AI dapat membantu dosen menjadi lebih produktif, l
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2065,22 +2065,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Karier AI](/kategori/karier-ai/)
-- [Pusat Studi Kasus AI](/kategori/studi-kasus-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Karier AI](/karier-ai/)
+- [Pusat Studi Kasus AI](/studi-kasus-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
 
 ---
 
-# Mulai dari Satu Workflow Akademik
+## Mulai dari Satu Workflow Akademik
 
 Jika Anda dosen dan baru mulai memakai AI, jangan mulai dari semua hal sekaligus.
 

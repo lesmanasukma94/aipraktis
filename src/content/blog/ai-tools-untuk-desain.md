@@ -25,7 +25,7 @@ AI tools untuk desain dapat membantu membuat gambar, poster, logo, thumbnail, ca
 
 Desain konten akan lebih efektif jika terhubung dengan strategi. Baca [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/) agar visual, carousel, thumbnail, dan prompt gambar masuk ke kalender konten yang rapi.
 
-# AI Tools untuk Desain
+
 
 Desain adalah salah satu pekerjaan yang paling cepat berubah karena AI.
 
@@ -101,7 +101,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Desain
+## Cara Memilih AI Tools untuk Desain
 
 Sebelum memilih tools, jangan mulai dari pertanyaan:
 
@@ -216,7 +216,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk Desain
+## Tabel AI Tools untuk Desain
 
 | Tools | Cocok untuk | Kelebihan utama |
 |---|---|---|
@@ -235,7 +235,7 @@ Cocok untuk:
 
 ---
 
-# 1. Canva AI
+## 1. Canva AI
 
 Canva AI adalah salah satu tools desain paling cocok untuk pemula.
 
@@ -326,7 +326,7 @@ Baca juga:
 
 ---
 
-# 2. Adobe Firefly
+## 2. Adobe Firefly
 
 Adobe Firefly cocok untuk membuat dan mengedit visual kreatif.
 
@@ -407,7 +407,7 @@ Baca juga:
 
 ---
 
-# 3. Figma AI
+## 3. Figma AI
 
 Figma AI cocok untuk desain produk digital.
 
@@ -495,7 +495,7 @@ Baca juga:
 
 ---
 
-# 4. Ideogram
+## 4. Ideogram
 
 Ideogram cocok untuk visual yang membutuhkan teks di dalam gambar.
 
@@ -570,7 +570,7 @@ Untuk logo, lakukan langkah ini:
 
 ---
 
-# 5. Leonardo AI
+## 5. Leonardo AI
 
 Leonardo AI cocok untuk membuat visual kreatif, ilustrasi, karakter, aset visual, dan konsep desain.
 
@@ -644,7 +644,7 @@ Misalnya:
 
 ---
 
-# 6. Midjourney
+## 6. Midjourney
 
 Midjourney dikenal kuat untuk visual artistik dan konseptual.
 
@@ -713,7 +713,7 @@ Jangan hanya langsung memakai gambar tanpa mengecek relevansi, lisensi, dan kese
 
 ---
 
-# 7. Microsoft Designer
+## 7. Microsoft Designer
 
 Microsoft Designer cocok untuk desain cepat berbasis AI, terutama untuk pengguna yang sudah berada di ekosistem Microsoft.
 
@@ -776,7 +776,7 @@ Gunakan untuk desain cepat seperti:
 
 ---
 
-# 8. ChatGPT Image Generation
+## 8. ChatGPT Image Generation
 
 ChatGPT dengan kemampuan image generation cocok untuk membuat visual dari instruksi natural.
 
@@ -854,7 +854,7 @@ Baca juga:
 
 ---
 
-# 9. Adobe Express
+## 9. Adobe Express
 
 Adobe Express cocok untuk desain cepat berbasis template, mirip kebutuhan Canva, tetapi berada dalam ekosistem Adobe.
 
@@ -907,7 +907,7 @@ Buatkan template Instagram post untuk seri konten "Tips AI Harian".
 
 ---
 
-# 10. Krea AI
+## 10. Krea AI
 
 Krea AI cocok untuk eksplorasi visual dan peningkatan kualitas gambar.
 
@@ -954,7 +954,7 @@ Eksplorasi beberapa gaya visual untuk brand edukasi AI: minimalis, futuristik, r
 
 ---
 
-# 11. Freepik AI
+## 11. Freepik AI
 
 Freepik AI cocok untuk orang yang membutuhkan aset desain cepat.
 
@@ -1001,7 +1001,7 @@ Cari atau buat ilustrasi modern untuk artikel tentang AI untuk bisnis kecil. Sty
 
 ---
 
-# 12. Remove.bg dan Cleanup Tools
+## 12. Remove.bg dan Cleanup Tools
 
 Tidak semua desain membutuhkan image generation.
 
@@ -1053,7 +1053,7 @@ Bersihkan objek yang mengganggu di belakang produk tanpa mengubah bentuk produk.
 
 ---
 
-# Rekomendasi AI Tools Berdasarkan Kebutuhan Desain
+## Rekomendasi AI Tools Berdasarkan Kebutuhan Desain
 
 ## Untuk Pemula Total
 
@@ -1169,7 +1169,7 @@ Cocok untuk:
 
 ---
 
-# Workflow Membuat Desain dengan AI
+## Workflow Membuat Desain dengan AI
 
 Berikut workflow yang lebih aman dan rapi.
 
@@ -1256,7 +1256,7 @@ Sebelum publish, cek:
 
 ---
 
-# Prompt AI untuk Desain
+## Prompt AI untuk Desain
 
 Berikut beberapa prompt yang bisa langsung digunakan.
 
@@ -1310,7 +1310,7 @@ Audit desain berikut dari sisi keterbacaan, hierarki visual, warna, kontras, ali
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Desain
+## Kesalahan Menggunakan AI Tools untuk Desain
 
 ## 1. Terlalu Bergantung pada Template
 
@@ -1383,7 +1383,7 @@ Edit agar benar-benar siap pakai.
 
 ---
 
-# Checklist Memilih AI Tools untuk Desain
+## Checklist Memilih AI Tools untuk Desain
 
 Gunakan checklist ini.
 
@@ -1405,7 +1405,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rekomendasi Stack AI Design Tools
+## Rekomendasi Stack AI Design Tools
 
 ## Stack Minimal untuk Pemula
 
@@ -1498,7 +1498,7 @@ Cocok untuk:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk desain?
 
@@ -1530,7 +1530,7 @@ Gunakan brand guideline, prompt yang spesifik, referensi visual, palet warna kon
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk desain dapat mempercepat proses membuat visual.
 
@@ -1578,7 +1578,7 @@ Untuk kebutuhan desain bisnis kecil, lanjutkan ke [AI Tools untuk UMKM](/blog/ai
 
 Jika visual desain ingin dipakai dalam slide, baca [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) agar desain, layout, visual, dan pesan slide lebih terarah.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1601,22 +1601,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Desain yang Paling Sering Dibuat
+## Mulai dari Desain yang Paling Sering Dibuat
 
 Jangan mulai dari semua tools sekaligus.
 

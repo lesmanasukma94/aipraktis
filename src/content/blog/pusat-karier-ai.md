@@ -35,7 +35,7 @@ Melalui halaman ini, Anda dapat menemukan seluruh panduan karier AI yang tersedi
 
 ---
 
-# Apakah AI Akan Menggantikan Pekerjaan Manusia?
+## Apakah AI Akan Menggantikan Pekerjaan Manusia?
 
 Pertanyaan ini menjadi salah satu topik yang paling sering dibahas.
 
@@ -49,7 +49,7 @@ Yang paling penting bukan melawan AI, melainkan belajar bekerja bersama AI.
 
 ---
 
-# Pekerjaan yang Tidak Akan Digantikan AI
+## Pekerjaan yang Tidak Akan Digantikan AI
 
 Beberapa pekerjaan masih membutuhkan:
 
@@ -67,7 +67,7 @@ Artikel tersebut membahas profesi yang memiliki ketahanan lebih tinggi terhadap 
 
 ---
 
-# Pekerjaan yang Akan Berubah Karena AI
+## Pekerjaan yang Akan Berubah Karena AI
 
 Banyak pekerjaan tidak akan hilang, tetapi akan berubah cara kerjanya.
 
@@ -102,7 +102,7 @@ Mereka yang mampu beradaptasi biasanya akan memperoleh keuntungan terbesar.
 
 ---
 
-# Skill AI yang Harus Dipelajari
+## Skill AI yang Harus Dipelajari
 
 Di masa depan, kemampuan menggunakan AI kemungkinan akan menjadi keterampilan dasar seperti penggunaan komputer dan internet saat ini.
 
@@ -125,7 +125,7 @@ Beberapa skill yang penting:
 
 ---
 
-# Cara Menghasilkan Uang dengan AI
+## Cara Menghasilkan Uang dengan AI
 
 AI tidak hanya membantu pekerjaan, tetapi juga membuka peluang penghasilan baru.
 
@@ -147,7 +147,7 @@ Beberapa peluang yang berkembang saat ini:
 
 ---
 
-# Freelance Menggunakan AI
+## Freelance Menggunakan AI
 
 Freelancer merupakan kelompok yang paling cepat mengadopsi AI.
 
@@ -168,7 +168,7 @@ Kemampuan menggunakan AI dapat menjadi keunggulan kompetitif yang besar.
 
 ---
 
-# AI untuk Produktivitas Kerja
+## AI untuk Produktivitas Kerja
 
 AI dapat membantu meningkatkan produktivitas di berbagai profesi.
 
@@ -187,7 +187,7 @@ Dengan bantuan AI, banyak pekerjaan dapat diselesaikan lebih cepat dan lebih efi
 
 ---
 
-# AI untuk Karyawan dan Profesional
+## AI untuk Karyawan dan Profesional
 
 Saat ini hampir semua profesi mulai memanfaatkan AI.
 
@@ -205,7 +205,7 @@ Kemampuan menggunakan AI dapat meningkatkan nilai profesional seseorang di tempa
 
 ---
 
-# AI untuk Freelancer dan Creator
+## AI untuk Freelancer dan Creator
 
 Karier berbasis internet menjadi salah satu sektor yang paling diuntungkan oleh AI.
 
@@ -222,7 +222,7 @@ Banyak peluang baru yang muncul karena AI membantu menurunkan hambatan untuk mem
 
 ---
 
-# Langkah Memulai Karier AI
+## Langkah Memulai Karier AI
 
 Jika Anda baru mengenal AI, ikuti urutan berikut:
 
@@ -239,7 +239,7 @@ Urutan ini akan membantu Anda memahami AI secara bertahap.
 
 ---
 
-# Masa Depan Karier di Era AI
+## Masa Depan Karier di Era AI
 
 Masa depan tidak hanya milik mereka yang memahami teknologi.
 
@@ -256,7 +256,7 @@ AI bukan hanya perubahan teknologi, tetapi juga perubahan cara kerja.
 
 ---
 
-# Skill AI yang Paling Dicari di Masa Depan
+## Skill AI yang Paling Dicari di Masa Depan
 
 Beberapa kemampuan yang diperkirakan akan semakin penting dalam era AI antara lain:
 
@@ -271,7 +271,7 @@ Mempelajari keterampilan tersebut sejak sekarang dapat membantu meningkatkan day
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI sedang mengubah dunia kerja dengan sangat cepat. Beberapa pekerjaan akan berubah, beberapa pekerjaan baru akan muncul, dan banyak profesi akan membutuhkan keterampilan baru.
 

@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu membuat notulen rapat, ringkasan meeting, daftar keputusan, action items, PIC, deadline, risiko, dan email follow-up dengan lebih cepat. AI dapat digunakan sebelum rapat untuk membuat agenda, saat rapat untuk membantu transkrip atau catatan, dan setelah rapat untuk merapikan hasil diskusi. Namun, AI tidak boleh langsung dipercaya sepenuhnya. Notulen tetap perlu dicek manusia karena AI bisa salah menangkap konteks, melewatkan detail penting, salah menulis nama, atau membuat action items yang tidak benar-benar disepakati.
 
-# Cara Menggunakan AI untuk Notulen Rapat
+
 
 Rapat sering menghasilkan banyak informasi.
 
@@ -115,7 +115,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Notulen Rapat dengan AI?
+## Apa Itu Notulen Rapat dengan AI?
 
 Notulen rapat dengan AI adalah proses memakai AI untuk membantu mencatat, merangkum, dan menyusun hasil rapat.
 
@@ -163,7 +163,7 @@ Notulen yang baik harus menjawab:
 
 ---
 
-# Mengapa AI Berguna untuk Notulen Rapat?
+## Mengapa AI Berguna untuk Notulen Rapat?
 
 AI berguna karena rapat biasanya menghasilkan informasi yang tidak selalu terstruktur.
 
@@ -209,7 +209,7 @@ Jadi, kualitas notulen AI dimulai dari kualitas rapat.
 
 ---
 
-# Prinsip Aman Menggunakan AI untuk Notulen
+## Prinsip Aman Menggunakan AI untuk Notulen
 
 Sebelum memakai AI untuk meeting, pahami prinsip berikut.
 
@@ -294,7 +294,7 @@ Sebelum notulen dikirim, cek:
 
 ---
 
-# Workflow Menggunakan AI untuk Notulen Rapat
+## Workflow Menggunakan AI untuk Notulen Rapat
 
 Berikut workflow lengkap yang bisa Anda gunakan.
 
@@ -639,7 +639,7 @@ Baca juga:
 
 ---
 
-# Format Notulen Rapat yang Baik
+## Format Notulen Rapat yang Baik
 
 Notulen tidak harus panjang.
 
@@ -686,7 +686,7 @@ Gunakan format yang sama untuk setiap rapat agar mudah dibaca.
 
 ---
 
-# Prompt Lengkap untuk Notulen Rapat
+## Prompt Lengkap untuk Notulen Rapat
 
 Gunakan template ini.
 
@@ -729,7 +729,7 @@ Catatan/transkrip:
 
 ---
 
-# Cara Menggunakan AI untuk Notulen dari Transkrip Panjang
+## Cara Menggunakan AI untuk Notulen dari Transkrip Panjang
 
 Transkrip meeting bisa sangat panjang.
 
@@ -788,7 +788,7 @@ Cek:
 
 ---
 
-# Cara Menggunakan AI untuk Ringkasan Rapat Singkat
+## Cara Menggunakan AI untuk Ringkasan Rapat Singkat
 
 Tidak semua meeting membutuhkan notulen panjang.
 
@@ -820,7 +820,7 @@ Cocok untuk:
 
 ---
 
-# Cara Menggunakan AI untuk Rapat Proyek
+## Cara Menggunakan AI untuk Rapat Proyek
 
 Rapat proyek membutuhkan notulen yang lebih terstruktur.
 
@@ -860,7 +860,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Rapat Sales
+## Cara Menggunakan AI untuk Rapat Sales
 
 Rapat sales biasanya fokus pada lead, pipeline, keberatan, follow-up, dan closing.
 
@@ -905,7 +905,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Rapat Customer Service
+## Cara Menggunakan AI untuk Rapat Customer Service
 
 Rapat customer service biasanya membahas komplain, pola masalah, respons pelanggan, dan perbaikan SOP.
 
@@ -946,7 +946,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Rapat Konten
+## Cara Menggunakan AI untuk Rapat Konten
 
 Rapat konten biasanya membahas ide, jadwal, format, aset, caption, desain, video, dan distribusi.
 
@@ -984,7 +984,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Rapat Pendidikan
+## Cara Menggunakan AI untuk Rapat Pendidikan
 
 Guru, dosen, atau tim sekolah juga bisa memakai AI untuk notulen.
 
@@ -1022,7 +1022,7 @@ Baca juga:
 
 ---
 
-# Tools AI untuk Notulen Rapat
+## Tools AI untuk Notulen Rapat
 
 Berikut tools yang bisa digunakan.
 
@@ -1107,7 +1107,7 @@ Baca juga:
 
 ---
 
-# Template Notulen untuk Copy-Paste
+## Template Notulen untuk Copy-Paste
 
 Gunakan template ini.
 
@@ -1189,7 +1189,7 @@ Tuliskan ringkasan 3-5 poin utama dari rapat.
 
 ---
 
-# Template Prompt Email Follow-Up Meeting
+## Template Prompt Email Follow-Up Meeting
 
 ```text
 Buatkan email follow-up berdasarkan notulen berikut.
@@ -1216,7 +1216,7 @@ Notulen:
 
 ---
 
-# Template Prompt Audit Notulen
+## Template Prompt Audit Notulen
 
 ```text
 Audit notulen rapat berikut.
@@ -1242,7 +1242,7 @@ Notulen:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Notulen Rapat
+## Kesalahan Menggunakan AI untuk Notulen Rapat
 
 ## 1. Tidak Meminta Consent
 
@@ -1288,7 +1288,7 @@ Kirim follow-up setelah rapat.
 
 ---
 
-# Checklist Notulen AI Sebelum Dibagikan
+## Checklist Notulen AI Sebelum Dibagikan
 
 Gunakan checklist ini.
 
@@ -1312,7 +1312,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Belajar Notulen Rapat dengan AI
+## Rencana 7 Hari Belajar Notulen Rapat dengan AI
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1348,7 +1348,7 @@ Buat SOP sederhana untuk rapat tim: sebelum, saat, dan setelah rapat.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat notulen rapat?
 
@@ -1380,7 +1380,7 @@ Sebaiknya tidak. Notulen AI harus direview manusia terlebih dahulu, terutama unt
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk notulen rapat sangat praktis jika workflow-nya jelas.
 
@@ -1426,7 +1426,7 @@ Jika meeting digunakan untuk proses sales, baca [AI untuk Sales](/blog/ai-untuk-
 
 Meeting klien akan lebih produktif jika ditutup dengan action items yang jelas. Baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk workflow meeting, follow-up, SOP, dan account management agency.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1451,22 +1451,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Rapat
+## Mulai dari Satu Rapat
 
 Jangan mulai dari workflow yang rumit.
 

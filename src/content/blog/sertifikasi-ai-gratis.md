@@ -312,7 +312,7 @@ Portofolio adalah bukti kemampuan yang paling kuat.
 
 ---
 
-# Cara Memilih Sertifikasi AI Gratis yang Tepat
+## Cara Memilih Sertifikasi AI Gratis yang Tepat
 
 Sertifikasi AI gratis sebaiknya tidak dipilih hanya karena ada tulisan “AI” atau “certificate”.
 
@@ -362,7 +362,7 @@ Baca juga:
 
 ---
 
-# Perbedaan Kursus Gratis, Badge, dan Sertifikasi Resmi
+## Perbedaan Kursus Gratis, Badge, dan Sertifikasi Resmi
 
 Sebelum mengambil sertifikasi AI gratis, pahami dulu perbedaannya.
 
@@ -437,7 +437,7 @@ Ini penting agar tidak salah ekspektasi.
 
 ---
 
-# Jenis Sertifikasi AI Gratis yang Cocok untuk Pemula
+## Jenis Sertifikasi AI Gratis yang Cocok untuk Pemula
 
 Untuk pemula, berikut jenis sertifikasi atau badge AI yang paling cocok.
 
@@ -563,7 +563,7 @@ Baca juga:
 
 ---
 
-# Contoh Platform untuk Belajar AI Gratis
+## Contoh Platform untuk Belajar AI Gratis
 
 Berikut beberapa jenis platform yang bisa dipakai untuk belajar AI secara gratis atau mulai dari materi gratis.
 
@@ -674,7 +674,7 @@ Platform ini cocok jika Anda ingin belajar lebih akademis atau mendalam.
 
 ---
 
-# Roadmap Mengambil Sertifikasi AI Gratis untuk Pemula
+## Roadmap Mengambil Sertifikasi AI Gratis untuk Pemula
 
 Agar tidak bingung, gunakan roadmap berikut.
 
@@ -761,7 +761,7 @@ Baca juga:
 
 ---
 
-# Cara Memakai Sertifikasi AI di CV dan LinkedIn
+## Cara Memakai Sertifikasi AI di CV dan LinkedIn
 
 Sertifikasi AI akan lebih bernilai jika ditampilkan dengan benar.
 
@@ -812,7 +812,7 @@ Saya sedang membangun skill AI praktis untuk mendukung pekerjaan administrasi, m
 
 ---
 
-# Kesalahan Saat Mengejar Sertifikasi AI Gratis
+## Kesalahan Saat Mengejar Sertifikasi AI Gratis
 
 ## 1. Mengumpulkan Sertifikat Tanpa Praktik
 
@@ -875,7 +875,7 @@ Catatan ini bisa menjadi bahan CV, LinkedIn, portofolio, atau wawancara kerja.
 
 ---
 
-# Checklist Memilih Sertifikasi AI Gratis
+## Checklist Memilih Sertifikasi AI Gratis
 
 Gunakan checklist ini sebelum mendaftar.
 
@@ -900,7 +900,7 @@ Lebih baik menyelesaikan sedikit kursus yang relevan daripada mengumpulkan banya
 
 ---
 
-# Prompt untuk Memilih Sertifikasi AI
+## Prompt untuk Memilih Sertifikasi AI
 
 Gunakan prompt ini jika bingung memilih jalur sertifikasi.
 
@@ -937,7 +937,7 @@ Prioritaskan yang gratis atau murah.
 Jangan menyarankan jalur yang terlalu teknis jika belum perlu.
 ```
 
-# Prompt untuk Membuat Portofolio Setelah Sertifikasi AI
+## Prompt untuk Membuat Portofolio Setelah Sertifikasi AI
 
 Gunakan prompt ini setelah menyelesaikan kursus.
 

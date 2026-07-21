@@ -24,7 +24,7 @@ Prompt AI untuk sales dapat membantu tim penjualan membuat pesan prospecting, fo
 
 Jika ingin memakai prompt sales dalam workflow yang lebih lengkap, baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami ICP, lead qualification, outreach, follow-up, objection handling, proposal, CRM notes, pipeline, dan sales coaching.
 
-# Prompt AI untuk Sales
+
 
 Sales adalah bagian penting dari pertumbuhan bisnis.
 
@@ -115,7 +115,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Sales
+## Cara Menggunakan AI untuk Sales
 
 Jangan hanya menulis:
 
@@ -173,7 +173,7 @@ Hasilnya akan lebih relevan dan aman digunakan.
 
 ---
 
-# Struktur Prompt Sales yang Baik
+## Struktur Prompt Sales yang Baik
 
 Prompt sales yang baik biasanya berisi:
 
@@ -233,7 +233,7 @@ Gunakan bahasa yang jelas, etis, dan membantu.
 
 ---
 
-# Prompt AI untuk Prospecting
+## Prompt AI untuk Prospecting
 
 Prospecting adalah proses mencari dan mengidentifikasi calon pelanggan yang potensial.
 
@@ -291,7 +291,7 @@ Buatkan checklist riset prospek sebelum menghubungi calon pelanggan [jenis prosp
 
 ---
 
-# Prompt AI untuk Pesan Pembuka Sales
+## Prompt AI untuk Pesan Pembuka Sales
 
 Pesan pembuka harus relevan dan tidak terasa spam.
 
@@ -337,7 +337,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Discovery Call
+## Prompt AI untuk Discovery Call
 
 Discovery call membantu memahami kebutuhan prospek.
 
@@ -381,7 +381,7 @@ Catatan:
 
 ---
 
-# Prompt AI untuk Sales Script
+## Prompt AI untuk Sales Script
 
 Sales script membantu menjaga alur komunikasi.
 
@@ -424,7 +424,7 @@ Script:
 
 ---
 
-# Prompt AI untuk Follow-Up Sales
+## Prompt AI untuk Follow-Up Sales
 
 Follow-up adalah bagian penting dari sales.
 
@@ -471,7 +471,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Objection Handling
+## Prompt AI untuk Objection Handling
 
 Objection handling bukan debat.
 
@@ -542,7 +542,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Closing Sales
+## Prompt AI untuk Closing Sales
 
 Closing bukan memaksa prospek membeli.
 
@@ -583,7 +583,7 @@ Pesan:
 
 ---
 
-# Prompt AI untuk Sales Email
+## Prompt AI untuk Sales Email
 
 Sales email harus ringkas, relevan, dan punya CTA yang jelas.
 
@@ -626,7 +626,7 @@ Email:
 
 ---
 
-# Prompt AI untuk WhatsApp Sales
+## Prompt AI untuk WhatsApp Sales
 
 Di Indonesia, banyak proses sales terjadi di WhatsApp.
 
@@ -672,7 +672,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Proposal Sales
+## Prompt AI untuk Proposal Sales
 
 Proposal yang baik bukan hanya daftar harga.
 
@@ -716,7 +716,7 @@ Proposal:
 
 ---
 
-# Prompt AI untuk CRM dan Pipeline Sales
+## Prompt AI untuk CRM dan Pipeline Sales
 
 CRM membantu mencatat prospek, status deal, follow-up, dan peluang closing.
 
@@ -774,7 +774,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Sales Report
+## Prompt AI untuk Sales Report
 
 Laporan sales membantu melihat progres, masalah, dan peluang.
 
@@ -827,7 +827,7 @@ Data:
 
 ---
 
-# Prompt AI untuk Sales Training
+## Prompt AI untuk Sales Training
 
 AI bisa membantu membuat materi training sales.
 
@@ -868,7 +868,7 @@ Buatkan sales playbook untuk produk [produk]. Sertakan ICP, persona, pain points
 
 ---
 
-# Prompt AI untuk Sales Script Produk Digital
+## Prompt AI untuk Sales Script Produk Digital
 
 Produk digital memiliki pola sales yang berbeda.
 
@@ -919,7 +919,7 @@ Buatkan pesan upsell untuk pembeli produk digital [produk awal] agar tertarik pa
 
 ---
 
-# Prompt AI untuk Sales UMKM
+## Prompt AI untuk Sales UMKM
 
 UMKM membutuhkan sales yang sederhana, cepat, dan dekat dengan pelanggan.
 
@@ -967,7 +967,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Sales B2B
+## Prompt AI untuk Sales B2B
 
 Sales B2B biasanya lebih panjang.
 
@@ -1010,7 +1010,7 @@ Data deal:
 
 ---
 
-# Prompt AI untuk Sales Agency dan Freelancer
+## Prompt AI untuk Sales Agency dan Freelancer
 
 Agency dan freelancer sering menjual jasa berdasarkan kepercayaan.
 
@@ -1051,7 +1051,7 @@ Pitch:
 
 ---
 
-# Prompt AI untuk Sales dan Customer Success
+## Prompt AI untuk Sales dan Customer Success
 
 Sales tidak berhenti setelah closing.
 
@@ -1094,7 +1094,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Sales AI Praktis Indonesia
+## Prompt AI untuk Sales AI Praktis Indonesia
 
 Berikut contoh prompt yang cocok untuk proyek edukasi AI Praktis Indonesia.
 
@@ -1145,7 +1145,7 @@ Buatkan format CRM sederhana untuk lead AI Praktis Indonesia. Kolom: nama, segme
 
 ---
 
-# Workflow Sales dengan AI
+## Workflow Sales dengan AI
 
 Berikut workflow praktis menggunakan AI untuk sales.
 
@@ -1215,7 +1215,7 @@ Buatkan laporan mingguan sales berdasarkan data pipeline berikut.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Sales
+## Kesalahan Menggunakan AI untuk Sales
 
 ## 1. Membuat Pesan Terlalu Agresif
 
@@ -1303,7 +1303,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Sales
+## Checklist Prompt AI untuk Sales
 
 Gunakan checklist berikut sebelum meminta AI membuat materi sales.
 
@@ -1326,7 +1326,7 @@ Gunakan checklist berikut sebelum meminta AI membuat materi sales.
 
 ---
 
-# Template Prompt Sales Serbaguna
+## Template Prompt Sales Serbaguna
 
 Gunakan template ini untuk hampir semua kebutuhan sales.
 
@@ -1376,7 +1376,7 @@ Jika informasi belum cukup, minta data tambahan.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk sales?
 
@@ -1408,7 +1408,7 @@ Hindari klaim palsu, urgency palsu, pesan terlalu agresif, manipulasi emosional,
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk sales dapat membantu proses penjualan menjadi lebih cepat, rapi, dan terstruktur.
 
@@ -1438,7 +1438,7 @@ Jika ingin memakai AI untuk pekerjaan sales sehari-hari, baca [Cara Menggunakan 
 
 Untuk memakai AI dalam email sales, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) agar cold email, follow-up lead, objection handling, dan proposal follow-up lebih profesional.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1463,21 +1463,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Gunakan AI untuk Sales yang Lebih Membantu
+## Gunakan AI untuk Sales yang Lebih Membantu
 
 AI bisa membantu sales menjadi lebih cepat.
 

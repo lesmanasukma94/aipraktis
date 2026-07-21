@@ -186,7 +186,7 @@ AI lebih tepat dipandang sebagai asisten yang membantu meningkatkan produktivita
 
 ---
 
-# Contoh Penggunaan AI untuk HRD dan Rekrutmen
+## Contoh Penggunaan AI untuk HRD dan Rekrutmen
 
 AI bisa membantu HRD bekerja lebih cepat, terutama untuk pekerjaan yang berulang dan berbasis dokumen.
 
@@ -220,7 +220,7 @@ Baca juga:
 
 ---
 
-# AI untuk Membuat Job Description
+## AI untuk Membuat Job Description
 
 Salah satu penggunaan AI paling praktis untuk HRD adalah membuat job description.
 
@@ -282,7 +282,7 @@ Jangan sampai job description terlalu umum atau terlalu banyak syarat yang tidak
 
 ---
 
-# AI untuk Screening CV
+## AI untuk Screening CV
 
 AI bisa membantu HRD membaca CV lebih cepat.
 
@@ -342,7 +342,7 @@ Contoh data yang perlu disamarkan:
 
 ---
 
-# AI untuk Membuat Pertanyaan Interview
+## AI untuk Membuat Pertanyaan Interview
 
 AI bisa membantu membuat pertanyaan interview yang lebih terstruktur.
 
@@ -401,7 +401,7 @@ Pertanyaan seperti ini membantu HRD memahami cara kandidat berpikir dan bekerja.
 
 ---
 
-# AI untuk Membuat Scorecard Interview
+## AI untuk Membuat Scorecard Interview
 
 Scorecard membantu proses interview lebih objektif.
 
@@ -449,7 +449,7 @@ Yang penting konsisten dan relevan dengan pekerjaan.
 
 ---
 
-# AI untuk Email Kandidat
+## AI untuk Email Kandidat
 
 HRD sering mengirim email ke kandidat.
 
@@ -513,7 +513,7 @@ Batasan:
 
 ---
 
-# AI untuk Onboarding Karyawan Baru
+## AI untuk Onboarding Karyawan Baru
 
 Rekrutmen tidak selesai setelah kandidat diterima.
 
@@ -563,7 +563,7 @@ Karyawan baru tahu apa yang harus dilakukan, siapa yang harus dihubungi, dan bag
 
 ---
 
-# AI untuk Training dan Pengembangan Karyawan
+## AI untuk Training dan Pengembangan Karyawan
 
 HRD juga bisa memakai AI untuk learning and development.
 
@@ -628,7 +628,7 @@ Baca juga:
 
 ---
 
-# AI untuk Performance Review
+## AI untuk Performance Review
 
 Performance review membutuhkan bahasa yang jelas, objektif, dan tidak menyerang pribadi.
 
@@ -686,7 +686,7 @@ Buat versi yang:
 
 ---
 
-# Risiko Penggunaan AI untuk HRD
+## Risiko Penggunaan AI untuk HRD
 
 Karena HRD menangani data manusia, penggunaan AI harus lebih hati-hati.
 
@@ -741,7 +741,7 @@ Sebelum dikirim ke kandidat atau karyawan, baca ulang dan sesuaikan dengan buday
 
 ---
 
-# Workflow Aman Menggunakan AI untuk Rekrutmen
+## Workflow Aman Menggunakan AI untuk Rekrutmen
 
 Gunakan workflow berikut agar AI tetap aman.
 
@@ -775,7 +775,7 @@ Workflow seperti ini membuat AI tetap membantu tanpa mengambil alih keputusan pe
 
 ---
 
-# Checklist Menggunakan AI untuk HRD dan Rekrutmen
+## Checklist Menggunakan AI untuk HRD dan Rekrutmen
 
 Gunakan checklist ini.
 
@@ -795,7 +795,7 @@ Tidak ada data sensitif yang dibagikan sembarangan
 
 ---
 
-# Prompt AI untuk HRD dan Rekrutmen
+## Prompt AI untuk HRD dan Rekrutmen
 
 ## Prompt Job Description
 

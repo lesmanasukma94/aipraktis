@@ -21,7 +21,7 @@ AI chatbot untuk toko online dapat membantu menjawab pertanyaan pelanggan, merek
 
 Sebelum membuat chatbot toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) agar FAQ, template balasan, katalog, SOP komplain, dan workflow customer service sudah rapi terlebih dahulu.
 
-# AI Chatbot untuk Toko Online
+
 
 Toko online sering terlihat sederhana dari luar.
 
@@ -54,7 +54,7 @@ Jika diterapkan dengan benar, AI chatbot bukan hanya alat customer service. Ia b
 
 ---
 
-# Apa Itu AI Chatbot untuk Toko Online?
+## Apa Itu AI Chatbot untuk Toko Online?
 
 AI chatbot untuk toko online adalah chatbot berbasis Artificial Intelligence yang digunakan untuk membantu proses penjualan, customer service, dan komunikasi pelanggan pada bisnis ecommerce.
 
@@ -93,7 +93,7 @@ Dengan kata lain, chatbot membantu toko online melayani pelanggan lebih cepat da
 
 ---
 
-# Mengapa Toko Online Membutuhkan AI Chatbot?
+## Mengapa Toko Online Membutuhkan AI Chatbot?
 
 Toko online memiliki tantangan yang berbeda dari bisnis jasa.
 
@@ -186,7 +186,7 @@ Data ini dapat digunakan untuk follow-up, remarketing, dan evaluasi penawaran.
 
 ---
 
-# Manfaat AI Chatbot untuk Toko Online
+## Manfaat AI Chatbot untuk Toko Online
 
 AI chatbot dapat memberi dampak langsung pada operasional dan penjualan toko online.
 
@@ -287,7 +287,7 @@ Ini membuat pengalaman pelanggan lebih baik setelah transaksi.
 
 ---
 
-# Contoh Penggunaan AI Chatbot untuk Toko Online
+## Contoh Penggunaan AI Chatbot untuk Toko Online
 
 Berikut beberapa contoh penggunaan chatbot yang sangat relevan untuk ecommerce.
 
@@ -372,7 +372,7 @@ Strategi ini dapat membantu memulihkan penjualan yang tertunda.
 
 ---
 
-# Tools AI Chatbot untuk Toko Online
+## Tools AI Chatbot untuk Toko Online
 
 Berikut beberapa tools yang bisa dipertimbangkan untuk toko online.
 
@@ -461,7 +461,7 @@ Baca juga:
 
 ---
 
-# Cara Menerapkan AI Chatbot di Toko Online
+## Cara Menerapkan AI Chatbot di Toko Online
 
 Agar chatbot benar-benar membantu penjualan, jangan langsung memasang tools tanpa strategi.
 
@@ -613,7 +613,7 @@ Gunakan data ini untuk memperbaiki flow dan knowledge base.
 
 ---
 
-# Contoh Flow AI Chatbot untuk Toko Online
+## Contoh Flow AI Chatbot untuk Toko Online
 
 Berikut contoh flow sederhana untuk toko fashion.
 
@@ -661,7 +661,7 @@ Setelah pelanggan menjawab:
 
 ---
 
-# Prompt ChatGPT untuk Membuat Chatbot Toko Online
+## Prompt ChatGPT untuk Membuat Chatbot Toko Online
 
 Berikut prompt yang bisa digunakan untuk menyiapkan materi chatbot.
 
@@ -697,7 +697,7 @@ Buatkan 10 variasi pesan follow-up untuk pelanggan yang meninggalkan keranjang b
 
 ---
 
-# Strategi Agar AI Chatbot Meningkatkan Penjualan
+## Strategi Agar AI Chatbot Meningkatkan Penjualan
 
 Chatbot tidak otomatis meningkatkan penjualan hanya karena dipasang.
 
@@ -769,7 +769,7 @@ Data ini bisa menjadi bahan optimasi bisnis.
 
 ---
 
-# Kesalahan yang Harus Dihindari
+## Kesalahan yang Harus Dihindari
 
 AI chatbot untuk toko online harus dirancang dengan hati-hati.
 
@@ -821,7 +821,7 @@ Selain membantu menjawab pertanyaan produk, chatbot juga dapat digunakan untuk m
 
 Toko online yang menerima banyak pertanyaan pelanggan dapat membaca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk mengelola pertanyaan order, pembayaran, pengiriman, retur, refund, dan komplain.
 
-# Checklist AI Chatbot untuk Toko Online
+## Checklist AI Chatbot untuk Toko Online
 
 Gunakan checklist ini sebelum meluncurkan chatbot.
 
@@ -841,7 +841,7 @@ Gunakan checklist ini sebelum meluncurkan chatbot.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI chatbot untuk toko online?
 
@@ -879,7 +879,7 @@ Jika toko online Anda aktif di Instagram, baca juga [AI Chatbot untuk Instagram]
 
 Toko online yang aktif di TikTok dapat membaca [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk memahami strategi komentar keyword, katalog, TikTok Shop, dan follow-up pelanggan.
 
-# Kesimpulan
+## Kesimpulan
 
 AI chatbot untuk toko online dapat menjadi aset penting bagi bisnis ecommerce.
 
@@ -897,7 +897,7 @@ Jika diterapkan dengan strategi yang tepat, AI chatbot dapat membantu toko onlin
 
 ---
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -916,21 +916,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Gunakan AI untuk Membuat Toko Online Lebih Responsif
+## Gunakan AI untuk Membuat Toko Online Lebih Responsif
 
 Toko online yang cepat menjawab pelanggan memiliki peluang lebih besar untuk memenangkan penjualan.
 

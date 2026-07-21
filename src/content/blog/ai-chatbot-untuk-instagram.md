@@ -23,7 +23,7 @@ AI chatbot untuk Instagram dapat membantu bisnis dan content creator membalas DM
 
 Jika Anda juga menggunakan TikTok sebagai channel konten dan penjualan, baca panduan [AI Chatbot untuk TikTok](/blog/ai-chatbot-untuk-tiktok/) untuk memahami cara mengubah views, komentar, dan DM menjadi lead atau sales.
 
-# AI Chatbot untuk Instagram
+
 
 Instagram bukan hanya platform untuk upload foto dan video.
 
@@ -79,7 +79,7 @@ Tujuannya adalah membantu audiens mendapatkan jawaban lebih cepat, sambil tetap 
 
 ---
 
-# Apa Itu AI Chatbot untuk Instagram?
+## Apa Itu AI Chatbot untuk Instagram?
 
 AI chatbot untuk Instagram adalah sistem otomatis berbasis AI atau automation yang membantu mengelola percakapan di Instagram, terutama melalui DM dan komentar.
 
@@ -171,7 +171,7 @@ Baca juga:
 
 ---
 
-# Mengapa Instagram Cocok untuk AI Chatbot?
+## Mengapa Instagram Cocok untuk AI Chatbot?
 
 Instagram sangat cocok untuk chatbot karena interaksinya cepat, visual, dan berbasis percakapan.
 
@@ -247,7 +247,7 @@ Chatbot membantu menjaga momentum.
 
 ---
 
-# Manfaat AI Chatbot untuk Instagram
+## Manfaat AI Chatbot untuk Instagram
 
 Berikut manfaat utama AI chatbot untuk Instagram.
 
@@ -349,7 +349,7 @@ Brand bisa terdengar lebih rapi, profesional, dan mudah dikenali.
 
 ---
 
-# Contoh Penggunaan AI Chatbot untuk Instagram
+## Contoh Penggunaan AI Chatbot untuk Instagram
 
 Berikut beberapa contoh penggunaan praktis.
 
@@ -454,7 +454,7 @@ Baca juga:
 
 ---
 
-# Tools AI Chatbot untuk Instagram
+## Tools AI Chatbot untuk Instagram
 
 Berikut beberapa tools yang dapat dipertimbangkan.
 
@@ -563,7 +563,7 @@ Baca juga:
 
 ---
 
-# Strategi AI Chatbot Instagram Berdasarkan Tujuan
+## Strategi AI Chatbot Instagram Berdasarkan Tujuan
 
 Setiap akun Instagram punya tujuan berbeda.
 
@@ -674,7 +674,7 @@ Baca juga:
 
 ---
 
-# Contoh Flow AI Chatbot Instagram
+## Contoh Flow AI Chatbot Instagram
 
 Berikut contoh flow untuk campaign lead magnet.
 
@@ -735,7 +735,7 @@ Flow ini tidak terlalu agresif, tetapi tetap membantu mengubah engagement menjad
 
 ---
 
-# Contoh Prompt ChatGPT untuk Instagram Chatbot
+## Contoh Prompt ChatGPT untuk Instagram Chatbot
 
 Berikut prompt siap pakai.
 
@@ -783,7 +783,7 @@ Buatkan 30 CTA Instagram untuk mengajak audiens komentar kata kunci agar mendapa
 
 ---
 
-# Kesalahan Menggunakan AI Chatbot untuk Instagram
+## Kesalahan Menggunakan AI Chatbot untuk Instagram
 
 AI chatbot Instagram harus digunakan dengan hati-hati.
 
@@ -859,7 +859,7 @@ Review secara berkala:
 
 ---
 
-# Checklist AI Chatbot untuk Instagram
+## Checklist AI Chatbot untuk Instagram
 
 Gunakan checklist berikut sebelum menjalankan automation.
 
@@ -881,7 +881,7 @@ Gunakan checklist berikut sebelum menjalankan automation.
 
 ---
 
-# Metrik yang Perlu Dipantau
+## Metrik yang Perlu Dipantau
 
 Agar chatbot Instagram tidak hanya terlihat keren, pantau metriknya.
 
@@ -929,7 +929,7 @@ Data ini membantu memperbaiki campaign berikutnya.
 
 ---
 
-# Strategi AI Chatbot Instagram untuk UMKM
+## Strategi AI Chatbot Instagram untuk UMKM
 
 Untuk UMKM, jangan mulai dari sistem yang terlalu rumit.
 
@@ -998,7 +998,7 @@ Baca juga:
 
 ---
 
-# Strategi AI Chatbot Instagram untuk Content Creator
+## Strategi AI Chatbot Instagram untuk Content Creator
 
 Content creator dapat memakai chatbot untuk membangun aset jangka panjang.
 
@@ -1055,7 +1055,7 @@ Gunakan rasio edukasi lebih besar daripada promosi.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI chatbot untuk Instagram?
 
@@ -1087,7 +1087,7 @@ Kesalahan terbesar adalah menggunakan automation untuk spam, terlalu agresif men
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI chatbot untuk Instagram dapat membantu bisnis, UMKM, marketer, dan content creator mengelola DM serta komentar dengan lebih cepat, rapi, dan strategis.
 
@@ -1119,7 +1119,7 @@ Selain Instagram, YouTube juga bisa menjadi sumber lead dan komunitas. Pelajari 
 
 Sebelum mengotomasi interaksi Instagram dengan chatbot, pastikan strategi kontennya jelas. Gunakan [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/) untuk membuat ide konten, caption, carousel, story, CTA, dan kalender posting.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1141,21 +1141,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Gunakan Instagram sebagai Mesin Percakapan
+## Gunakan Instagram sebagai Mesin Percakapan
 
 Instagram bukan hanya tempat posting konten.
 

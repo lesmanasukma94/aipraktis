@@ -23,7 +23,7 @@ Beberapa lebih unggul untuk riset, sebagian lebih kuat untuk coding, sementara y
 
 Jika Anda mencari AI terbaik selain ChatGPT, artikel ini akan membantu Anda memilih tools yang sesuai dengan kebutuhan.
 
-# Mengapa Mencari Alternatif ChatGPT?
+## Mengapa Mencari Alternatif ChatGPT?
 
 Meskipun sangat populer, ChatGPT bukan satu-satunya pilihan.
 
@@ -36,7 +36,7 @@ Beberapa alasan orang mencari alternatif:
 * Mencari biaya yang lebih murah
 * Membutuhkan fitur khusus untuk bisnis
 
-# 1. Google Gemini
+## 1. Google Gemini
 
 Gemini merupakan pesaing terbesar ChatGPT saat ini.
 
@@ -54,7 +54,7 @@ Cocok untuk:
 * Peneliti
 * Profesional
 
-# 2. Claude AI
+## 2. Claude AI
 
 Claude dikembangkan oleh Anthropic.
 
@@ -70,7 +70,7 @@ Cocok untuk:
 * Content creator
 * Blogger
 
-# 3. Perplexity AI
+## 3. Perplexity AI
 
 Perplexity menjadi favorit banyak pengguna yang membutuhkan sumber informasi.
 
@@ -86,7 +86,7 @@ Cocok untuk:
 * Peneliti
 * Jurnalis
 
-# 4. Microsoft Copilot
+## 4. Microsoft Copilot
 
 Copilot merupakan AI dari Microsoft.
 
@@ -102,7 +102,7 @@ Cocok untuk:
 * Administrasi
 * Profesional bisnis
 
-# 5. Grok
+## 5. Grok
 
 Grok dikembangkan oleh xAI.
 
@@ -117,7 +117,7 @@ Cocok untuk:
 * Social media marketer
 * Content creator
 
-# 6. DeepSeek
+## 6. DeepSeek
 
 DeepSeek berkembang sangat cepat dalam beberapa tahun terakhir.
 
@@ -132,7 +132,7 @@ Cocok untuk:
 * Programmer
 * Mahasiswa teknik
 
-# 7. Poe
+## 7. Poe
 
 Poe memungkinkan pengguna mengakses banyak model AI dalam satu platform.
 
@@ -145,7 +145,7 @@ Kelebihan:
 
 Cocok untuk pengguna yang ingin membandingkan hasil AI.
 
-# 8. Jasper AI
+## 8. Jasper AI
 
 Jasper fokus pada dunia marketing.
 
@@ -161,7 +161,7 @@ Cocok untuk:
 * UMKM
 * Agency
 
-# 9. Copy.ai
+## 9. Copy.ai
 
 Alternatif Jasper yang cukup populer.
 
@@ -171,7 +171,7 @@ Fungsi:
 * Copy iklan
 * Deskripsi produk
 
-# 10. Notion AI
+## 10. Notion AI
 
 Notion AI fokus pada produktivitas.
 
@@ -181,7 +181,7 @@ Kelebihan:
 * Dokumentasi
 * Perencanaan proyek
 
-# 11. Elicit
+## 11. Elicit
 
 Elicit dibuat untuk kebutuhan penelitian akademik.
 
@@ -191,7 +191,7 @@ Cocok untuk:
 * Tesis
 * Penelitian ilmiah
 
-# 12. Consensus
+## 12. Consensus
 
 Consensus memberikan jawaban berdasarkan penelitian ilmiah.
 
@@ -201,7 +201,7 @@ Cocok untuk:
 * Peneliti
 * Mahasiswa
 
-# 13. Phind
+## 13. Phind
 
 Phind dikenal sebagai AI khusus programmer.
 
@@ -211,7 +211,7 @@ Kelebihan:
 * Debugging
 * Penjelasan kode
 
-# 14. You.com
+## 14. You.com
 
 You.com menggabungkan pencarian dan AI.
 
@@ -221,7 +221,7 @@ Kelebihan:
 * Referensi cepat
 * Produktivitas
 
-# 15. Pi AI
+## 15. Pi AI
 
 Pi memiliki pendekatan yang lebih personal.
 
@@ -231,7 +231,7 @@ Kelebihan:
 * Pendamping belajar
 * Diskusi santai
 
-# Perbandingan ChatGPT vs Alternatifnya
+## Perbandingan ChatGPT vs Alternatifnya
 
 | AI         | Keunggulan Utama     |
 | ---------- | -------------------- |
@@ -244,7 +244,7 @@ Kelebihan:
 | Jasper     | Marketing            |
 | Elicit     | Penelitian           |
 
-# Alternatif ChatGPT Terbaik untuk Mahasiswa
+## Alternatif ChatGPT Terbaik untuk Mahasiswa
 
 Rekomendasi:
 
@@ -253,7 +253,7 @@ Rekomendasi:
 3. Elicit
 4. Consensus
 
-# Alternatif ChatGPT Terbaik untuk Guru
+## Alternatif ChatGPT Terbaik untuk Guru
 
 Rekomendasi:
 
@@ -261,7 +261,7 @@ Rekomendasi:
 2. Claude
 3. Copilot
 
-# Alternatif ChatGPT Terbaik untuk Bisnis
+## Alternatif ChatGPT Terbaik untuk Bisnis
 
 Rekomendasi:
 
@@ -270,7 +270,7 @@ Rekomendasi:
 3. Jasper
 4. Copy.ai
 
-# Alternatif ChatGPT Terbaik untuk Coding
+## Alternatif ChatGPT Terbaik untuk Coding
 
 Rekomendasi:
 
@@ -278,7 +278,7 @@ Rekomendasi:
 2. Phind
 3. Copilot
 
-# Mana yang Terbaik?
+## Mana yang Terbaik?
 
 Tidak ada AI yang paling sempurna untuk semua kebutuhan.
 
@@ -311,7 +311,7 @@ Jika tujuan Anda:
 
 ---
 
-# Cara Memilih Alternatif ChatGPT yang Tepat
+## Cara Memilih Alternatif ChatGPT yang Tepat
 
 Alternatif ChatGPT terbaik tidak selalu berarti tools yang paling populer.
 
@@ -367,7 +367,7 @@ Baca juga:
 
 ---
 
-# Kriteria Alternatif ChatGPT yang Bagus
+## Kriteria Alternatif ChatGPT yang Bagus
 
 Sebelum memakai alternatif ChatGPT, cek beberapa kriteria berikut.
 
@@ -521,7 +521,7 @@ Untuk kerja serius, versi berbayar bisa layak jika benar-benar menghemat waktu.
 
 ---
 
-# Rekomendasi Alternatif ChatGPT Berdasarkan Kebutuhan
+## Rekomendasi Alternatif ChatGPT Berdasarkan Kebutuhan
 
 Berikut cara memilih alternatif ChatGPT berdasarkan kebutuhan.
 
@@ -757,7 +757,7 @@ Tren sosial media cepat berubah dan bisa bias.
 
 ---
 
-# Tabel Perbandingan Alternatif ChatGPT
+## Tabel Perbandingan Alternatif ChatGPT
 
 | Tools | Cocok Untuk | Kekuatan Utama | Catatan |
 |---|---|---|---|
@@ -770,7 +770,7 @@ Tren sosial media cepat berubah dan bisa bias.
 
 ---
 
-# Workflow Memakai Beberapa AI Chatbot Sekaligus
+## Workflow Memakai Beberapa AI Chatbot Sekaligus
 
 Anda tidak harus memilih satu tools saja.
 
@@ -833,7 +833,7 @@ Jangan memaksa satu tools untuk semua kebutuhan.
 
 ---
 
-# Kesalahan Saat Memilih Alternatif ChatGPT
+## Kesalahan Saat Memilih Alternatif ChatGPT
 
 ## 1. Mengikuti Hype Tanpa Kebutuhan
 
@@ -927,7 +927,7 @@ Template seperti ini membuat hasil AI lebih konsisten.
 
 ---
 
-# Checklist Memilih Alternatif ChatGPT
+## Checklist Memilih Alternatif ChatGPT
 
 Gunakan checklist ini.
 
@@ -950,7 +950,7 @@ Jika tools baru justru membuat kerja lebih rumit, berarti belum perlu dipakai.
 
 ---
 
-# Prompt untuk Membandingkan Alternatif ChatGPT
+## Prompt untuk Membandingkan Alternatif ChatGPT
 
 Gunakan prompt ini di beberapa AI chatbot, lalu bandingkan hasilnya.
 
@@ -994,7 +994,7 @@ bahasa,
 kemudahan diedit.
 ```
 
-# Prompt untuk Memilih AI Chatbot Sesuai Kebutuhan
+## Prompt untuk Memilih AI Chatbot Sesuai Kebutuhan
 
 Gunakan prompt ini.
 
@@ -1042,7 +1042,7 @@ Baca juga:
 - [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 - [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 
-# FAQ
+## FAQ
 
 ## Apakah ada AI yang lebih baik dari ChatGPT?
 
@@ -1060,7 +1060,7 @@ Untuk integrasi Google dan informasi terbaru, Gemini memiliki keunggulan tersend
 
 Gemini, Perplexity, Elicit, dan Consensus.
 
-# Kesimpulan
+## Kesimpulan
 
 ChatGPT masih menjadi salah satu AI terbaik saat ini, tetapi bukan satu-satunya pilihan. Banyak alternatif ChatGPT yang menawarkan fitur khusus untuk pendidikan, bisnis, marketing, coding, maupun penelitian.
 

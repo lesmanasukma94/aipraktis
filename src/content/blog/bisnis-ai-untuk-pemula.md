@@ -303,7 +303,7 @@ Modal terbesar sebenarnya adalah waktu untuk belajar dan praktik.
 
 ---
 
-# Jenis Bisnis AI yang Cocok untuk Pemula
+## Jenis Bisnis AI yang Cocok untuk Pemula
 
 Bisnis AI untuk pemula tidak harus langsung membuat aplikasi besar, model machine learning, atau startup teknologi.
 
@@ -342,7 +342,7 @@ Baca juga:
 
 ---
 
-# Model Bisnis AI untuk Pemula
+## Model Bisnis AI untuk Pemula
 
 Berikut beberapa model bisnis AI yang cocok untuk pemula.
 
@@ -535,7 +535,7 @@ Namun, bisa menjadi sumber income jangka panjang jika konten SEO dan distribusi 
 
 ---
 
-# Cara Memulai Bisnis AI dari Nol
+## Cara Memulai Bisnis AI dari Nol
 
 Berikut langkah praktis untuk pemula.
 
@@ -666,7 +666,7 @@ Kalau berkenan, saya bisa bantu audit ringan gratis dan kasih 3 contoh workflow 
 
 ---
 
-# Contoh Paket Bisnis AI untuk Pemula
+## Contoh Paket Bisnis AI untuk Pemula
 
 Agar mudah dijual, buat paket yang jelas.
 
@@ -741,7 +741,7 @@ Sesuaikan dengan pengalaman, kompleksitas, waktu pengerjaan, dan nilai yang dibe
 
 ---
 
-# Skill yang Perlu Dikuasai untuk Bisnis AI
+## Skill yang Perlu Dikuasai untuk Bisnis AI
 
 Untuk memulai bisnis AI, Anda tidak harus menguasai semua hal.
 
@@ -815,7 +815,7 @@ Buat penawaran yang menjelaskan:
 
 ---
 
-# Kesalahan Saat Memulai Bisnis AI
+## Kesalahan Saat Memulai Bisnis AI
 
 ## 1. Terlalu Fokus pada Tools
 
@@ -880,7 +880,7 @@ Buat checklist keamanan data sejak awal.
 
 ---
 
-# Checklist Memulai Bisnis AI untuk Pemula
+## Checklist Memulai Bisnis AI untuk Pemula
 
 Gunakan checklist ini.
 
@@ -905,7 +905,7 @@ Yang penting bisa diuji ke pasar.
 
 ---
 
-# Prompt untuk Membuat Ide Bisnis AI
+## Prompt untuk Membuat Ide Bisnis AI
 
 Gunakan prompt ini.
 
@@ -939,7 +939,7 @@ Batasan:
 Fokus pada bisnis AI yang bisa dimulai pemula tanpa membuat aplikasi kompleks.
 ```
 
-# Prompt untuk Membuat Paket Penawaran Bisnis AI
+## Prompt untuk Membuat Paket Penawaran Bisnis AI
 
 Gunakan prompt ini.
 
@@ -975,7 +975,7 @@ Buatkan:
 Gunakan bahasa Indonesia profesional, jelas, dan tidak berlebihan.
 ```
 
-# Prompt untuk Membuat Studi Kasus Bisnis AI
+## Prompt untuk Membuat Studi Kasus Bisnis AI
 
 Gunakan prompt ini.
 

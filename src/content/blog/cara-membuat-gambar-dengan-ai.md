@@ -34,7 +34,7 @@ Saat ini AI digunakan untuk membuat:
 
 Dalam panduan ini Anda akan belajar cara membuat gambar dengan AI dari nol.
 
-# Apa Itu AI Pembuat Gambar?
+## Apa Itu AI Pembuat Gambar?
 
 AI pembuat gambar adalah teknologi yang dapat menghasilkan gambar berdasarkan perintah teks atau prompt.
 
@@ -46,7 +46,7 @@ Dalam beberapa detik AI dapat menghasilkan gambar sesuai deskripsi tersebut.
 
 Teknologi ini menggunakan model machine learning yang dilatih menggunakan jutaan gambar.
 
-# Mengapa Banyak Orang Menggunakan AI untuk Membuat Gambar?
+## Mengapa Banyak Orang Menggunakan AI untuk Membuat Gambar?
 
 Beberapa alasannya:
 
@@ -66,9 +66,9 @@ Banyak tools menyediakan versi gratis.
 
 Dapat digunakan untuk berbagai kebutuhan bisnis dan kreatif.
 
-# Tools AI Pembuat Gambar Terbaik
+## Tools AI Pembuat Gambar Terbaik
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 Versi terbaru ChatGPT dapat membantu menghasilkan gambar AI.
 
@@ -78,7 +78,7 @@ Kelebihan:
 * Prompt lebih mudah dibuat
 * Cocok untuk pemula
 
-# 2. Midjourney
+## 2. Midjourney
 
 Midjourney merupakan salah satu generator gambar AI paling terkenal.
 
@@ -88,7 +88,7 @@ Kelebihan:
 * Detail luar biasa
 * Cocok untuk profesional
 
-# 3. Leonardo AI
+## 3. Leonardo AI
 
 Leonardo menjadi alternatif Midjourney yang sangat populer.
 
@@ -98,7 +98,7 @@ Fitur:
 * Banyak model visual
 * Cocok untuk bisnis
 
-# 4. Canva AI
+## 4. Canva AI
 
 Canva memiliki fitur AI image generator.
 
@@ -108,7 +108,7 @@ Kelebihan:
 * Terintegrasi dengan desain
 * Cocok untuk konten media sosial
 
-# 5. Adobe Firefly
+## 5. Adobe Firefly
 
 Firefly dikembangkan oleh Adobe.
 
@@ -118,7 +118,7 @@ Keunggulan:
 * Hasil profesional
 * Cocok untuk desainer
 
-# 6. Microsoft Designer
+## 6. Microsoft Designer
 
 Microsoft Designer memanfaatkan AI untuk membuat desain dan gambar.
 
@@ -128,7 +128,7 @@ Cocok untuk:
 * Konten media sosial
 * Marketing
 
-# 7. Ideogram
+## 7. Ideogram
 
 Ideogram sangat bagus untuk gambar yang mengandung teks.
 
@@ -138,7 +138,7 @@ Misalnya:
 * Banner
 * Cover
 
-# Apa Itu Prompt dalam AI Gambar?
+## Apa Itu Prompt dalam AI Gambar?
 
 Prompt adalah instruksi yang diberikan kepada AI.
 
@@ -148,7 +148,7 @@ Contoh sederhana:
 
 Semakin detail prompt, semakin baik hasil gambar.
 
-# Cara Menulis Prompt yang Baik
+## Cara Menulis Prompt yang Baik
 
 Prompt yang baik biasanya menjelaskan:
 
@@ -186,9 +186,9 @@ Prompt lengkap:
 
 > Seekor kucing putih sedang membaca buku di perpustakaan modern dengan gaya realistis dan pencahayaan sinematik.
 
-# Cara Membuat Gambar AI Langkah Demi Langkah
+## Cara Membuat Gambar AI Langkah Demi Langkah
 
-# Langkah 1: Pilih Tools AI
+## Langkah 1: Pilih Tools AI
 
 Untuk pemula disarankan:
 
@@ -196,7 +196,7 @@ Untuk pemula disarankan:
 * Canva AI
 * Leonardo AI
 
-# Langkah 2: Tentukan Gambar yang Ingin Dibuat
+## Langkah 2: Tentukan Gambar yang Ingin Dibuat
 
 Misalnya:
 
@@ -204,19 +204,19 @@ Misalnya:
 * Poster promosi
 * Ilustrasi artikel
 
-# Langkah 3: Tulis Prompt
+## Langkah 3: Tulis Prompt
 
 Contoh:
 
 > Seorang pebisnis sedang menggunakan laptop dengan visual futuristik dan nuansa AI.
 
-# Langkah 4: Generate Gambar
+## Langkah 4: Generate Gambar
 
 Klik tombol generate.
 
 Biasanya AI menghasilkan beberapa pilihan gambar.
 
-# Langkah 5: Edit Jika Diperlukan
+## Langkah 5: Edit Jika Diperlukan
 
 Anda dapat:
 
@@ -224,7 +224,7 @@ Anda dapat:
 * Mengubah komposisi
 * Menambahkan elemen
 
-# Cara Membuat Thumbnail YouTube dengan AI
+## Cara Membuat Thumbnail YouTube dengan AI
 
 Prompt contoh:
 
@@ -236,7 +236,7 @@ Tools yang cocok:
 * Leonardo AI
 * Canva AI
 
-# Cara Membuat Gambar Produk dengan AI
+## Cara Membuat Gambar Produk dengan AI
 
 Prompt contoh:
 
@@ -248,7 +248,7 @@ Cocok untuk:
 * Marketplace
 * Toko online
 
-# Cara Membuat Gambar untuk Artikel Blog
+## Cara Membuat Gambar untuk Artikel Blog
 
 Prompt contoh:
 
@@ -260,7 +260,7 @@ Sangat berguna untuk:
 * Publisher
 * Website bisnis
 
-# Apakah Gambar AI Bisa Digunakan untuk Bisnis?
+## Apakah Gambar AI Bisa Digunakan untuk Bisnis?
 
 Ya.
 
@@ -273,7 +273,7 @@ Banyak bisnis menggunakan AI untuk:
 
 Namun tetap periksa lisensi dari tools yang digunakan.
 
-# Kesalahan Saat Membuat Gambar AI
+## Kesalahan Saat Membuat Gambar AI
 
 ## Prompt Terlalu Pendek
 
@@ -289,7 +289,7 @@ Sering kali hasil terbaik muncul setelah beberapa kali percobaan.
 
 ---
 
-# Cara Membuat Gambar dengan AI dari Nol
+## Cara Membuat Gambar dengan AI dari Nol
 
 Membuat gambar dengan AI tidak cukup hanya menulis prompt pendek seperti:
 
@@ -340,7 +340,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Tentukan Tujuan Gambar
+## Langkah 1: Tentukan Tujuan Gambar
 
 Langkah pertama adalah menentukan tujuan gambar.
 
@@ -401,7 +401,7 @@ Tujuan yang jelas membantu gambar menjadi lebih relevan.
 
 ---
 
-# Langkah 2: Tentukan Subjek Utama
+## Langkah 2: Tentukan Subjek Utama
 
 Subjek utama adalah objek atau orang yang menjadi fokus gambar.
 
@@ -438,7 +438,7 @@ Semakin jelas subjeknya, semakin mudah AI menghasilkan gambar yang sesuai.
 
 ---
 
-# Langkah 3: Tentukan Gaya Visual
+## Langkah 3: Tentukan Gaya Visual
 
 Gaya visual menentukan rasa gambar.
 
@@ -496,7 +496,7 @@ Gaya visual yang konsisten penting jika gambar dipakai untuk brand atau konten r
 
 ---
 
-# Langkah 4: Tentukan Rasio Gambar
+## Langkah 4: Tentukan Rasio Gambar
 
 Rasio gambar harus disesuaikan dengan platform.
 
@@ -539,7 +539,7 @@ Baca juga:
 
 ---
 
-# Langkah 5: Tulis Prompt Gambar yang Lengkap
+## Langkah 5: Tulis Prompt Gambar yang Lengkap
 
 Prompt gambar yang baik biasanya berisi:
 
@@ -574,7 +574,7 @@ Teks lebih baik ditambahkan langsung di website atau tools desain.
 
 ---
 
-# Langkah 6: Gunakan Negative Prompt
+## Langkah 6: Gunakan Negative Prompt
 
 Negative prompt adalah instruksi tentang hal yang harus dihindari.
 
@@ -606,7 +606,7 @@ Untuk desain grafis, negative prompt sangat penting karena AI sering membuat tek
 
 ---
 
-# Langkah 7: Buat Beberapa Variasi
+## Langkah 7: Buat Beberapa Variasi
 
 Jangan puas dengan satu hasil gambar.
 
@@ -652,7 +652,7 @@ Dengan beberapa variasi, Anda bisa memilih gambar yang paling sesuai dengan pesa
 
 ---
 
-# Contoh Prompt Gambar untuk Artikel Blog
+## Contoh Prompt Gambar untuk Artikel Blog
 
 Gunakan prompt ini untuk gambar artikel.
 
@@ -680,7 +680,7 @@ A realistic 16:9 scene of an Indonesian content creator planning social media co
 
 ---
 
-# Contoh Prompt Gambar untuk Instagram
+## Contoh Prompt Gambar untuk Instagram
 
 Untuk Instagram, gambar harus cepat menarik perhatian.
 
@@ -708,7 +708,7 @@ Jika ingin menambahkan teks, lakukan di Canva atau tools desain lain agar tulisa
 
 ---
 
-# Contoh Prompt Gambar untuk Thumbnail YouTube
+## Contoh Prompt Gambar untuk Thumbnail YouTube
 
 Thumbnail YouTube harus kuat dan jelas.
 
@@ -739,7 +739,7 @@ Baca juga:
 
 ---
 
-# Contoh Prompt Gambar untuk Produk
+## Contoh Prompt Gambar untuk Produk
 
 Gambar produk dengan AI harus hati-hati.
 
@@ -775,7 +775,7 @@ Gambar AI bisa dipakai sebagai visual pendukung, tetapi jangan sampai menyesatka
 
 ---
 
-# Contoh Prompt Gambar untuk Presentasi
+## Contoh Prompt Gambar untuk Presentasi
 
 Gambar presentasi harus mendukung pesan, bukan mengalihkan perhatian.
 
@@ -801,7 +801,7 @@ Untuk presentasi, pilih gambar yang tidak terlalu ramai agar teks slide tetap mu
 
 ---
 
-# Cara Membuat Prompt Gambar yang Konsisten
+## Cara Membuat Prompt Gambar yang Konsisten
 
 Jika Anda membuat banyak gambar untuk satu brand, konsistensi penting.
 
@@ -838,7 +838,7 @@ Baca juga:
 
 ---
 
-# Workflow Membuat Gambar dengan AI
+## Workflow Membuat Gambar dengan AI
 
 Gunakan workflow sederhana ini.
 
@@ -894,7 +894,7 @@ script
 
 ---
 
-# Cara Menulis Alt Text untuk Gambar AI
+## Cara Menulis Alt Text untuk Gambar AI
 
 Jika gambar dipakai di website, tambahkan alt text.
 
@@ -940,7 +940,7 @@ Fokus pada deskripsi yang membantu pembaca.
 
 ---
 
-# Kesalahan Membuat Gambar dengan AI
+## Kesalahan Membuat Gambar dengan AI
 
 ## 1. Prompt Terlalu Umum
 
@@ -996,7 +996,7 @@ Untuk promosi produk nyata, gunakan foto asli jika detail produk penting.
 
 ---
 
-# Checklist Gambar AI Sebelum Dipakai
+## Checklist Gambar AI Sebelum Dipakai
 
 Gunakan checklist ini.
 
@@ -1020,7 +1020,7 @@ Checklist ini membantu gambar AI lebih aman dan siap dipublikasikan.
 
 ---
 
-# Prompt Master Membuat Gambar dengan AI
+## Prompt Master Membuat Gambar dengan AI
 
 Gunakan prompt master berikut.
 
@@ -1069,7 +1069,7 @@ Tidak ada teks, logo, watermark, tulisan acak, atau elemen yang menyesatkan.
 Gambar harus sesuai konteks dan mudah dipakai.
 ```
 
-# Prompt Membuat Gambar untuk Artikel Blog
+## Prompt Membuat Gambar untuk Artikel Blog
 
 Gunakan prompt ini.
 
@@ -1103,7 +1103,7 @@ Gambar harus tanpa teks, logo, dan watermark.
 Visual harus mendukung isi artikel.
 ```
 
-# Prompt Membuat Gambar untuk Social Media
+## Prompt Membuat Gambar untuk Social Media
 
 Gunakan prompt ini.
 
@@ -1137,7 +1137,7 @@ Jangan membuat teks langsung di gambar AI.
 Gambar harus mudah diberi teks manual.
 ```
 
-# Prompt Review Gambar AI
+## Prompt Review Gambar AI
 
 Gunakan prompt ini setelah gambar dibuat.
 
@@ -1167,7 +1167,7 @@ Cek:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# FAQ
+## FAQ
 
 ## Apa AI pembuat gambar terbaik?
 
@@ -1198,7 +1198,7 @@ Baca juga:
 - [Tools AI untuk YouTube](/blog/tools-ai-untuk-youtube/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah membuat proses pembuatan gambar menjadi jauh lebih mudah. Dengan hanya mengetikkan deskripsi sederhana, siapa pun dapat menghasilkan visual berkualitas tinggi untuk bisnis, media sosial, website, maupun kebutuhan kreatif lainnya.
 

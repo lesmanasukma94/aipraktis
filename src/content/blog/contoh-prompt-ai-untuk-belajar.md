@@ -24,7 +24,7 @@ Prompt AI untuk belajar dapat membantu siswa, mahasiswa, guru, karyawan, dan sia
 
 Jika ingin menerapkan prompt belajar ke workflow yang lebih lengkap, baca [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) untuk memahami cara memakai AI sebagai tutor, membuat jadwal belajar, rangkuman, latihan soal, flashcard, dan review.
 
-# Contoh Prompt AI untuk Belajar
+
 
 AI bisa menjadi teman belajar yang sangat berguna.
 
@@ -97,7 +97,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Belajar
+## Cara Menggunakan AI untuk Belajar
 
 Sebelum memakai daftar prompt, pahami prinsip dasarnya.
 
@@ -140,7 +140,7 @@ Dengan cara ini, AI menjadi tutor, bukan jalan pintas.
 
 ---
 
-# Struktur Prompt AI untuk Belajar
+## Struktur Prompt AI untuk Belajar
 
 Prompt belajar yang baik biasanya berisi:
 
@@ -175,7 +175,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Memahami Materi Sulit
+## Prompt AI untuk Memahami Materi Sulit
 
 Gunakan prompt berikut jika Anda sedang mempelajari materi yang sulit.
 
@@ -231,7 +231,7 @@ Jelaskan perbedaan antara [konsep A] dan [konsep B]. Buat tabel perbandingan ber
 
 ---
 
-# Prompt AI untuk Membuat Rangkuman
+## Prompt AI untuk Membuat Rangkuman
 
 AI sangat berguna untuk membuat rangkuman.
 
@@ -295,7 +295,7 @@ Catatan:
 
 ---
 
-# Prompt AI untuk Membuat Latihan Soal
+## Prompt AI untuk Membuat Latihan Soal
 
 Belajar lebih kuat jika disertai latihan.
 
@@ -339,7 +339,7 @@ Saya sering salah dalam bagian [jelaskan bagian yang sulit]. Buatkan 10 latihan 
 
 ---
 
-# Prompt AI untuk Mengecek Pemahaman
+## Prompt AI untuk Mengecek Pemahaman
 
 Jangan hanya minta AI menjelaskan.
 
@@ -386,7 +386,7 @@ Buatkan sesi latihan tentang [topik]. Jangan berikan jawaban langsung. Tanyakan 
 
 ---
 
-# Prompt AI untuk Membuat Flashcard
+## Prompt AI untuk Membuat Flashcard
 
 Flashcard berguna untuk menghafal istilah, rumus, definisi, konsep, bahasa asing, dan fakta penting.
 
@@ -422,7 +422,7 @@ Buatkan flashcard untuk persiapan ujian [mata pelajaran]. Fokus pada istilah pen
 
 ---
 
-# Prompt AI untuk Membuat Jadwal Belajar
+## Prompt AI untuk Membuat Jadwal Belajar
 
 AI bisa membantu membuat jadwal belajar yang lebih realistis.
 
@@ -461,7 +461,7 @@ Materi:
 
 ---
 
-# Prompt AI untuk Riset dan Tugas Sekolah/Kuliah
+## Prompt AI untuk Riset dan Tugas Sekolah/Kuliah
 
 AI bisa membantu riset awal, tetapi jangan jadikan AI sebagai satu-satunya sumber.
 
@@ -513,7 +513,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Belajar Bahasa Inggris
+## Prompt AI untuk Belajar Bahasa Inggris
 
 AI dapat menjadi partner latihan bahasa.
 
@@ -552,7 +552,7 @@ Bertindaklah sebagai interviewer bahasa Inggris untuk posisi [posisi]. Tanyakan 
 
 ---
 
-# Prompt AI untuk Belajar Skill Baru
+## Prompt AI untuk Belajar Skill Baru
 
 AI juga bisa membantu mempelajari skill praktis.
 
@@ -606,7 +606,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Belajar AI
+## Prompt AI untuk Belajar AI
 
 Karena website ini membahas AI praktis, berikut prompt khusus untuk belajar AI.
 
@@ -648,7 +648,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Persiapan Ujian
+## Prompt AI untuk Persiapan Ujian
 
 AI dapat membantu latihan, review, dan simulasi ujian.
 
@@ -686,7 +686,7 @@ Catatan: gunakan cheat sheet untuk belajar dan review, bukan untuk menyontek.
 
 ---
 
-# Prompt AI untuk Membuat Mind Map dan Struktur Materi
+## Prompt AI untuk Membuat Mind Map dan Struktur Materi
 
 AI bisa membantu menyusun materi agar lebih mudah dipahami.
 
@@ -716,7 +716,7 @@ Buatkan timeline sejarah tentang [topik]. Sertakan tahun/periode, peristiwa pent
 
 ---
 
-# Prompt AI untuk Guru dan Pengajar
+## Prompt AI untuk Guru dan Pengajar
 
 Guru dapat memakai AI untuk membuat bahan ajar, soal, aktivitas, dan rubrik.
 
@@ -750,7 +750,7 @@ Baca juga:
 
 ---
 
-# Prompt AI untuk Belajar Lebih Kritis
+## Prompt AI untuk Belajar Lebih Kritis
 
 Bagian ini penting.
 
@@ -804,7 +804,7 @@ Sumber/catatan:
 
 ---
 
-# Tips Menggunakan AI untuk Belajar
+## Tips Menggunakan AI untuk Belajar
 
 Agar AI benar-benar membantu, gunakan tips berikut.
 
@@ -875,7 +875,7 @@ Kategori:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Belajar
+## Kesalahan Menggunakan AI untuk Belajar
 
 Hindari kesalahan berikut.
 
@@ -921,7 +921,7 @@ Baca juga:
 
 ---
 
-# Checklist Prompt AI untuk Belajar
+## Checklist Prompt AI untuk Belajar
 
 Gunakan checklist berikut.
 
@@ -939,7 +939,7 @@ Gunakan checklist berikut.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu prompt AI untuk belajar?
 
@@ -971,7 +971,7 @@ Bisa. Karena itu, gunakan AI sebagai alat bantu. Untuk fakta penting, konsep aka
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Prompt AI untuk belajar dapat membantu proses belajar menjadi lebih cepat, terstruktur, dan interaktif.
 
@@ -1007,7 +1007,7 @@ Jika Anda memakai AI untuk memahami materi atau mengerjakan riset akademik, baca
 
 Jika Anda guru dan ingin membuat aktivitas belajar untuk siswa, baca juga [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) yang membahas tools untuk materi, soal, rubrik, kuis, worksheet, dan diferensiasi pembelajaran.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1032,21 +1032,21 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
 
 ---
 
-# Gunakan AI untuk Belajar Lebih Aktif
+## Gunakan AI untuk Belajar Lebih Aktif
 
 AI akan paling bermanfaat jika Anda tetap aktif.
 

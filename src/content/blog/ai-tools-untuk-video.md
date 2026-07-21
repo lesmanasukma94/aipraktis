@@ -23,7 +23,7 @@ draft: false
 
 AI tools untuk video dapat membantu membuat script, mengedit video, membuat subtitle otomatis, menambahkan voice-over, membuat avatar, mengubah video panjang menjadi short form, membuat B-roll, membuat video dari teks, dan mempercepat produksi konten untuk YouTube, TikTok, Instagram Reels, training, edukasi, sales, marketing, dan bisnis. Tools seperti CapCut, Descript, Runway, Synthesia, HeyGen, VEED, OpusClip, Adobe Premiere, Canva AI, Luma, Pika, dan ElevenLabs bisa digunakan sesuai kebutuhan. Namun, AI video tetap perlu arahan manusia, editing manual, pengecekan fakta, pengecekan hak cipta, dan quality control sebelum dipublikasikan.
 
-# AI Tools untuk Video
+
 
 Video adalah format konten yang semakin penting.
 
@@ -98,7 +98,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Video
+## Cara Memilih AI Tools untuk Video
 
 Sebelum memilih tools, jangan mulai dari pertanyaan:
 
@@ -221,7 +221,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk Video
+## Tabel AI Tools untuk Video
 
 | Tools | Cocok untuk | Kelebihan utama |
 |---|---|---|
@@ -242,7 +242,7 @@ Cocok untuk:
 
 ---
 
-# 1. CapCut
+## 1. CapCut
 
 CapCut adalah salah satu tools video paling praktis untuk pemula dan content creator.
 
@@ -333,7 +333,7 @@ Baca juga:
 
 ---
 
-# 2. Descript
+## 2. Descript
 
 Descript cocok untuk editing video berbasis teks.
 
@@ -422,7 +422,7 @@ Baca juga:
 
 ---
 
-# 3. Runway
+## 3. Runway
 
 Runway cocok untuk generative video dan visual kreatif.
 
@@ -513,7 +513,7 @@ Baca juga:
 
 ---
 
-# 4. Synthesia
+## 4. Synthesia
 
 Synthesia cocok untuk membuat video berbasis avatar.
 
@@ -593,7 +593,7 @@ Baca juga:
 
 ---
 
-# 5. HeyGen
+## 5. HeyGen
 
 HeyGen juga cocok untuk avatar video, video marketing, training, localization, dan personalized video.
 
@@ -669,7 +669,7 @@ Baca juga:
 
 ---
 
-# 6. VEED
+## 6. VEED
 
 VEED cocok untuk editing video online yang cepat.
 
@@ -739,7 +739,7 @@ Gunakan VEED untuk konten cepat:
 
 ---
 
-# 7. OpusClip
+## 7. OpusClip
 
 OpusClip cocok untuk mengubah video panjang menjadi banyak video pendek.
 
@@ -815,7 +815,7 @@ Baca juga:
 
 ---
 
-# 8. Adobe Premiere dengan AI
+## 8. Adobe Premiere dengan AI
 
 Adobe Premiere cocok untuk editing video profesional.
 
@@ -892,7 +892,7 @@ Baca juga:
 
 ---
 
-# 9. Canva AI untuk Video
+## 9. Canva AI untuk Video
 
 Canva AI juga bisa digunakan untuk membuat video sederhana.
 
@@ -966,7 +966,7 @@ Baca juga:
 
 ---
 
-# 10. Luma
+## 10. Luma
 
 Luma cocok untuk workflow kreatif yang lebih visual.
 
@@ -1023,7 +1023,7 @@ Gunakan Luma untuk eksplorasi kreatif:
 
 ---
 
-# 11. Pika
+## 11. Pika
 
 Pika cocok untuk AI video kreatif dan efek visual eksperimen.
 
@@ -1087,7 +1087,7 @@ Tetap pastikan:
 
 ---
 
-# 12. ElevenLabs untuk Voice-Over Video
+## 12. ElevenLabs untuk Voice-Over Video
 
 ElevenLabs lebih fokus pada audio dan voice AI, tetapi sangat berguna untuk video.
 
@@ -1150,7 +1150,7 @@ Gunakan jeda, intonasi, dan gaya percakapan.
 
 ---
 
-# 13. ChatGPT untuk Script, Storyboard, dan Prompt Video
+## 13. ChatGPT untuk Script, Storyboard, dan Prompt Video
 
 ChatGPT bukan video editor, tetapi sangat berguna di tahap perencanaan.
 
@@ -1218,7 +1218,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Tools Berdasarkan Kebutuhan Video
+## Rekomendasi Tools Berdasarkan Kebutuhan Video
 
 ## Untuk Pemula Total
 
@@ -1329,7 +1329,7 @@ Cocok untuk:
 
 ---
 
-# Workflow Membuat Video dengan AI
+## Workflow Membuat Video dengan AI
 
 Berikut workflow praktis yang bisa dipakai.
 
@@ -1427,7 +1427,7 @@ Gunakan hasil evaluasi untuk ide video berikutnya.
 
 ---
 
-# Prompt AI untuk Video
+## Prompt AI untuk Video
 
 Berikut beberapa prompt siap pakai.
 
@@ -1487,7 +1487,7 @@ Script:
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Video
+## Kesalahan Menggunakan AI Tools untuk Video
 
 ## 1. Langsung Generate Tanpa Script
 
@@ -1559,7 +1559,7 @@ Sesuaikan durasi, hook, format, subtitle, dan CTA.
 
 ---
 
-# Checklist Memilih AI Tools untuk Video
+## Checklist Memilih AI Tools untuk Video
 
 Gunakan checklist ini.
 
@@ -1582,7 +1582,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rekomendasi Stack AI Video Tools
+## Rekomendasi Stack AI Video Tools
 
 ## Stack Minimal untuk Pemula
 
@@ -1692,7 +1692,7 @@ Cocok untuk:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk video?
 
@@ -1724,7 +1724,7 @@ Gunakan script yang spesifik, brand style, subtitle konsisten, visual yang relev
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk video dapat mempercepat produksi konten secara signifikan.
 
@@ -1776,7 +1776,7 @@ Video pendek akan lebih efektif jika menjadi bagian dari campaign. Baca [AI untu
 
 Slide juga bisa menjadi bahan video edukasi. Gunakan [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk membuat deck, lalu lanjutkan ke workflow video untuk voice-over, subtitle, dan editing.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1800,22 +1800,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Video Paling Sederhana
+## Mulai dari Video Paling Sederhana
 
 Jangan mulai dari produksi video yang terlalu rumit.
 

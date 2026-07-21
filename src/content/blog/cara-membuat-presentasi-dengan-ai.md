@@ -26,7 +26,7 @@ Dengan bantuan AI, Anda dapat membuat presentasi profesional dalam hitungan meni
 
 Dalam artikel ini Anda akan mempelajari cara membuat presentasi dengan AI dari awal hingga siap digunakan.
 
-# Apa Itu Presentasi AI?
+## Apa Itu Presentasi AI?
 
 Presentasi AI adalah presentasi yang dibuat dengan bantuan kecerdasan buatan.
 
@@ -41,7 +41,7 @@ AI dapat membantu:
 
 Hasilnya lebih cepat dibanding membuat slide secara manual.
 
-# Keuntungan Membuat Presentasi dengan AI
+## Keuntungan Membuat Presentasi dengan AI
 
 ## Menghemat Waktu
 
@@ -59,9 +59,9 @@ Banyak tools AI menyediakan template modern dan menarik.
 
 Tidak perlu memiliki kemampuan desain profesional.
 
-# Tools AI Terbaik untuk Membuat Presentasi
+## Tools AI Terbaik untuk Membuat Presentasi
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT sangat berguna untuk membuat struktur presentasi.
 
@@ -76,7 +76,7 @@ Contoh prompt:
 
 > Buatkan outline presentasi 10 slide tentang Artificial Intelligence untuk mahasiswa.
 
-# 2. Gamma
+## 2. Gamma
 
 Gamma merupakan salah satu tools presentasi AI paling populer.
 
@@ -88,7 +88,7 @@ Kelebihan:
 
 Cukup masukkan topik, AI akan membuat slide secara otomatis.
 
-# 3. Canva AI
+## 3. Canva AI
 
 Canva menyediakan fitur AI untuk membuat presentasi.
 
@@ -100,7 +100,7 @@ Fitur:
 
 Sangat cocok untuk guru, mahasiswa, dan pebisnis.
 
-# 4. Microsoft Copilot
+## 4. Microsoft Copilot
 
 Copilot terintegrasi dengan Microsoft PowerPoint.
 
@@ -110,7 +110,7 @@ Kelebihan:
 * Membantu menyusun materi
 * Terhubung dengan dokumen Office
 
-# 5. Google Gemini
+## 5. Google Gemini
 
 Gemini dapat membantu:
 
@@ -118,7 +118,7 @@ Gemini dapat membantu:
 * Ringkasan materi
 * Ide presentasi
 
-# 6. Beautiful.ai
+## 6. Beautiful.ai
 
 Beautiful.ai membantu membuat presentasi yang terlihat profesional.
 
@@ -128,7 +128,7 @@ Fokus utama:
 * Layout otomatis
 * Presentasi bisnis
 
-# 7. Tome
+## 7. Tome
 
 Tome merupakan platform presentasi berbasis AI.
 
@@ -138,9 +138,9 @@ Cocok untuk:
 * Marketing
 * Pitch deck
 
-# Cara Membuat Presentasi dengan AI Langkah Demi Langkah
+## Cara Membuat Presentasi dengan AI Langkah Demi Langkah
 
-# Langkah 1: Tentukan Topik Presentasi
+## Langkah 1: Tentukan Topik Presentasi
 
 Contoh:
 
@@ -151,7 +151,7 @@ Contoh:
 
 Semakin jelas topiknya, semakin baik hasil AI.
 
-# Langkah 2: Buat Outline Menggunakan ChatGPT
+## Langkah 2: Buat Outline Menggunakan ChatGPT
 
 Prompt:
 
@@ -159,7 +159,7 @@ Prompt:
 
 AI akan menghasilkan struktur yang siap digunakan.
 
-# Langkah 3: Buat Isi Slide
+## Langkah 3: Buat Isi Slide
 
 Prompt:
 
@@ -167,7 +167,7 @@ Prompt:
 
 Gunakan poin-poin singkat agar slide tidak terlalu padat.
 
-# Langkah 4: Gunakan Gamma atau Canva AI
+## Langkah 4: Gunakan Gamma atau Canva AI
 
 Masukkan outline yang sudah dibuat.
 
@@ -178,7 +178,7 @@ AI akan membuat:
 * Layout
 * Visual
 
-# Langkah 5: Tambahkan Gambar
+## Langkah 5: Tambahkan Gambar
 
 Gunakan:
 
@@ -188,7 +188,7 @@ Gunakan:
 
 Visual akan membuat presentasi lebih menarik.
 
-# Langkah 6: Edit dan Sesuaikan
+## Langkah 6: Edit dan Sesuaikan
 
 Periksa:
 
@@ -197,7 +197,7 @@ Periksa:
 * Konsistensi warna
 * Tata letak
 
-# Cara Membuat Presentasi Skripsi dengan AI
+## Cara Membuat Presentasi Skripsi dengan AI
 
 AI sangat membantu mahasiswa.
 
@@ -209,7 +209,7 @@ Workflow:
 
 Hasilnya dapat mempercepat persiapan sidang skripsi.
 
-# Cara Membuat Presentasi Bisnis dengan AI
+## Cara Membuat Presentasi Bisnis dengan AI
 
 Untuk bisnis:
 
@@ -223,7 +223,7 @@ Cocok untuk:
 * Investor presentation
 * Sales presentation
 
-# Cara Membuat Presentasi untuk Guru
+## Cara Membuat Presentasi untuk Guru
 
 Guru dapat menggunakan AI untuk:
 
@@ -234,7 +234,7 @@ Guru dapat menggunakan AI untuk:
 
 AI dapat menghemat banyak waktu persiapan.
 
-# Cara Membuat Presentasi untuk Mahasiswa
+## Cara Membuat Presentasi untuk Mahasiswa
 
 Mahasiswa dapat menggunakan AI untuk:
 
@@ -243,7 +243,7 @@ Mahasiswa dapat menggunakan AI untuk:
 * Sidang skripsi
 * Presentasi kelompok
 
-# Kesalahan Saat Menggunakan AI untuk Presentasi
+## Kesalahan Saat Menggunakan AI untuk Presentasi
 
 ## Copy Paste Mentah
 
@@ -263,7 +263,7 @@ AI membantu, tetapi Anda tetap perlu memahami materi.
 
 ---
 
-# Cara Membuat Presentasi dengan AI dari Nol
+## Cara Membuat Presentasi dengan AI dari Nol
 
 AI bisa membantu membuat presentasi lebih cepat, mulai dari ide, struktur, isi slide, catatan pembicara, sampai desain visual.
 
@@ -291,7 +291,7 @@ Baca juga:
 
 ---
 
-# Langkah 1: Tentukan Tujuan Presentasi
+## Langkah 1: Tentukan Tujuan Presentasi
 
 Sebelum memakai AI, tentukan dulu tujuan presentasi.
 
@@ -362,7 +362,7 @@ Dengan tujuan yang jelas, AI bisa memberi hasil yang jauh lebih terarah.
 
 ---
 
-# Langkah 2: Kenali Audiens Presentasi
+## Langkah 2: Kenali Audiens Presentasi
 
 Presentasi untuk direktur berbeda dengan presentasi untuk siswa.
 
@@ -416,7 +416,7 @@ Jika audiens adalah tim teknis, detail proses dan trade-off lebih penting.
 
 ---
 
-# Langkah 3: Buat Outline Presentasi dengan AI
+## Langkah 3: Buat Outline Presentasi dengan AI
 
 Outline adalah kerangka utama presentasi.
 
@@ -490,7 +490,7 @@ Outline seperti ini akan membuat proses pembuatan slide lebih mudah.
 
 ---
 
-# Langkah 4: Ubah Outline Menjadi Isi Slide
+## Langkah 4: Ubah Outline Menjadi Isi Slide
 
 Setelah outline selesai, gunakan AI untuk mengubahnya menjadi isi slide.
 
@@ -543,7 +543,7 @@ Penjelasan detail sebaiknya masuk ke catatan pembicara.
 
 ---
 
-# Langkah 5: Buat Catatan Pembicara
+## Langkah 5: Buat Catatan Pembicara
 
 Catatan pembicara membantu Anda menyampaikan presentasi dengan lebih lancar.
 
@@ -587,7 +587,7 @@ Gunakan sebagai pegangan.
 
 ---
 
-# Langkah 6: Buat Visual Slide dengan AI
+## Langkah 6: Buat Visual Slide dengan AI
 
 AI juga bisa membantu memberi ide visual.
 
@@ -656,7 +656,7 @@ Baca juga:
 
 ---
 
-# Langkah 7: Buat Desain Slide Lebih Rapi
+## Langkah 7: Buat Desain Slide Lebih Rapi
 
 AI bisa membantu menyarankan layout, tetapi Anda tetap perlu merapikan desain di PowerPoint, Google Slides, Canva, atau tools presentasi lain.
 
@@ -703,7 +703,7 @@ Lebih baik sederhana, jelas, dan konsisten.
 
 ---
 
-# Contoh Struktur Presentasi Bisnis dengan AI
+## Contoh Struktur Presentasi Bisnis dengan AI
 
 Jika Anda membuat presentasi bisnis, gunakan struktur berikut.
 
@@ -752,7 +752,7 @@ Baca juga:
 
 ---
 
-# Contoh Struktur Presentasi Kuliah dengan AI
+## Contoh Struktur Presentasi Kuliah dengan AI
 
 Untuk presentasi kuliah, fokus pada kejelasan materi.
 
@@ -808,7 +808,7 @@ Baca juga:
 
 ---
 
-# Contoh Struktur Presentasi Training dengan AI
+## Contoh Struktur Presentasi Training dengan AI
 
 Untuk training, presentasi harus praktis dan mudah diikuti.
 
@@ -863,7 +863,7 @@ Baca juga:
 
 ---
 
-# Prompt Lengkap Membuat Presentasi dengan AI
+## Prompt Lengkap Membuat Presentasi dengan AI
 
 Gunakan prompt master berikut jika ingin membuat presentasi dari nol.
 
@@ -920,7 +920,7 @@ Pertahankan hanya poin yang paling kuat.
 
 ---
 
-# Prompt Membuat Presentasi dari Artikel
+## Prompt Membuat Presentasi dari Artikel
 
 Jika Anda sudah punya artikel, AI bisa membantu mengubahnya menjadi slide.
 
@@ -964,7 +964,7 @@ Ini berguna untuk:
 
 ---
 
-# Prompt Membuat Presentasi dari Data
+## Prompt Membuat Presentasi dari Data
 
 Jika presentasi berisi data, AI bisa membantu menyusun narasi.
 
@@ -1004,7 +1004,7 @@ AI boleh membantu membaca pola, tetapi manusia tetap harus memvalidasi.
 
 ---
 
-# Prompt Membuat Speaker Notes
+## Prompt Membuat Speaker Notes
 
 Gunakan prompt ini setelah isi slide selesai.
 
@@ -1037,7 +1037,7 @@ Speaker notes membantu Anda lebih siap saat presentasi.
 
 ---
 
-# Prompt Review Presentasi
+## Prompt Review Presentasi
 
 Sebelum presentasi dipakai, minta AI melakukan review.
 
@@ -1073,7 +1073,7 @@ Prompt review ini penting karena presentasi AI sering terlihat lengkap, tetapi b
 
 ---
 
-# Kesalahan Membuat Presentasi dengan AI
+## Kesalahan Membuat Presentasi dengan AI
 
 ## 1. Langsung Membuat Slide Tanpa Tujuan
 
@@ -1113,7 +1113,7 @@ Jangan menutup presentasi secara mendadak.
 
 ---
 
-# Checklist Presentasi AI Sebelum Dipakai
+## Checklist Presentasi AI Sebelum Dipakai
 
 Gunakan checklist berikut.
 
@@ -1138,7 +1138,7 @@ Checklist ini membantu memastikan presentasi tidak hanya cepat dibuat, tetapi ju
 
 ---
 
-# Workflow Membuat Presentasi dengan AI
+## Workflow Membuat Presentasi dengan AI
 
 Gunakan workflow ini.
 
@@ -1160,7 +1160,7 @@ Workflow ini jauh lebih aman daripada langsung meminta AI membuat slide final.
 
 AI mempercepat proses, tetapi kualitas tetap ditentukan oleh cara Anda memberi konteks, mengedit, dan menyampaikan presentasi.
 
-# FAQ
+## FAQ
 
 ## Apa AI terbaik untuk membuat presentasi?
 
@@ -1191,7 +1191,7 @@ Baca juga:
 - [Tools AI untuk Mahasiswa](/blog/tools-ai-untuk-mahasiswa/)
 - [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah mengubah cara membuat presentasi. Dengan bantuan ChatGPT, Gamma, Canva AI, dan berbagai tools lainnya, siapa pun dapat membuat presentasi profesional dengan lebih cepat dan lebih mudah.
 

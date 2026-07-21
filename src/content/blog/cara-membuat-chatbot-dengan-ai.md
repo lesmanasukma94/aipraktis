@@ -28,7 +28,7 @@ Saat ini chatbot AI dapat memahami pertanyaan pelanggan, memberikan jawaban yang
 
 Dalam artikel ini Anda akan mempelajari cara membuat chatbot dengan AI dari nol, bahkan tanpa kemampuan coding.
 
-# Apa Itu Chatbot AI?
+## Apa Itu Chatbot AI?
 
 Chatbot AI adalah program yang mampu berkomunikasi dengan manusia menggunakan teknologi Artificial Intelligence.
 
@@ -42,7 +42,7 @@ Berbeda dengan chatbot biasa yang menggunakan aturan tetap, chatbot AI dapat:
 
 Teknologi seperti ChatGPT telah membuat chatbot AI semakin mudah digunakan oleh berbagai jenis bisnis.
 
-# Mengapa Bisnis Menggunakan Chatbot AI?
+## Mengapa Bisnis Menggunakan Chatbot AI?
 
 ## Melayani Pelanggan 24 Jam
 
@@ -60,7 +60,7 @@ Chatbot dapat membantu pelanggan memilih produk dan menyelesaikan pembelian.
 
 Pelanggan tidak perlu menunggu lama untuk mendapatkan jawaban.
 
-# Contoh Penggunaan Chatbot AI
+## Contoh Penggunaan Chatbot AI
 
 Chatbot dapat digunakan untuk:
 
@@ -72,7 +72,7 @@ Chatbot dapat digunakan untuk:
 * Lead generation
 * Internal perusahaan
 
-# Jenis Chatbot AI
+## Jenis Chatbot AI
 
 ## Chatbot Website
 
@@ -102,9 +102,9 @@ Banyak digunakan untuk komunitas dan otomatisasi.
 
 Masih digunakan oleh sebagian bisnis.
 
-# Tools Terbaik untuk Membuat Chatbot AI
+## Tools Terbaik untuk Membuat Chatbot AI
 
-# 1. ChatGPT
+## 1. ChatGPT
 
 ChatGPT dapat digunakan sebagai otak chatbot.
 
@@ -114,7 +114,7 @@ Kelebihan:
 * Mudah digunakan
 * Respons yang fleksibel
 
-# 2. Botpress
+## 2. Botpress
 
 Salah satu platform chatbot AI paling populer.
 
@@ -124,29 +124,29 @@ Cocok untuk:
 * Customer service
 * Bisnis online
 
-# 3. ManyChat
+## 3. ManyChat
 
 Sangat populer untuk WhatsApp dan Instagram.
 
-# 4. Tidio
+## 4. Tidio
 
 Cocok untuk toko online dan website bisnis.
 
-# 5. Landbot
+## 5. Landbot
 
 Platform no-code yang mudah digunakan.
 
-# 6. Flowise AI
+## 6. Flowise AI
 
 Cocok untuk pengguna yang ingin membuat chatbot berbasis LLM.
 
-# 7. Voiceflow
+## 7. Voiceflow
 
 Banyak digunakan untuk membangun chatbot profesional.
 
-# Cara Membuat Chatbot dengan AI
+## Cara Membuat Chatbot dengan AI
 
-# Langkah 1: Tentukan Tujuan Chatbot
+## Langkah 1: Tentukan Tujuan Chatbot
 
 Sebelum membuat chatbot, tentukan terlebih dahulu tujuan utamanya.
 
@@ -158,7 +158,7 @@ Contoh:
 
 Semakin jelas tujuan chatbot, semakin efektif hasilnya.
 
-# Langkah 2: Buat Daftar Pertanyaan yang Sering Ditanyakan
+## Langkah 2: Buat Daftar Pertanyaan yang Sering Ditanyakan
 
 Kumpulkan pertanyaan yang paling sering muncul.
 
@@ -170,7 +170,7 @@ Contoh:
 
 Data ini akan menjadi dasar pengetahuan chatbot.
 
-# Langkah 3: Gunakan ChatGPT untuk Membuat Jawaban
+## Langkah 3: Gunakan ChatGPT untuk Membuat Jawaban
 
 Prompt:
 
@@ -178,7 +178,7 @@ Prompt:
 
 Dengan cara ini Anda dapat membuat database jawaban dengan cepat.
 
-# Langkah 4: Pilih Platform Chatbot
+## Langkah 4: Pilih Platform Chatbot
 
 Jika untuk website:
 
@@ -193,7 +193,7 @@ Jika untuk WhatsApp:
 * WAHA
 * WhatsApp API
 
-# Langkah 5: Hubungkan AI
+## Langkah 5: Hubungkan AI
 
 Platform modern memungkinkan integrasi dengan:
 
@@ -204,7 +204,7 @@ Platform modern memungkinkan integrasi dengan:
 
 Sehingga chatbot dapat memberikan jawaban yang lebih natural.
 
-# Cara Membuat Chatbot WhatsApp dengan AI
+## Cara Membuat Chatbot WhatsApp dengan AI
 
 WhatsApp merupakan platform yang paling banyak digunakan oleh bisnis di Indonesia.
 
@@ -217,7 +217,7 @@ Langkah umum:
 
 Hasilnya adalah chatbot yang mampu melayani pelanggan secara otomatis.
 
-# Cara Membuat Chatbot untuk Toko Online
+## Cara Membuat Chatbot untuk Toko Online
 
 Chatbot toko online dapat membantu:
 
@@ -228,7 +228,7 @@ Chatbot toko online dapat membantu:
 
 Banyak toko online kini menggunakan chatbot sebagai "sales otomatis".
 
-# Cara Membuat Chatbot Customer Service
+## Cara Membuat Chatbot Customer Service
 
 Fungsi customer service chatbot:
 
@@ -239,7 +239,7 @@ Fungsi customer service chatbot:
 
 Ini sangat membantu mengurangi beban tim customer service.
 
-# Cara Membuat Chatbot untuk UMKM
+## Cara Membuat Chatbot untuk UMKM
 
 UMKM dapat memanfaatkan chatbot untuk:
 
@@ -250,7 +250,7 @@ UMKM dapat memanfaatkan chatbot untuk:
 
 Bahkan bisnis kecil dapat terlihat lebih profesional dengan chatbot AI.
 
-# Cara Menghasilkan Uang dari Chatbot AI
+## Cara Menghasilkan Uang dari Chatbot AI
 
 Selain digunakan untuk bisnis sendiri, chatbot juga dapat menjadi sumber penghasilan.
 
@@ -270,7 +270,7 @@ Menawarkan layanan chatbot dan automation.
 
 Membangun platform chatbot sendiri.
 
-# Kesalahan Saat Membuat Chatbot
+## Kesalahan Saat Membuat Chatbot
 
 ## Terlalu Banyak Informasi
 
@@ -292,7 +292,7 @@ Pantau:
 * Kepuasan pelanggan
 * Konversi penjualan
 
-# FAQ
+## FAQ
 
 ## Apakah chatbot AI bisa dibuat tanpa coding?
 
@@ -323,7 +323,7 @@ Baca juga:
 - [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
 - [Tools AI untuk Bisnis](/blog/tools-ai-untuk-bisnis/)
 
-# Kesimpulan
+## Kesimpulan
 
 Chatbot AI telah menjadi salah satu teknologi yang paling penting bagi bisnis modern. Dengan bantuan ChatGPT, Botpress, ManyChat, Landbot, dan berbagai platform lainnya, siapa saja dapat membuat chatbot yang mampu melayani pelanggan, meningkatkan penjualan, dan menghemat biaya operasional.
 

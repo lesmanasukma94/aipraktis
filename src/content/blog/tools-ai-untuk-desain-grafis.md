@@ -28,7 +28,7 @@ Sebaliknya, AI menjadi alat yang membantu mempercepat proses ideasi, produksi, h
 
 Dalam artikel ini Anda akan menemukan tools AI terbaik untuk desain grafis beserta kelebihan, kekurangan, dan rekomendasi penggunaannya.
 
-# Mengapa Desainer Perlu Menggunakan AI?
+## Mengapa Desainer Perlu Menggunakan AI?
 
 Beberapa manfaat AI untuk desain grafis antara lain:
 
@@ -41,9 +41,9 @@ Beberapa manfaat AI untuk desain grafis antara lain:
 
 AI membuat proses desain menjadi lebih efisien tanpa menghilangkan kreativitas manusia.
 
-# 15 Tools AI Terbaik untuk Desain Grafis
+## 15 Tools AI Terbaik untuk Desain Grafis
 
-# 1. Canva AI
+## 1. Canva AI
 
 Canva menjadi salah satu tools AI paling populer.
 
@@ -62,7 +62,7 @@ Sangat cocok untuk:
 * Freelancer
 * Digital Marketing
 
-# 2. Adobe Firefly
+## 2. Adobe Firefly
 
 Adobe Firefly menawarkan AI generatif yang terintegrasi dengan Photoshop dan Illustrator.
 
@@ -75,7 +75,7 @@ Fitur:
 
 Pilihan terbaik bagi desainer profesional.
 
-# 3. Midjourney
+## 3. Midjourney
 
 Midjourney menghasilkan ilustrasi AI dengan kualitas yang sangat tinggi.
 
@@ -87,7 +87,7 @@ Cocok untuk:
 * Cover buku
 * Digital art
 
-# 4. Leonardo AI
+## 4. Leonardo AI
 
 Leonardo AI populer di kalangan ilustrator dan game artist.
 
@@ -98,7 +98,7 @@ Keunggulan:
 * Karakter.
 * Desain produk.
 
-# 5. Ideogram AI
+## 5. Ideogram AI
 
 Ideogram unggul dalam menghasilkan gambar yang mengandung teks dengan hasil yang lebih rapi dibanding banyak AI lainnya.
 
@@ -109,7 +109,7 @@ Sangat cocok untuk:
 * Banner
 * Desain promosi
 
-# 6. Flux AI
+## 6. Flux AI
 
 Flux menjadi salah satu model AI generatif terbaru dengan kualitas gambar yang sangat baik.
 
@@ -119,7 +119,7 @@ Banyak digunakan untuk:
 * Fotografi AI
 * Ilustrasi realistis
 
-# 7. Microsoft Designer
+## 7. Microsoft Designer
 
 Microsoft Designer membantu membuat berbagai desain hanya dari perintah teks.
 
@@ -129,7 +129,7 @@ Cocok untuk:
 * Presentasi
 * Poster
 
-# 8. Figma AI
+## 8. Figma AI
 
 Figma mulai menghadirkan fitur AI yang mempercepat proses desain UI/UX.
 
@@ -139,7 +139,7 @@ Fitur:
 * Mockup
 * Content generation
 
-# 9. ChatGPT
+## 9. ChatGPT
 
 ChatGPT membantu proses desain dengan:
 
@@ -149,19 +149,19 @@ ChatGPT membantu proses desain dengan:
 * Brief desain.
 * Prompt AI.
 
-# 10. Perplexity
+## 10. Perplexity
 
 Sangat berguna untuk mencari referensi desain dan tren visual terbaru.
 
-# 11. Grammarly
+## 11. Grammarly
 
 Membantu memastikan seluruh teks pada desain bebas kesalahan.
 
-# 12. Remove.bg
+## 12. Remove.bg
 
 Menghapus background gambar hanya dalam beberapa detik.
 
-# 13. Clipdrop
+## 13. Clipdrop
 
 Menyediakan berbagai fitur AI seperti:
 
@@ -170,7 +170,7 @@ Menyediakan berbagai fitur AI seperti:
 * Cleanup
 * Relight
 
-# 14. Topaz Photo AI
+## 14. Topaz Photo AI
 
 Digunakan untuk:
 
@@ -178,11 +178,11 @@ Digunakan untuk:
 * Mengurangi noise.
 * Menajamkan gambar.
 
-# 15. Gamma
+## 15. Gamma
 
 Membantu membuat presentasi profesional dengan desain modern secara otomatis.
 
-# Cara Memilih Tools AI Desain Grafis
+## Cara Memilih Tools AI Desain Grafis
 
 ## Untuk Desain Media Sosial
 
@@ -214,7 +214,7 @@ Gunakan:
 * Figma AI
 * ChatGPT
 
-# Contoh Workflow Desainer dengan AI
+## Contoh Workflow Desainer dengan AI
 
 Misalnya membuat branding baru.
 
@@ -228,7 +228,7 @@ Misalnya membuat branding baru.
 
 Workflow ini dapat menghemat waktu kerja secara signifikan.
 
-# Apakah AI Akan Menggantikan Desainer Grafis?
+## Apakah AI Akan Menggantikan Desainer Grafis?
 
 Tidak.
 
@@ -242,7 +242,7 @@ AI dapat menghasilkan gambar dengan cepat, tetapi tetap membutuhkan manusia untu
 
 Desainer yang menguasai AI justru akan memiliki produktivitas lebih tinggi.
 
-# Tips Menggunakan AI untuk Desain Grafis
+## Tips Menggunakan AI untuk Desain Grafis
 
 * Gunakan AI sebagai alat bantu, bukan pengganti kreativitas.
 * Pelajari teknik membuat prompt yang baik.
@@ -252,7 +252,7 @@ Desainer yang menguasai AI justru akan memiliki produktivitas lebih tinggi.
 
 ---
 
-# Cara Memilih Tools AI untuk Desain Grafis
+## Cara Memilih Tools AI untuk Desain Grafis
 
 Tools AI untuk desain grafis sebaiknya dipilih berdasarkan kebutuhan desain, bukan hanya karena hasilnya terlihat keren.
 
@@ -308,7 +308,7 @@ Baca juga:
 
 ---
 
-# Kategori Tools AI untuk Desain Grafis
+## Kategori Tools AI untuk Desain Grafis
 
 Agar lebih mudah, tools AI untuk desain grafis bisa dibagi berdasarkan fungsi kerjanya.
 
@@ -657,7 +657,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Stack Tools AI untuk Desain Grafis
+## Rekomendasi Stack Tools AI untuk Desain Grafis
 
 ## Stack Pemula
 
@@ -725,7 +725,7 @@ Mulai dari workflow yang rapi dan hasil yang konsisten.
 
 ---
 
-# Workflow Desain Grafis dengan Bantuan AI
+## Workflow Desain Grafis dengan Bantuan AI
 
 Berikut workflow sederhana.
 
@@ -784,7 +784,7 @@ Tetapi desain final tetap perlu keputusan manusia.
 
 ---
 
-# Prinsip Desain Grafis yang Harus Tetap Dijaga
+## Prinsip Desain Grafis yang Harus Tetap Dijaga
 
 AI bisa membuat desain cepat, tetapi prinsip desain tetap penting.
 
@@ -836,7 +836,7 @@ Jika materinya panjang, buat carousel atau beberapa desain.
 
 ---
 
-# Prompt AI untuk Desain Grafis
+## Prompt AI untuk Desain Grafis
 
 ## Prompt Membuat Konsep Desain
 
@@ -979,7 +979,7 @@ Thumbnail harus jelas dalam ukuran kecil.
 
 ---
 
-# Kesalahan Menggunakan Tools AI untuk Desain Grafis
+## Kesalahan Menggunakan Tools AI untuk Desain Grafis
 
 ## 1. Terlalu Mengandalkan AI Image Generator
 
@@ -1027,7 +1027,7 @@ Kurangi elemen yang tidak membantu pesan utama.
 
 ---
 
-# Checklist Desain Grafis AI Sebelum Dipakai
+## Checklist Desain Grafis AI Sebelum Dipakai
 
 Gunakan checklist ini.
 
@@ -1053,7 +1053,7 @@ Checklist ini membantu desain AI lebih siap dipublikasikan.
 
 ---
 
-# Prompt Master Tools AI untuk Desain Grafis
+## Prompt Master Tools AI untuk Desain Grafis
 
 Gunakan prompt master berikut.
 
@@ -1105,7 +1105,7 @@ Jangan membuat teks langsung di gambar AI jika berisiko salah.
 Visual harus relevan dengan pesan.
 ```
 
-# Prompt Membuat Brand Visual Guideline Sederhana
+## Prompt Membuat Brand Visual Guideline Sederhana
 
 Gunakan prompt ini jika ingin desain lebih konsisten.
 
@@ -1139,7 +1139,7 @@ Buat:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# FAQ
+## FAQ
 
 ## Apa tools AI terbaik untuk desain grafis?
 
@@ -1169,7 +1169,7 @@ Baca juga:
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Cara Membuat Video AI](/blog/cara-membuat-video-ai/)
 
-# Kesimpulan
+## Kesimpulan
 
 AI telah menjadi bagian penting dalam dunia desain grafis modern. Dengan memanfaatkan tools AI yang tepat, proses membuat ilustrasi, logo, poster, presentasi, hingga konten media sosial dapat dilakukan lebih cepat tanpa mengurangi kualitas.
 

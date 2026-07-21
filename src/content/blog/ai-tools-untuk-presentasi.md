@@ -23,7 +23,7 @@ draft: false
 
 AI tools untuk presentasi dapat membantu membuat outline, struktur slide, desain slide, pitch deck, speaker notes, visual pendukung, grafik, narasi, dan ringkasan presentasi dengan lebih cepat. Tools seperti Microsoft Copilot di PowerPoint, Canva AI, Gamma, Beautiful.ai, Google Slides dengan Gemini, Pitch, Tome, Prezi, ChatGPT, Claude, dan Napkin AI bisa digunakan sesuai kebutuhan. Namun, AI tidak boleh langsung dianggap menghasilkan presentasi final. Slide tetap perlu dicek manusia agar akurat, rapi, sesuai audiens, tidak terlalu penuh teks, dan benar-benar mendukung cara Anda berbicara.
 
-# AI Tools untuk Presentasi
+
 
 Presentasi adalah salah satu pekerjaan yang sering memakan waktu.
 
@@ -112,7 +112,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Presentasi
+## Cara Memilih AI Tools untuk Presentasi
 
 Sebelum memilih tools, jangan mulai dari pertanyaan:
 
@@ -232,7 +232,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk Presentasi
+## Tabel AI Tools untuk Presentasi
 
 | Tools | Cocok untuk | Kelebihan utama |
 |---|---|---|
@@ -253,7 +253,7 @@ Cocok untuk:
 
 ---
 
-# 1. Microsoft Copilot di PowerPoint
+## 1. Microsoft Copilot di PowerPoint
 
 Microsoft Copilot di PowerPoint cocok untuk pengguna Microsoft 365.
 
@@ -356,7 +356,7 @@ Baca juga:
 
 ---
 
-# 2. Canva AI
+## 2. Canva AI
 
 Canva AI cocok untuk pengguna yang ingin membuat presentasi visual dengan cepat.
 
@@ -445,7 +445,7 @@ Baca juga:
 
 ---
 
-# 3. Gamma
+## 3. Gamma
 
 Gamma cocok untuk membuat presentasi cepat dari ide, prompt, atau materi yang sudah ada.
 
@@ -531,7 +531,7 @@ Baca juga:
 
 ---
 
-# 4. Beautiful.ai
+## 4. Beautiful.ai
 
 Beautiful.ai cocok untuk membuat presentasi yang rapi dan terlihat profesional.
 
@@ -600,7 +600,7 @@ Cocok untuk:
 
 ---
 
-# 5. Google Slides dengan Gemini
+## 5. Google Slides dengan Gemini
 
 Google Slides cocok untuk kolaborasi.
 
@@ -676,7 +676,7 @@ Baca juga:
 
 ---
 
-# 6. Pitch
+## 6. Pitch
 
 Pitch cocok untuk tim yang ingin membuat presentasi online dengan workflow kolaboratif.
 
@@ -740,7 +740,7 @@ Gunakan Pitch untuk deck yang sering diperbarui, seperti:
 
 ---
 
-# 7. Tome
+## 7. Tome
 
 Tome cocok untuk presentasi berbasis storytelling.
 
@@ -807,7 +807,7 @@ Cocok untuk:
 
 ---
 
-# 8. Prezi
+## 8. Prezi
 
 Prezi cocok untuk presentasi non-linear.
 
@@ -863,7 +863,7 @@ Pastikan audiens tetap mudah mengikuti alur.
 
 ---
 
-# 9. ChatGPT untuk Presentasi
+## 9. ChatGPT untuk Presentasi
 
 ChatGPT bukan aplikasi slide, tetapi sangat berguna untuk tahap berpikir.
 
@@ -933,7 +933,7 @@ Baca juga:
 
 ---
 
-# 10. Claude untuk Presentasi Kompleks
+## 10. Claude untuk Presentasi Kompleks
 
 Claude cocok untuk presentasi yang membutuhkan struktur panjang dan analisis mendalam.
 
@@ -994,7 +994,7 @@ Baca juga:
 
 ---
 
-# 11. NotebookLM untuk Presentasi dari Dokumen
+## 11. NotebookLM untuk Presentasi dari Dokumen
 
 NotebookLM cocok jika presentasi Anda berbasis sumber atau dokumen.
 
@@ -1058,7 +1058,7 @@ Baca juga:
 
 ---
 
-# 12. Napkin AI untuk Diagram dan Visualisasi Ide
+## 12. Napkin AI untuk Diagram dan Visualisasi Ide
 
 Napkin AI cocok untuk mengubah teks menjadi visual, diagram, dan ilustrasi konsep.
 
@@ -1126,7 +1126,7 @@ Jika ada paragraf panjang, ubah menjadi:
 
 ---
 
-# 13. Figma untuk Slide Custom
+## 13. Figma untuk Slide Custom
 
 Figma bukan tools presentasi utama untuk semua orang, tetapi berguna jika Anda butuh desain slide custom.
 
@@ -1190,7 +1190,7 @@ Baca juga:
 
 ---
 
-# Rekomendasi Tools Berdasarkan Jenis Presentasi
+## Rekomendasi Tools Berdasarkan Jenis Presentasi
 
 ## Untuk Presentasi Kantor
 
@@ -1308,7 +1308,7 @@ Baca juga:
 
 ---
 
-# Workflow Membuat Presentasi dengan AI
+## Workflow Membuat Presentasi dengan AI
 
 Berikut workflow yang lebih aman dan efektif.
 
@@ -1403,7 +1403,7 @@ Sebelum presentasi, cek:
 
 ---
 
-# Prompt AI untuk Presentasi
+## Prompt AI untuk Presentasi
 
 Berikut prompt siap pakai.
 
@@ -1457,7 +1457,7 @@ Berdasarkan presentasi berikut, buatkan 20 pertanyaan yang mungkin diajukan audi
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Presentasi
+## Kesalahan Menggunakan AI Tools untuk Presentasi
 
 ## 1. Langsung Membuat Slide Tanpa Tujuan
 
@@ -1526,7 +1526,7 @@ Simpan file dalam beberapa format:
 
 ---
 
-# Checklist Memilih AI Tools untuk Presentasi
+## Checklist Memilih AI Tools untuk Presentasi
 
 Gunakan checklist ini.
 
@@ -1548,7 +1548,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rekomendasi Stack AI Presentation Tools
+## Rekomendasi Stack AI Presentation Tools
 
 ## Stack Minimal untuk Pemula
 
@@ -1636,7 +1636,7 @@ Cocok untuk:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk presentasi?
 
@@ -1668,7 +1668,7 @@ Tidak sepenuhnya. AI membantu membuat draft, layout, visual, dan narasi lebih ce
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk presentasi dapat membantu membuat slide lebih cepat dan lebih profesional.
 
@@ -1720,7 +1720,7 @@ Jika ingin menerapkan tools presentasi ke workflow nyata, baca [Cara Menggunakan
 
 Jika presentasi membutuhkan data, baca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) agar data spreadsheet bisa diubah menjadi grafik, insight, dan laporan yang lebih mudah dipresentasikan.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1745,22 +1745,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Outline, Bukan dari Desain
+## Mulai dari Outline, Bukan dari Desain
 
 Kesalahan terbesar saat membuat presentasi adalah langsung memilih template.
 

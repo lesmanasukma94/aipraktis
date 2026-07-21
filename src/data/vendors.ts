@@ -146,7 +146,7 @@ export const vendors: Vendor[] = [
     comparisonPriority: 10
   },
   {
-    slug: "le-chat",
+    slug: "mistral",
     name: "Le Chat",
     shortName: "Le Chat",
     category: "chatbot",

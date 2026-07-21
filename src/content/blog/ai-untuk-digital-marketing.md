@@ -212,7 +212,7 @@ Pantau performa strategi yang menggunakan AI.
 
 ---
 
-# Cara Menggunakan AI untuk Digital Marketing
+## Cara Menggunakan AI untuk Digital Marketing
 
 AI bisa membantu digital marketing menjadi lebih cepat, terstruktur, dan konsisten.
 
@@ -253,7 +253,7 @@ Baca juga:
 
 ---
 
-# 1. AI untuk Riset Target Audiens
+## 1. AI untuk Riset Target Audiens
 
 Digital marketing harus dimulai dari pemahaman audiens.
 
@@ -322,7 +322,7 @@ Data nyata membantu memastikan dugaan tersebut benar.
 
 ---
 
-# 2. AI untuk Content Marketing
+## 2. AI untuk Content Marketing
 
 Content marketing adalah bagian penting dari digital marketing.
 
@@ -399,7 +399,7 @@ Baca juga:
 
 ---
 
-# 3. AI untuk Copywriting Digital Marketing
+## 3. AI untuk Copywriting Digital Marketing
 
 Copywriting dipakai di hampir semua channel digital marketing.
 
@@ -472,7 +472,7 @@ Baca juga:
 
 ---
 
-# 4. AI untuk SEO Digital Marketing
+## 4. AI untuk SEO Digital Marketing
 
 SEO adalah strategi digital marketing jangka panjang.
 
@@ -537,7 +537,7 @@ Baca juga:
 
 ---
 
-# 5. AI untuk Social Media Marketing
+## 5. AI untuk Social Media Marketing
 
 Social media marketing membutuhkan ide yang konsisten.
 
@@ -610,7 +610,7 @@ Baca juga:
 
 ---
 
-# 6. AI untuk Iklan Digital
+## 6. AI untuk Iklan Digital
 
 AI bisa membantu membuat variasi iklan lebih cepat.
 
@@ -675,7 +675,7 @@ Pastikan:
 
 ---
 
-# 7. AI untuk Email Marketing
+## 7. AI untuk Email Marketing
 
 Email marketing berguna untuk membangun hubungan dengan audiens.
 
@@ -732,7 +732,7 @@ Email juga harus memberi nilai kepada pembaca.
 
 ---
 
-# 8. AI untuk Landing Page
+## 8. AI untuk Landing Page
 
 Landing page adalah halaman penting dalam digital marketing.
 
@@ -796,7 +796,7 @@ Jangan memasukkan terlalu banyak penawaran dalam satu halaman.
 
 ---
 
-# 9. AI untuk Analisis Digital Marketing
+## 9. AI untuk Analisis Digital Marketing
 
 AI bisa membantu membaca data marketing jika datanya rapi.
 
@@ -844,7 +844,7 @@ Jika datanya berisi data pelanggan, samarkan terlebih dahulu.
 
 ---
 
-# Workflow Digital Marketing dengan AI
+## Workflow Digital Marketing dengan AI
 
 Gunakan workflow sederhana berikut.
 
@@ -882,7 +882,7 @@ Mulai dari 1–2 channel yang paling relevan dengan audiens.
 
 ---
 
-# Kesalahan Menggunakan AI untuk Digital Marketing
+## Kesalahan Menggunakan AI untuk Digital Marketing
 
 ## 1. Tidak Punya Tujuan Campaign
 
@@ -933,7 +933,7 @@ catatan performa.
 
 ---
 
-# Checklist AI untuk Digital Marketing
+## Checklist AI untuk Digital Marketing
 
 Gunakan checklist ini sebelum memakai output AI.
 
@@ -955,7 +955,7 @@ Hasil campaign akan dicatat
 
 ---
 
-# Prompt Master AI untuk Digital Marketing
+## Prompt Master AI untuk Digital Marketing
 
 Gunakan prompt master berikut.
 
@@ -1000,7 +1000,7 @@ Jangan membuat klaim berlebihan.
 Fokus pada langkah yang realistis.
 ```
 
-# Prompt Audit Digital Marketing
+## Prompt Audit Digital Marketing
 
 Gunakan prompt ini untuk mengevaluasi aktivitas marketing.
 

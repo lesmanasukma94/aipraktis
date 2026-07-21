@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu marketing menjadi lebih cepat, terstruktur, dan berbasis data. AI dapat digunakan untuk riset audiens, membuat persona, menyusun strategi campaign, membuat content pillar, menulis copywriting, membuat caption, membuat email marketing, membuat ide iklan, menyusun landing page, menganalisis performa campaign, dan membuat rekomendasi optimasi. Namun, AI tidak boleh digunakan tanpa strategi. Marketing tetap membutuhkan pemahaman pelanggan, positioning, brand voice, data, eksperimen, dan kontrol kualitas manusia.
 
-# AI untuk Marketing
+
 
 Marketing adalah salah satu bidang yang paling cepat berubah karena AI.
 
@@ -98,7 +98,7 @@ Baca juga:
 
 ---
 
-# Apa Itu AI untuk Marketing?
+## Apa Itu AI untuk Marketing?
 
 AI untuk marketing adalah penggunaan kecerdasan buatan untuk membantu proses pemasaran.
 
@@ -157,7 +157,7 @@ Tanpa konteks, AI biasanya menghasilkan ide yang terlalu umum.
 
 ---
 
-# Mengapa AI Penting untuk Marketing?
+## Mengapa AI Penting untuk Marketing?
 
 AI penting karena marketing membutuhkan banyak pekerjaan yang berulang, kreatif, dan analitis.
 
@@ -210,7 +210,7 @@ Marketing yang baik adalah memahami pelanggan dan menyampaikan value dengan tepa
 
 ---
 
-# Prinsip Menggunakan AI untuk Marketing
+## Prinsip Menggunakan AI untuk Marketing
 
 Sebelum memakai AI untuk marketing, pahami prinsip berikut.
 
@@ -320,7 +320,7 @@ Tetapi data tetap harus berasal dari platform nyata.
 
 ---
 
-# Bagian Marketing yang Bisa Dibantu AI
+## Bagian Marketing yang Bisa Dibantu AI
 
 AI bisa membantu banyak area marketing.
 
@@ -373,7 +373,7 @@ Baca juga:
 
 ---
 
-# Workflow AI untuk Marketing
+## Workflow AI untuk Marketing
 
 Berikut workflow lengkap memakai AI untuk marketing.
 
@@ -669,7 +669,7 @@ Buatkan campaign brief untuk mempromosikan kelas online "AI untuk Produktivitas 
 
 ---
 
-# AI untuk Content Marketing
+## AI untuk Content Marketing
 
 Content marketing adalah salah satu penggunaan AI paling umum.
 
@@ -751,7 +751,7 @@ Baca juga:
 
 ---
 
-# AI untuk Social Media Marketing
+## AI untuk Social Media Marketing
 
 Social media marketing membutuhkan konsistensi.
 
@@ -832,7 +832,7 @@ Baca juga:
 
 ---
 
-# AI untuk SEO Marketing
+## AI untuk SEO Marketing
 
 SEO adalah bagian penting dari marketing jangka panjang.
 
@@ -905,7 +905,7 @@ Baca juga:
 
 ---
 
-# AI untuk Email Marketing
+## AI untuk Email Marketing
 
 Email marketing tetap penting karena Anda memiliki channel langsung ke audiens.
 
@@ -993,7 +993,7 @@ Baca juga:
 
 ---
 
-# AI untuk Copywriting
+## AI untuk Copywriting
 
 Copywriting adalah seni menulis pesan yang mendorong orang mengambil tindakan.
 
@@ -1088,7 +1088,7 @@ Baca juga:
 
 ---
 
-# AI untuk Iklan Digital
+## AI untuk Iklan Digital
 
 AI bisa membantu proses iklan digital.
 
@@ -1197,7 +1197,7 @@ Cek:
 
 ---
 
-# AI untuk Marketing Funnel
+## AI untuk Marketing Funnel
 
 Marketing funnel membantu memahami perjalanan pelanggan.
 
@@ -1249,7 +1249,7 @@ Buatkan marketing funnel untuk kelas online AI untuk pemula. Target audiens kary
 
 ---
 
-# AI untuk Customer Journey
+## AI untuk Customer Journey
 
 Customer journey lebih detail daripada funnel.
 
@@ -1289,7 +1289,7 @@ Anda membantu pelanggan mengambil keputusan dengan lebih percaya diri.
 
 ---
 
-# AI untuk Analisis Kompetitor
+## AI untuk Analisis Kompetitor
 
 AI bisa membantu membuat framework riset kompetitor.
 
@@ -1335,7 +1335,7 @@ Baca juga:
 
 ---
 
-# AI untuk Analisis Data Marketing
+## AI untuk Analisis Data Marketing
 
 Marketing tanpa data mudah menjadi tebakan.
 
@@ -1409,7 +1409,7 @@ Baca juga:
 
 ---
 
-# AI untuk UMKM Marketing
+## AI untuk UMKM Marketing
 
 UMKM bisa memakai AI untuk promosi sederhana.
 
@@ -1459,7 +1459,7 @@ Baca juga:
 
 ---
 
-# AI untuk Marketing B2B
+## AI untuk Marketing B2B
 
 Marketing B2B berbeda dari B2C.
 
@@ -1508,7 +1508,7 @@ Buatkan:
 
 ---
 
-# AI untuk Marketing Produk Digital
+## AI untuk Marketing Produk Digital
 
 Produk digital sangat cocok dibantu AI.
 
@@ -1556,7 +1556,7 @@ Baca juga:
 
 ---
 
-# Tools AI untuk Marketing
+## Tools AI untuk Marketing
 
 Berikut tools yang bisa membantu marketing.
 
@@ -1670,7 +1670,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap AI untuk Marketing
+## Template Prompt Lengkap AI untuk Marketing
 
 Gunakan template ini.
 
@@ -1730,7 +1730,7 @@ Buatkan:
 
 ---
 
-# Template Prompt Analisis Campaign
+## Template Prompt Analisis Campaign
 
 ```text
 Bertindaklah sebagai marketing analyst.
@@ -1759,7 +1759,7 @@ Tugas:
 
 ---
 
-# Template Prompt Campaign Brief
+## Template Prompt Campaign Brief
 
 ```text
 Buatkan campaign brief untuk campaign berikut.
@@ -1799,7 +1799,7 @@ Format output:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Marketing
+## Kesalahan Menggunakan AI untuk Marketing
 
 ## 1. Langsung Membuat Konten Tanpa Strategi
 
@@ -1859,7 +1859,7 @@ Tetapi pemahaman pelanggan tetap lebih penting.
 
 ---
 
-# Checklist AI untuk Marketing
+## Checklist AI untuk Marketing
 
 Gunakan checklist ini sebelum menjalankan campaign.
 
@@ -1885,7 +1885,7 @@ Gunakan checklist ini sebelum menjalankan campaign.
 
 ---
 
-# Rencana 7 Hari Mulai AI untuk Marketing
+## Rencana 7 Hari Mulai AI untuk Marketing
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1921,7 +1921,7 @@ Minta AI membuat rekomendasi perbaikan.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa itu AI untuk marketing?
 
@@ -1953,7 +1953,7 @@ Berikan konteks bisnis, target audiens, pain point, brand voice, data, produk, c
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI untuk marketing sangat berguna jika digunakan dengan strategi yang benar.
 
@@ -2015,7 +2015,7 @@ Marketing bisa menjadi jalur karier AI yang realistis untuk pemula. Baca [Karier
 
 UMKM bisa memakai AI untuk marketing secara praktis. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh kalender konten, caption, promo, dan analisis channel penjualan.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2041,22 +2041,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat Belajar AI](/belajar-ai/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 
 ---
 
-# Mulai dari Satu Campaign
+## Mulai dari Satu Campaign
 
 Jangan mulai dari semua channel sekaligus.
 

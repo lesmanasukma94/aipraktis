@@ -318,7 +318,7 @@ Cara ini jauh lebih efektif dibanding langsung beriklan.
 
 ---
 
-# Cara Menentukan Target Klien AI Consultant
+## Cara Menentukan Target Klien AI Consultant
 
 Kesalahan umum pemula saat ingin menjadi AI consultant adalah langsung menawarkan jasa ke semua orang.
 
@@ -381,7 +381,7 @@ Baca juga:
 
 ---
 
-# Jenis Masalah Klien yang Cocok untuk Jasa AI Consultant
+## Jenis Masalah Klien yang Cocok untuk Jasa AI Consultant
 
 Tidak semua masalah bisnis harus diselesaikan dengan AI.
 
@@ -507,7 +507,7 @@ Baca juga:
 
 ---
 
-# Cara Membuat Penawaran Jasa AI Consultant
+## Cara Membuat Penawaran Jasa AI Consultant
 
 Setelah target klien jelas, langkah berikutnya adalah membuat penawaran.
 
@@ -608,7 +608,7 @@ Penawaran yang jelas lebih mudah dijual karena calon klien tahu apa yang akan me
 
 ---
 
-# Cara Mencari Klien Pertama AI Consultant
+## Cara Mencari Klien Pertama AI Consultant
 
 Klien pertama biasanya tidak datang dari iklan besar.
 
@@ -672,7 +672,7 @@ jual solusi untuk masalah yang mereka rasakan.
 
 ---
 
-# Contoh Paket Harga Awal AI Consultant
+## Contoh Paket Harga Awal AI Consultant
 
 Untuk pemula, jangan langsung membuat paket terlalu kompleks.
 
@@ -751,7 +751,7 @@ Sesuaikan dengan pengalaman, target klien, tingkat kesulitan, dan output yang di
 
 ---
 
-# Checklist Sebelum Menawarkan Jasa AI Consultant
+## Checklist Sebelum Menawarkan Jasa AI Consultant
 
 Sebelum menawarkan jasa, siapkan minimal:
 
@@ -795,7 +795,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Saat Mencari Klien AI Consultant
+## Kesalahan Saat Mencari Klien AI Consultant
 
 ## 1. Menjual AI, Bukan Masalah
 
@@ -855,7 +855,7 @@ AI dapat membantu mempercepat proses tertentu, tetapi hasil tetap bergantung pad
 
 ---
 
-# Prompt untuk Membuat Proposal AI Consultant
+## Prompt untuk Membuat Proposal AI Consultant
 
 Gunakan prompt ini untuk membuat proposal awal.
 
@@ -896,7 +896,7 @@ Gunakan bahasa Indonesia profesional, jelas, dan tidak berlebihan.
 
 ---
 
-# Prompt untuk Audit Kebutuhan Klien
+## Prompt untuk Audit Kebutuhan Klien
 
 Gunakan prompt ini setelah melakukan wawancara awal dengan calon klien.
 

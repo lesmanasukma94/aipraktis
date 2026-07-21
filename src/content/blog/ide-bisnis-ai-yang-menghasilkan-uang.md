@@ -26,7 +26,7 @@ Bahkan banyak bisnis AI modern yang mampu menghasilkan jutaan rupiah setiap bula
 
 Dalam artikel ini Anda akan mempelajari berbagai ide bisnis AI yang memiliki peluang besar, modal relatif kecil, serta prospek jangka panjang yang sangat menjanjikan.
 
-# Mengapa Bisnis AI Sangat Menjanjikan?
+## Mengapa Bisnis AI Sangat Menjanjikan?
 
 Ada beberapa alasan mengapa bisnis berbasis AI berkembang sangat cepat.
 
@@ -46,9 +46,9 @@ Banyak tools AI dapat digunakan dengan biaya yang terjangkau.
 
 Masih banyak industri yang belum memanfaatkan AI secara optimal.
 
-# 25 Ide Bisnis AI yang Menghasilkan Uang
 
-# 1. Jasa AI Consultant
+
+## 1. Jasa AI Consultant
 
 Membantu perusahaan menerapkan AI dalam operasional bisnis.
 
@@ -60,7 +60,7 @@ Target pasar:
 
 Potensi pendapatan sangat tinggi karena nilai proyek konsultasi umumnya besar.
 
-# 2. Agensi AI
+## 2. Agensi AI
 
 Membangun tim yang menawarkan berbagai layanan AI.
 
@@ -71,7 +71,7 @@ Contoh layanan:
 * Automasi
 * Integrasi AI
 
-# 3. SaaS AI
+## 3. SaaS AI
 
 Membuat software berbasis AI dengan sistem langganan bulanan.
 
@@ -81,7 +81,7 @@ Contoh:
 * AI Marketing
 * AI Resume Builder
 
-# 4. AI Content Writing
+## 4. AI Content Writing
 
 Membantu bisnis membuat:
 
@@ -89,87 +89,87 @@ Membantu bisnis membuat:
 * Landing page
 * Email marketing
 
-# 5. AI Content Editing
+## 5. AI Content Editing
 
 Menyempurnakan hasil AI agar siap dipublikasikan.
 
-# 6. Prompt Engineering
+## 6. Prompt Engineering
 
 Membuat prompt profesional untuk perusahaan.
 
-# 7. AI Trainer
+## 7. AI Trainer
 
 Melatih perusahaan menggunakan AI.
 
-# 8. AI Specialist
+## 8. AI Specialist
 
 Membantu implementasi AI dalam organisasi.
 
-# 9. AI Automation
+## 9. AI Automation
 
 Membuat workflow otomatis menggunakan AI.
 
-# 10. AI Chatbot
+## 10. AI Chatbot
 
 Membuat chatbot untuk bisnis.
 
-# 11. AI Agent Development
+## 11. AI Agent Development
 
 Membangun AI Agent sesuai kebutuhan perusahaan.
 
-# 12. AI SEO Service
+## 12. AI SEO Service
 
 Menggabungkan AI dengan strategi SEO.
 
-# 13. AI Social Media Agency
+## 13. AI Social Media Agency
 
 Mengelola media sosial menggunakan AI.
 
-# 14. AI Video Production
+## 14. AI Video Production
 
 Membuat video menggunakan AI.
 
-# 15. AI Image Generation
+## 15. AI Image Generation
 
 Membuat ilustrasi, logo, dan desain.
 
-# 16. AI Presentation Service
+## 16. AI Presentation Service
 
 Membantu membuat presentasi profesional.
 
-# 17. AI Resume Service
+## 17. AI Resume Service
 
 Membantu pencari kerja membuat CV.
 
-# 18. AI Website Builder
+## 18. AI Website Builder
 
 Membuat website menggunakan AI.
 
-# 19. AI App Development
+## 19. AI App Development
 
 Membangun aplikasi berbasis AI.
 
-# 20. AI Course Creator
+## 20. AI Course Creator
 
 Menjual kursus AI.
 
-# 21. Template Prompt Premium
+## 21. Template Prompt Premium
 
 Menjual koleksi prompt.
 
-# 22. Membership AI
+## 22. Membership AI
 
 Membangun komunitas berbayar.
 
-# 23. Newsletter AI
+## 23. Newsletter AI
 
 Mengirim insight AI secara berkala.
 
-# 24. Affiliate Tools AI
+## 24. Affiliate Tools AI
 
 Mempromosikan tools AI dan memperoleh komisi.
 
-# 25. Media AI
+## 25. Media AI
 
 Membangun website seperti Ai Praktis Indonesia.
 
@@ -183,7 +183,7 @@ Model monetisasi:
 * Membership
 * Jasa konsultasi
 
-# Bisnis AI dengan Modal Kecil
+## Bisnis AI dengan Modal Kecil
 
 Jika modal Anda terbatas, berikut pilihan terbaik:
 
@@ -195,7 +195,7 @@ Jika modal Anda terbatas, berikut pilihan terbaik:
 
 Kelima model bisnis ini dapat dimulai dengan investasi yang relatif rendah.
 
-# Bisnis AI yang Cocok untuk Pemula
+## Bisnis AI yang Cocok untuk Pemula
 
 Pemula dapat memulai dari:
 
@@ -205,7 +205,7 @@ Pemula dapat memulai dari:
 * Menjual prompt
 * Membantu UMKM menggunakan AI
 
-# Bisnis AI dengan Potensi Pendapatan Berulang
+## Bisnis AI dengan Potensi Pendapatan Berulang
 
 Model recurring income:
 
@@ -217,7 +217,7 @@ Model recurring income:
 
 Pendapatan berulang membuat bisnis lebih stabil dibanding hanya mengandalkan proyek satu kali.
 
-# Skill yang Perlu Dipelajari
+## Skill yang Perlu Dipelajari
 
 Untuk membangun bisnis AI, beberapa keterampilan yang sangat membantu antara lain:
 
@@ -231,7 +231,7 @@ Untuk membangun bisnis AI, beberapa keterampilan yang sangat membantu antara lai
 
 Tidak semuanya harus dikuasai sekaligus. Fokuslah pada satu bidang terlebih dahulu.
 
-# Kesalahan yang Sering Dilakukan
+## Kesalahan yang Sering Dilakukan
 
 ## Terlalu Fokus pada Teknologi
 
@@ -249,7 +249,7 @@ Kepercayaan sangat penting dalam bisnis AI.
 
 Website, email list, dan media sosial merupakan aset jangka panjang.
 
-# FAQ
+## FAQ
 
 ## Apakah bisnis AI masih menjanjikan?
 
@@ -280,7 +280,7 @@ Baca juga:
 - [AI Specialist](/blog/ai-specialist/)
 - [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
 
-# Kesimpulan
+## Kesimpulan
 
 Artificial Intelligence telah menciptakan banyak peluang bisnis baru yang sebelumnya tidak tersedia. Mulai dari jasa AI, SaaS, AI Agent, hingga media digital, hampir semua sektor memiliki peluang untuk memanfaatkan AI.
 

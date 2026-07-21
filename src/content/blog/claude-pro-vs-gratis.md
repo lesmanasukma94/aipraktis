@@ -177,7 +177,7 @@ Namun jika penggunaan Anda masih ringan, Claude Gratis sudah cukup memenuhi kebu
 
 ---
 
-# Perbedaan Claude Pro dan Gratis
+## Perbedaan Claude Pro dan Gratis
 
 Claude gratis cocok untuk pengguna yang ingin mencoba Claude tanpa biaya.
 
@@ -207,7 +207,7 @@ Baca juga:
 
 ---
 
-# Claude Gratis Cocok untuk Siapa?
+## Claude Gratis Cocok untuk Siapa?
 
 Claude gratis cocok untuk pengguna yang masih ingin mencoba.
 
@@ -243,7 +243,7 @@ Jangan langsung upgrade jika belum tahu apakah Claude benar-benar cocok dengan w
 
 ---
 
-# Claude Pro Cocok untuk Siapa?
+## Claude Pro Cocok untuk Siapa?
 
 Claude Pro lebih cocok untuk pengguna yang memakai Claude secara rutin.
 
@@ -280,7 +280,7 @@ Jika Claude membantu pekerjaan Anda menghasilkan waktu, kualitas, atau pendapata
 
 ---
 
-# Tabel Perbandingan Claude Gratis vs Pro
+## Tabel Perbandingan Claude Gratis vs Pro
 
 Berikut gambaran sederhana.
 
@@ -306,7 +306,7 @@ Sebelum berlangganan, selalu cek halaman harga resmi karena fitur, limit, dan ha
 
 ---
 
-# Kapan Cukup Pakai Claude Gratis?
+## Kapan Cukup Pakai Claude Gratis?
 
 Anda cukup memakai Claude gratis jika:
 
@@ -337,7 +337,7 @@ Untuk pemakaian seperti ini, Claude gratis sudah bisa membantu.
 
 ---
 
-# Kapan Sebaiknya Upgrade ke Claude Pro?
+## Kapan Sebaiknya Upgrade ke Claude Pro?
 
 Pertimbangkan upgrade ke Claude Pro jika Anda mengalami kondisi berikut.
 
@@ -392,7 +392,7 @@ Jika Claude bukan hanya alat coba-coba, tetapi sudah menjadi asisten kerja, pake
 
 ---
 
-# Contoh Perhitungan Apakah Claude Pro Layak
+## Contoh Perhitungan Apakah Claude Pro Layak
 
 Gunakan perhitungan sederhana.
 
@@ -429,7 +429,7 @@ Namun, jika Anda hanya memakai Claude sesekali, versi gratis lebih bijak.
 
 ---
 
-# Claude Pro untuk Content Creator
+## Claude Pro untuk Content Creator
 
 Content creator bisa memakai Claude Pro untuk pekerjaan yang lebih panjang dan berulang.
 
@@ -484,7 +484,7 @@ Baca juga:
 
 ---
 
-# Claude Pro untuk Mahasiswa dan Riset
+## Claude Pro untuk Mahasiswa dan Riset
 
 Mahasiswa bisa memakai Claude untuk memahami materi, merangkum jurnal, dan menyusun outline.
 
@@ -540,7 +540,7 @@ Baca juga:
 
 ---
 
-# Claude Pro untuk Bisnis
+## Claude Pro untuk Bisnis
 
 Untuk bisnis, Claude Pro bisa membantu pekerjaan berbasis dokumen dan strategi.
 
@@ -597,7 +597,7 @@ Baca juga:
 
 ---
 
-# Claude Pro untuk Coding
+## Claude Pro untuk Coding
 
 Claude Pro juga sering dipakai untuk coding dan debugging.
 
@@ -647,7 +647,7 @@ Baca juga:
 
 ---
 
-# Kekurangan Claude Gratis
+## Kekurangan Claude Gratis
 
 Claude gratis punya beberapa batasan yang perlu dipahami.
 
@@ -673,7 +673,7 @@ Untuk pekerjaan penting, paket berbayar bisa memberi kenyamanan lebih.
 
 ---
 
-# Kekurangan Claude Pro
+## Kekurangan Claude Pro
 
 Claude Pro juga tidak selalu wajib.
 
@@ -713,7 +713,7 @@ Output tetap harus dicek, terutama untuk:
 
 ---
 
-# Cara Memaksimalkan Claude Gratis
+## Cara Memaksimalkan Claude Gratis
 
 Jika belum upgrade, gunakan Claude gratis dengan lebih efisien.
 
@@ -762,7 +762,7 @@ Gunakan Claude untuk pekerjaan yang benar-benar butuh bantuan berpikir atau menu
 
 ---
 
-# Cara Memaksimalkan Claude Pro
+## Cara Memaksimalkan Claude Pro
 
 Jika sudah memakai Claude Pro, gunakan lebih strategis.
 
@@ -839,7 +839,7 @@ Jika tidak terasa manfaatnya setelah beberapa minggu, mungkin versi gratis sudah
 
 ---
 
-# Checklist Sebelum Upgrade ke Claude Pro
+## Checklist Sebelum Upgrade ke Claude Pro
 
 Gunakan checklist berikut.
 
@@ -862,7 +862,7 @@ Jika sebagian besar jawaban “tidak”, mulai dari versi gratis dulu.
 
 ---
 
-# Prompt untuk Menentukan Perlu Upgrade atau Tidak
+## Prompt untuk Menentukan Perlu Upgrade atau Tidak
 
 Gunakan prompt ini.
 
@@ -897,7 +897,7 @@ Bantu saya menilai:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# Prompt untuk Membandingkan Claude dengan AI Chatbot Lain
+## Prompt untuk Membandingkan Claude dengan AI Chatbot Lain
 
 Gunakan prompt ini jika ingin membandingkan Claude dengan tools lain.
 

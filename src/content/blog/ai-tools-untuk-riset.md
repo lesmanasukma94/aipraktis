@@ -23,7 +23,7 @@ draft: false
 
 AI tools untuk riset dapat membantu mencari referensi, menemukan sumber, membaca dokumen panjang, merangkum paper, membandingkan informasi, membuat literature review awal, menyusun data, menemukan insight, dan membuat laporan riset lebih cepat. Tools seperti ChatGPT Deep Research, Gemini Deep Research, Perplexity, NotebookLM, Elicit, Consensus, Semantic Scholar, ResearchRabbit, Litmaps, Zotero, Mendeley, SciSpace, dan Google Scholar bisa dipakai sesuai kebutuhan. Namun, AI tidak boleh menggantikan verifikasi manusia. Semua data, kutipan, angka, sumber, kesimpulan, dan rekomendasi tetap harus dicek dari sumber asli.
 
-# AI Tools untuk Riset
+
 
 Riset adalah fondasi banyak pekerjaan penting.
 
@@ -118,7 +118,7 @@ Baca juga:
 
 ---
 
-# Cara Memilih AI Tools untuk Riset
+## Cara Memilih AI Tools untuk Riset
 
 Jangan mulai dari pertanyaan:
 
@@ -253,7 +253,7 @@ Cocok untuk:
 
 ---
 
-# Tabel AI Tools untuk Riset
+## Tabel AI Tools untuk Riset
 
 | Tools | Cocok untuk | Kelebihan utama |
 |---|---|---|
@@ -275,7 +275,7 @@ Cocok untuk:
 
 ---
 
-# 1. ChatGPT Deep Research
+## 1. ChatGPT Deep Research
 
 ChatGPT Deep Research cocok untuk riset yang kompleks dan membutuhkan banyak sumber.
 
@@ -354,7 +354,7 @@ Baca juga:
 
 ---
 
-# 2. Gemini Deep Research
+## 2. Gemini Deep Research
 
 Gemini Deep Research cocok untuk pengguna yang sudah berada di ekosistem Google.
 
@@ -430,7 +430,7 @@ Baca juga:
 
 ---
 
-# 3. Perplexity
+## 3. Perplexity
 
 Perplexity cocok untuk riset cepat berbasis web.
 
@@ -509,7 +509,7 @@ Baca juga:
 
 ---
 
-# 4. NotebookLM
+## 4. NotebookLM
 
 NotebookLM cocok untuk riset berbasis sumber yang Anda kumpulkan sendiri.
 
@@ -594,7 +594,7 @@ Baca juga:
 
 ---
 
-# 5. Elicit
+## 5. Elicit
 
 Elicit cocok untuk riset akademik dan ilmiah.
 
@@ -678,7 +678,7 @@ Baca juga:
 
 ---
 
-# 6. Consensus
+## 6. Consensus
 
 Consensus cocok untuk mencari jawaban dari literatur ilmiah.
 
@@ -746,7 +746,7 @@ Apakah [intervensi/metode/faktor] berpengaruh terhadap [hasil] pada [populasi/ko
 
 ---
 
-# 7. Semantic Scholar
+## 7. Semantic Scholar
 
 Semantic Scholar adalah tools pencarian literatur ilmiah.
 
@@ -821,7 +821,7 @@ Lalu telusuri:
 
 ---
 
-# 8. Google Scholar
+## 8. Google Scholar
 
 Google Scholar adalah salah satu tools paling familiar untuk mencari literatur akademik.
 
@@ -892,7 +892,7 @@ Simpan paper penting ke Zotero atau Mendeley agar tidak hilang.
 
 ---
 
-# 9. ResearchRabbit
+## 9. ResearchRabbit
 
 ResearchRabbit cocok untuk literature mapping.
 
@@ -960,7 +960,7 @@ Lalu eksplorasi:
 
 ---
 
-# 10. Litmaps
+## 10. Litmaps
 
 Litmaps juga cocok untuk memetakan literatur.
 
@@ -1025,7 +1025,7 @@ Misalnya:
 
 ---
 
-# 11. Zotero
+## 11. Zotero
 
 Zotero adalah tools manajemen referensi.
 
@@ -1099,7 +1099,7 @@ Baca juga:
 
 ---
 
-# 12. Mendeley
+## 12. Mendeley
 
 Mendeley juga termasuk tools manajemen referensi dan PDF.
 
@@ -1159,7 +1159,7 @@ Tetapkan aturan:
 
 ---
 
-# 13. SciSpace
+## 13. SciSpace
 
 SciSpace cocok untuk memahami paper dan dokumen akademik.
 
@@ -1212,7 +1212,7 @@ Buatkan tabel dari paper ini: research question, method, dataset, result, limita
 
 ---
 
-# 14. Notion AI untuk Catatan Riset
+## 14. Notion AI untuk Catatan Riset
 
 Notion AI cocok untuk menyusun catatan riset menjadi sistem yang rapi.
 
@@ -1275,7 +1275,7 @@ Baca juga:
 
 ---
 
-# 15. ChatGPT dan Claude untuk Sintesis Riset
+## 15. ChatGPT dan Claude untuk Sintesis Riset
 
 Selain tools pencarian, Anda juga membutuhkan tools untuk sintesis.
 
@@ -1356,7 +1356,7 @@ Dari catatan riset berikut, pisahkan mana fakta yang didukung sumber, mana inter
 
 ---
 
-# Rekomendasi Tools Berdasarkan Jenis Riset
+## Rekomendasi Tools Berdasarkan Jenis Riset
 
 ## Untuk Riset Artikel Blog
 
@@ -1502,7 +1502,7 @@ Baca juga:
 
 ---
 
-# Workflow Riset dengan AI
+## Workflow Riset dengan AI
 
 Berikut workflow riset yang aman dan praktis.
 
@@ -1624,7 +1624,7 @@ Sebelum publish atau mengambil keputusan, cek:
 
 ---
 
-# Prompt AI untuk Riset
+## Prompt AI untuk Riset
 
 Berikut prompt siap pakai.
 
@@ -1713,7 +1713,7 @@ Baca juga:
 
 ---
 
-# Kesalahan Menggunakan AI Tools untuk Riset
+## Kesalahan Menggunakan AI Tools untuk Riset
 
 ## 1. Menganggap Jawaban AI Selalu Benar
 
@@ -1807,7 +1807,7 @@ Contoh:
 
 ---
 
-# Checklist Riset dengan AI
+## Checklist Riset dengan AI
 
 Gunakan checklist ini sebelum memakai AI untuk riset.
 
@@ -1830,7 +1830,7 @@ Gunakan checklist ini sebelum memakai AI untuk riset.
 
 ---
 
-# Rekomendasi Stack AI Research Tools
+## Rekomendasi Stack AI Research Tools
 
 ## Stack Minimal untuk Pemula
 
@@ -1940,7 +1940,7 @@ Cocok untuk:
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apa AI tools terbaik untuk riset?
 
@@ -1972,7 +1972,7 @@ Gunakan sumber resmi, cek tanggal, buka sumber asli, bandingkan beberapa sumber,
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 AI tools untuk riset dapat mempercepat proses mencari referensi, memahami topik, merangkum dokumen, menemukan paper, membandingkan sumber, membuat insight, dan menyusun laporan.
 
@@ -2018,7 +2018,7 @@ Setelah riset selesai, gunakan [Cara Menggunakan AI untuk Membuat Presentasi](/b
 
 Jika hasil riset Anda berupa data tabel, gunakan [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) untuk membersihkan data, membuat ringkasan, menemukan pola, dan mengubah data menjadi insight.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -2044,22 +2044,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Pertanyaan Riset
+## Mulai dari Satu Pertanyaan Riset
 
 Riset yang baik tidak dimulai dari tools.
 

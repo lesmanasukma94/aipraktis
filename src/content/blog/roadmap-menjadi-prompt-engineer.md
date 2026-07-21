@@ -321,7 +321,7 @@ Peluang karier:
 
 ---
 
-# Roadmap Menjadi Prompt Engineer dari Nol
+## Roadmap Menjadi Prompt Engineer dari Nol
 
 Menjadi prompt engineer bukan hanya soal bisa menulis perintah ke ChatGPT.
 
@@ -357,7 +357,7 @@ Baca juga:
 
 ---
 
-# Tahap 1: Pahami Dasar Cara Kerja Prompt
+## Tahap 1: Pahami Dasar Cara Kerja Prompt
 
 Langkah pertama adalah memahami bahwa prompt bukan sekadar pertanyaan.
 
@@ -415,7 +415,7 @@ Prompt kedua memberi konteks yang lebih lengkap, sehingga output AI lebih mudah 
 
 ---
 
-# Tahap 2: Kuasai Struktur Prompt yang Baik
+## Tahap 2: Kuasai Struktur Prompt yang Baik
 
 Setelah memahami dasar prompt, pelajari struktur prompt.
 
@@ -484,7 +484,7 @@ Baca juga:
 
 ---
 
-# Tahap 3: Latihan Prompt untuk Masalah Nyata
+## Tahap 3: Latihan Prompt untuk Masalah Nyata
 
 Jangan hanya belajar teori.
 
@@ -547,7 +547,7 @@ Prompt engineer yang baik mampu membuat prompt yang menyelesaikan masalah nyata.
 
 ---
 
-# Tahap 4: Belajar Iterasi Prompt
+## Tahap 4: Belajar Iterasi Prompt
 
 Prompt pertama jarang langsung sempurna.
 
@@ -603,7 +603,7 @@ Bukan hanya menulis prompt awal, tetapi memperbaiki hasil sampai layak digunakan
 
 ---
 
-# Tahap 5: Pelajari Prompt untuk Berbagai Format Output
+## Tahap 5: Pelajari Prompt untuk Berbagai Format Output
 
 Prompt engineer harus bisa mengarahkan AI menghasilkan format output yang tepat.
 
@@ -668,7 +668,7 @@ Prompt yang baik mengatur bentuk output agar mudah langsung dipakai.
 
 ---
 
-# Tahap 6: Belajar Evaluasi Output AI
+## Tahap 6: Belajar Evaluasi Output AI
 
 Prompt engineer harus bisa menilai output AI.
 
@@ -709,7 +709,7 @@ Prompt engineer yang baik tahu kapan output harus diverifikasi.
 
 ---
 
-# Tahap 7: Buat Prompt Library
+## Tahap 7: Buat Prompt Library
 
 Setelah menemukan prompt yang bagus, simpan.
 
@@ -777,7 +777,7 @@ Baca juga:
 
 ---
 
-# Tahap 8: Bangun Portofolio Prompt Engineering
+## Tahap 8: Bangun Portofolio Prompt Engineering
 
 Jika ingin menjadi prompt engineer secara profesional, buat portofolio.
 
@@ -834,7 +834,7 @@ Baca juga:
 
 ---
 
-# Tahap 9: Pelajari Workflow AI, Bukan Hanya Prompt
+## Tahap 9: Pelajari Workflow AI, Bukan Hanya Prompt
 
 Prompt engineering yang lebih bernilai biasanya bukan hanya prompt tunggal.
 
@@ -889,7 +889,7 @@ Baca juga:
 
 ---
 
-# Roadmap 30 Hari Menjadi Prompt Engineer Pemula
+## Roadmap 30 Hari Menjadi Prompt Engineer Pemula
 
 Berikut roadmap sederhana selama 30 hari.
 
@@ -992,7 +992,7 @@ Tetapi cukup untuk membangun dasar yang kuat dan mulai membuat portofolio.
 
 ---
 
-# Skill yang Perlu Dikuasai Prompt Engineer
+## Skill yang Perlu Dikuasai Prompt Engineer
 
 Prompt engineer tidak hanya butuh skill menulis.
 
@@ -1053,7 +1053,7 @@ Apa yang dianggap berhasil?
 
 ---
 
-# Kesalahan Belajar Prompt Engineering
+## Kesalahan Belajar Prompt Engineering
 
 ## 1. Hanya Menghafal Prompt
 
@@ -1103,7 +1103,7 @@ Jika prompt yang bagus tidak disimpan, Anda akan membuang waktu membuat ulang da
 
 ---
 
-# Checklist Belajar Prompt Engineering
+## Checklist Belajar Prompt Engineering
 
 Gunakan checklist ini.
 
@@ -1125,7 +1125,7 @@ Jika checklist ini sudah terpenuhi, Anda sudah punya dasar yang cukup kuat untuk
 
 ---
 
-# Prompt untuk Belajar Prompt Engineering
+## Prompt untuk Belajar Prompt Engineering
 
 Gunakan prompt ini untuk latihan.
 
@@ -1155,7 +1155,7 @@ Buatkan:
 Gunakan bahasa Indonesia praktis.
 ```
 
-# Prompt untuk Membuat Prompt Library
+## Prompt untuk Membuat Prompt Library
 
 Gunakan prompt ini.
 
@@ -1180,7 +1180,7 @@ Buat:
 7. cara menyimpan dan memperbarui prompt library
 ```
 
-# Prompt untuk Membuat Portofolio Prompt Engineer
+## Prompt untuk Membuat Portofolio Prompt Engineer
 
 Gunakan prompt ini.
 

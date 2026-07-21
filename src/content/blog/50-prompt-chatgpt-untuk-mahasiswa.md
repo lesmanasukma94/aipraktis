@@ -38,7 +38,7 @@ Semakin jelas instruksi yang diberikan, semakin baik hasil yang diperoleh.
 
 Prompt dalam artikel ini akan lebih efektif jika Anda memahami dasar penggunaan AI terlebih dahulu. Pelajari juga [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/), [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/), dan [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/), * [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/), * [Cara Merangkum Jurnal dengan ChatGPT](/blog/cara-merangkum-jurnal-dengan-chatgpt/).
 
-# Prompt Memahami Materi Kuliah
+## Prompt Memahami Materi Kuliah
 
 ### 1
 
@@ -62,7 +62,7 @@ Jelaskan materi [TOPIK] seperti seorang dosen yang sedang mengajar.
 
 ---
 
-# Prompt Membuat Rangkuman
+## Prompt Membuat Rangkuman
 
 ### 6
 
@@ -86,7 +86,7 @@ Buat peta konsep berdasarkan materi berikut.
 
 ---
 
-# Prompt Mengerjakan Tugas Kuliah
+## Prompt Mengerjakan Tugas Kuliah
 
 ### 11
 
@@ -110,7 +110,7 @@ Periksa struktur tulisan berikut dan berikan saran perbaikan.
 
 ---
 
-# Prompt Penelitian dan Skripsi
+## Prompt Penelitian dan Skripsi
 
 ### 16
 
@@ -134,7 +134,7 @@ Berikan rekomendasi metode penelitian yang cocok untuk topik berikut.
 
 ---
 
-# Prompt Analisis Jurnal
+## Prompt Analisis Jurnal
 
 ### 21
 
@@ -158,7 +158,7 @@ Buat review singkat terhadap jurnal berikut.
 
 ---
 
-# Prompt Persiapan Presentasi
+## Prompt Persiapan Presentasi
 
 ### 26
 
@@ -182,7 +182,7 @@ Buat naskah presentasi selama 5 menit tentang [TOPIK].
 
 ---
 
-# Prompt Belajar untuk Ujian
+## Prompt Belajar untuk Ujian
 
 ### 31
 
@@ -206,7 +206,7 @@ Jelaskan materi yang paling penting untuk dipahami dari topik berikut.
 
 ---
 
-# Prompt Produktivitas Mahasiswa
+## Prompt Produktivitas Mahasiswa
 
 ### 36
 
@@ -230,7 +230,7 @@ Berikan strategi mengatasi kebiasaan menunda tugas kuliah.
 
 ---
 
-# Prompt Bahasa Inggris Akademik
+## Prompt Bahasa Inggris Akademik
 
 ### 41
 
@@ -254,7 +254,7 @@ Terjemahkan teks berikut ke bahasa Inggris formal.
 
 ---
 
-# Prompt Pengembangan Diri Mahasiswa
+## Prompt Pengembangan Diri Mahasiswa
 
 ### 46
 

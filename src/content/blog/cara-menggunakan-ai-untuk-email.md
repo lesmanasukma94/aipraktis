@@ -23,7 +23,7 @@ draft: false
 
 AI bisa membantu membuat email profesional, membalas email kerja, menulis follow-up, merangkum thread panjang, memperbaiki tone, membuat subject line, menyusun email sales, membuat template customer service, dan membuat draft email marketing. Cara terbaik menggunakan AI untuk email adalah memberi konteks yang jelas, menentukan penerima, tujuan, tone, informasi penting, dan batasan. Namun, semua email tetap harus dicek manusia sebelum dikirim, terutama jika berisi data sensitif, harga, janji bisnis, komplain pelanggan, kontrak, atau keputusan penting.
 
-# Cara Menggunakan AI untuk Email
+## Cara Menggunakan AI untuk Email
 
 Email masih menjadi salah satu alat komunikasi kerja yang paling penting.
 
@@ -108,7 +108,7 @@ Baca juga:
 
 ---
 
-# Apa Itu Menggunakan AI untuk Email?
+## Apa Itu Menggunakan AI untuk Email?
 
 Menggunakan AI untuk email berarti memakai tools AI untuk membantu menulis, memperbaiki, merangkum, atau menyusun email.
 
@@ -165,7 +165,7 @@ Semakin jelas informasi yang Anda berikan, semakin baik hasil email yang dibuat 
 
 ---
 
-# Kapan AI Cocok Digunakan untuk Email?
+## Kapan AI Cocok Digunakan untuk Email?
 
 AI cocok digunakan untuk banyak jenis email.
 
@@ -243,7 +243,7 @@ Contoh:
 
 ---
 
-# Kapan Harus Berhati-hati Memakai AI untuk Email?
+## Kapan Harus Berhati-hati Memakai AI untuk Email?
 
 AI tidak boleh digunakan sembarangan untuk email yang sangat sensitif.
 
@@ -284,7 +284,7 @@ Ini nama pelanggan, alamat, nomor telepon, nomor pesanan, detail pembayaran, dan
 
 ---
 
-# Prinsip Menggunakan AI untuk Email
+## Prinsip Menggunakan AI untuk Email
 
 Sebelum memakai prompt, pahami prinsip berikut.
 
@@ -370,7 +370,7 @@ Sebelum mengirim, cek:
 
 ---
 
-# Template Prompt Dasar untuk Email
+## Template Prompt Dasar untuk Email
 
 Gunakan template ini untuk hampir semua email.
 
@@ -439,7 +439,7 @@ Buatkan draft email.
 
 ---
 
-# Cara Menggunakan AI untuk Email Kerja
+## Cara Menggunakan AI untuk Email Kerja
 
 Email kerja harus jelas, ringkas, dan sopan.
 
@@ -524,7 +524,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Follow-Up Email
+## Cara Menggunakan AI untuk Follow-Up Email
 
 Follow-up adalah salah satu jenis email paling sering dibutuhkan.
 
@@ -611,7 +611,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Membalas Email
+## Cara Menggunakan AI untuk Membalas Email
 
 Kadang Anda menerima email panjang dan ingin membalas dengan jelas.
 
@@ -671,7 +671,7 @@ Email:
 
 ---
 
-# Cara Menggunakan AI untuk Merangkum Thread Email
+## Cara Menggunakan AI untuk Merangkum Thread Email
 
 Thread email panjang sering membingungkan.
 
@@ -730,7 +730,7 @@ Jangan mengirim balasan berdasarkan ringkasan AI tanpa membaca bagian penting.
 
 ---
 
-# Cara Menggunakan AI untuk Subject Line
+## Cara Menggunakan AI untuk Subject Line
 
 Subject line penting karena membantu penerima memahami isi email.
 
@@ -801,7 +801,7 @@ Agenda Meeting [Tanggal] – [Topik]
 
 ---
 
-# Cara Menggunakan AI untuk Memperbaiki Tone Email
+## Cara Menggunakan AI untuk Memperbaiki Tone Email
 
 Tone email sangat penting.
 
@@ -873,7 +873,7 @@ Mohon bantuannya untuk mengirimkan data tersebut paling lambat Jumat pukul 12.00
 
 ---
 
-# Cara Menggunakan AI untuk Email Customer Service
+## Cara Menggunakan AI untuk Email Customer Service
 
 Customer service membutuhkan empati, kejelasan, dan konsistensi.
 
@@ -956,7 +956,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Email Sales
+## Cara Menggunakan AI untuk Email Sales
 
 Email sales harus jelas, relevan, dan tidak terlalu hard selling.
 
@@ -1031,7 +1031,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Email Marketing
+## Cara Menggunakan AI untuk Email Marketing
 
 Email marketing berbeda dari email kerja biasa.
 
@@ -1118,7 +1118,7 @@ Baca juga:
 
 ---
 
-# Cara Menggunakan AI untuk Email Bahasa Inggris
+## Cara Menggunakan AI untuk Email Bahasa Inggris
 
 AI sangat membantu jika Anda perlu menulis email bahasa Inggris.
 
@@ -1180,7 +1180,7 @@ Baca juga:
 
 ---
 
-# Tools AI yang Bisa Digunakan untuk Email
+## Tools AI yang Bisa Digunakan untuk Email
 
 Berikut tools yang cocok untuk email.
 
@@ -1256,7 +1256,7 @@ Baca juga:
 
 ---
 
-# Template Prompt Lengkap untuk Email
+## Template Prompt Lengkap untuk Email
 
 Gunakan template lengkap ini.
 
@@ -1305,7 +1305,7 @@ Buatkan subject line dan draft email.
 
 ---
 
-# Template Prompt Audit Email
+## Template Prompt Audit Email
 
 Gunakan prompt ini sebelum mengirim email penting.
 
@@ -1333,7 +1333,7 @@ Email:
 
 ---
 
-# Kesalahan Menggunakan AI untuk Email
+## Kesalahan Menggunakan AI untuk Email
 
 ## 1. Langsung Mengirim Output AI
 
@@ -1403,7 +1403,7 @@ Email ke partner luar negeri berbeda dari email internal.
 
 ---
 
-# Checklist Email AI Sebelum Dikirim
+## Checklist Email AI Sebelum Dikirim
 
 Gunakan checklist ini.
 
@@ -1427,7 +1427,7 @@ Gunakan checklist ini.
 
 ---
 
-# Rencana 7 Hari Belajar Email dengan AI
+## Rencana 7 Hari Belajar Email dengan AI
 
 Jika Anda pemula, gunakan rencana ini.
 
@@ -1465,7 +1465,7 @@ Setelah 7 hari, simpan template terbaik agar bisa dipakai ulang.
 
 ---
 
-# FAQ
+## FAQ
 
 ## Apakah AI bisa membuat email profesional?
 
@@ -1497,7 +1497,7 @@ Ya. AI bisa membantu membuat newsletter, email promosi, sequence, subject line, 
 
 ---
 
-# Kesimpulan
+## Kesimpulan
 
 Cara menggunakan AI untuk email sangat sederhana jika Anda punya workflow yang jelas.
 
@@ -1545,7 +1545,7 @@ Setelah notulen selesai, gunakan [Cara Menggunakan AI untuk Notulen Rapat](/blog
 
 Email sales akan lebih efektif jika masuk ke workflow penjualan yang jelas. Lanjutkan ke [AI untuk Sales](/blog/ai-untuk-sales/) untuk membuat outreach, follow-up, proposal, objection handling, dan CRM notes.
 
-# Artikel Terkait
+## Artikel Terkait
 
 Pelajari juga panduan berikut:
 
@@ -1570,22 +1570,22 @@ Pelajari juga panduan berikut:
 
 ---
 
-# Jelajahi Panduan AI Lainnya
+## Jelajahi Panduan AI Lainnya
 
 Temukan panduan AI sesuai kebutuhan Anda:
 
-- [Pusat Tutorial AI](/kategori/tutorial-ai/)
-- [Pusat AI Tools](/kategori/ai-tools/)
-- [Pusat Prompt Engineering](/kategori/prompt-engineering/)
-- [Pusat AI Chatbot](/kategori/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/kategori/ai-untuk-bisnis/)
-- [Pusat AI untuk Pendidikan](/kategori/ai-untuk-pendidikan/)
-- [Pusat AI untuk Content Creator](/kategori/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/kategori/belajar-ai/)
+- [Pusat Tutorial AI](/tutorial-ai/)
+- [Pusat AI Tools](/ai-tools/)
+- [Pusat Prompt Engineering](/prompt-engineering/)
+- [Pusat AI Chatbot](/ai-chatbot/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+- [Pusat Belajar AI](/belajar-ai/)
 
 ---
 
-# Mulai dari Satu Email
+## Mulai dari Satu Email
 
 Jangan mulai dari workflow rumit.
 
