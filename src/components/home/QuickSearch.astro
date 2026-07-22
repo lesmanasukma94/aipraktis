@@ -1,3 +1,7 @@
+---
+import { getContentStats } from "../../lib/content-stats";
+const { articleCount } = await getContentStats();
+---
 <section class="quick-search">
 
   <h2>
@@ -5,7 +9,7 @@
   </h2>
 
   <p>
-    Temukan lebih dari 140+ artikel AI Praktis Indonesia.
+    Temukan {articleCount} artikel AI Praktis Indonesia.
   </p>
 
   <form

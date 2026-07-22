@@ -1,8 +1,12 @@
+---
+import { getContentStats } from "../../lib/content-stats";
+const { articleCount, categoryCount } = await getContentStats();
+---
 <section class="quick-stats">
 
   <div class="stat">
 
-    <h3>140+</h3>
+    <h3>{articleCount}</h3>
 
     <p>Artikel AI</p>
 
@@ -10,7 +14,7 @@
 
   <div class="stat">
 
-    <h3>20+</h3>
+    <h3>{categoryCount}</h3>
 
     <p>Kategori AI</p>
 
