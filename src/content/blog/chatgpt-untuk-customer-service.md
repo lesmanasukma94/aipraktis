@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ChatGPT untuk Customer Service: Cara Menggunakan AI untuk Meningkatkan Layanan Pelanggan"
 description: "Pelajari ChatGPT untuk Customer Service dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-19"

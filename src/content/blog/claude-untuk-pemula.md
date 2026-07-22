@@ -100,7 +100,7 @@ Jika Anda masih baru mengenal teknologi AI generatif, baca juga panduan [Cara Be
 
 Claude memiliki berbagai fitur yang membuatnya cocok digunakan oleh pemula maupun profesional.
 
-## 1. Percakapan Natural
+### 1. Percakapan Natural
 
 Claude mampu menghasilkan jawaban yang terasa seperti berdiskusi dengan manusia.
 
@@ -115,7 +115,7 @@ Hal ini membuat Claude nyaman digunakan untuk belajar maupun bekerja.
 
 ---
 
-## 2. Memahami Dokumen Panjang
+### 2. Memahami Dokumen Panjang
 
 Salah satu keunggulan terbesar Claude adalah kemampuannya membaca dokumen berukuran besar.
 
@@ -133,7 +133,7 @@ Claude dapat membantu merangkum isi dokumen, menjelaskan poin penting, maupun me
 
 ---
 
-## 3. Membantu Menulis
+### 3. Membantu Menulis
 
 Claude banyak digunakan untuk menghasilkan berbagai jenis tulisan, seperti:
 
@@ -151,7 +151,7 @@ Meskipun demikian, hasil AI tetap perlu ditinjau kembali agar sesuai dengan kebu
 
 ---
 
-## 4. Membantu Belajar
+### 4. Membantu Belajar
 
 Claude dapat berperan sebagai tutor pribadi yang siap membantu menjelaskan berbagai topik.
 
@@ -169,7 +169,7 @@ Anda dapat meminta penjelasan dengan tingkat kesulitan yang berbeda, mulai dari 
 
 ---
 
-## 5. Membantu Coding
+### 5. Membantu Coding
 
 Bagi programmer, Claude mampu membantu:
 
@@ -188,7 +188,7 @@ Namun, hasilnya tetap perlu diuji sebelum digunakan pada proyek produksi.
 
 Kemampuan Claude sangat luas. Berikut beberapa contoh penggunaan yang paling populer.
 
-## Menjawab Pertanyaan
+### Menjawab Pertanyaan
 
 Anda dapat bertanya hampir semua topik, mulai dari pengetahuan umum hingga bidang profesional.
 
@@ -201,13 +201,13 @@ Contoh:
 
 Claude akan mencoba memberikan jawaban yang sistematis dan mudah dipahami.
 
-## Membuat Ringkasan
+### Membuat Ringkasan
 
 Jika Anda memiliki artikel, laporan, atau dokumen panjang, Claude dapat membantu merangkum isi utamanya sehingga lebih mudah dipelajari.
 
 Fitur ini sangat bermanfaat bagi mahasiswa, peneliti, maupun profesional yang harus membaca banyak dokumen setiap hari.
 
-## Brainstorming Ide
+### Brainstorming Ide
 
 Claude juga dapat membantu menghasilkan ide, misalnya:
 
@@ -230,7 +230,7 @@ Salah satu alasan Claude semakin populer adalah karena antarmukanya yang sederha
 
 Secara umum, proses menggunakan Claude hanya membutuhkan beberapa langkah.
 
-## 1. Membuat Akun
+### 1. Membuat Akun
 
 Langkah pertama adalah membuat akun Claude.
 
@@ -238,7 +238,7 @@ Setelah memiliki akun, Anda dapat langsung masuk ke halaman percakapan dan mulai
 
 Proses pendaftaran biasanya hanya memerlukan alamat email dan proses verifikasi sesuai ketentuan layanan.
 
-## 2. Memulai Percakapan Baru
+### 2. Memulai Percakapan Baru
 
 Setelah berhasil masuk, Anda akan menemukan kolom untuk mengetik pertanyaan atau instruksi (prompt).
 
@@ -251,7 +251,7 @@ Anda bisa memulai dengan pertanyaan sederhana seperti:
 
 Claude akan memproses permintaan tersebut dalam beberapa detik.
 
-## 3. Berikan Konteks yang Jelas
+### 3. Berikan Konteks yang Jelas
 
 Semakin lengkap informasi yang Anda berikan, semakin baik pula jawaban yang dihasilkan.
 
@@ -273,7 +273,7 @@ Jika Anda ingin mempelajari teknik membuat prompt yang efektif, baca juga artike
 
 Claude dapat digunakan untuk berbagai kebutuhan pribadi maupun profesional.
 
-## Belajar
+### Belajar
 
 Claude dapat membantu menjelaskan konsep yang sulit dengan bahasa yang lebih sederhana.
 
@@ -287,7 +287,7 @@ Contohnya:
 
 Namun, jangan menjadikan jawaban AI sebagai satu-satunya sumber belajar. Tetap lakukan verifikasi menggunakan buku, jurnal, atau sumber terpercaya.
 
-## Bekerja
+### Bekerja
 
 Banyak profesional menggunakan Claude untuk meningkatkan produktivitas.
 
@@ -302,7 +302,7 @@ Contohnya:
 
 Dengan demikian, waktu yang dibutuhkan untuk pekerjaan administratif dapat berkurang secara signifikan.
 
-## Menulis Konten
+### Menulis Konten
 
 Content creator dan blogger juga banyak memanfaatkan Claude untuk:
 
@@ -315,7 +315,7 @@ Content creator dan blogger juga banyak memanfaatkan Claude untuk:
 
 Meskipun demikian, artikel tetap perlu diedit agar memiliki sudut pandang yang unik dan sesuai dengan identitas brand Anda.
 
-## Membantu Coding
+### Membantu Coding
 
 Claude mampu membantu developer dalam berbagai aktivitas seperti:
 
@@ -333,7 +333,7 @@ Untuk kebutuhan coding yang lebih spesifik, Anda juga dapat membaca artikel [Cur
 
 Claude tersedia dalam beberapa pilihan layanan, termasuk versi gratis dan berbayar.
 
-## Claude Gratis
+### Claude Gratis
 
 Versi gratis sudah cukup untuk sebagian besar pengguna pemula.
 
@@ -347,7 +347,7 @@ Beberapa kelebihannya antara lain:
 
 Namun, terdapat beberapa keterbatasan seperti batas penggunaan harian serta akses yang lebih terbatas ketika lalu lintas pengguna sedang tinggi.
 
-## Claude Pro
+### Claude Pro
 
 Claude Pro ditujukan bagi pengguna yang membutuhkan produktivitas lebih tinggi.
 
@@ -366,19 +366,19 @@ Jika Anda menggunakan Claude setiap hari untuk pekerjaan profesional, biaya berl
 
 Berikut beberapa alasan mengapa banyak pengguna memilih Claude.
 
-## 1. Jawaban Lebih Natural
+### 1. Jawaban Lebih Natural
 
 Claude dikenal mampu menghasilkan tulisan yang mengalir dan mudah dibaca.
 
 Hal ini sangat membantu ketika digunakan untuk membuat artikel, email, atau laporan.
 
-## 2. Sangat Baik untuk Analisis Dokumen
+### 2. Sangat Baik untuk Analisis Dokumen
 
 Kemampuan memahami dokumen panjang menjadi salah satu keunggulan utama Claude.
 
 Bagi mahasiswa, peneliti, maupun profesional, fitur ini dapat menghemat waktu dalam membaca ratusan halaman dokumen.
 
-## 3. Cocok untuk Menulis
+### 3. Cocok untuk Menulis
 
 Claude sering digunakan untuk membantu:
 
@@ -388,7 +388,7 @@ Claude sering digunakan untuk membantu:
 - membuat dokumentasi,
 - menghasilkan ide kreatif.
 
-## 4. Mudah Digunakan
+### 4. Mudah Digunakan
 
 Antarmukanya sederhana sehingga pengguna baru tidak memerlukan waktu lama untuk beradaptasi.
 
@@ -398,7 +398,7 @@ Antarmukanya sederhana sehingga pengguna baru tidak memerlukan waktu lama untuk 
 
 Walaupun memiliki banyak keunggulan, Claude tetap memiliki beberapa keterbatasan.
 
-## Tidak Selalu Benar
+### Tidak Selalu Benar
 
 Claude dapat menghasilkan informasi yang terdengar meyakinkan tetapi ternyata kurang akurat.
 
@@ -412,7 +412,7 @@ Karena itu, selalu lakukan pengecekan ulang terutama jika informasi tersebut ber
 - penelitian ilmiah,
 - atau keputusan bisnis.
 
-## Membutuhkan Prompt yang Baik
+### Membutuhkan Prompt yang Baik
 
 Hasil Claude sangat dipengaruhi oleh kualitas prompt.
 
@@ -454,7 +454,7 @@ Untuk pembahasan yang lebih mendalam, baca juga artikel:
 
 Claude dapat digunakan oleh hampir semua orang, tetapi beberapa profesi akan memperoleh manfaat yang lebih besar.
 
-## Mahasiswa
+### Mahasiswa
 
 Claude dapat membantu:
 
@@ -466,7 +466,7 @@ Claude dapat membantu:
 
 Namun, hindari menyalin hasil AI secara langsung sebagai tugas akademik. Gunakan Claude sebagai alat bantu belajar, bukan pengganti proses berpikir.
 
-## Guru dan Dosen
+### Guru dan Dosen
 
 Claude dapat membantu membuat:
 
@@ -478,7 +478,7 @@ Claude dapat membantu membuat:
 
 Dengan demikian, waktu persiapan mengajar dapat menjadi lebih efisien.
 
-## Content Creator
+### Content Creator
 
 Creator dapat memanfaatkan Claude untuk:
 
@@ -490,7 +490,7 @@ Creator dapat memanfaatkan Claude untuk:
 
 Claude sangat membantu ketika Anda mengalami *writer's block* atau kehabisan ide.
 
-## Pebisnis dan UMKM
+### Pebisnis dan UMKM
 
 Pemilik bisnis dapat menggunakan Claude untuk:
 
@@ -502,7 +502,7 @@ Pemilik bisnis dapat menggunakan Claude untuk:
 
 Jika dipadukan dengan pengetahuan bisnis yang baik, Claude dapat meningkatkan produktivitas tim tanpa harus menambah banyak sumber daya.
 
-## Programmer
+### Programmer
 
 Walaupun ada AI yang lebih fokus pada coding seperti Cursor AI atau GitHub Copilot, Claude tetap mampu membantu:
 
@@ -518,7 +518,7 @@ Walaupun ada AI yang lebih fokus pada coding seperti Cursor AI atau GitHub Copil
 
 Berikut beberapa praktik terbaik yang dapat Anda terapkan.
 
-## 1. Jelaskan Tujuan Anda
+### 1. Jelaskan Tujuan Anda
 
 Jangan hanya memberikan instruksi singkat.
 
@@ -532,7 +532,7 @@ Lebih baik:
 
 Semakin jelas tujuan Anda, semakin relevan hasil yang diberikan Claude.
 
-## 2. Berikan Konteks
+### 2. Berikan Konteks
 
 Sertakan informasi seperti:
 
@@ -544,7 +544,7 @@ Sertakan informasi seperti:
 
 Konteks membantu Claude memahami kebutuhan Anda dengan lebih akurat.
 
-## 3. Gunakan Prompt Bertahap
+### 3. Gunakan Prompt Bertahap
 
 Untuk pekerjaan besar, hindari memberikan satu instruksi yang terlalu kompleks.
 
@@ -557,7 +557,7 @@ Sebagai contoh:
 
 Pendekatan bertahap biasanya menghasilkan kualitas yang lebih baik.
 
-## 4. Selalu Lakukan Verifikasi
+### 4. Selalu Lakukan Verifikasi
 
 AI dapat melakukan kesalahan.
 
@@ -572,7 +572,7 @@ Pastikan Anda mengecek:
 
 Langkah ini sangat penting jika artikel akan dipublikasikan atau digunakan sebagai dasar pengambilan keputusan.
 
-## 5. Jadikan AI sebagai Asisten
+### 5. Jadikan AI sebagai Asisten
 
 Claude dirancang untuk membantu pekerjaan manusia, bukan menggantikannya.
 
@@ -633,13 +633,13 @@ Dengan proses iterasi, kualitas hasil biasanya meningkat secara signifikan.
 
 ## FAQ Claude untuk Pemula
 
-## Apakah Claude AI gratis?
+### Apakah Claude AI gratis?
 
 Ya. Claude menyediakan versi gratis yang sudah cukup untuk kebutuhan sehari-hari seperti belajar, membuat ringkasan, menulis email, brainstorming ide, dan membantu berbagai tugas sederhana. Namun, versi gratis memiliki batas penggunaan tertentu.
 
 Bagi pengguna yang membutuhkan kapasitas lebih besar dan akses ke fitur terbaru, tersedia paket Claude Pro.
 
-## Apakah Claude lebih baik daripada ChatGPT?
+### Apakah Claude lebih baik daripada ChatGPT?
 
 Tidak ada jawaban yang mutlak karena keduanya memiliki keunggulan masing-masing.
 
@@ -649,13 +649,13 @@ Sementara itu, ChatGPT memiliki ekosistem yang lebih luas, integrasi dengan berb
 
 Pilihan terbaik bergantung pada kebutuhan Anda.
 
-## Apakah Claude bisa digunakan dalam Bahasa Indonesia?
+### Apakah Claude bisa digunakan dalam Bahasa Indonesia?
 
 Bisa.
 
 Claude mampu memahami dan menghasilkan teks dalam Bahasa Indonesia dengan cukup baik. Anda dapat menggunakannya untuk membuat artikel, email, proposal, ringkasan, maupun menjawab pertanyaan menggunakan bahasa Indonesia.
 
-## Apakah Claude bisa digunakan untuk belajar?
+### Apakah Claude bisa digunakan untuk belajar?
 
 Ya.
 
@@ -663,7 +663,7 @@ Claude sangat membantu sebagai pendamping belajar karena dapat menjelaskan konse
 
 Namun, tetap gunakan buku, jurnal, atau sumber resmi sebagai referensi utama.
 
-## Apakah Claude bisa membantu pekerjaan?
+### Apakah Claude bisa membantu pekerjaan?
 
 Tentu.
 
@@ -679,7 +679,7 @@ Claude dapat membantu berbagai pekerjaan seperti:
 
 Dengan memanfaatkan AI secara tepat, Anda dapat menghemat waktu dan meningkatkan produktivitas.
 
-## Apakah Claude aman digunakan?
+### Apakah Claude aman digunakan?
 
 Secara umum, Claude dirancang dengan pendekatan AI Safety sehingga lebih berhati-hati dalam memberikan jawaban.
 

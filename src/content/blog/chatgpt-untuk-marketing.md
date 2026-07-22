@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ChatGPT untuk Marketing: Cara Menggunakan AI untuk Meningkatkan Strategi Pemasaran"
 description: "Pelajari ChatGPT untuk Marketing dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
 pubDate: "2026-06-19"

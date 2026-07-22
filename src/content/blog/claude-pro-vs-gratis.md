@@ -68,7 +68,7 @@ Pengguna Claude Pro memperoleh berbagai keuntungan seperti:
 
 ---
 
-## Kelebihan Claude Gratis
+### Kelebihan Claude Gratis
 
 Versi gratis cocok bagi:
 
@@ -81,7 +81,7 @@ Claude Gratis tetap mampu menghasilkan tulisan berkualitas tinggi.
 
 ---
 
-## Kekurangan Claude Gratis
+### Kekurangan Claude Gratis
 
 Beberapa keterbatasannya antara lain:
 
@@ -91,17 +91,17 @@ Beberapa keterbatasannya antara lain:
 
 ---
 
-## Kelebihan Claude Pro
+### Kelebihan Claude Pro
 
-### Kuota jauh lebih besar
+#### Kuota jauh lebih besar
 
 Sangat membantu bagi pengguna yang memakai AI setiap hari.
 
-### Lebih nyaman digunakan
+#### Lebih nyaman digunakan
 
 Pekerjaan panjang dapat diselesaikan tanpa cepat terkena batas penggunaan.
 
-### Sangat baik untuk penulisan panjang
+#### Sangat baik untuk penulisan panjang
 
 Claude dikenal memiliki kemampuan menulis yang sangat natural sehingga banyak digunakan oleh:
 
@@ -112,7 +112,7 @@ Claude dikenal memiliki kemampuan menulis yang sangat natural sehingga banyak di
 
 ---
 
-## Kekurangan Claude Pro
+### Kekurangan Claude Pro
 
 - Memerlukan biaya langganan.
 - Tidak semua pengguna membutuhkan kuota sebesar itu.
@@ -341,19 +341,19 @@ Untuk pemakaian seperti ini, Claude gratis sudah bisa membantu.
 
 Pertimbangkan upgrade ke Claude Pro jika Anda mengalami kondisi berikut.
 
-## 1. Sering Kehabisan Limit
+### 1. Sering Kehabisan Limit
 
 Jika Anda sedang bekerja lalu Claude tidak bisa digunakan karena limit, itu tanda kebutuhan Anda mulai lebih tinggi.
 
 Apalagi jika Claude sudah menjadi bagian dari workflow harian.
 
-## 2. Sering Mengerjakan Dokumen Panjang
+### 2. Sering Mengerjakan Dokumen Panjang
 
 Claude dikenal nyaman untuk membaca, merangkum, dan menyusun teks panjang.
 
 Jika Anda sering bekerja dengan dokumen, artikel, laporan, transkrip, atau materi riset, paket Pro bisa lebih membantu.
 
-## 3. Menggunakan Claude untuk Pekerjaan
+### 3. Menggunakan Claude untuk Pekerjaan
 
 Jika Claude membantu pekerjaan seperti menulis, coding, marketing, riset, analisis, atau laporan, upgrade bisa lebih mudah dibenarkan.
 
@@ -371,7 +371,7 @@ Berapa waktu yang bisa saya hemat setiap bulan?
 
 Jika waktu yang dihemat bernilai lebih besar dari biaya langganan, Pro bisa masuk akal.
 
-## 4. Butuh Workflow yang Lebih Terorganisir
+### 4. Butuh Workflow yang Lebih Terorganisir
 
 Jika Anda punya banyak proyek, percakapan, dokumen, atau konteks kerja, fitur organisasi seperti Projects bisa membantu.
 
@@ -386,7 +386,7 @@ Ini berguna untuk:
 - proposal,
 - materi training.
 
-## 5. Ingin Menggunakan Claude Lebih Serius
+### 5. Ingin Menggunakan Claude Lebih Serius
 
 Jika Claude bukan hanya alat coba-coba, tetapi sudah menjadi asisten kerja, paket Pro lebih relevan.
 
@@ -651,21 +651,21 @@ Baca juga:
 
 Claude gratis punya beberapa batasan yang perlu dipahami.
 
-## 1. Limit Lebih Cepat Habis
+### 1. Limit Lebih Cepat Habis
 
 Untuk penggunaan ringan, ini bukan masalah besar.
 
 Tetapi untuk pekerjaan panjang, limit bisa mengganggu.
 
-## 2. Kurang Nyaman untuk Workflow Harian
+### 2. Kurang Nyaman untuk Workflow Harian
 
 Jika Anda memakai Claude setiap hari, versi gratis bisa terasa kurang fleksibel.
 
-## 3. Tidak Ideal untuk Banyak Proyek
+### 3. Tidak Ideal untuk Banyak Proyek
 
 Jika Anda punya banyak topik, file, dan konteks kerja, versi gratis bisa terasa kurang rapi.
 
-## 4. Kurang Cocok untuk Deadline
+### 4. Kurang Cocok untuk Deadline
 
 Jika sedang dikejar deadline, limit penggunaan bisa menghambat.
 
@@ -679,23 +679,23 @@ Claude Pro juga tidak selalu wajib.
 
 Ada beberapa hal yang perlu dipertimbangkan.
 
-## 1. Tetap Ada Limit
+### 1. Tetap Ada Limit
 
 Berbayar bukan berarti tanpa batas.
 
 Jika penggunaan Anda sangat berat, Anda tetap perlu memperhatikan limit.
 
-## 2. Tidak Selalu Dibutuhkan Pemula
+### 2. Tidak Selalu Dibutuhkan Pemula
 
 Jika Anda baru mencoba AI, versi gratis cukup untuk belajar.
 
-## 3. Biaya Berulang
+### 3. Biaya Berulang
 
 Claude Pro adalah biaya langganan.
 
 Jika tidak dipakai rutin, biaya ini bisa terasa mubazir.
 
-## 4. Tetap Perlu Review Manusia
+### 4. Tetap Perlu Review Manusia
 
 Claude bisa salah.
 
@@ -719,13 +719,13 @@ Jika belum upgrade, gunakan Claude gratis dengan lebih efisien.
 
 Tipsnya:
 
-## 1. Pakai Prompt yang Lengkap
+### 1. Pakai Prompt yang Lengkap
 
 Jangan bolak-balik memperbaiki prompt karena konteks kurang jelas.
 
 Berikan informasi lengkap dari awal.
 
-## 2. Minta Output yang Terstruktur
+### 2. Minta Output yang Terstruktur
 
 Contoh:
 
@@ -737,7 +737,7 @@ Berikan checklist.
 Berikan langkah 1 sampai 5.
 ```
 
-## 3. Kerjakan Tugas Kecil
+### 3. Kerjakan Tugas Kecil
 
 Pecah pekerjaan besar menjadi bagian kecil.
 
@@ -750,13 +750,13 @@ baru bagian isi,
 baru bagian kesimpulan.
 ```
 
-## 4. Simpan Prompt yang Bagus
+### 4. Simpan Prompt yang Bagus
 
 Jika ada prompt yang sering dipakai, simpan di dokumen khusus.
 
 Ini menghemat waktu dan limit.
 
-## 5. Jangan Pakai untuk Hal yang Tidak Penting
+### 5. Jangan Pakai untuk Hal yang Tidak Penting
 
 Gunakan Claude untuk pekerjaan yang benar-benar butuh bantuan berpikir atau menulis.
 
@@ -766,7 +766,7 @@ Gunakan Claude untuk pekerjaan yang benar-benar butuh bantuan berpikir atau menu
 
 Jika sudah memakai Claude Pro, gunakan lebih strategis.
 
-## 1. Buat Workflow Rutin
+### 1. Buat Workflow Rutin
 
 Contoh workflow artikel:
 
@@ -781,7 +781,7 @@ riset topik
 → repurposing ke social media
 ```
 
-## 2. Gunakan untuk Proyek Jangka Panjang
+### 2. Gunakan untuk Proyek Jangka Panjang
 
 Pisahkan proyek seperti:
 
@@ -793,7 +793,7 @@ Pisahkan proyek seperti:
 - materi training,
 - content plan.
 
-## 3. Buat Prompt Library
+### 3. Buat Prompt Library
 
 Simpan prompt terbaik untuk:
 
@@ -806,7 +806,7 @@ Simpan prompt terbaik untuk:
 - customer service,
 - laporan.
 
-## 4. Gunakan Claude untuk Review
+### 4. Gunakan Claude untuk Review
 
 Jangan hanya meminta Claude membuat draft.
 
@@ -820,7 +820,7 @@ Minta juga Claude mengecek:
 - bagian yang terlalu umum,
 - bagian yang perlu data tambahan.
 
-## 5. Ukur Manfaatnya
+### 5. Ukur Manfaatnya
 
 Catat apakah Claude Pro benar-benar membantu.
 

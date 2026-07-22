@@ -4,7 +4,7 @@
 
 | Metrik | Jumlah |
 |---|---:|
-| Total file artikel | 222 |
+| Total file artikel | 221 |
 | Total issue | 0 |
 | Broken internal link | 0 |
 | Artikel < 800 kata | 0 |
@@ -14,7 +14,7 @@
 
 Catatan penting:
 
-Total file artikel adalah **222**, bukan 200. Ini kemungkinan karena ada artikel fondasi, artikel tambahan, atau artikel non-roadmap. Ini tidak masalah selama semua artikel valid, berkualitas, dan terhubung dengan struktur website.
+Total file artikel adalah **221**, bukan 200. Ini kemungkinan karena ada artikel fondasi, artikel tambahan, atau artikel non-roadmap. Ini tidak masalah selama semua artikel valid, berkualitas, dan terhubung dengan struktur website.
 
 ---
 
@@ -46,7 +46,7 @@ _Tidak ada data._
 | ai-untuk-bisnis |20 |0 |0 |0 |
 | ai-untuk-content-creator |12 |0 |0 |0 |
 | ai-untuk-pendidikan |7 |0 |0 |0 |
-| belajar-ai |22 |0 |0 |1 |
+| belajar-ai |21 |0 |0 |1 |
 | karier-ai |11 |0 |0 |0 |
 | prompt-engineering |24 |0 |0 |0 |
 | studi-kasus-ai |2 |0 |0 |0 |

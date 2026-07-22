@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ChatGPT untuk Sales: Cara Menggunakan AI untuk Meningkatkan Penjualan"
 description: "Pelajari cara menggunakan ChatGPT untuk sales, prospecting, follow up pelanggan, membuat skrip penjualan, dan meningkatkan produktivitas tim sales."
 pubDate: "2026-06-19"

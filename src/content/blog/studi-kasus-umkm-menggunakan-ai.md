@@ -235,6 +235,22 @@ Beberapa tugas yang sebelumnya membutuhkan jasa pihak ketiga dapat dilakukan sec
 
 Konten pemasaran menjadi lebih mudah diproduksi secara konsisten.
 
+## Cara Mengukur Dampak AI pada UMKM
+
+Penerapan AI sebaiknya dinilai dari perubahan yang benar-benar terjadi dalam proses bisnis. Pemilik UMKM tidak perlu memakai banyak tools sekaligus; yang lebih penting adalah mengetahui apakah AI menghemat waktu, menurunkan beban kerja, memperbaiki pelayanan, atau membantu penjualan.
+
+### Tetapkan Kondisi Awal
+
+Sebelum menggunakan AI, catat berapa lama tugas diselesaikan, berapa banyak pekerjaan yang tertunda, dan kendala apa yang paling sering muncul. Data sederhana ini menjadi pembanding setelah workflow baru diterapkan.
+
+### Pilih Indikator Sederhana
+
+Gunakan indikator yang sesuai dengan tujuan, misalnya waktu membuat konten, kecepatan membalas pelanggan, jumlah materi promosi yang selesai, tingkat revisi, atau jumlah tindak lanjut penjualan. Hindari menilai hasil hanya dari banyaknya output.
+
+### Uji pada Satu Proses
+
+Mulailah dari satu pekerjaan berulang selama periode uji yang jelas. Tinjau kualitas hasil, waktu yang dihemat, biaya yang dikeluarkan, dan respons pelanggan. Jika manfaatnya konsisten, barulah penggunaan AI diperluas ke proses bisnis lain.
+
 ## Apakah AI Bisa Menggantikan Pemilik UMKM?
 
 Tidak.
