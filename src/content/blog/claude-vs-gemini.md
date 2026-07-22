@@ -91,7 +91,7 @@ Untuk memahami Gemini secara lebih lengkap, baca juga:
 
 Walaupun berasal dari perusahaan yang berbeda, Claude dan Gemini memiliki sejumlah kesamaan.
 
-## Sama-sama Menggunakan Large Language Model
+### Sama-sama Menggunakan Large Language Model
 
 Claude maupun Gemini dibangun menggunakan teknologi Large Language Model (LLM).
 
@@ -101,7 +101,7 @@ Pengguna cukup mengetik prompt menggunakan bahasa sehari-hari tanpa perlu memaha
 
 ---
 
-## Sama-sama Mendukung Produktivitas
+### Sama-sama Mendukung Produktivitas
 
 Baik Claude maupun Gemini dapat membantu berbagai aktivitas, seperti:
 
@@ -118,7 +118,7 @@ Kemampuan tersebut membuat keduanya cocok digunakan oleh pelajar, mahasiswa, pro
 
 ---
 
-## Sama-sama Menggunakan Prompt
+### Sama-sama Menggunakan Prompt
 
 Interaksi dengan Claude dan Gemini dilakukan melalui prompt.
 
@@ -141,7 +141,7 @@ Pelajari lebih lanjut pada artikel:
 
 Salah satu hal yang membedakan Claude dan Gemini adalah fokus pengembangannya.
 
-## Claude
+### Claude
 
 Anthropic mengembangkan Claude dengan penekanan pada:
 
@@ -155,7 +155,7 @@ Pendekatan ini membuat Claude sering dipilih oleh pengguna yang membutuhkan hasi
 
 ---
 
-## Gemini
+### Gemini
 
 Google mengembangkan Gemini sebagai AI yang terhubung erat dengan ekosistem produknya.
 
@@ -208,7 +208,7 @@ Kualitas jawaban menjadi faktor utama ketika memilih AI chatbot.
 
 Baik Claude maupun Gemini mampu memberikan jawaban yang cepat dan informatif, tetapi karakter hasilnya memiliki perbedaan.
 
-## Claude
+### Claude
 
 Claude dikenal menghasilkan jawaban yang:
 
@@ -222,7 +222,7 @@ Saat diminta menjelaskan konsep yang rumit, Claude sering menyusunnya menjadi be
 
 Claude juga cukup baik dalam mempertahankan konteks pada percakapan yang panjang.
 
-## Gemini
+### Gemini
 
 Gemini menghasilkan jawaban yang ringkas dan langsung menuju inti pembahasan.
 
@@ -242,7 +242,7 @@ Sebaliknya, jika Anda membutuhkan jawaban yang cepat dan terhubung dengan ekosis
 
 Kemampuan menulis merupakan salah satu penggunaan AI yang paling populer.
 
-## Claude
+### Claude
 
 Claude sangat sering digunakan untuk membuat:
 
@@ -257,7 +257,7 @@ Karakter tulisannya terasa natural sehingga sering membutuhkan proses penyunting
 
 Claude juga mampu mengikuti gaya penulisan yang diminta melalui prompt secara konsisten.
 
-## Gemini
+### Gemini
 
 Gemini juga mampu menghasilkan berbagai jenis tulisan, seperti:
 
@@ -282,7 +282,7 @@ Namun untuk kebutuhan sehari-hari, Gemini juga mampu menghasilkan tulisan berkua
 
 Selain membantu menulis, AI chatbot kini menjadi alat bantu penting bagi programmer.
 
-## Claude
+### Claude
 
 Claude mampu membantu developer dalam berbagai aktivitas, antara lain:
 
@@ -295,7 +295,7 @@ Claude mampu membantu developer dalam berbagai aktivitas, antara lain:
 
 Claude juga cukup nyaman digunakan ketika harus membaca potongan kode yang panjang.
 
-## Gemini
+### Gemini
 
 Gemini juga memiliki kemampuan coding yang baik.
 
@@ -321,7 +321,7 @@ Pilihan terbaik biasanya bergantung pada preferensi pengguna serta lingkungan ke
 
 Analisis dokumen merupakan salah satu area yang sering menjadi alasan memilih AI tertentu.
 
-## Claude
+### Claude
 
 Claude memiliki reputasi yang sangat baik dalam menangani dokumen panjang.
 
@@ -336,7 +336,7 @@ Misalnya:
 
 AI dapat membantu merangkum isi dokumen, menjelaskan bagian tertentu, maupun menemukan informasi penting dengan cepat.
 
-## Gemini
+### Gemini
 
 Gemini juga mampu membantu memahami dokumen secara efektif.
 
@@ -355,7 +355,7 @@ Kemampuan ini semakin praktis ketika dokumen berada di layanan Google seperti Go
 
 Salah satu perbedaan terbesar antara Claude dan Gemini terletak pada ekosistemnya.
 
-## Claude
+### Claude
 
 Claude lebih berfokus pada kualitas AI chatbot.
 
@@ -363,7 +363,7 @@ Walaupun terus berkembang, integrasinya dengan layanan lain masih relatif terbat
 
 Bagi banyak pengguna, hal ini bukan masalah apabila kebutuhan utamanya adalah menulis dan menganalisis dokumen.
 
-## Gemini
+### Gemini
 
 Gemini memiliki keunggulan besar karena menjadi bagian dari ekosistem Google.
 
@@ -407,13 +407,13 @@ Perlu diingat bahwa harga, batas penggunaan, maupun fitur setiap paket dapat ber
 
 ---
 
-## Claude Gratis vs Gemini Gratis
+### Claude Gratis vs Gemini Gratis
 
 Versi gratis merupakan pilihan yang tepat bagi pengguna yang baru mulai memanfaatkan AI.
 
 Namun, terdapat beberapa perbedaan pengalaman penggunaan.
 
-## Claude Gratis
+### Claude Gratis
 
 Claude versi gratis sudah mampu membantu berbagai pekerjaan, seperti:
 
@@ -426,7 +426,7 @@ Claude versi gratis sudah mampu membantu berbagai pekerjaan, seperti:
 
 Versi ini cocok bagi pengguna yang ingin merasakan kualitas penulisan Claude sebelum mempertimbangkan paket berbayar.
 
-## Gemini Gratis
+### Gemini Gratis
 
 Gemini juga menawarkan versi gratis yang dapat digunakan untuk berbagai aktivitas sehari-hari.
 
@@ -443,11 +443,11 @@ Bagi pengguna yang sudah menggunakan akun Google setiap hari, Gemini terasa prak
 
 ---
 
-## Claude Pro vs Gemini Advanced
+### Claude Pro vs Gemini Advanced
 
 Bagi profesional, paket berbayar dapat memberikan pengalaman yang lebih nyaman.
 
-## Claude Pro
+### Claude Pro
 
 Claude Pro ditujukan bagi pengguna yang sering bekerja dengan dokumen dan tulisan.
 
@@ -462,7 +462,7 @@ Jika ingin mengetahui detail paketnya, baca artikel:
 
 - [Claude Pro vs Gratis](/blog/claude-pro-vs-gratis/)
 
-## Gemini Advanced
+### Gemini Advanced
 
 Gemini Advanced merupakan paket premium dari Google.
 
@@ -481,7 +481,7 @@ Bagi perusahaan yang telah menggunakan berbagai layanan Google, Gemini Advanced 
 
 Claude memiliki sejumlah keunggulan yang membuatnya banyak dipilih oleh profesional.
 
-## Tulisan Sangat Natural
+### Tulisan Sangat Natural
 
 Salah satu kekuatan terbesar Claude adalah kualitas hasil tulisannya.
 
@@ -491,7 +491,7 @@ Hal ini mengurangi waktu yang dibutuhkan untuk melakukan penyuntingan.
 
 ---
 
-## Sangat Baik untuk Analisis Dokumen
+### Sangat Baik untuk Analisis Dokumen
 
 Claude mampu membaca dan memahami dokumen panjang secara efektif.
 
@@ -506,7 +506,7 @@ Kemampuan ini sangat berguna bagi:
 
 ---
 
-## Reasoning yang Kuat
+### Reasoning yang Kuat
 
 Claude dikenal memiliki kemampuan penalaran yang baik.
 
@@ -518,7 +518,7 @@ AI mampu mengikuti instruksi bertahap serta menjelaskan proses berpikir secara l
 
 Walaupun sangat kuat dalam penulisan dan analisis, Claude tetap memiliki beberapa keterbatasan.
 
-## Integrasi Ekosistem Lebih Sedikit
+### Integrasi Ekosistem Lebih Sedikit
 
 Claude belum memiliki integrasi seluas layanan Google.
 
@@ -528,7 +528,7 @@ Namun bagi perusahaan yang sudah menggunakan Google Workspace, Gemini sering ter
 
 ---
 
-## Fitur Pendukung Tidak Sebanyak Gemini
+### Fitur Pendukung Tidak Sebanyak Gemini
 
 Gemini menawarkan lebih banyak integrasi dengan aplikasi produktivitas.
 
@@ -540,7 +540,7 @@ Claude lebih berfokus pada kualitas AI chatbot dibandingkan membangun ekosistem 
 
 Gemini memiliki beberapa keunggulan yang membuatnya sangat menarik.
 
-## Terintegrasi dengan Google Workspace
+### Terintegrasi dengan Google Workspace
 
 Ini merupakan salah satu keunggulan terbesar Gemini.
 
@@ -558,7 +558,7 @@ Bagi banyak pengguna, integrasi tersebut mampu meningkatkan produktivitas secara
 
 ---
 
-## Mudah Digunakan
+### Mudah Digunakan
 
 Gemini dirancang agar mudah digunakan bahkan oleh pemula.
 
@@ -566,7 +566,7 @@ Pengguna cukup mengetik pertanyaan menggunakan bahasa sehari-hari tanpa perlu me
 
 ---
 
-## Sangat Cocok bagi Pengguna Ekosistem Google
+### Sangat Cocok bagi Pengguna Ekosistem Google
 
 Jika hampir seluruh aktivitas kerja Anda dilakukan menggunakan layanan Google, Gemini menjadi pilihan yang sangat logis.
 
@@ -578,7 +578,7 @@ Seluruh proses kerja dapat berlangsung lebih efisien tanpa harus berpindah-pinda
 
 Walaupun memiliki banyak kelebihan, Gemini juga memiliki beberapa keterbatasan.
 
-## Kualitas Tulisan Terkadang Perlu Penyuntingan
+### Kualitas Tulisan Terkadang Perlu Penyuntingan
 
 Pada beberapa jenis artikel panjang, hasil tulisan Gemini masih sering memerlukan revisi agar alurnya lebih natural.
 
@@ -586,7 +586,7 @@ Hal ini terutama terlihat pada konten yang membutuhkan gaya penulisan panjang da
 
 ---
 
-## Sangat Bergantung pada Ekosistem Google
+### Sangat Bergantung pada Ekosistem Google
 
 Integrasi yang luas menjadi keunggulan Gemini.
 
@@ -600,7 +600,7 @@ Tidak ada AI chatbot yang paling baik untuk semua orang.
 
 Pilihan terbaik bergantung pada kebutuhan masing-masing.
 
-## Pilih Claude Jika Anda:
+### Pilih Claude Jika Anda:
 
 - sering menulis artikel,
 - membuat laporan,
@@ -610,7 +610,7 @@ Pilihan terbaik bergantung pada kebutuhan masing-masing.
 
 ---
 
-## Pilih Gemini Jika Anda:
+### Pilih Gemini Jika Anda:
 
 - menggunakan Gmail setiap hari,
 - bekerja di Google Workspace,
@@ -620,7 +620,7 @@ Pilihan terbaik bergantung pada kebutuhan masing-masing.
 
 ---
 
-## Gunakan Keduanya Jika Memungkinkan
+### Gunakan Keduanya Jika Memungkinkan
 
 Banyak profesional tidak hanya menggunakan satu AI chatbot.
 
@@ -651,27 +651,27 @@ Karena keduanya menyediakan versi gratis, Anda dapat mencoba langsung sebelum me
 
 ## FAQ
 
-## Mana yang lebih baik, Claude atau Gemini?
+### Mana yang lebih baik, Claude atau Gemini?
 
 Tidak ada jawaban yang mutlak. Claude unggul dalam penulisan, reasoning, dan analisis dokumen, sedangkan Gemini unggul dalam integrasi dengan ekosistem Google.
 
-## Apakah Claude lebih akurat daripada Gemini?
+### Apakah Claude lebih akurat daripada Gemini?
 
 Keduanya mampu menghasilkan jawaban yang akurat untuk banyak topik. Namun, tetap lakukan verifikasi apabila menggunakan AI untuk informasi penting atau pengambilan keputusan.
 
-## Mana yang lebih cocok untuk membuat artikel?
+### Mana yang lebih cocok untuk membuat artikel?
 
 Claude sering dipilih karena mampu menghasilkan tulisan yang lebih natural dan terstruktur. Namun Gemini juga dapat membuat artikel berkualitas jika diberikan prompt yang jelas.
 
-## Mana yang lebih baik untuk coding?
+### Mana yang lebih baik untuk coding?
 
 Baik Claude maupun Gemini memiliki kemampuan coding yang sangat baik. Pilihan terbaik bergantung pada bahasa pemrograman, workflow, dan preferensi masing-masing developer.
 
-## Apakah Gemini hanya cocok untuk pengguna Google?
+### Apakah Gemini hanya cocok untuk pengguna Google?
 
 Tidak. Gemini dapat digunakan oleh siapa saja. Namun, manfaatnya akan terasa lebih besar bagi pengguna yang aktif menggunakan layanan Google seperti Gmail, Google Docs, dan Google Drive.
 
-## Apakah saya perlu menggunakan Claude dan Gemini sekaligus?
+### Apakah saya perlu menggunakan Claude dan Gemini sekaligus?
 
 Tidak harus. Namun banyak profesional menggunakan lebih dari satu AI chatbot agar dapat memanfaatkan keunggulan masing-masing sesuai jenis pekerjaan.
 
