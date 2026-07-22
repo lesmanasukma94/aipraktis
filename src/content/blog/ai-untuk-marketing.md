@@ -1076,7 +1076,7 @@ Format:
 - solution section
 - benefit
 - how it works
-- testimonial placeholder
+- testimonial pelanggan yang telah diverifikasi
 - FAQ
 - CTA
 ```

@@ -1,6 +1,6 @@
 ---
 title: "AI untuk Bisnis"
-description: "Pelajari AI untuk Bisnis dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
+description: "Panduan dasar AI untuk bisnis: pahami manfaat, contoh penggunaan, tools yang relevan, tantangan, dan langkah awal menerapkannya."
 pubDate: "2026-06-13"
 author: "AI Praktis Indonesia"
 category: "ai-untuk-bisnis"
