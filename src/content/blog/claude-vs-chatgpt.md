@@ -98,7 +98,7 @@ Pelajari lebih lanjut pada artikel:
 
 Sebelum membahas perbedaannya, penting untuk memahami bahwa kedua AI ini memiliki banyak kesamaan.
 
-## Sama-sama Menggunakan Large Language Model
+### Sama-sama Menggunakan Large Language Model
 
 Claude maupun ChatGPT menggunakan teknologi Large Language Model (LLM).
 
@@ -108,7 +108,7 @@ Karena menggunakan pendekatan yang serupa, pengalaman menggunakan keduanya juga 
 
 ---
 
-## Sama-sama Menggunakan Prompt
+### Sama-sama Menggunakan Prompt
 
 Baik Claude maupun ChatGPT bekerja berdasarkan prompt.
 
@@ -127,7 +127,7 @@ Untuk mempelajari teknik membuat prompt yang efektif, baca juga:
 
 ---
 
-## Sama-sama Membantu Meningkatkan Produktivitas
+### Sama-sama Membantu Meningkatkan Produktivitas
 
 Baik Claude maupun ChatGPT mampu membantu menyelesaikan berbagai pekerjaan, seperti:
 
@@ -145,7 +145,7 @@ Karena itu, keduanya banyak digunakan oleh profesional maupun pelajar.
 
 ---
 
-## Sama-sama Terus Berkembang
+### Sama-sama Terus Berkembang
 
 Perkembangan AI berlangsung sangat cepat.
 
@@ -159,7 +159,7 @@ Akibatnya, hasil perbandingan antara Claude dan ChatGPT dapat berubah seiring ha
 
 Walaupun sama-sama chatbot AI, Anthropic dan OpenAI memiliki pendekatan pengembangan yang sedikit berbeda.
 
-## Claude
+### Claude
 
 Anthropic menempatkan fokus besar pada:
 
@@ -173,7 +173,7 @@ Claude sering dipilih ketika pengguna membutuhkan jawaban yang terstruktur, rapi
 
 ---
 
-## ChatGPT
+### ChatGPT
 
 OpenAI mengembangkan ChatGPT sebagai AI yang sangat serbaguna.
 
@@ -233,7 +233,7 @@ Salah satu alasan utama orang menggunakan AI chatbot adalah untuk memperoleh jaw
 
 Bagaimana perbandingan keduanya?
 
-## Claude
+### Claude
 
 Claude dikenal menghasilkan jawaban yang:
 
@@ -247,7 +247,7 @@ Ketika diminta membuat artikel atau laporan, Claude biasanya menghasilkan tulisa
 
 Claude juga cukup baik dalam mempertahankan konteks pada percakapan yang panjang.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT juga menghasilkan jawaban yang sangat berkualitas.
 
@@ -289,7 +289,7 @@ Baik Claude maupun ChatGPT mampu membantu membuat:
 - caption media sosial,
 - hingga dokumentasi.
 
-## Claude
+### Claude
 
 Claude memiliki gaya penulisan yang cenderung:
 
@@ -301,7 +301,7 @@ Claude memiliki gaya penulisan yang cenderung:
 
 Banyak pengguna memanfaatkan Claude untuk membuat draft artikel panjang karena hasilnya sering kali terasa lebih menyerupai tulisan manusia.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT unggul dalam fleksibilitas.
 
@@ -330,7 +330,7 @@ Namun dalam praktik sehari-hari, perbedaannya tidak selalu besar. Dengan prompt 
 
 Selain menulis, AI kini banyak digunakan oleh programmer.
 
-## Claude
+### Claude
 
 Claude mampu membantu:
 
@@ -342,7 +342,7 @@ Claude mampu membantu:
 
 Claude juga cukup baik ketika diminta menganalisis potongan kode yang panjang.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT juga sangat populer di kalangan developer.
 
@@ -369,7 +369,7 @@ Pilihan biasanya bergantung pada preferensi pengguna dan alur kerja yang digunak
 
 Analisis dokumen merupakan salah satu area yang paling sering dibandingkan.
 
-## Claude
+### Claude
 
 Claude dikenal mampu menangani dokumen panjang dengan sangat baik.
 
@@ -384,7 +384,7 @@ Misalnya:
 
 AI dapat membantu membuat ringkasan, menemukan poin penting, serta menjelaskan isi dokumen dengan bahasa yang lebih sederhana.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT juga mampu melakukan analisis dokumen secara efektif.
 
@@ -408,7 +408,7 @@ Namun bagi sebagian besar pengguna umum, kemampuan ChatGPT juga sudah lebih dari
 
 Bagi pengguna di Indonesia, kualitas pemahaman Bahasa Indonesia menjadi faktor yang penting.
 
-## Claude
+### Claude
 
 Claude mampu memahami Bahasa Indonesia dengan baik.
 
@@ -419,7 +419,7 @@ Jawaban yang dihasilkan umumnya:
 - memiliki tata bahasa yang baik,
 - dan jarang menggunakan terjemahan yang terasa kaku.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT juga memiliki kemampuan Bahasa Indonesia yang sangat baik.
 
@@ -546,7 +546,7 @@ Jika ingin mengetahui perbedaannya dengan versi gratis, baca juga:
 
 Claude memiliki beberapa keunggulan yang membuatnya menjadi pilihan banyak profesional.
 
-## Tulisan Lebih Natural
+### Tulisan Lebih Natural
 
 Claude sering menghasilkan tulisan yang terasa mengalir dan mudah dibaca.
 
@@ -558,7 +558,7 @@ Hal ini membuatnya populer di kalangan:
 - copywriter,
 - konsultan.
 
-## Sangat Baik untuk Analisis Dokumen
+### Sangat Baik untuk Analisis Dokumen
 
 Claude mampu membantu membaca dan menganalisis dokumen yang panjang secara efektif.
 
@@ -570,7 +570,7 @@ Kemampuan ini sangat membantu ketika bekerja dengan:
 - kontrak,
 - dokumentasi proyek.
 
-## Konsisten Mengikuti Instruksi
+### Konsisten Mengikuti Instruksi
 
 Claude dikenal cukup baik dalam mengikuti instruksi yang kompleks.
 
@@ -582,11 +582,11 @@ Jika prompt disusun secara rinci, hasil yang diberikan biasanya tetap konsisten 
 
 Di balik berbagai kelebihannya, Claude juga memiliki beberapa keterbatasan.
 
-## Ekosistem Tidak Sebesar ChatGPT
+### Ekosistem Tidak Sebesar ChatGPT
 
 Walaupun terus berkembang, layanan pendukung Claude masih belum seluas ekosistem yang dimiliki ChatGPT.
 
-## Fitur Tambahan Lebih Terbatas
+### Fitur Tambahan Lebih Terbatas
 
 Claude lebih berfokus pada kemampuan AI chatbot dan penalaran.
 
@@ -598,7 +598,7 @@ Sebaliknya, ChatGPT menawarkan lebih banyak fitur tambahan dalam satu platform.
 
 ChatGPT menjadi salah satu AI chatbot paling populer karena memiliki berbagai keunggulan.
 
-## Sangat Fleksibel
+### Sangat Fleksibel
 
 ChatGPT mampu membantu berbagai jenis pekerjaan, mulai dari:
 
@@ -610,13 +610,13 @@ ChatGPT mampu membantu berbagai jenis pekerjaan, mulai dari:
 - bisnis,
 - hingga pembuatan konten.
 
-## Ekosistem Sangat Lengkap
+### Ekosistem Sangat Lengkap
 
 OpenAI terus mengembangkan ChatGPT menjadi platform AI yang mendukung banyak kebutuhan pengguna.
 
 Bagi banyak profesional, hal ini membuat ChatGPT dapat menjadi pusat berbagai aktivitas berbasis AI.
 
-## Komunitas Pengguna Sangat Besar
+### Komunitas Pengguna Sangat Besar
 
 Karena jumlah penggunanya sangat banyak, tersedia pula berbagai:
 
@@ -635,13 +635,13 @@ Hal ini memudahkan pemula ketika mulai belajar menggunakan ChatGPT.
 
 Walaupun sangat populer, ChatGPT juga memiliki beberapa kekurangan.
 
-## Jawaban Tetap Perlu Diverifikasi
+### Jawaban Tetap Perlu Diverifikasi
 
 Seperti AI lainnya, ChatGPT dapat menghasilkan informasi yang kurang akurat.
 
 Karena itu, pengguna tetap perlu melakukan pengecekan terhadap data penting.
 
-## Kualitas Sangat Dipengaruhi Prompt
+### Kualitas Sangat Dipengaruhi Prompt
 
 Prompt yang kurang jelas sering menghasilkan jawaban yang terlalu umum.
 
@@ -655,7 +655,7 @@ Tidak ada AI chatbot yang paling baik untuk semua orang.
 
 Berikut rekomendasi berdasarkan kebutuhan.
 
-## Pilih Claude Jika Anda:
+### Pilih Claude Jika Anda:
 
 - sering menulis artikel panjang,
 - bekerja dengan dokumen,
@@ -663,7 +663,7 @@ Berikut rekomendasi berdasarkan kebutuhan.
 - melakukan analisis,
 - mengutamakan kualitas tulisan.
 
-## Pilih ChatGPT Jika Anda:
+### Pilih ChatGPT Jika Anda:
 
 - membutuhkan AI serbaguna,
 - sering berganti jenis pekerjaan,
@@ -671,7 +671,7 @@ Berikut rekomendasi berdasarkan kebutuhan.
 - membutuhkan bantuan coding,
 - ingin memanfaatkan ekosistem AI yang lebih luas.
 
-## Gunakan Keduanya Jika Memungkinkan
+### Gunakan Keduanya Jika Memungkinkan
 
 Banyak profesional justru menggunakan Claude dan ChatGPT secara bersamaan.
 
@@ -720,27 +720,27 @@ Jika memungkinkan, mencoba keduanya merupakan cara terbaik untuk mengetahui AI m
 
 ## FAQ
 
-## Mana yang lebih baik, Claude atau ChatGPT?
+### Mana yang lebih baik, Claude atau ChatGPT?
 
 Tidak ada jawaban yang berlaku untuk semua orang. Claude unggul dalam penulisan dan analisis dokumen, sedangkan ChatGPT menawarkan ekosistem fitur yang lebih luas dan fleksibel.
 
-## Apakah Claude lebih pintar daripada ChatGPT?
+### Apakah Claude lebih pintar daripada ChatGPT?
 
 Keduanya memiliki kemampuan yang sangat tinggi. Pada beberapa jenis tugas, Claude dapat memberikan hasil yang lebih baik, sementara pada tugas lain ChatGPT bisa lebih unggul.
 
-## Apakah Claude dan ChatGPT tersedia secara gratis?
+### Apakah Claude dan ChatGPT tersedia secara gratis?
 
 Ya. Keduanya menyediakan versi gratis dengan batas penggunaan tertentu. Untuk fitur yang lebih lengkap tersedia paket berlangganan.
 
-## Mana yang lebih cocok untuk menulis artikel?
+### Mana yang lebih cocok untuk menulis artikel?
 
 Claude sering dipilih karena menghasilkan tulisan yang natural dan terstruktur. Namun, dengan prompt yang baik, ChatGPT juga mampu menghasilkan artikel berkualitas tinggi.
 
-## Mana yang lebih baik untuk coding?
+### Mana yang lebih baik untuk coding?
 
 Baik Claude maupun ChatGPT memiliki kemampuan coding yang sangat baik. Pilihan terbaik bergantung pada kebutuhan dan preferensi masing-masing developer.
 
-## Apakah saya perlu menggunakan keduanya?
+### Apakah saya perlu menggunakan keduanya?
 
 Tidak harus. Namun, banyak profesional menggunakan Claude dan ChatGPT secara bersamaan agar dapat memanfaatkan keunggulan masing-masing.
 
