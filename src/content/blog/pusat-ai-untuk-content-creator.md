@@ -211,7 +211,7 @@ AI dapat membantu:
 
 Pelajari:
 
-* [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 
 Bagi freelancer, AI dapat menjadi keunggulan kompetitif yang signifikan.
 

@@ -1,33 +1,40 @@
 {
-  "$schema": "https://openapi.vercel.sh/vercel.json",
-  "routes": [
-    {
-      "src": "/tools-ai/?$",
-      "headers": {
-        "Location": "/ai-tools/"
-      },
-      "status": 308
-    },
-    {
-      "src": "/kategori/(belajar-ai|ai-chatbot|prompt-engineering|ai-tools|tutorial-ai|ai-untuk-bisnis|ai-untuk-pendidikan|ai-untuk-content-creator|karier-ai|studi-kasus-ai)/?$",
-      "headers": {
-        "Location": "/$1/"
-      },
-      "status": 308
-    },
-    {
-      "src": "/blog/category/(belajar-ai|ai-chatbot|prompt-engineering|ai-tools|tutorial-ai|ai-untuk-bisnis|ai-untuk-pendidikan|ai-untuk-content-creator|karier-ai|studi-kasus-ai)/?$",
-      "headers": {
-        "Location": "/$1/"
-      },
-      "status": 308
-    },
-    {
-      "src": "/blog/apa-itu-artificial-intelligence-ai/?$",
-      "headers": {
-        "Location": "/blog/apa-itu-ai/"
-      },
-      "status": 308
-    }
-  ]
+    "$schema":  "https://openapi.vercel.sh/vercel.json",
+    "routes":  [
+                   {
+                       "src":  "/blog/freelance-menggunakan-ai/?$",
+                       "headers":  {
+                                       "Location":  "/blog/cara-menjadi-freelancer-ai/"
+                                   },
+                       "status":  308
+                   },
+                   {
+                       "src":  "/tools-ai/?$",
+                       "headers":  {
+                                       "Location":  "/ai-tools/"
+                                   },
+                       "status":  308
+                   },
+                   {
+                       "src":  "/kategori/(belajar-ai|ai-chatbot|prompt-engineering|ai-tools|tutorial-ai|ai-untuk-bisnis|ai-untuk-pendidikan|ai-untuk-content-creator|karier-ai|studi-kasus-ai)/?$",
+                       "headers":  {
+                                       "Location":  "/$1/"
+                                   },
+                       "status":  308
+                   },
+                   {
+                       "src":  "/blog/category/(belajar-ai|ai-chatbot|prompt-engineering|ai-tools|tutorial-ai|ai-untuk-bisnis|ai-untuk-pendidikan|ai-untuk-content-creator|karier-ai|studi-kasus-ai)/?$",
+                       "headers":  {
+                                       "Location":  "/$1/"
+                                   },
+                       "status":  308
+                   },
+                   {
+                       "src":  "/blog/apa-itu-artificial-intelligence-ai/?$",
+                       "headers":  {
+                                       "Location":  "/blog/apa-itu-ai/"
+                                   },
+                       "status":  308
+                   }
+               ]
 }

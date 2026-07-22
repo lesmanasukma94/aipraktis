@@ -160,7 +160,7 @@ AI dapat membantu freelancer:
 
 Pelajari:
 
-* [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 * [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 * [15 Tools AI untuk Freelancer Terbaik](/blog/tools-ai-untuk-freelancer/)
 

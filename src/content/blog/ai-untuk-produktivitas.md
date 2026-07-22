@@ -233,7 +233,7 @@ Hindari memasukkan informasi rahasia atau data penting perusahaan.
 * [AI untuk Personal Assistant](/blog/ai-untuk-personal-assistant/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
-* [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 
 ## Jelajahi Panduan AI Lainnya
 

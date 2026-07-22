@@ -975,7 +975,7 @@ Periksa halaman resmi karena produk dapat berubah:
 ## Artikel Terkait
 
 - [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
-- [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+- [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [Cara Menghasilkan Uang dengan ChatGPT](/blog/cara-menghasilkan-uang-dengan-chatgpt/)
@@ -983,7 +983,7 @@ Periksa halaman resmi karena produk dapat berubah:
 - [Ide Bisnis AI yang Menghasilkan Uang](/blog/ide-bisnis-ai-yang-menghasilkan-uang/)
 - [Tools AI untuk Bisnis](/blog/tools-ai-untuk-bisnis/)
 - [Tools AI untuk Content Creator](/blog/tools-ai-untuk-content-creator/)
-- [Tools AI untuk Menulis](/blog/tools-ai-untuk-menulis/)
+- [Tools AI untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [Tools AI untuk Coding](/blog/tools-ai-untuk-coding/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 - [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)

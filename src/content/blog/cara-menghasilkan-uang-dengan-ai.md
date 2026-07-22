@@ -304,7 +304,7 @@ Sangat besar. Saat ini banyak bisnis dan individu baru mulai memanfaatkan AI.
 
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
-* [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
 * [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
 * [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)

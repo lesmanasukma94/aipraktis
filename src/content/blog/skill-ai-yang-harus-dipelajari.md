@@ -310,7 +310,7 @@ Untuk memahami bagaimana skill AI diterapkan ke dunia kerja, baca [Karier AI unt
 
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
-* [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+* [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)

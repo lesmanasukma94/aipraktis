@@ -29,7 +29,7 @@ Artikel ini berfungsi sebagai **panduan pilar AI untuk freelancer**. Fokusnya bu
 Untuk kebutuhan yang lebih khusus, lanjutkan ke:
 
 - [Tools AI untuk Freelancer](/blog/tools-ai-untuk-freelancer/) untuk memilih aplikasi berdasarkan profesi dan workflow.
-- [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/) untuk pembahasan model layanan dan cara kerja freelance berbantuan AI.
+- [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/) untuk pembahasan model layanan dan cara kerja freelance berbantuan AI.
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/) untuk membangun jalur karier yang lebih spesifik.
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/) untuk memahami pilihan monetisasi tanpa mengandalkan janji hasil instan.
 
@@ -809,7 +809,7 @@ Fitur, paket, batas penggunaan, dan kebijakan dapat berubah. Periksa sumber resm
 ## Artikel Terkait
 
 - [Tools AI untuk Freelancer](/blog/tools-ai-untuk-freelancer/)
-- [Freelance Menggunakan AI](/blog/freelance-menggunakan-ai/)
+- [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
