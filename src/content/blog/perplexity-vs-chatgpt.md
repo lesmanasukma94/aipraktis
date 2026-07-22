@@ -94,7 +94,7 @@ Jika Anda baru mulai menggunakan ChatGPT, baca juga:
 
 Walaupun memiliki fokus yang berbeda, keduanya memiliki banyak kesamaan.
 
-## Sama-sama Menggunakan AI Generatif
+### Sama-sama Menggunakan AI Generatif
 
 Perplexity maupun ChatGPT memanfaatkan teknologi Large Language Model (LLM) untuk memahami pertanyaan pengguna dan menghasilkan jawaban menggunakan bahasa alami.
 
@@ -102,7 +102,7 @@ Pengguna tidak perlu menggunakan bahasa teknis maupun memahami pemrograman untuk
 
 ---
 
-## Sama-sama Menggunakan Prompt
+### Sama-sama Menggunakan Prompt
 
 Kedua AI bekerja berdasarkan prompt atau instruksi yang diberikan pengguna.
 
@@ -119,7 +119,7 @@ Untuk mempelajari teknik membuat prompt yang efektif, baca artikel berikut:
 
 ---
 
-## Sama-sama Membantu Produktivitas
+### Sama-sama Membantu Produktivitas
 
 Perplexity dan ChatGPT dapat membantu berbagai pekerjaan seperti:
 
@@ -139,7 +139,7 @@ Keduanya dapat menghemat waktu dalam mencari informasi maupun menyelesaikan peke
 
 Walaupun sama-sama memanfaatkan AI, tujuan pengembangan kedua platform ini cukup berbeda.
 
-## Perplexity AI
+### Perplexity AI
 
 Perplexity dirancang sebagai mesin pencari berbasis AI.
 
@@ -155,7 +155,7 @@ Karena itu, Perplexity sering menjadi pilihan bagi mahasiswa, peneliti, jurnalis
 
 ---
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT dikembangkan sebagai AI chatbot serbaguna.
 
@@ -216,7 +216,7 @@ Berikut ringkasan perbandingan Perplexity AI dan ChatGPT berdasarkan aspek-aspek
 
 Kedua AI mampu menghasilkan jawaban yang berkualitas, tetapi pendekatan yang digunakan cukup berbeda.
 
-## Perplexity AI
+### Perplexity AI
 
 Perplexity lebih berorientasi pada penyajian informasi yang didukung sumber.
 
@@ -236,7 +236,7 @@ Karena itu, Perplexity sering digunakan untuk:
 - membandingkan berbagai sumber,
 - mencari data terbaru.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT menghasilkan jawaban yang lebih bersifat percakapan.
 
@@ -262,7 +262,7 @@ Namun jika Anda membutuhkan penjelasan yang lebih mendalam dan interaktif, ChatG
 
 Akurasi menjadi salah satu faktor terpenting ketika menggunakan AI.
 
-## Perplexity AI
+### Perplexity AI
 
 Salah satu keunggulan utama Perplexity adalah penyertaan referensi pada sebagian besar jawaban.
 
@@ -275,7 +275,7 @@ Dengan adanya sumber, pengguna dapat:
 
 Fitur ini sangat membantu dalam proses belajar maupun penelitian.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT juga mampu memberikan jawaban yang akurat.
 
@@ -295,7 +295,7 @@ Dalam hal transparansi sumber informasi, Perplexity memiliki keunggulan yang jel
 
 Banyak pengguna menggunakan AI untuk membantu membuat konten.
 
-## Perplexity AI
+### Perplexity AI
 
 Perplexity mampu membantu membuat:
 
@@ -309,7 +309,7 @@ Namun fokus utamanya bukan sebagai AI untuk menghasilkan tulisan panjang.
 
 Karena itu, hasil yang diberikan sering kali masih perlu dikembangkan lebih lanjut.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT merupakan salah satu AI terbaik untuk membantu penulisan.
 
@@ -336,7 +336,7 @@ Untuk pekerjaan yang berfokus pada pembuatan konten, ChatGPT memiliki keunggulan
 
 Selain menulis, AI juga banyak digunakan untuk membantu pemrograman.
 
-## Perplexity AI
+### Perplexity AI
 
 Perplexity dapat membantu:
 
@@ -347,7 +347,7 @@ Perplexity dapat membantu:
 
 Karena mampu mencari informasi dari internet, Perplexity cukup membantu ketika developer membutuhkan dokumentasi atau referensi terbaru.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT menawarkan kemampuan coding yang lebih luas.
 
@@ -372,13 +372,13 @@ Jika kebutuhan utama Anda adalah coding, ChatGPT masih lebih unggul karena lebih
 
 Kemampuan memahami dokumen menjadi faktor penting bagi banyak profesional.
 
-## Perplexity AI
+### Perplexity AI
 
 Perplexity mampu membantu memahami isi artikel, jurnal, maupun halaman web dengan cepat.
 
 AI dapat membuat ringkasan dan menyusun poin-poin utama sehingga pengguna lebih mudah memahami suatu topik.
 
-## ChatGPT
+### ChatGPT
 
 ChatGPT memiliki kemampuan analisis dokumen yang lebih luas.
 
@@ -414,13 +414,13 @@ Perlu diketahui bahwa harga, kuota penggunaan, dan fitur paket dapat berubah sew
 
 ---
 
-## Perplexity Gratis vs ChatGPT Gratis
+### Perplexity Gratis vs ChatGPT Gratis
 
 Versi gratis menjadi pilihan terbaik bagi pengguna yang baru mulai mencoba AI.
 
 Namun, pengalaman penggunaan keduanya memiliki perbedaan yang cukup jelas.
 
-## Perplexity Gratis
+### Perplexity Gratis
 
 Versi gratis Perplexity sudah mampu membantu berbagai aktivitas seperti:
 
@@ -433,7 +433,7 @@ Versi gratis Perplexity sudah mampu membantu berbagai aktivitas seperti:
 
 Keunggulan utamanya adalah kemampuan menampilkan sumber referensi sehingga pengguna dapat memverifikasi jawaban dengan lebih mudah.
 
-## ChatGPT Gratis
+### ChatGPT Gratis
 
 ChatGPT versi gratis sangat fleksibel dan dapat digunakan untuk:
 
@@ -450,11 +450,11 @@ Bagi sebagian besar pengguna, versi gratis ChatGPT sudah cukup untuk kebutuhan s
 
 ---
 
-## Perplexity Pro vs ChatGPT Plus
+### Perplexity Pro vs ChatGPT Plus
 
 Pengguna yang menggunakan AI setiap hari biasanya memperoleh manfaat lebih besar dari paket berbayar.
 
-## Perplexity Pro
+### Perplexity Pro
 
 Perplexity Pro cocok bagi pengguna yang:
 
@@ -465,7 +465,7 @@ Perplexity Pro cocok bagi pengguna yang:
 
 Paket ini memberikan akses ke fitur yang lebih lengkap dibandingkan versi gratis.
 
-## ChatGPT Plus
+### ChatGPT Plus
 
 ChatGPT Plus banyak digunakan oleh:
 
@@ -489,7 +489,7 @@ Pelajari lebih lanjut pada artikel:
 
 Perplexity memiliki sejumlah keunggulan yang membuatnya berbeda dari chatbot AI lainnya.
 
-## Menampilkan Referensi
+### Menampilkan Referensi
 
 Inilah keunggulan terbesar Perplexity.
 
@@ -504,7 +504,7 @@ Fitur ini sangat membantu ketika melakukan:
 
 ---
 
-## Sangat Baik untuk Riset
+### Sangat Baik untuk Riset
 
 Perplexity dirancang sebagai AI Search Engine.
 
@@ -514,7 +514,7 @@ Hal ini menghemat waktu dibandingkan harus membuka banyak halaman web secara man
 
 ---
 
-## Informasi Lebih Transparan
+### Informasi Lebih Transparan
 
 Karena menyertakan sumber, pengguna dapat mengetahui dari mana informasi diperoleh.
 
@@ -526,7 +526,7 @@ Pendekatan ini meningkatkan kepercayaan terhadap jawaban yang diberikan.
 
 Walaupun sangat kuat untuk pencarian informasi, Perplexity juga memiliki beberapa keterbatasan.
 
-## Kurang Optimal untuk Penulisan Panjang
+### Kurang Optimal untuk Penulisan Panjang
 
 Perplexity lebih fokus pada penyajian informasi daripada menghasilkan artikel panjang.
 
@@ -534,7 +534,7 @@ Jika tujuan utama Anda adalah membuat konten yang lengkap dan terstruktur, hasil
 
 ---
 
-## Fitur Kreatif Lebih Terbatas
+### Fitur Kreatif Lebih Terbatas
 
 Perplexity lebih mengutamakan jawaban faktual.
 
@@ -554,7 +554,7 @@ ChatGPT umumnya menawarkan hasil yang lebih baik.
 
 ChatGPT memiliki sejumlah keunggulan yang membuatnya tetap menjadi AI chatbot paling populer.
 
-## Sangat Fleksibel
+### Sangat Fleksibel
 
 ChatGPT mampu membantu hampir semua jenis pekerjaan, mulai dari:
 
@@ -571,7 +571,7 @@ Kemampuan tersebut menjadikannya AI serbaguna yang cocok untuk berbagai profesi.
 
 ---
 
-## Sangat Baik untuk Membuat Konten
+### Sangat Baik untuk Membuat Konten
 
 ChatGPT mampu menghasilkan:
 
@@ -587,7 +587,7 @@ Pengguna juga dapat menentukan gaya bahasa, target pembaca, hingga panjang tulis
 
 ---
 
-## Ekosistem Sangat Lengkap
+### Ekosistem Sangat Lengkap
 
 OpenAI terus mengembangkan ChatGPT dengan berbagai fitur tambahan yang mendukung produktivitas pengguna.
 
@@ -599,7 +599,7 @@ Hal ini membuat ChatGPT menjadi lebih dari sekadar chatbot AI.
 
 Walaupun sangat fleksibel, ChatGPT juga memiliki beberapa keterbatasan.
 
-## Tidak Selalu Menampilkan Referensi
+### Tidak Selalu Menampilkan Referensi
 
 Berbeda dengan Perplexity, ChatGPT tidak selalu menyertakan sumber pada setiap jawaban.
 
@@ -607,7 +607,7 @@ Untuk informasi yang penting, pengguna tetap perlu melakukan pengecekan melalui 
 
 ---
 
-## Sangat Bergantung pada Prompt
+### Sangat Bergantung pada Prompt
 
 Kualitas jawaban ChatGPT dipengaruhi oleh kualitas prompt yang diberikan.
 
@@ -621,7 +621,7 @@ Tidak ada AI yang paling baik untuk semua orang.
 
 Berikut rekomendasi berdasarkan kebutuhan.
 
-## Pilih Perplexity AI Jika Anda:
+### Pilih Perplexity AI Jika Anda:
 
 - sering melakukan riset,
 - mencari informasi terbaru,
@@ -631,7 +631,7 @@ Berikut rekomendasi berdasarkan kebutuhan.
 
 ---
 
-## Pilih ChatGPT Jika Anda:
+### Pilih ChatGPT Jika Anda:
 
 - membuat artikel,
 - membantu coding,
@@ -643,7 +643,7 @@ Berikut rekomendasi berdasarkan kebutuhan.
 
 ---
 
-## Gunakan Keduanya Jika Memungkinkan
+### Gunakan Keduanya Jika Memungkinkan
 
 Banyak profesional menggunakan kedua AI secara bersamaan.
 
@@ -672,27 +672,27 @@ Banyak profesional bahkan menggunakan kedua AI tersebut secara bersamaan. Perple
 
 ## FAQ
 
-## Mana yang lebih baik, Perplexity atau ChatGPT?
+### Mana yang lebih baik, Perplexity atau ChatGPT?
 
 Keduanya memiliki keunggulan yang berbeda. Perplexity unggul dalam pencarian informasi beserta referensinya, sedangkan ChatGPT lebih unggul sebagai AI serbaguna untuk menulis, coding, brainstorming, dan produktivitas.
 
-## Apakah Perplexity lebih akurat daripada ChatGPT?
+### Apakah Perplexity lebih akurat daripada ChatGPT?
 
 Perplexity sering dianggap lebih mudah diverifikasi karena menyertakan sumber referensi pada sebagian besar jawabannya. Namun, pengguna tetap perlu mengevaluasi kualitas sumber tersebut.
 
-## Apakah Perplexity bisa digunakan secara gratis?
+### Apakah Perplexity bisa digunakan secara gratis?
 
 Ya. Perplexity menyediakan versi gratis yang sudah cukup untuk kebutuhan dasar. Selain itu tersedia paket Pro dengan fitur tambahan dan batas penggunaan yang lebih tinggi.
 
-## Mana yang lebih baik untuk membuat artikel?
+### Mana yang lebih baik untuk membuat artikel?
 
 Untuk membuat artikel lengkap, ChatGPT umumnya lebih unggul karena mampu menghasilkan tulisan yang lebih panjang, natural, dan mudah disesuaikan dengan gaya penulisan yang diinginkan.
 
-## Mana yang lebih baik untuk riset?
+### Mana yang lebih baik untuk riset?
 
 Perplexity merupakan pilihan yang sangat baik untuk riset karena mampu mencari informasi terbaru sekaligus menampilkan referensi yang dapat diperiksa kembali.
 
-## Apakah saya perlu menggunakan keduanya?
+### Apakah saya perlu menggunakan keduanya?
 
 Tidak harus. Namun, banyak pengguna memanfaatkan Perplexity untuk mencari referensi dan ChatGPT untuk mengembangkan hasil riset menjadi artikel, laporan, atau presentasi.
 
