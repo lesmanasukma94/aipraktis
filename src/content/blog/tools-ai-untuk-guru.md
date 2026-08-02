@@ -1070,7 +1070,7 @@ Baca juga:
 - [AI untuk Guru](/blog/ai-untuk-guru/)
 - [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
 - [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-- [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/)
+- [50 Prompt ChatGPT untuk Guru](/blog/20-prompt-ai-untuk-guru/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)

@@ -63,5 +63,12 @@
                 "Location": "/blog/prompt-ai-untuk-customer-service/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/50-prompt-chatgpt-untuk-guru/?$",
+            "headers": {
+                "Location": "/blog/20-prompt-ai-untuk-guru/"
+            },
+            "status": 308
         }]
 }

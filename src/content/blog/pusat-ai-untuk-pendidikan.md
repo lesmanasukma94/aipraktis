@@ -96,7 +96,7 @@ Artikel terkait:
 - [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
 * [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
 * [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
-* [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/)
+* [50 Prompt ChatGPT untuk Guru](/blog/20-prompt-ai-untuk-guru/)
 
 Dengan bantuan AI, guru dapat menghemat banyak waktu dalam persiapan materi pembelajaran.
 

@@ -906,7 +906,7 @@ Gunakan bahasa positif dan mudah dipahami.
 * [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
 * [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-* [50 Prompt ChatGPT untuk Guru](/blog/50-prompt-chatgpt-untuk-guru/)
+* [50 Prompt ChatGPT untuk Guru](/blog/20-prompt-ai-untuk-guru/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
