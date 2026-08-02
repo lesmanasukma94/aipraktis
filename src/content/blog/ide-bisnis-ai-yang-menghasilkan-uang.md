@@ -293,7 +293,7 @@ Baca juga:
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Membangun Agensi AI](/blog/cara-membangun-agensi-ai/)
 - [Cara Membuat SaaS AI](/blog/cara-membuat-saas-ai/)
-- [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-ai/)
+- [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-dengan-ai/)
 - [AI Consultant](/blog/ai-consultant/)
 - [AI Specialist](/blog/ai-specialist/)
 - [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)

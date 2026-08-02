@@ -42,6 +42,12 @@
                                        "Location":  "/blog/apa-itu-ai/"
                                    },
                        "status":  308
-                   }
-               ]
+                   },
+        {
+            "src": "/blog/cara-membuat-aplikasi-ai/?$",
+            "headers": {
+                "Location": "/blog/cara-membuat-aplikasi-dengan-ai/"
+            },
+            "status": 308
+        }]
 }

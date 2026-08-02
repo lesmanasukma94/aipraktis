@@ -181,7 +181,7 @@ Pelajari:
 * [Cara Membuat AI Agent](/blog/cara-membuat-ai-agent/)
 * [15 Tools AI untuk Programmer Terbaik](/blog/tools-ai-untuk-programmer/)
 * [15 Tools AI untuk Coding Terbaik 2026](/blog/tools-ai-untuk-coding/)
-* [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-ai/)
+* [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-dengan-ai/)
 
 Dengan bantuan AI, banyak pekerjaan dapat diselesaikan lebih cepat dan lebih efisien.
 

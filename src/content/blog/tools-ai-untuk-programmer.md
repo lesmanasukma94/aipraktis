@@ -253,7 +253,7 @@ Bisa membantu membuat sebagian besar struktur aplikasi, tetapi pengembangan, pen
 Baca juga:
 
 - [Cara Membuat Aplikasi dengan AI](/blog/cara-membuat-aplikasi-dengan-ai/)
-- [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-ai/)
+- [Cara Membuat Aplikasi AI](/blog/cara-membuat-aplikasi-dengan-ai/)
 - [Cara Membuat SaaS AI](/blog/cara-membuat-saas-ai/)
 - [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)
 - [Cara Membuat AI Agent](/blog/cara-membuat-ai-agent/)
