@@ -218,7 +218,7 @@ Selalu periksa kembali sebelum digunakan.
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 
 * [AI untuk Sales](/blog/ai-untuk-sales/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
 
 ## Jelajahi Panduan AI Lainnya

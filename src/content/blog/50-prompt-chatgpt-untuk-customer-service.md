@@ -287,7 +287,7 @@ Setelah membuat prompt customer service, Anda dapat mengembangkannya menjadi cha
 
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [50 Prompt ChatGPT untuk Marketing](/blog/50-prompt-chatgpt-untuk-marketing/)
 * [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 

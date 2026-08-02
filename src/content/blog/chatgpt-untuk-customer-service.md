@@ -259,7 +259,7 @@ ChatGPT dapat membantu menyiapkan FAQ dan alur percakapan chatbot. Untuk penerap
 ## Artikel Terkait
 
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)

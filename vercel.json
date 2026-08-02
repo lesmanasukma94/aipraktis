@@ -49,5 +49,12 @@
                 "Location": "/blog/cara-membuat-aplikasi-dengan-ai/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-untuk-customer-support/?$",
+            "headers": {
+                "Location": "/blog/ai-untuk-customer-service/"
+            },
+            "status": 308
         }]
 }

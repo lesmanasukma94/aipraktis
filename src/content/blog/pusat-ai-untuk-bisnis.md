@@ -85,7 +85,7 @@ Artikel terkait:
 
 * [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 * [15 Tools AI untuk Sales Terbaik](/blog/tools-ai-untuk-sales/)
 * [15 Tools AI untuk Customer Service Terbaik](/blog/tools-ai-untuk-customer-service/)
@@ -136,7 +136,7 @@ Bisnis online dapat memanfaatkan AI untuk meningkatkan penjualan dan pelayanan p
 Artikel terkait:
 
 * [AI untuk Toko Online](/blog/ai-untuk-toko-online/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
 * [Cara Membuat Toko Online dengan AI](/blog/cara-membuat-toko-online-dengan-ai/)
 * [Cara Membuat Website dengan AI](/blog/cara-membuat-website-dengan-ai/)

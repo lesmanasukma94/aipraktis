@@ -196,7 +196,7 @@ Artikel yang direkomendasikan:
 * [AI untuk Administrasi Perkantoran](/blog/ai-untuk-administrasi-perkantoran/)
 * [AI untuk Staff Keuangan](/blog/ai-untuk-staff-keuangan/)
 * [AI untuk Sales](/blog/ai-untuk-sales/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [AI untuk HRD dan Rekrutmen](/blog/ai-untuk-hrd-dan-rekrutmen/)
 * [Cara Membuat CV dengan AI](/blog/cara-membuat-cv-dengan-ai/)
 - [Cara Membuat Surat Lamaran Kerja dengan AI](/blog/cara-membuat-surat-lamaran-kerja-dengan-ai/)

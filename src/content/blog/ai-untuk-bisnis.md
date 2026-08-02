@@ -292,7 +292,7 @@ Bisnis yang ingin mendapatkan traffic organik dapat membaca [Cara Menggunakan AI
 * [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
 * [AI untuk Sales](/blog/ai-untuk-sales/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [50 Prompt ChatGPT untuk UMKM](/blog/50-prompt-chatgpt-untuk-umkm/)
 
 Berbagai chatbot modern dapat membantu operasional bisnis, termasuk [DeepSeek untuk Pemula](/blog/deepseek-untuk-pemula/) yang dapat dimanfaatkan untuk membuat proposal, email, hingga ide pemasaran.

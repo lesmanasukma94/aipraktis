@@ -252,7 +252,7 @@ Jika ingin membuat email sales yang lebih sopan dan tidak terlalu hard selling, 
 
 * [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
-* [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+* [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 

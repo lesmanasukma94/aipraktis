@@ -1064,7 +1064,7 @@ Tidak. AI paling efektif untuk pertanyaan umum, sedangkan kasus kompleks tetap m
 Baca juga:
 
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-- [AI untuk Customer Support](/blog/ai-untuk-customer-support/)
+- [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 - [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
 - [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/)
