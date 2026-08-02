@@ -111,7 +111,7 @@ Artikel ini membahas cara menggunakan AI untuk sales secara praktis, aman, dan r
 Baca juga:
 
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)
 
@@ -397,7 +397,7 @@ Membantu mengevaluasi call, email, dan pesan sales.
 
 Baca juga:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 - [AI Chatbot untuk CRM](/blog/ai-chatbot-untuk-crm/)
 
@@ -668,7 +668,7 @@ Follow-up yang baik:
 Baca juga:
 
 - [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ---
 
@@ -1606,7 +1606,7 @@ Jika digunakan dengan benar, AI dapat membantu tim sales bekerja lebih produktif
 
 Pelajari juga panduan berikut:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)
 - [AI Chatbot untuk CRM](/blog/ai-chatbot-untuk-crm/)

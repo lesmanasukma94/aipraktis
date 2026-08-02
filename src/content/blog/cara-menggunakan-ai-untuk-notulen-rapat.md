@@ -900,7 +900,7 @@ Format:
 
 Baca juga:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
 ---
@@ -1442,7 +1442,7 @@ Pelajari juga panduan berikut:
 - [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)

@@ -606,7 +606,7 @@ Jika Bapak/Ibu sudah sempat meninjau proposalnya, saya senang berdiskusi singkat
 
 Baca juga:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
 ---
@@ -1026,7 +1026,7 @@ Isi:
 
 Baca juga:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)
 
 ---
@@ -1554,7 +1554,7 @@ Pelajari juga panduan berikut:
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)
 - [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/)

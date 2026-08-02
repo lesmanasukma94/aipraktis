@@ -666,7 +666,7 @@ Baca juga:
 
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ---
 
@@ -1227,7 +1227,7 @@ Catat:
 Baca juga:
 
 - [AI Chatbot untuk CRM](/blog/ai-chatbot-untuk-crm/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ---
 
@@ -2090,7 +2090,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/)
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)

@@ -2032,7 +2032,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [Perplexity AI untuk Pemula](/blog/perplexity-ai-untuk-pemula/)
 - [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)

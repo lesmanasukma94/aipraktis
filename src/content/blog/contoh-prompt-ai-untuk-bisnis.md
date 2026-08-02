@@ -1117,7 +1117,7 @@ Jika digunakan dengan kebiasaan yang benar, prompt AI dapat menjadi alat penting
 
 Prompt bisnis untuk penjualan akan lebih kuat jika disusun dalam sistem. Lanjutkan ke [AI untuk Sales](/blog/ai-untuk-sales/) untuk contoh penggunaan AI pada follow-up, sales call, proposal, objection handling, dan pipeline.
 
-Untuk kebutuhan penjualan yang lebih spesifik, baca [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) yang berisi prompt prospecting, follow-up, discovery call, proposal, CRM, objection handling, dan closing.
+Untuk kebutuhan penjualan yang lebih spesifik, baca [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/) yang berisi prompt prospecting, follow-up, discovery call, proposal, CRM, objection handling, dan closing.
 
 Pemilik bisnis yang ingin belajar skill baru seperti marketing, sales, AI, atau otomasi dapat menggunakan panduan [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/) sebagai template belajar mandiri.
 

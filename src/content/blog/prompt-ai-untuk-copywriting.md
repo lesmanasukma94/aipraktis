@@ -1280,7 +1280,7 @@ Jika copywriting Anda akan digunakan untuk newsletter, sequence, promosi, atau f
 
 Selain membuat copy promosi, bisnis juga perlu menjaga kualitas layanan. Baca [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) untuk membuat balasan pelanggan, handling komplain, FAQ, dan SOP CS.
 
-Setelah copy promosi menarik perhatian calon pelanggan, gunakan [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) untuk membuat pesan follow-up, objection handling, WhatsApp sales, dan closing.
+Setelah copy promosi menarik perhatian calon pelanggan, gunakan [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/) untuk membuat pesan follow-up, objection handling, WhatsApp sales, dan closing.
 
 Untuk memilih tools copywriting yang tepat, baca juga [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) yang membahas tools untuk headline, iklan, landing page, email, caption, dan sales copy.
 

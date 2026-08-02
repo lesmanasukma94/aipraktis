@@ -566,7 +566,7 @@ Contoh project:
 Baca juga:
 
 - [AI untuk Sales](/blog/ai-untuk-sales/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
 ---

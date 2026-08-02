@@ -1579,7 +1579,7 @@ Email marketing akan lebih efektif jika masuk ke funnel yang jelas. Lanjutkan ke
 
 Jika email pelanggan berisi pertanyaan, komplain, refund, atau follow-up layanan, gunakan juga [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/) untuk membuat template balasan, SOP eskalasi, tiket support, dan knowledge base.
 
-Untuk lead yang sudah menunjukkan minat dan siap diarahkan ke penjualan, lanjutkan ke [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/) agar follow-up, discovery, proposal, dan closing lebih terstruktur.
+Untuk lead yang sudah menunjukkan minat dan siap diarahkan ke penjualan, lanjutkan ke [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/) agar follow-up, discovery, proposal, dan closing lebih terstruktur.
 
 Email marketing membutuhkan writing tools yang tepat. Baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools subject line, newsletter, sequence, proofreading, dan tone email.
 

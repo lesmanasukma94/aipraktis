@@ -874,7 +874,7 @@ Gunakan Copy.ai untuk:
 
 Baca juga:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 
 ---

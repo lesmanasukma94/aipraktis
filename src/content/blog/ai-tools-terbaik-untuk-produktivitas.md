@@ -71,7 +71,7 @@ Baca juga:
 
 - [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ---
 
@@ -785,7 +785,7 @@ Gunakan untuk meeting yang punya output jelas:
 Baca juga:
 
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ---
 
@@ -1062,7 +1062,7 @@ Mulai dari otomasi sederhana:
 Baca juga:
 
 - [AI Chatbot untuk Otomasi Bisnis](/blog/ai-chatbot-untuk-otomasi-bisnis/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ---
 
@@ -1727,7 +1727,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)

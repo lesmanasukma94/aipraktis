@@ -331,7 +331,7 @@ Contohnya:
 Baca juga:
 
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 
 ---
@@ -1051,7 +1051,7 @@ Format:
 
 Baca juga:
 
-- [Prompt AI untuk Sales](/blog/prompt-ai-untuk-sales/)
+- [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
 ---

@@ -70,5 +70,12 @@
                 "Location": "/blog/20-prompt-ai-untuk-guru/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/prompt-ai-untuk-sales/?$",
+            "headers": {
+                "Location": "/blog/50-prompt-chatgpt-untuk-sales/"
+            },
+            "status": 308
         }]
 }
