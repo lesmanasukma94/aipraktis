@@ -1042,7 +1042,6 @@ Baca juga:
 
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
-- [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 - [Tools AI untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
 - [AI untuk Sales](/blog/ai-untuk-sales/)

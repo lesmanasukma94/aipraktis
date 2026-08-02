@@ -1069,7 +1069,7 @@ Baca juga:
 - [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/)
 - [Tools AI untuk Bisnis](/blog/tools-ai-untuk-bisnis/)
-- [AI untuk UMKM](/blog/cara-umkm-memulai-ai/)
+- [AI untuk UMKM](/blog/strategi-ai-untuk-umkm-indonesia/)
 - [Cara Membuat Chatbot dengan AI](/blog/cara-membuat-chatbot-dengan-ai/)
 
 ## Kesimpulan

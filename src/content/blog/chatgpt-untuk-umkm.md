@@ -851,7 +851,6 @@ Gunakan sumber resmi berikut untuk memeriksa informasi terbaru:
 - [10 Tools AI untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
-- [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
 

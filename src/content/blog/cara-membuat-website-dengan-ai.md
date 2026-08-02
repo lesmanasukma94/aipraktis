@@ -1469,7 +1469,6 @@ Baca juga:
 
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [AI untuk UMKM](/blog/chatgpt-untuk-umkm/)
-- [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 - [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)

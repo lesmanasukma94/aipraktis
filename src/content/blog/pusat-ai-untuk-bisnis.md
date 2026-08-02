@@ -43,7 +43,6 @@ UMKM merupakan salah satu sektor yang paling diuntungkan oleh perkembangan AI.
 
 Pelajari panduan berikut:
 
-* [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [Cara Menggunakan ChatGPT untuk UMKM](/blog/cara-menggunakan-chatgpt-untuk-umkm/)
 * [Tools AI untuk UMKM](/blog/tools-ai-untuk-umkm/)

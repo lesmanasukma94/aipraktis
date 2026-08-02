@@ -883,7 +883,6 @@ Ketika pertanyaan berulang cukup banyak, FAQ sudah tersedia, dan ada proses eska
 - [50 Prompt ChatGPT untuk Operasional UMKM](/blog/50-prompt-chatgpt-untuk-umkm/)
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
-- [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 
 ## Kesimpulan

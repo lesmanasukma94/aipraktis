@@ -306,7 +306,6 @@ Baca juga:
 - [AI untuk Toko Online](/blog/ai-untuk-toko-online/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
-- [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [Tools AI untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [Cara Membuat Website dengan AI](/blog/cara-membuat-website-dengan-ai/)

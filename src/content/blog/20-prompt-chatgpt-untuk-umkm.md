@@ -226,7 +226,6 @@ Untuk penggunaan yang lebih luas, baca artikel [AI Chatbot untuk Bisnis](/blog/a
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
-* [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
 
 ## Artikel Prompt Lainnya

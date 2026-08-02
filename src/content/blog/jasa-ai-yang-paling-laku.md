@@ -126,7 +126,6 @@ Layanan:
 Baca:
 
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
-* [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 
 ## 7. Jasa Optimasi Produktivitas dengan AI
 

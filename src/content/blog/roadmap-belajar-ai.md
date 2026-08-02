@@ -203,7 +203,6 @@ Setelah memahami dasar AI, pilih bidang yang paling relevan.
 
 * [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
-* [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
 
 ### AI untuk Content Creator
 
