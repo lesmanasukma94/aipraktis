@@ -650,7 +650,7 @@ Hapus nomor telepon, alamat lengkap, dan informasi sensitif sebelum memakai Chat
 
 Baca juga:
 
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [Tools AI untuk Bisnis](/blog/tools-ai-untuk-bisnis/)
 
 ---

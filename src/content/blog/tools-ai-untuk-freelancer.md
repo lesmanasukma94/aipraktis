@@ -986,7 +986,7 @@ Periksa halaman resmi karena produk dapat berubah:
 - [Tools AI untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [Tools AI untuk Coding](/blog/tools-ai-untuk-coding/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 ## Kesimpulan

@@ -506,7 +506,7 @@ log terminal.
 Baca juga:
 
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 ---
 

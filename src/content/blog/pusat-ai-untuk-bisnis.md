@@ -104,7 +104,7 @@ Produktivitas merupakan salah satu alasan utama bisnis mulai menggunakan AI.
 
 Artikel terkait:
 
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [AI untuk Personal Assistant](/blog/ai-untuk-personal-assistant/)
 * [AI untuk Administrasi Perkantoran](/blog/ai-untuk-administrasi-perkantoran/)
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)

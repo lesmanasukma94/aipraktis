@@ -174,7 +174,7 @@ AI dapat membantu meningkatkan produktivitas di berbagai profesi.
 
 Pelajari:
 
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [AI untuk Personal Assistant](/blog/ai-untuk-personal-assistant/)
 * [AI Agent untuk Pemula](/blog/ai-agent-untuk-pemula/)

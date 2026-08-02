@@ -279,7 +279,7 @@ Ya. AI dapat meningkatkan produktivitas dan membantu Anda bekerja lebih efektif.
 * [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [Apakah AI Akan Menggantikan Pekerjaan Manusia?](/blog/apakah-ai-akan-menggantikan-pekerjaan-manusia/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 

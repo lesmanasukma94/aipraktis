@@ -2,6 +2,13 @@
     "$schema":  "https://openapi.vercel.sh/vercel.json",
     "routes":  [
                    {
+                       "src":  "/blog/ai-untuk-produktivitas/?$",
+                       "headers":  {
+                                       "Location":  "/blog/cara-meningkatkan-produktivitas-dengan-ai/"
+                                   },
+                       "status":  308
+                   },
+                   {
                        "src":  "/blog/freelance-menggunakan-ai/?$",
                        "headers":  {
                                        "Location":  "/blog/cara-menjadi-freelancer-ai/"

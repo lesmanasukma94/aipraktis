@@ -160,7 +160,7 @@ Artikel terkait:
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
 * [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 ## Tahap 5: Belajar Mencari Peluang AI dalam Bisnis
 

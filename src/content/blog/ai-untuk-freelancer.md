@@ -812,7 +812,7 @@ Fitur, paket, batas penggunaan, dan kebijakan dapat berubah. Periksa sumber resm
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [Cara Membuat Portofolio AI](/blog/cara-membangun-portofolio-ai/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)

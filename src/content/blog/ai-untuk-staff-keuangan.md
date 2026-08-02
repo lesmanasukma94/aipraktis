@@ -274,7 +274,7 @@ Bagi profesional di bidang keuangan, memahami cara menggunakan AI menjadi salah 
 
 * [Apa Itu AI?](/blog/apa-itu-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
 * [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)

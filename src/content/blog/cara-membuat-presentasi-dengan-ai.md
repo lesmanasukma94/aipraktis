@@ -285,7 +285,7 @@ Setelah itu, manusia tetap perlu mengedit, memilih, merapikan, dan menyesuaikan 
 
 Baca juga:
 
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Tools AI untuk Bisnis](/blog/tools-ai-untuk-bisnis/)
 

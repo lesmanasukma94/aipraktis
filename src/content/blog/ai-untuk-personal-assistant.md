@@ -259,7 +259,7 @@ Tidak sepenuhnya. AI membantu tugas administratif, tetapi banyak aspek tetap mem
 
 ## Artikel Terkait
 
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)

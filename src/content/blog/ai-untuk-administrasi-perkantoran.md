@@ -219,7 +219,7 @@ Baca juga:
 
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 ---
 
@@ -895,7 +895,7 @@ Ya. AI dapat membantu membuat template maupun draft laporan.
 ## Artikel Terkait
 
 - [AI untuk Pekerja](/ai-pekerja/)
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [AI untuk HRD dan Rekrutmen](/blog/ai-untuk-hrd-dan-rekrutmen/)
 - [Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
 - [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)

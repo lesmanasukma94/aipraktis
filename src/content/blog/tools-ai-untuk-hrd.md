@@ -1013,7 +1013,7 @@ Baca juga:
 - [AI untuk Administrasi Perkantoran](/blog/ai-untuk-administrasi-perkantoran/)
 - [Tools AI untuk Bisnis](/blog/tools-ai-untuk-bisnis/)
 - [Tools AI untuk Customer Service](/blog/tools-ai-untuk-customer-service/)
-- [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+- [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 - [ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
 - [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)

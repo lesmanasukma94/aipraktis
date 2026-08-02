@@ -264,7 +264,7 @@ Belajar menggunakan AI, meningkatkan keterampilan, dan terus beradaptasi dengan 
 * [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 ## Jelajahi Panduan AI Lainnya
 

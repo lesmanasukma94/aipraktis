@@ -317,7 +317,7 @@ Mulailah dengan satu aktivitas yang paling sering dilakukan dan gunakan AI untuk
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Cara UMKM Memulai AI](/blog/cara-umkm-memulai-ai/)
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)

@@ -185,7 +185,7 @@ Contoh:
 
 Artikel terkait:
 
-* [AI untuk Produktivitas](/blog/ai-untuk-produktivitas/)
+* [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 
 ## Tahap 5: Menggunakan AI untuk Bidang Tertentu
