@@ -909,7 +909,7 @@ Pelajari juga panduan berikut:
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)

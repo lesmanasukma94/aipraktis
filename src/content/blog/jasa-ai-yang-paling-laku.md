@@ -582,7 +582,7 @@ Baca juga:
 
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 
 ## 7. Jasa AI untuk Sales dan Follow-Up
 

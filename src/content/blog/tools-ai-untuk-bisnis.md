@@ -482,7 +482,7 @@ Baca juga:
 
 - [Tools AI untuk Customer Service](/blog/tools-ai-untuk-customer-service/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 
 ## 4. Tools AI untuk Administrasi Bisnis
 

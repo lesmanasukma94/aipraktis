@@ -778,7 +778,7 @@ Pelajari juga panduan berikut:
 - [AI Chatbot untuk Marketing](/blog/ai-chatbot-untuk-marketing/) 
 - [AI Chatbot untuk Landing Page](/blog/ai-chatbot-untuk-landing-page/)  
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/) 
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/) 
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/) 
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/) 
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/) 

@@ -415,7 +415,7 @@ Pesan:
 Baca juga:
 
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 
 ---
 

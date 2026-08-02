@@ -92,7 +92,7 @@ Artikel terkait:
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 * [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
 * [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
-* [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+* [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 
 AI dapat membantu membuat skrip penjualan, balasan pelanggan, dan strategi follow up.
 

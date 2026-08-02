@@ -1348,7 +1348,7 @@ Pelajari juga panduan berikut:
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [50 Prompt ChatGPT untuk Content Creator](/blog/50-prompt-chatgpt-untuk-content-creator/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)

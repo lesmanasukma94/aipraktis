@@ -516,7 +516,7 @@ Pesan pelanggan:
 Baca juga:
 
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 
 ---
 
@@ -999,7 +999,7 @@ Pelajari juga panduan berikut:
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [20 Prompt ChatGPT untuk Karyawan](/blog/20-prompt-chatgpt-untuk-karyawan/)
 - [ChatGPT untuk Customer Service](/blog/chatgpt-untuk-customer-service/)
-- [50 Prompt ChatGPT untuk Customer Service](/blog/50-prompt-chatgpt-untuk-customer-service/)
+- [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
