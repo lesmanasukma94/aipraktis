@@ -287,7 +287,7 @@ Belum dikaitkan dengan:
 Baca juga:
 
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
-- [AI untuk Youtuber](/blog/ai-untuk-youtuber/)
+- [AI untuk Youtuber](/blog/ai-untuk-youtube/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
 ---
@@ -969,7 +969,7 @@ Baca juga:
 
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
-- [AI untuk Youtuber](/blog/ai-untuk-youtuber/)
+- [AI untuk Youtuber](/blog/ai-untuk-youtube/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
 
 ---
@@ -2163,7 +2163,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
-- [AI untuk Youtuber](/blog/ai-untuk-youtuber/)
+- [AI untuk Youtuber](/blog/ai-untuk-youtube/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
 - [Cara Membangun Portofolio AI](/blog/cara-membangun-portofolio-ai/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)

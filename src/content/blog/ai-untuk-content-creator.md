@@ -114,7 +114,7 @@ Contoh prompt:
 
 "Buat 30 ide video YouTube tentang teknologi AI yang cocok untuk pemula."
 
-Untuk pembahasan khusus YouTube, baca [AI untuk YouTuber](/blog/ai-untuk-youtuber/) yang membahas ide konten, keyword, script, storyboard, thumbnail, title, deskripsi, Shorts, analitik, repurposing, dan monetisasi.
+Untuk pembahasan khusus YouTube, baca [AI untuk YouTuber](/blog/ai-untuk-youtube/) yang membahas ide konten, keyword, script, storyboard, thumbnail, title, deskripsi, Shorts, analitik, repurposing, dan monetisasi.
 
 ## AI untuk Blogger
 

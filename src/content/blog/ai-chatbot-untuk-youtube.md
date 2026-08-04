@@ -1133,7 +1133,7 @@ Pelajari juga panduan berikut:
 - [AI Chatbot untuk Email](/blog/ai-chatbot-untuk-email/) 
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/) 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/) 
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/) 
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [50 Prompt ChatGPT untuk Content Creator](/blog/50-prompt-chatgpt-untuk-content-creator/) 
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/) 
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/) 

@@ -126,7 +126,7 @@ Baca juga:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
@@ -1557,7 +1557,7 @@ Baca juga:
 
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 
 ---
 
@@ -2220,7 +2220,7 @@ Kutipan harus dicek ulang ke video.
 
 Baca juga:
 
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
@@ -3061,7 +3061,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)

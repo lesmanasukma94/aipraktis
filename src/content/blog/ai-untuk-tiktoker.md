@@ -110,7 +110,7 @@ Baca juga:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 
 ---
@@ -2391,7 +2391,7 @@ Pelajari juga panduan berikut:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 - [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)

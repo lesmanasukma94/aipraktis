@@ -310,7 +310,7 @@ Kalau workflow sudah stabil, baru tambahkan tools untuk thumbnail, analytics, au
 
 Baca juga:
 
-- [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
+- [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [Tools AI untuk Content Creator](/blog/tools-ai-untuk-content-creator/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 
