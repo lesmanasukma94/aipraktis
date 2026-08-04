@@ -376,7 +376,7 @@ Ini cocok untuk masalah saya.
 Baca juga:
 
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 
 ---

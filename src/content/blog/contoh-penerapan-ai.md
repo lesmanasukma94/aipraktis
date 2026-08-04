@@ -208,7 +208,7 @@ Manfaatnya untuk bisnis:
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 
 ---
@@ -855,7 +855,7 @@ Hangat, menggugah selera, dan tidak berlebihan.
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 
@@ -1590,7 +1590,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
 - [AI Tools Terbaik](/blog/15-tools-ai-gratis-terbaik-2026/)

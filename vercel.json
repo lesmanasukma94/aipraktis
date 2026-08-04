@@ -98,5 +98,12 @@
                 "Location": "/blog/roadmap-belajar-ai/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-untuk-umkm-online-shop/?$",
+            "headers": {
+                "Location": "/blog/ai-untuk-toko-online/"
+            },
+            "status": 308
         }]
 }

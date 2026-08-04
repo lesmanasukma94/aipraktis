@@ -2044,7 +2044,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
 - [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
 - [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/)

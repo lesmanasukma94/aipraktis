@@ -2007,7 +2007,7 @@ Setelah marketing menghasilkan leads, lanjutkan ke [AI untuk Sales](/blog/ai-unt
 
 Marketing yang baik perlu didukung layanan pelanggan yang rapi. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) agar pertanyaan, komplain, feedback, dan pengalaman pelanggan lebih konsisten.
 
-UMKM online shop dapat menerapkan strategi marketing dengan lebih praktis melalui [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) yang membahas caption, konten, promo, WhatsApp, marketplace, dan repeat order.
+UMKM online shop dapat menerapkan strategi marketing dengan lebih praktis melalui [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) yang membahas caption, konten, promo, WhatsApp, marketplace, dan repeat order.
 
 Digital marketing agency dapat menerapkan strategi AI secara lebih sistematis lewat [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) yang membahas client brief, content plan, ads, SEO, reporting, SOP, dan quality control.
 

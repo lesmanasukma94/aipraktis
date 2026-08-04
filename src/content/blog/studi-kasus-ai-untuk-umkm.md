@@ -80,7 +80,7 @@ Tujuannya agar pembaca bisa melihat contoh penerapan AI secara konkret.
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
@@ -437,7 +437,7 @@ Manfaat:
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 
 ---
@@ -1570,7 +1570,7 @@ Itulah cara paling realistis menerapkan AI untuk UMKM.
 
 Pelajari juga panduan berikut:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)

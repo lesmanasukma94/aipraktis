@@ -2769,7 +2769,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Kursus Online](/blog/ai-untuk-kursus-online/)
 - [Cara Membangun Portofolio AI](/blog/cara-membangun-portofolio-ai/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 
 ---

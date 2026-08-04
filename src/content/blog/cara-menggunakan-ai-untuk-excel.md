@@ -1743,7 +1743,7 @@ Jika digunakan dengan benar, AI dapat membantu Anda bekerja lebih cepat, lebih r
 
 Jika meeting membahas data spreadsheet atau laporan, baca [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) agar insight, keputusan, PIC, dan tindak lanjut dari data tersebut tercatat rapi.
 
-UMKM yang mencatat stok dan order di spreadsheet dapat membaca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk workflow order, stok, laporan penjualan, produk laris, dan rekomendasi promo.
+UMKM yang mencatat stok dan order di spreadsheet dapat membaca [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) untuk workflow order, stok, laporan penjualan, produk laris, dan rekomendasi promo.
 
 Spreadsheet UMKM bisa menjadi dasar analisis bisnis. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh struktur stok, order, dashboard, dan laporan penjualan mingguan.
 

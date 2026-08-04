@@ -1244,7 +1244,7 @@ Ya. AI bisa membantu membuat struktur sales page, headline, manfaat, FAQ, object
 
 Copywriting adalah bagian penting dari marketing. Baca [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk menghubungkan headline, CTA, landing page, email, iklan, dan pesan utama campaign dalam satu strategi.
 
-Copywriting produk online shop akan lebih efektif jika mengikuti data produk yang benar. Baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk contoh deskripsi produk, caption, CTA, dan promo yang aman.
+Copywriting produk online shop akan lebih efektif jika mengikuti data produk yang benar. Baca [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) untuk contoh deskripsi produk, caption, CTA, dan promo yang aman.
 
 Copywriting agency membutuhkan brand context dan quality control. Baca [AI untuk Digital Marketing Agency](/blog/ai-untuk-digital-marketing-agency/) untuk workflow membuat caption, ad copy, landing page copy, dan creative brief klien.
 

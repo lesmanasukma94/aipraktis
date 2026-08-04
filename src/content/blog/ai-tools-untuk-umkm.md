@@ -23,7 +23,7 @@ draft: false
 
 AI tools untuk UMKM dapat membantu bisnis kecil membuat konten promosi, membalas pelanggan, membuat caption, membuat desain, membuat video pendek, menyusun katalog, mengelola chat WhatsApp, membuat laporan sederhana, mengatur stok, membuat SOP, membuat ide produk, membuat email, dan mempercepat pekerjaan admin. Tools seperti ChatGPT, Canva AI, CapCut, WhatsApp Business, Google Business Profile, Meta Business Suite, Google Workspace, Notion AI, Zapier, Make, HubSpot, Zoho, Tidio, Manychat, dan tools sejenis bisa digunakan sesuai kebutuhan. Namun, UMKM tidak perlu langsung memakai semua tools. Mulai dari masalah paling sering terjadi: promosi, chat pelanggan, pencatatan, follow-up, atau konten harian.
 
-Jika ingin menerapkan tools AI langsung ke toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk workflow promosi, caption produk, WhatsApp, customer service, katalog, stok, order, dan laporan penjualan.
+Jika ingin menerapkan tools AI langsung ke toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) untuk workflow promosi, caption produk, WhatsApp, customer service, katalog, stok, order, dan laporan penjualan.
 
 
 

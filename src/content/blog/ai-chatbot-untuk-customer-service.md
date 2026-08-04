@@ -950,7 +950,7 @@ Manusia tetap menangani kasus yang membutuhkan empati, keputusan, dan tanggung j
 
 Dengan strategi yang tepat, AI chatbot dapat menjadi aset penting untuk meningkatkan kepuasan pelanggan, mengurangi beban tim, dan membantu bisnis tumbuh lebih efisien.
 
-Untuk penerapan customer service pada toko online, lanjutkan ke [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) agar respons pelanggan, FAQ, komplain, retur, refund, dan after-sales lebih sesuai kebutuhan UMKM.
+Untuk penerapan customer service pada toko online, lanjutkan ke [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) agar respons pelanggan, FAQ, komplain, retur, refund, dan after-sales lebih sesuai kebutuhan UMKM.
 
 ---
 

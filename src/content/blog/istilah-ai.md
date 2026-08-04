@@ -2533,7 +2533,7 @@ AI Adoption
 Baca juga:
 
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 

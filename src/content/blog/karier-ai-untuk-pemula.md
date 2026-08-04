@@ -682,7 +682,7 @@ Skill:
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 
@@ -1317,7 +1317,7 @@ Isi:
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 
 ---
@@ -1659,7 +1659,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
 - [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [AI untuk Guru](/blog/ai-untuk-guru/)
 - [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)

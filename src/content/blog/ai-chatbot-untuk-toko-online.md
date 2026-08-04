@@ -19,7 +19,7 @@ draft: false
 
 AI chatbot untuk toko online dapat membantu menjawab pertanyaan pelanggan, merekomendasikan produk, menangani pertanyaan stok dan pengiriman, mengurangi beban admin, serta meningkatkan peluang penjualan. Artikel ini membahas manfaat AI chatbot untuk ecommerce, contoh penggunaan, rekomendasi tools, strategi penerapan, prompt siap pakai, kesalahan yang harus dihindari, dan checklist implementasi untuk toko online.
 
-Sebelum membuat chatbot toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) agar FAQ, template balasan, katalog, SOP komplain, dan workflow customer service sudah rapi terlebih dahulu.
+Sebelum membuat chatbot toko online, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) agar FAQ, template balasan, katalog, SOP komplain, dan workflow customer service sudah rapi terlebih dahulu.
 
 
 

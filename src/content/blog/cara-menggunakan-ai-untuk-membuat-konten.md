@@ -1560,7 +1560,7 @@ Dengan workflow yang benar, AI bisa membantu creator, UMKM, marketer, guru, free
 
 Konten harian akan lebih berdampak jika punya strategi marketing. Baca [AI untuk Marketing](/blog/ai-untuk-marketing/) untuk menghubungkan konten dengan persona, funnel, campaign, CTA, leads, dan penjualan.
 
-Jika konten dibuat untuk menjual produk online shop, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/) untuk mengubah ide konten menjadi caption produk, Reels, katalog, promo, dan follow-up WhatsApp.
+Jika konten dibuat untuk menjual produk online shop, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) untuk mengubah ide konten menjadi caption produk, Reels, katalog, promo, dan follow-up WhatsApp.
 
 Jika konten dibuat untuk bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh kalender konten, caption promosi, ide visual, dan campaign sederhana berbasis AI.
 

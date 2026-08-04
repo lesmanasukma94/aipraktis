@@ -2061,7 +2061,7 @@ Jangan membuat testimoni palsu.
 
 Baca juga:
 
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 
 ---
@@ -2742,7 +2742,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 - [AI Chatbot untuk Instagram](/blog/ai-chatbot-untuk-instagram/)
 - [AI Chatbot untuk Lead Generation](/blog/ai-chatbot-untuk-lead-generation/)

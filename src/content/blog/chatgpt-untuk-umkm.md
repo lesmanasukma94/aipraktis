@@ -676,7 +676,7 @@ Wajib diperiksa:
 - ongkir,
 - estimasi pengiriman.
 
-Baca juga [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/).
+Baca juga [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/).
 
 ### Usaha Jasa
 

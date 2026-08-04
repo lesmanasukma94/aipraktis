@@ -478,7 +478,7 @@ Format output:
 Baca juga:
 
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
-- [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
+- [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
 
