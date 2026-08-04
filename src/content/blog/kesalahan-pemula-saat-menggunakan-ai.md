@@ -340,7 +340,7 @@ Semakin baik Anda memahami cara berkomunikasi dengan AI, semakin besar pula manf
 
 * [Apa Itu AI?](/blog/apa-itu-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 * [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
 * [Apakah AI Akan Menggantikan Pekerjaan Manusia?](/blog/apakah-ai-akan-menggantikan-pekerjaan-manusia/)

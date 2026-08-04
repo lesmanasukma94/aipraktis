@@ -93,7 +93,6 @@ Artikel ini membahas karier AI untuk pemula secara praktis, mulai dari jenis pro
 Baca juga:
 
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
@@ -848,7 +847,6 @@ Target:
 
 Baca:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 ---
@@ -1651,7 +1649,6 @@ Karier AI yang kuat bukan dibangun dari hafalan tools, tetapi dari kemampuan bel
 Pelajari juga panduan berikut:
 
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)

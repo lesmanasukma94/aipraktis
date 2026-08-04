@@ -78,7 +78,6 @@ Pelajari:
 Artikel yang wajib dipelajari:
 
 * [Apa Itu AI?](/blog/apa-itu-ai/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 Target tahap ini:

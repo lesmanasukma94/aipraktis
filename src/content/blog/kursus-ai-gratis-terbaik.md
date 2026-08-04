@@ -224,7 +224,6 @@ Jika Anda ingin belajar AI dalam bahasa Indonesia yang mudah dipahami.
 
 Mulailah dari:
 
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
@@ -334,7 +333,6 @@ Untuk pemula, mulai dari kursus yang membahas:
 
 Baca juga:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 
@@ -1061,7 +1059,6 @@ Portofolio harus realistis dibuat dalam 7 hari.
 ## Artikel Terkait yang Wajib Dibaca
 
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
 * [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 * [Prompt Engineer](/blog/prompt-engineer/)

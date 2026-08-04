@@ -695,7 +695,7 @@ Pelajari juga panduan AI chatbot lainnya:
 - [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 - [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 

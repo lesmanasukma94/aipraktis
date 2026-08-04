@@ -304,7 +304,6 @@ Karena itu AI Trainer diperkirakan menjadi salah satu profesi yang sangat releva
 * [AI Consultant](/blog/ai-consultant/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 

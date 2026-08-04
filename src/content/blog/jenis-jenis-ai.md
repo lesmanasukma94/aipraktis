@@ -71,7 +71,7 @@ Baca juga:
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Istilah AI yang Harus Diketahui](/blog/istilah-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 ---
 
@@ -502,7 +502,7 @@ Jika sistem diberi ribuan contoh email spam, sistem bisa belajar mengenali email
 
 Baca juga:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 
 ---
@@ -1474,7 +1474,6 @@ Pelajari juga panduan berikut:
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Istilah AI yang Harus Diketahui](/blog/istilah-ai/)
 - [Contoh Penerapan AI](/blog/contoh-penerapan-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)

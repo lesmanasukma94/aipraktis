@@ -91,5 +91,12 @@
                 "Location": "/blog/ai-untuk-penjualan/"
             },
             "status": 308
+                },
+        {
+            "src": "/blog/cara-belajar-ai-dari-nol/?$",
+            "headers": {
+                "Location": "/blog/roadmap-belajar-ai/"
+            },
+            "status": 308
         }]
 }

@@ -48,7 +48,7 @@ Bagi pemula, langkah pertama adalah memahami dasar-dasar AI terlebih dahulu.
 Pelajari artikel berikut:
 
 * [Apa Itu AI](/blog/apa-itu-ai/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 * [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
@@ -197,7 +197,7 @@ Penting untuk selalu memeriksa kembali informasi yang diberikan AI dan tidak mem
 Jika Anda baru memulai, ikuti urutan berikut:
 
 1. [Apa Itu AI](/blog/apa-itu-ai/)
-2. [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+2. [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 4. [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)

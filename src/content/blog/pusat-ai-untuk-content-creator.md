@@ -47,7 +47,7 @@ Jika Anda baru mengenal AI, pelajari terlebih dahulu dasar-dasarnya.
 Artikel yang direkomendasikan:
 
 * [Apa Itu AI](/blog/apa-itu-ai/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
@@ -253,7 +253,7 @@ Keterampilan tersebut akan semakin penting di masa depan.
 Jika Anda seorang content creator pemula, ikuti urutan berikut:
 
 1. [Apa Itu AI](/blog/apa-itu-ai/)
-2. [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+2. [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 4. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 5. [AI untuk Content Creator](/blog/ai-untuk-content-creator/)

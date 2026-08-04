@@ -712,7 +712,7 @@ Untuk memahami AI chatbot lainnya, baca juga artikel berikut:
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 
 ---

@@ -260,7 +260,7 @@ dan bandingkan kelebihan masing-masing platform.
 
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 Untuk mendapatkan perspektif yang lebih luas mengenai AI chatbot, baca juga 
 - [Grok untuk Pemula](/blog/grok-untuk-pemula/) dan bandingkan kelebihan masing-masing platform.

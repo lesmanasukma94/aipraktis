@@ -323,7 +323,7 @@ Sangat besar. Saat ini banyak bisnis dan individu baru mulai memanfaatkan AI.
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 
 ## Jelajahi Panduan AI Lainnya

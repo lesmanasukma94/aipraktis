@@ -278,7 +278,7 @@ Sebaiknya tidak. Artikel tetap perlu diedit dan diverifikasi terlebih dahulu.
 * [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
 * [Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 * [Cara Membuat Konten dengan AI](/blog/cara-membuat-konten-dengan-ai/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
@@ -304,7 +304,7 @@ Bagi blogger, content writer, freelancer, pemilik website, maupun UMKM, memahami
 * [Cara Menulis Prompt ChatGPT yang Efektif](/blog/cara-menulis-prompt-chatgpt-yang-efektif/)
 * [Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 
 ---

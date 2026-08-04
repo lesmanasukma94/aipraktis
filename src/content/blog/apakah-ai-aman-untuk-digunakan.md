@@ -346,6 +346,6 @@ Yang lebih penting adalah memahami cara menggunakannya dengan benar.
 * [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
 * [Kesalahan Pemula Saat Menggunakan AI](/blog/kesalahan-pemula-saat-menggunakan-ai/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 ---

@@ -301,7 +301,6 @@ Mereka membutuhkan orang yang tahu bagaimana menggunakan AI secara efektif.
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
 * [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [Prompt Engineer](/blog/prompt-engineer/)

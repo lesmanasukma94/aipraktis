@@ -1848,7 +1848,6 @@ Pelajari juga panduan berikut:
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)

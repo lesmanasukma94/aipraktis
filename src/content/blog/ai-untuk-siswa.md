@@ -1538,7 +1538,6 @@ Pelajari juga panduan berikut:
 - [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)

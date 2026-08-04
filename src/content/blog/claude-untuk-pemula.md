@@ -92,7 +92,7 @@ Karena menggunakan Large Language Model (LLM), Claude mampu memahami berbagai je
 - membuat ringkasan dokumen,
 - hingga membantu brainstorming ide.
 
-Jika Anda masih baru mengenal teknologi AI generatif, baca juga panduan [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/) agar memahami konsep dasar sebelum memanfaatkan berbagai AI tools.
+Jika Anda masih baru mengenal teknologi AI generatif, baca juga panduan [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/) agar memahami konsep dasar sebelum memanfaatkan berbagai AI tools.
 
 ---
 
@@ -718,7 +718,7 @@ Jika Anda ingin mempelajari AI chatbot lainnya, baca juga artikel berikut:
 - [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
 - [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
 - [Claude Pro vs Gratis](/blog/claude-pro-vs-gratis/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)

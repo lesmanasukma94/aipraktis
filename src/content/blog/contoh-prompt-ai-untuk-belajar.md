@@ -601,7 +601,6 @@ Bertindaklah sebagai mentor belajar [skill]. Setiap hari, beri saya satu tugas k
 
 Baca juga:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 ---
@@ -1026,7 +1025,6 @@ Pelajari juga panduan berikut:
 - [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [AI Chatbot Terbaik](/blog/ai-chatbot-terbaik/)
 

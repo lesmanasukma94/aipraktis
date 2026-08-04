@@ -1585,7 +1585,7 @@ Pelajari juga panduan berikut:
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Jenis-Jenis Artificial Intelligence](/blog/jenis-jenis-ai/)
 - [Istilah AI yang Harus Diketahui](/blog/istilah-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)

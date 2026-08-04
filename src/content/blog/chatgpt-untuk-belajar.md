@@ -471,7 +471,6 @@ Lebih baik belajar 30 menit setiap hari secara konsisten daripada belajar 5 jam 
 
 Baca juga:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 ---

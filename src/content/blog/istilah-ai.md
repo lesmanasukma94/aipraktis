@@ -76,7 +76,7 @@ Baca juga:
 
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 
 ---
@@ -251,7 +251,7 @@ Machine learning sering disingkat ML.
 Baca juga:
 
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 ---
 
@@ -2757,7 +2757,6 @@ Pelajari juga panduan berikut:
 
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)

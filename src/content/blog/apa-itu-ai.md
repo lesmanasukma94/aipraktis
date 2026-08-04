@@ -258,7 +258,7 @@ Salah satu AI chatbot yang semakin populer adalah
 
 * [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
 * [Apa Itu AI](/blog/apa-itu-ai/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+* [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 - [15 Alternatif ChatGPT Terbaik](/blog/alternatif-chatgpt-terbaik/)

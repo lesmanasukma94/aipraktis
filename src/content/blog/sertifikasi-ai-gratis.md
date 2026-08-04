@@ -356,7 +356,6 @@ Mulai dari sertifikasi atau badge yang membahas:
 
 Baca juga:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 
@@ -697,7 +696,7 @@ selesai 1–2 kursus pengantar AI
 Baca juga:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
+- [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 ## Minggu 2: Belajar Prompt Engineering
 
@@ -974,7 +973,6 @@ Untuk setiap ide, buat:
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [AI Consultant](/blog/ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
-* [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
 
 ## Kesimpulan

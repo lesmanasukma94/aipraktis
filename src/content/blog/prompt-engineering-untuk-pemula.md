@@ -1071,7 +1071,6 @@ Pelajari juga panduan berikut:
 - [50 Prompt ChatGPT untuk Content Creator](/blog/50-prompt-chatgpt-untuk-content-creator/)
 - [50 Prompt ChatGPT untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 ---

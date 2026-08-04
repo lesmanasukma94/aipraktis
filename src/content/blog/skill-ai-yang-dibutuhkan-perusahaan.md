@@ -1638,7 +1638,6 @@ Pelajari juga panduan berikut:
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)

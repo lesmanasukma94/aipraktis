@@ -106,7 +106,6 @@ Jika Anda benar-benar pemula, mulai dari artikel ini.
 Setelah itu, Anda bisa lanjut ke:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
@@ -1161,7 +1160,6 @@ Output:
 
 Baca juga:
 
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 
 ---
@@ -1539,7 +1537,6 @@ Dari situlah perjalanan belajar AI dimulai.
 Pelajari juga panduan berikut:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
-- [Cara Belajar AI dari Nol](/blog/cara-belajar-ai-dari-nol/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 - [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
 - [Apakah AI Aman](/blog/ai-untuk-pemula/)
