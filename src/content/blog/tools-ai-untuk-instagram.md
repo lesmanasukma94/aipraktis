@@ -315,7 +315,7 @@ Jika masalahnya konsistensi posting, gunakan AI untuk kalender konten.
 
 Baca juga:
 
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Tools AI untuk Content Creator](/blog/tools-ai-untuk-content-creator/)
 

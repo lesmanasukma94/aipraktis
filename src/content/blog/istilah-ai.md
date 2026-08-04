@@ -2508,7 +2508,7 @@ Baca juga:
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
 ---
 

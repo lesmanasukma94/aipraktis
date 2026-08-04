@@ -105,5 +105,12 @@
                 "Location": "/blog/ai-untuk-toko-online/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-untuk-instagram-creator/?$",
+            "headers": {
+                "Location": "/blog/ai-untuk-instagram/"
+            },
+            "status": 308
         }]
 }

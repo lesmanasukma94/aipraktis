@@ -1223,7 +1223,7 @@ Baca juga:
 
 - [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
 ---
 
@@ -1393,7 +1393,7 @@ Jangan hanya copy-paste judul.
 
 Baca juga:
 
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
 
@@ -2757,7 +2757,7 @@ Pelajari juga panduan berikut:
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtuber/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)

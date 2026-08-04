@@ -885,7 +885,7 @@ Simpan kalau kamu sering pakai AI untuk kerja.
 Baca juga:
 
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram/)
 
 ---
 
@@ -2396,7 +2396,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
-- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)

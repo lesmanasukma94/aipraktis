@@ -288,7 +288,7 @@ Baca juga:
 
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
 - [AI untuk Youtuber](/blog/ai-untuk-youtuber/)
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
 ---
 
@@ -908,7 +908,7 @@ Simpan postingan ini kalau kamu ingin mulai bangun portofolio AI.
 
 Baca juga:
 
-- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 
 ---
@@ -967,7 +967,7 @@ Manfaat:
 
 Baca juga:
 
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Youtuber](/blog/ai-untuk-youtuber/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
@@ -2155,13 +2155,13 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 - [Prompt AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
-- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram-creator/)
+- [Prompt AI untuk Caption Instagram](/blog/ai-untuk-instagram/)
 - [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
-- [AI untuk Instagram Creator](/blog/ai-untuk-instagram-creator/)
+- [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
 - [AI untuk Youtuber](/blog/ai-untuk-youtuber/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
