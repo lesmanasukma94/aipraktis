@@ -158,7 +158,7 @@ Pelajari:
 Artikel terkait:
 
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
-* [AI untuk Sales](/blog/ai-untuk-sales/)
+* [AI untuk Sales](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 * [AI untuk Produktivitas](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 

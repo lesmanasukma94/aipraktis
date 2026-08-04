@@ -2042,7 +2042,7 @@ Dengan pendekatan yang tepat, AI bisa menjadi sistem pendukung utama untuk digit
 Pelajari juga panduan berikut:
 
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)

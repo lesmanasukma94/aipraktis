@@ -1543,7 +1543,7 @@ Jika email digunakan untuk layanan pelanggan, baca [AI untuk Customer Service](/
 
 Setelah notulen selesai, gunakan [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/) untuk mengubah hasil meeting menjadi keputusan, action items, dan email follow-up yang lebih rapi.
 
-Email sales akan lebih efektif jika masuk ke workflow penjualan yang jelas. Lanjutkan ke [AI untuk Sales](/blog/ai-untuk-sales/) untuk membuat outreach, follow-up, proposal, objection handling, dan CRM notes.
+Email sales akan lebih efektif jika masuk ke workflow penjualan yang jelas. Lanjutkan ke [AI untuk Sales](/blog/ai-untuk-penjualan/) untuk membuat outreach, follow-up, proposal, objection handling, dan CRM notes.
 
 ## Artikel Terkait
 

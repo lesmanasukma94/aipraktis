@@ -1008,7 +1008,7 @@ Contoh penerapan:
 Baca juga:
 
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 
 ---
@@ -1650,7 +1650,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)

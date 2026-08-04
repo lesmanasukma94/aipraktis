@@ -292,7 +292,7 @@ Jika masalahnya sales call tidak terdokumentasi, gunakan AI untuk membuat ringka
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
@@ -1059,7 +1059,6 @@ Ya. Bahkan UMKM dapat memperoleh manfaat besar karena AI membantu menghemat wakt
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [Tools AI untuk Marketing](/blog/tools-ai-untuk-marketing/)

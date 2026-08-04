@@ -82,7 +82,6 @@ Tim penjualan dapat menggunakan AI untuk meningkatkan efektivitas komunikasi den
 
 Artikel terkait:
 
-* [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)

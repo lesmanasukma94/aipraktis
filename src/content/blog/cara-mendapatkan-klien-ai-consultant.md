@@ -461,7 +461,7 @@ AI bisa membantu membuat:
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
 ## 4. Tim Belum Punya SOP AI

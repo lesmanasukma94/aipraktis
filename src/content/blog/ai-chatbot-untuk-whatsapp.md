@@ -1176,7 +1176,7 @@ Ya. AI chatbot dapat membantu membuat follow-up, menjawab pertanyaan produk, mer
 
 ---
 
-Jika WhatsApp menjadi channel utama penjualan, baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk membuat script follow-up, qualification, objection handling, dan closing yang lebih rapi tanpa spam.
+Jika WhatsApp menjadi channel utama penjualan, baca [AI untuk Sales](/blog/ai-untuk-penjualan/) untuk membuat script follow-up, qualification, objection handling, dan closing yang lebih rapi tanpa spam.
 
 Jika WhatsApp menjadi channel utama pelanggan, baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk membuat template balasan, SOP eskalasi, FAQ, chatbot, dan kontrol kualitas respons.
 

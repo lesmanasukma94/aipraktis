@@ -178,7 +178,7 @@ AI Specialist harus memahami bagaimana AI digunakan dalam dunia nyata.
 Artikel terkait:
 
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
-* [AI untuk Sales](/blog/ai-untuk-sales/)
+* [AI untuk Sales](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 * [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 

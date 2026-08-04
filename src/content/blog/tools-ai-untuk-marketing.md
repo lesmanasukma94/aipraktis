@@ -618,7 +618,7 @@ Tetap cek:
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [50 Prompt ChatGPT untuk Marketing](/blog/50-prompt-chatgpt-untuk-marketing/)
 
 ## 6. Tools AI untuk Email Marketing
@@ -1183,7 +1183,7 @@ Baca juga:
 - [50 Prompt ChatGPT untuk Marketing](/blog/50-prompt-chatgpt-untuk-marketing/)
 - [AI untuk Digital Marketing](/blog/ai-untuk-digital-marketing/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)

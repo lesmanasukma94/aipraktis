@@ -565,7 +565,7 @@ Contoh project:
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
@@ -1859,7 +1859,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/)
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
 - [AI untuk Guru](/blog/ai-untuk-guru/)

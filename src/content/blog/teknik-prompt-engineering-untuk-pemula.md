@@ -840,7 +840,7 @@ Gunakan bahasa ramah dan profesional.
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/)
 
 ---

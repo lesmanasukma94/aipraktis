@@ -23,7 +23,7 @@ ChatGPT telah menjadi salah satu tools Artificial Intelligence (AI) yang paling 
 
 Saat ini banyak perusahaan, UMKM, startup, dan bisnis online mulai memanfaatkan ChatGPT untuk membantu aktivitas penjualan sehari-hari.
 
-Untuk penerapan yang lebih strategis, baca [AI untuk Sales](/blog/ai-untuk-sales/) agar ChatGPT tidak hanya dipakai membuat pesan, tetapi masuk ke workflow ICP, qualification, follow-up, proposal, CRM, dan pipeline.
+Untuk penerapan yang lebih strategis, baca [AI untuk Sales](/blog/ai-untuk-penjualan/) agar ChatGPT tidak hanya dipakai membuat pesan, tetapi masuk ke workflow ICP, qualification, follow-up, proposal, CRM, dan pipeline.
 
 ## Apa Itu ChatGPT untuk Sales?
 
@@ -250,7 +250,6 @@ Jika ingin membuat email sales yang lebih sopan dan tidak terlalu hard selling, 
 
 ## Artikel Terkait
 
-* [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)

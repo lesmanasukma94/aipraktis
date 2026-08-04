@@ -375,7 +375,7 @@ AI bisa membantu membuat ide promo, kalender campaign, dan copy promosi.
 Baca juga:
 
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 
 ---
@@ -1125,7 +1125,7 @@ Format:
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 
 ---
@@ -1751,7 +1751,7 @@ Pelajari juga panduan berikut:
 - [AI Chatbot untuk Customer Service](/blog/ai-chatbot-untuk-customer-service/)
 - [AI Chatbot untuk Website](/blog/ai-chatbot-untuk-website/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)

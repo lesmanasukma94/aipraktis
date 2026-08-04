@@ -164,7 +164,7 @@ Layanan:
 
 Baca:
 
-* [AI untuk Sales](/blog/ai-untuk-sales/)
+* [AI untuk Sales](/blog/ai-untuk-penjualan/)
 * [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 
 ## 10. Jasa AI untuk Customer Service
@@ -625,7 +625,7 @@ Jasa ini cocok untuk:
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 

@@ -2003,7 +2003,7 @@ Tetapi AI bisa membuat proses marketing lebih terstruktur, lebih mudah diuji, da
 
 ---
 
-Setelah marketing menghasilkan leads, lanjutkan ke [AI untuk Sales](/blog/ai-untuk-sales/) agar lead bisa dikualifikasi, difollow-up, diberi proposal, ditangani keberatannya, dan diarahkan ke closing.
+Setelah marketing menghasilkan leads, lanjutkan ke [AI untuk Sales](/blog/ai-untuk-penjualan/) agar lead bisa dikualifikasi, difollow-up, diberi proposal, ditangani keberatannya, dan diarahkan ke closing.
 
 Marketing yang baik perlu didukung layanan pelanggan yang rapi. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) agar pertanyaan, komplain, feedback, dan pengalaman pelanggan lebih konsisten.
 

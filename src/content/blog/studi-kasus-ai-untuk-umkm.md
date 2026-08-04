@@ -1099,7 +1099,7 @@ Perbaiki produk, packing, pengiriman, atau komunikasi.
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
 
 ---
@@ -1576,7 +1576,7 @@ Pelajari juga panduan berikut:
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI Chatbot untuk Toko Online](/blog/ai-chatbot-untuk-toko-online/)
 - [AI Chatbot untuk WhatsApp](/blog/ai-chatbot-untuk-whatsapp/)

@@ -435,7 +435,7 @@ Jangan memaksa dan jangan hard selling berlebihan.
 Baca juga:
 
 - [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 
 ## 3. Tools AI untuk Customer Service
@@ -1044,7 +1044,7 @@ Baca juga:
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 - [Tools AI untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 - [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)

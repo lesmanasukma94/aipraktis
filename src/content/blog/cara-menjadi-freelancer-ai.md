@@ -326,7 +326,7 @@ Output:
 
 Baca:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/)
 
 ### Jasa Artikel SEO AI-Assisted

@@ -233,7 +233,7 @@ Gunakan AI untuk:
 
 Untuk contoh penerapan AI pada bisnis kecil, baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) yang menunjukkan bagaimana AI membantu promosi, customer service, stok, order, laporan, dan SOP.
 
-Salah satu penerapan AI paling penting dalam bisnis adalah penjualan. Baca [AI untuk Sales](/blog/ai-untuk-sales/) untuk memahami prospecting, follow-up, CRM, proposal, objection handling, pipeline, dan closing.
+Salah satu penerapan AI paling penting dalam bisnis adalah penjualan. Baca [AI untuk Sales](/blog/ai-untuk-penjualan/) untuk memahami prospecting, follow-up, CRM, proposal, objection handling, pipeline, dan closing.
 
 Salah satu penerapan AI paling penting dalam bisnis adalah layanan pelanggan. Baca [AI untuk Customer Service](/blog/ai-untuk-customer-service/) untuk memahami chatbot, ticketing, FAQ, knowledge base, komplain, dan quality control.
 
@@ -291,7 +291,6 @@ Bisnis yang ingin mendapatkan traffic organik dapat membaca [Cara Menggunakan AI
 * [AI untuk Penjualan](/blog/ai-untuk-penjualan/)
 * [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 * [AI untuk Marketing](/blog/ai-untuk-marketing/)
-* [AI untuk Sales](/blog/ai-untuk-sales/)
 * [AI untuk Customer Support](/blog/ai-untuk-customer-service/)
 * [50 Prompt ChatGPT untuk UMKM](/blog/50-prompt-chatgpt-untuk-umkm/)
 

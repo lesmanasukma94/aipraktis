@@ -233,7 +233,7 @@ Bisnis dapat melihat:
 
 Data ini dapat digunakan untuk memperbaiki landing page, iklan, penawaran, dan strategi konten.
 
-Setelah lead masuk, lanjutkan dengan workflow [AI untuk Sales](/blog/ai-untuk-sales/) agar prospek bisa dikualifikasi, difollow-up, dicatat di CRM, dan diarahkan ke next step yang jelas.
+Setelah lead masuk, lanjutkan dengan workflow [AI untuk Sales](/blog/ai-untuk-penjualan/) agar prospek bisa dikualifikasi, difollow-up, dicatat di CRM, dan diarahkan ke next step yang jelas.
 
 ---
 

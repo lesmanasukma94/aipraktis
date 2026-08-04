@@ -84,5 +84,12 @@
                 "Location": "/blog/strategi-ai-untuk-umkm-indonesia/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-untuk-sales/?$",
+            "headers": {
+                "Location": "/blog/ai-untuk-penjualan/"
+            },
+            "status": 308
         }]
 }

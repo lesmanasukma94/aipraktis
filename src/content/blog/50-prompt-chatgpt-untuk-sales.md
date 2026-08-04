@@ -49,7 +49,7 @@ Setiap prompt memiliki tujuan, masukan, aturan khusus, format output, dan pemeri
 
 ChatGPT membantu membuat draf dan mengorganisasi informasi. Sales tetap bertanggung jawab memeriksa fakta, memahami prospek, menjaga privasi, menghormati penolakan, menggunakan harga resmi, dan mengambil keputusan akhir.
 
-Baca juga [AI untuk Sales](/blog/ai-untuk-sales/), [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/), dan [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/) untuk membangun workflow yang lebih lengkap.
+Baca juga [AI untuk Sales](/blog/ai-untuk-penjualan/), [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/), dan [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/) untuk membangun workflow yang lebih lengkap.
 
 ## Mengapa Dua Artikel Sales Digabung
 
@@ -2095,7 +2095,7 @@ Tolak jika mengarang fakta, membuka data sensitif, memanipulasi prospek, membuat
 
 ## Artikel Terkait
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [ChatGPT untuk Sales](/blog/chatgpt-untuk-sales/)
 - [Tools AI untuk Sales](/blog/tools-ai-untuk-sales/)
 - [AI Chatbot untuk CRM](/blog/ai-chatbot-untuk-crm/)

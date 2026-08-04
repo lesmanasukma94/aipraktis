@@ -485,7 +485,7 @@ Skill:
 
 Baca juga:
 
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)
 - [AI Chatbot untuk Sales](/blog/ai-chatbot-untuk-sales/)
 
@@ -1660,7 +1660,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)
-- [AI untuk Sales](/blog/ai-untuk-sales/)
+- [AI untuk Sales](/blog/ai-untuk-penjualan/)
 - [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
 - [AI untuk UMKM Online Shop](/blog/ai-untuk-umkm-online-shop/)
 - [AI untuk Guru](/blog/ai-untuk-guru/)
