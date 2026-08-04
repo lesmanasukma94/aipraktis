@@ -322,7 +322,7 @@ Jika caption selalu sama, gunakan AI untuk membuat variasi caption dan CTA.
 
 Baca juga:
 
-- [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
+- [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Tools AI untuk Content Creator](/blog/tools-ai-untuk-content-creator/)
 

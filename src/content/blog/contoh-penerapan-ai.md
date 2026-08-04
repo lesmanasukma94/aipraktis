@@ -506,7 +506,7 @@ Baca juga:
 
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtube/)
-- [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
+- [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 
 ---
 
@@ -950,7 +950,7 @@ Baca juga:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtube/)
-- [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
+- [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 
 ---

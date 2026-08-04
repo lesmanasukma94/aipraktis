@@ -119,5 +119,12 @@
                 "Location": "/blog/ai-untuk-youtube/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-untuk-tiktoker/?$",
+            "headers": {
+                "Location": "/blog/ai-untuk-tiktok/"
+            },
+            "status": 308
         }]
 }

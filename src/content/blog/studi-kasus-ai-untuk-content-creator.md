@@ -968,7 +968,7 @@ Manfaat:
 Baca juga:
 
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
-- [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
+- [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Youtuber](/blog/ai-untuk-youtube/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
 
@@ -2162,7 +2162,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
-- [AI untuk TikToker](/blog/ai-untuk-tiktoker/)
+- [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Youtuber](/blog/ai-untuk-youtube/)
 - [AI untuk Blogger](/blog/ai-untuk-blogger/)
 - [Cara Membangun Portofolio AI](/blog/cara-membangun-portofolio-ai/)
