@@ -565,7 +565,7 @@ Berikan rekomendasi revisi yang spesifik.
 Baca juga:
 
 - [AI Content Editor](/blog/ai-content-editor/)
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 
 ## 6. Tools AI untuk SEO Artikel
 

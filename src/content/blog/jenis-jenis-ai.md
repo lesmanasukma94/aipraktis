@@ -1177,7 +1177,7 @@ Baca juga:
 - [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 
 ---
 

@@ -692,7 +692,7 @@ Tools yang bisa digunakan:
 
 Baca juga:
 
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 - [AI untuk Podcaster](/blog/ai-untuk-podcaster/)
 
 ---

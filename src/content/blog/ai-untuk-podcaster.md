@@ -1650,7 +1650,7 @@ Template WhatsApp Customer Service untuk UMKM
 Baca juga:
 
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 
 ---
 
@@ -3060,7 +3060,7 @@ Pelajari juga panduan berikut:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 - [AI untuk YouTuber](/blog/ai-untuk-youtube/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)

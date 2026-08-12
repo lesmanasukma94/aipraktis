@@ -321,7 +321,7 @@ Baca juga:
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 
 ---
 

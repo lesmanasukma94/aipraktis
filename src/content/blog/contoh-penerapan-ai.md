@@ -976,7 +976,7 @@ Tetapi artikel tetap harus diedit manusia.
 
 Baca juga:
 
-- [AI untuk Blogger](/blog/ai-untuk-blogger/)
+- [AI untuk Blogger](/blog/ai-untuk-blogging/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 
