@@ -1074,7 +1074,7 @@ Setelah riset selesai, hasilnya bisa diubah menjadi slide. Baca [Prompt ChatGPT 
 
 Jika riset Anda digunakan untuk artikel blog atau website, lanjutkan ke [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/) agar riset bisa diubah menjadi keyword, search intent, content brief, outline artikel, dan internal link.
 
-Riset akan lebih berguna jika diubah menjadi artikel yang rapi. Baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk mengubah hasil riset menjadi konten blog yang jelas dan SEO-friendly.
+Riset akan lebih berguna jika diubah menjadi artikel yang rapi. Baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) untuk mengubah hasil riset menjadi konten blog yang jelas dan SEO-friendly.
 
 ## Artikel Terkait
 

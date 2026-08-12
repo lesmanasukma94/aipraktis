@@ -1664,7 +1664,7 @@ Untuk kebutuhan menulis materi ajar, instruksi tugas, feedback siswa, dan email 
 
 Jika writing tools ingin diterapkan langsung ke pekerjaan kantor, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) untuk contoh penggunaan AI dalam email, laporan, notulen, proposal, dan komunikasi profesional.
 
-Jika ingin menerapkan writing tools ke workflow artikel blog, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk memahami langkah dari riset, outline, draft, editing, SEO, fact-checking, sampai publish.
+Jika ingin menerapkan writing tools ke workflow artikel blog, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) untuk memahami langkah dari riset, outline, draft, editing, SEO, fact-checking, sampai publish.
 
 Agar tulisan tidak hanya rapi tetapi juga berbasis sumber yang kuat, baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) sebelum mengubah ide menjadi artikel, laporan, atau konten panjang.
 

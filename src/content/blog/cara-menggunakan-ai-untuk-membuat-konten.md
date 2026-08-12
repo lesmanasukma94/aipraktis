@@ -809,7 +809,7 @@ Ubah ide "AI membantu membuat konten harian lebih konsisten" menjadi artikel blo
 
 Baca juga:
 
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 
 ---
@@ -1225,7 +1225,7 @@ Ubah ide "konten harian dengan AI" menjadi artikel blog SEO untuk pemula, UMKM, 
 
 Baca juga:
 
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 
 ---
@@ -1577,7 +1577,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
 - [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)

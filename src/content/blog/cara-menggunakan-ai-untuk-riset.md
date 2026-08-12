@@ -108,7 +108,7 @@ Baca juga:
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 
 ---
 
@@ -689,7 +689,7 @@ Buatkan outline artikel blog dari hasil riset berikut. Target pembaca pemilik UM
 Baca juga:
 
 - [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1417,7 +1417,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)

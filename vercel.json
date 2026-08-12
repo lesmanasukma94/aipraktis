@@ -126,5 +126,12 @@
                 "Location": "/blog/ai-untuk-tiktok/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/cara-menggunakan-ai-untuk-menulis-artikel/?$",
+            "headers": {
+                "Location": "/blog/ai-untuk-menulis-artikel/"
+            },
+            "status": 308
         }]
 }

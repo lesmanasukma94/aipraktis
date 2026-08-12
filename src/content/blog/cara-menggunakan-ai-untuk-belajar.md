@@ -1349,7 +1349,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/)
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
 - [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)

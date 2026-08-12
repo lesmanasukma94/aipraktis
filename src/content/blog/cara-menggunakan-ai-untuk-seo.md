@@ -87,7 +87,7 @@ Baca juga:
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1833,7 +1833,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)

@@ -1622,7 +1622,7 @@ Dari situ, Anda akan mulai memahami bagaimana AI bisa menjadi bagian dari cara k
 
 ---
 
-Jika pekerjaan Anda berkaitan dengan content writing atau blog, lanjutkan ke [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk workflow lengkap dari ide sampai publish.
+Jika pekerjaan Anda berkaitan dengan content writing atau blog, lanjutkan ke [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) untuk workflow lengkap dari ide sampai publish.
 
 Jika pekerjaan Anda membutuhkan slide, baca [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk membuat presentasi kerja, laporan, pitch deck, training, dan speaker notes dengan AI.
 

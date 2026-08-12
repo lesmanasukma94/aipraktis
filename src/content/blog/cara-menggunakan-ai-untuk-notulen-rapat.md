@@ -980,7 +980,7 @@ Cocok untuk:
 Baca juga:
 
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
-- [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/)
+- [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 
 ---
 

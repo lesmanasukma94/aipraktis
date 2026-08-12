@@ -230,7 +230,7 @@ Content creator yang ingin membuat visual lebih cepat dapat membaca [AI Tools un
 
 Untuk produksi konten video yang lebih cepat, baca [AI Tools untuk Video](/blog/ai-tools-untuk-video/) yang membahas tools untuk script, editing, subtitle, voice-over, avatar, dan repurposing video panjang.
 
-Content creator yang ingin mengembangkan ide menjadi artikel blog dapat membaca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk memahami proses riset, outline, draft, editing, dan SEO.
+Content creator yang ingin mengembangkan ide menjadi artikel blog dapat membaca [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) untuk memahami proses riset, outline, draft, editing, dan SEO.
 
 Content creator yang ingin mengembangkan blog atau website dapat membaca [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/) untuk memahami riset keyword, artikel SEO, internal link, dan update konten.
 

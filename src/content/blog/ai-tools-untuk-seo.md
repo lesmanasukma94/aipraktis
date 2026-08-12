@@ -1978,7 +1978,7 @@ Dengan workflow yang benar, AI tools untuk SEO dapat membantu website tumbuh leb
 
 ---
 
-Untuk menerapkan SEO ke proses penulisan, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) agar keyword, search intent, outline, meta description, dan internal link masuk ke workflow artikel.
+Untuk menerapkan SEO ke proses penulisan, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) agar keyword, search intent, outline, meta description, dan internal link masuk ke workflow artikel.
 
 SEO yang baik membutuhkan riset sumber dan search intent yang jelas. Baca [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/) agar proses mencari referensi, membandingkan informasi, dan menyusun insight lebih aman.
 

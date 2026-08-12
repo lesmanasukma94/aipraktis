@@ -2012,7 +2012,7 @@ Guru yang sering membuat materi dari modul, PDF, atau sumber belajar dapat memba
 
 Untuk mengubah riset menjadi output kerja yang rapi, baca [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/) agar hasil riset bisa menjadi laporan, presentasi, insight, dan action items.
 
-Setelah sumber terkumpul, gunakan panduan [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) untuk mengubah riset menjadi outline, draft artikel, FAQ, internal link, dan konten siap publish.
+Setelah sumber terkumpul, gunakan panduan [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) untuk mengubah riset menjadi outline, draft artikel, FAQ, internal link, dan konten siap publish.
 
 Setelah riset selesai, gunakan [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk mengubah hasil riset menjadi slide, insight, rekomendasi, dan Q&A presentasi.
 

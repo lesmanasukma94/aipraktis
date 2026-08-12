@@ -1296,7 +1296,7 @@ Untuk memperkuat riset konten SEO, gunakan [AI Tools untuk Riset](/blog/ai-tools
 
 Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/) untuk membandingkan Google Search Console, GA4, Semrush, Ahrefs, Screaming Frog, Surfer SEO, Rank Math, Yoast, dan tools pendukung lain.
 
-Jika ingin memakai prompt SEO untuk menulis artikel dari nol, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/cara-menggunakan-ai-untuk-menulis-artikel/) yang membahas workflow riset, outline, draft, editing, dan fact-checking.
+Jika ingin memakai prompt SEO untuk menulis artikel dari nol, baca [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) yang membahas workflow riset, outline, draft, editing, dan fact-checking.
 
 ## Artikel Terkait
 
