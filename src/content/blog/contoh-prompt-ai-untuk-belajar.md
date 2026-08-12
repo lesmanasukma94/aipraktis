@@ -1021,7 +1021,7 @@ Pelajari juga panduan berikut:
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
 - [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)

@@ -110,7 +110,7 @@ Baca juga:
 
 - [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/)
 - [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
 
@@ -1340,7 +1340,7 @@ Pelajari juga panduan berikut:
 
 - [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/)
 - [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)

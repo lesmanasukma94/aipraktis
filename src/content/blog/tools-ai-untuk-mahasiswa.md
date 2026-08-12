@@ -352,7 +352,7 @@ Baca juga:
 
 - [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 
 ---
 
@@ -1039,7 +1039,7 @@ Baca juga:
 
 - [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 - [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)

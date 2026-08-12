@@ -133,5 +133,12 @@
                 "Location": "/blog/ai-untuk-menulis-artikel/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/20-prompt-ai-untuk-mahasiswa/?$",
+            "headers": {
+                "Location": "/blog/50-prompt-chatgpt-untuk-mahasiswa/"
+            },
+            "status": 308
         }]
 }

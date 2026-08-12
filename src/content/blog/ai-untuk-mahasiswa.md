@@ -138,7 +138,7 @@ Artikel ini membahas cara menggunakan AI untuk mahasiswa secara praktis, aman, d
 
 Baca juga:
 
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 - [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/)
@@ -1387,7 +1387,7 @@ Dengan pendekatan yang benar, AI bisa membantu mahasiswa belajar lebih terarah, 
 
 Pelajari juga panduan berikut:
 
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
 - [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 - [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)

@@ -1945,7 +1945,7 @@ Ikuti kebijakan sekolah dan konteks aktivitas. Transparansi membantu siswa memah
 - [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
-- [20 Prompt AI untuk Mahasiswa](/blog/20-prompt-ai-untuk-mahasiswa/)
+- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 - [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
 - [Prompt Engineering](/prompt-engineering/)
