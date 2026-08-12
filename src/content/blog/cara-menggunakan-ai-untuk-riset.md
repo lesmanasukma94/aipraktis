@@ -1419,7 +1419,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)

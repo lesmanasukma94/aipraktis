@@ -1581,7 +1581,7 @@ Jika email pelanggan berisi pertanyaan, komplain, refund, atau follow-up layanan
 
 Untuk lead yang sudah menunjukkan minat dan siap diarahkan ke penjualan, lanjutkan ke [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/) agar follow-up, discovery, proposal, dan closing lebih terstruktur.
 
-Email marketing membutuhkan writing tools yang tepat. Baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools subject line, newsletter, sequence, proofreading, dan tone email.
+Email marketing membutuhkan writing tools yang tepat. Baca [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/) untuk memilih tools subject line, newsletter, sequence, proofreading, dan tone email.
 
 Untuk workflow email yang lebih luas, baca [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/) yang membahas email profesional, subject line, newsletter, follow-up, sequence, dan audit email sebelum dikirim.
 

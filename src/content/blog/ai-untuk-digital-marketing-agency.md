@@ -843,7 +843,7 @@ Gunakan brand context berikut:
 Baca juga:
 
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -2057,7 +2057,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/)

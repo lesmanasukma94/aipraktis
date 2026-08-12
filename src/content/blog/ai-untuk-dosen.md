@@ -568,7 +568,7 @@ Jangan menambahkan hasil yang tidak saya berikan.
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 
 ---
@@ -2056,7 +2056,7 @@ Pelajari juga panduan berikut:
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [Cara Menggunakan AI untuk Notulen Rapat](/blog/cara-menggunakan-ai-untuk-notulen-rapat/)
 - [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/)

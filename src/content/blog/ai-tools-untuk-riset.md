@@ -114,7 +114,7 @@ Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1094,7 +1094,7 @@ Buat struktur folder sejak awal:
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
 
 ---
@@ -1271,7 +1271,7 @@ Buatkan database riset untuk artikel SEO. Kolom: topik, keyword, sumber, insight
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -2023,7 +2023,7 @@ Jika hasil riset Anda berupa data tabel, gunakan [Cara Menggunakan AI untuk Exce
 Pelajari juga panduan berikut:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)

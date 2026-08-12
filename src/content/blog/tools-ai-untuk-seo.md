@@ -532,7 +532,7 @@ Batasan:
 Baca juga:
 
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 

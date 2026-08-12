@@ -725,7 +725,7 @@ Buat 3 alternatif kalimat transisi yang akademik dan natural.
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---

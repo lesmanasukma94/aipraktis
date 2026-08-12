@@ -1835,7 +1835,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)

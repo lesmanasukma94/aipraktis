@@ -1004,7 +1004,7 @@ Mulai dari sederhana:
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 
 ---
@@ -2081,7 +2081,7 @@ Pelajari juga panduan berikut:
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)

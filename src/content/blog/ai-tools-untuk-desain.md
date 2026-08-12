@@ -96,7 +96,7 @@ Artikel ini membahas AI tools untuk desain yang cocok untuk pemula, UMKM, conten
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 
 ---
@@ -402,7 +402,7 @@ Misalnya:
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)
 
 ---
@@ -1583,7 +1583,7 @@ Jika visual desain ingin dipakai dalam slide, baca [Cara Menggunakan AI untuk Me
 Pelajari juga panduan berikut:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)

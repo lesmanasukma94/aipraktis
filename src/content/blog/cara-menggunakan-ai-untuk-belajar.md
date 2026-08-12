@@ -621,7 +621,7 @@ Buatkan daftar 30 kosakata bahasa Inggris untuk topik [topik]. Sertakan arti, co
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 
 ---
@@ -1353,7 +1353,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
 - [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 

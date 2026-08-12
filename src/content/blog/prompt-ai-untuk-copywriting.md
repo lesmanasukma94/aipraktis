@@ -1282,7 +1282,7 @@ Selain membuat copy promosi, bisnis juga perlu menjaga kualitas layanan. Baca [P
 
 Setelah copy promosi menarik perhatian calon pelanggan, gunakan [Prompt AI untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/) untuk membuat pesan follow-up, objection handling, WhatsApp sales, dan closing.
 
-Untuk memilih tools copywriting yang tepat, baca juga [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) yang membahas tools untuk headline, iklan, landing page, email, caption, dan sales copy.
+Untuk memilih tools copywriting yang tepat, baca juga [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/) yang membahas tools untuk headline, iklan, landing page, email, caption, dan sales copy.
 
 Copywriting yang kuat perlu visual yang mendukung. Gunakan [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) untuk membuat poster, banner, landing page visual, thumbnail, dan materi promosi.
 

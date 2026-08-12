@@ -124,7 +124,7 @@ Artikel ini membahas AI tools untuk social media yang cocok untuk pemula, UMKM, 
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
@@ -487,7 +487,7 @@ Ubah artikel panjang ini menjadi 5 caption Instagram edukatif, 3 thread, dan 5 h
 Baca juga:
 
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1282,7 +1282,7 @@ Buat database sederhana:
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -2081,7 +2081,7 @@ Agency social media dapat membaca [AI untuk Digital Marketing Agency](/blog/ai-u
 Pelajari juga panduan berikut:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)

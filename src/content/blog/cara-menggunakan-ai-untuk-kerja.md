@@ -91,7 +91,7 @@ Baca juga:
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)
 - [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -435,7 +435,7 @@ Pastikan:
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 
 ---
@@ -1230,7 +1230,7 @@ Cocok untuk:
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 
@@ -1644,7 +1644,7 @@ Pelajari juga panduan berikut:
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)

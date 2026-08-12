@@ -1084,7 +1084,7 @@ Fokus pada langkah praktis.
 Baca juga:
 
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1595,7 +1595,7 @@ Pelajari juga panduan berikut:
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)

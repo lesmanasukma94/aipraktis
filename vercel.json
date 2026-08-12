@@ -147,5 +147,12 @@
                 "Location": "/blog/ai-untuk-blogging/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-tools-untuk-menulis/?$",
+            "headers": {
+                "Location": "/blog/tools-ai-untuk-menulis-artikel/"
+            },
+            "status": 308
         }]
 }

@@ -1438,7 +1438,7 @@ Pelajari juga panduan berikut:
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Produktivitas](/blog/prompt-chatgpt-untuk-produktivitas/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)

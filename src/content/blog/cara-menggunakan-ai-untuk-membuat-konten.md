@@ -1574,7 +1574,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
 - [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)

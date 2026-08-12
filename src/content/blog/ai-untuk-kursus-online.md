@@ -2188,7 +2188,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI untuk Marketing](/blog/ai-untuk-marketing/)

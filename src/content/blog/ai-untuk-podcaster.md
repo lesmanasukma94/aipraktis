@@ -244,7 +244,7 @@ Baca juga:
 
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1182,7 +1182,7 @@ File final tersimpan
 Baca juga:
 
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -3069,7 +3069,7 @@ Pelajari juga panduan berikut:
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI untuk Kursus Online](/blog/ai-untuk-kursus-online/)
 - [Cara Membangun Portofolio AI](/blog/cara-membangun-portofolio-ai/)

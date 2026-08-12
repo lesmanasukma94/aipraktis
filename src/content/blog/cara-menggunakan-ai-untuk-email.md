@@ -102,7 +102,7 @@ Artikel ini membahas cara menggunakan AI untuk membuat email profesional dan fol
 Baca juga:
 
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 
@@ -1175,7 +1175,7 @@ Untuk email bahasa Inggris, cek:
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 
 ---
@@ -1252,7 +1252,7 @@ Cocok untuk:
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -1550,7 +1550,7 @@ Email sales akan lebih efektif jika masuk ke workflow penjualan yang jelas. Lanj
 Pelajari juga panduan berikut:
 
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [Prompt AI untuk Email Marketing](/blog/prompt-ai-untuk-email-marketing/)
 - [Prompt AI untuk Customer Service](/blog/prompt-ai-untuk-customer-service/)

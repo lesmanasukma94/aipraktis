@@ -1689,7 +1689,7 @@ Dengan cara ini, AI tools tidak hanya menjadi tren, tetapi benar-benar menjadi s
 
 ---
 
-Jika kebutuhan utama Anda adalah membuat tulisan, lanjutkan ke [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk memilih tools AI yang cocok untuk artikel, blog, email, copywriting, caption, proposal, dan editing.
+Jika kebutuhan utama Anda adalah membuat tulisan, lanjutkan ke [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/) untuk memilih tools AI yang cocok untuk artikel, blog, email, copywriting, caption, proposal, dan editing.
 
 Jika kebutuhan utama Anda adalah membuat visual, lanjutkan ke [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) untuk memilih tools AI yang cocok untuk poster, logo, gambar, carousel, thumbnail, presentasi, dan konten visual.
 

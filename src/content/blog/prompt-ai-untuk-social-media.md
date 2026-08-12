@@ -1368,7 +1368,7 @@ Setelah konten social media menarik audiens baru, Anda bisa melanjutkan hubungan
 
 Agar produksi konten lebih cepat, gunakan juga panduan [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/) untuk memilih tools desain, writing, riset, kalender konten, dan otomasi.
 
-Untuk mempercepat caption, script, carousel, dan konten pendek, baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) agar workflow writing social media lebih rapi.
+Untuk mempercepat caption, script, carousel, dan konten pendek, baca [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/) agar workflow writing social media lebih rapi.
 
 Untuk membuat visual konten social media lebih cepat, baca [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) agar ide caption, hook, dan carousel bisa diubah menjadi desain yang siap dipublikasikan.
 

@@ -425,7 +425,7 @@ Baca juga:
 - [AI Tools Terbaik untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 
 ---
 
@@ -2160,7 +2160,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI untuk Instagram Creator](/blog/ai-untuk-instagram/)
 - [AI untuk TikToker](/blog/ai-untuk-tiktok/)
 - [AI untuk Youtuber](/blog/ai-untuk-youtube/)

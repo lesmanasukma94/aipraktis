@@ -1080,7 +1080,7 @@ Cocok untuk:
 Baca juga:
 
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 
 ---
@@ -1401,7 +1401,7 @@ Pelajari juga panduan berikut:
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)
 - [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)

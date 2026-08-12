@@ -1015,7 +1015,7 @@ Jika digunakan dengan prompt yang jelas dan proses editing yang baik, ChatGPT da
 
 ---
 
-Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/) untuk membandingkan ChatGPT, Claude, Gemini, Grammarly, Notion AI, Jasper, Copy.ai, Canva AI, QuillBot, dan Hemingway.
+Selain prompt, pemilihan tools juga penting. Baca [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/) untuk membandingkan ChatGPT, Claude, Gemini, Grammarly, Notion AI, Jasper, Copy.ai, Canva AI, QuillBot, dan Hemingway.
 
 Untuk workflow lengkap dari prompt menjadi artikel siap publish, lanjutkan ke [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/) agar proses ide, outline, draft, editing, dan SEO lebih terarah.
 

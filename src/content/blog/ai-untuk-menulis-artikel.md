@@ -363,7 +363,7 @@ Pilih link berdasarkan kebutuhan pembaca.
 Contoh:
 
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
@@ -900,7 +900,7 @@ Dokumentasi berikut diperiksa pada 4 Agustus 2026. Kebijakan dan fitur Search da
 
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk Riset](/blog/cara-menggunakan-ai-untuk-riset/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)

@@ -526,7 +526,7 @@ Jangan langsung presentasi dari deck yang baru dibuat AI tanpa review.
 
 Baca juga:
 
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 
 ---
@@ -1725,7 +1725,7 @@ Jika presentasi membutuhkan data, baca [Cara Menggunakan AI untuk Excel](/blog/c
 Pelajari juga panduan berikut:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [Prompt ChatGPT untuk Presentasi](/blog/prompt-chatgpt-untuk-presentasi/)

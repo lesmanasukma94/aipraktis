@@ -1181,7 +1181,7 @@ Cocok untuk:
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 
 ---
@@ -1663,7 +1663,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Guru](/blog/ai-untuk-guru/)
 - [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)

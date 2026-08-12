@@ -93,7 +93,7 @@ Artikel ini membahas AI tools untuk video yang cocok untuk pemula, UMKM, content
 Baca juga:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 
 ---
@@ -1781,7 +1781,7 @@ Slide juga bisa menjadi bahan video edukasi. Gunakan [Cara Menggunakan AI untuk 
 Pelajari juga panduan berikut:
 
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Menulis](/blog/ai-tools-untuk-menulis/)
+- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [Prompt AI untuk Social Media](/blog/prompt-ai-untuk-social-media/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
