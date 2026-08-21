@@ -318,7 +318,7 @@ Setelah menguasai AI, berbagai jalur karier terbuka.
 * [AI Consultant](/blog/ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
 * [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)

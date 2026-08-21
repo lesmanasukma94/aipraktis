@@ -154,5 +154,12 @@
                 "Location": "/blog/tools-ai-untuk-menulis-artikel/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/skill-ai-yang-harus-dipelajari/?$",
+            "headers": {
+                "Location": "/blog/skill-ai-yang-dibutuhkan-perusahaan/"
+            },
+            "status": 308
         }]
 }

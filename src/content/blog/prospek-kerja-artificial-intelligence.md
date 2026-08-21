@@ -252,7 +252,7 @@ Mereka yang mulai belajar hari ini memiliki peluang besar untuk mendapatkan keun
 * [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
 * [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 ## Kesimpulan
 

@@ -1011,7 +1011,7 @@ Gunakan format tabel.
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
 * [50 Prompt ChatGPT untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 ## Kesimpulan
 

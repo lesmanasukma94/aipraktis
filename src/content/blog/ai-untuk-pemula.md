@@ -107,7 +107,7 @@ Setelah itu, Anda bisa lanjut ke:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 
 ---
@@ -1202,7 +1202,7 @@ Mampu memakai AI tanpa melanggar privasi, kejujuran, dan aturan.
 
 Baca juga:
 
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
 
@@ -1538,7 +1538,7 @@ Pelajari juga panduan berikut:
 
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Apakah AI Aman](/blog/ai-untuk-pemula/)
 - [Kesalahan Pemula Saat Belajar AI](/blog/ai-untuk-pemula/)
 - [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)

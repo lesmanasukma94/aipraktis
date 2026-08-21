@@ -108,7 +108,7 @@ Di masa depan, kemampuan menggunakan AI kemungkinan akan menjadi keterampilan da
 
 Pelajari:
 
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 * [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 * [Jasa AI yang Paling Laku](/blog/jasa-ai-yang-paling-laku/)
@@ -231,7 +231,7 @@ Jika Anda baru mengenal AI, ikuti urutan berikut:
 3. [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 4. [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 5. [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
-6. [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+6. [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 7. [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 8. [Bisnis AI untuk Pemula](/blog/bisnis-ai-untuk-pemula/)
 

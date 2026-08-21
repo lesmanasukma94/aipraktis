@@ -939,7 +939,7 @@ Baca juga:
 - [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
 - [Roadmap Menjadi AI Consultant](/blog/roadmap-menjadi-ai-consultant/)
 - [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
-- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 - [Cara Mendapatkan Klien AI Consultant](/blog/cara-mendapatkan-klien-ai-consultant/)
 

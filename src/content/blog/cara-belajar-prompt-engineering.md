@@ -256,7 +256,7 @@ Baca juga:
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 - [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [AI Consultant](/blog/ai-consultant/)
 - [AI Specialist](/blog/ai-specialist/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)

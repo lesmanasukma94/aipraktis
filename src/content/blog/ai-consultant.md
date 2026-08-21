@@ -298,7 +298,7 @@ Profesi ini menjadi salah satu peluang karier paling menarik di era Artificial I
 * [AI Specialist](/blog/ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [AI Trainer](/blog/ai-trainer/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)

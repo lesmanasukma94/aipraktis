@@ -203,7 +203,7 @@ Sebaliknya, jika siswa memahami AI, mereka bisa memakai AI untuk:
 
 Baca juga:
 
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Skill AI yang Dibutuhkan Perusahaan](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Karier AI untuk Pemula](/blog/karier-ai-untuk-pemula/)
 

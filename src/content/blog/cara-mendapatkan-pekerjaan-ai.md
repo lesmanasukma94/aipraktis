@@ -264,7 +264,7 @@ Baca juga:
 - [Prompt Engineer](/blog/prompt-engineer/)
 - [AI Consultant](/blog/ai-consultant/)
 - [AI Trainer](/blog/ai-trainer/)
-- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Kursus AI Gratis Terbaik](/blog/kursus-ai-gratis-terbaik/)
 - [Sertifikasi AI Gratis](/blog/sertifikasi-ai-gratis/)
 - [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)

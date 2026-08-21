@@ -259,7 +259,7 @@ Baca juga:
 - [Cara Membuat AI Agent](/blog/cara-membuat-ai-agent/)
 - [Prompt Engineer](/blog/prompt-engineer/)
 - [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
-- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Alternatif ChatGPT Terbaik](/blog/alternatif-chatgpt-terbaik/)
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 

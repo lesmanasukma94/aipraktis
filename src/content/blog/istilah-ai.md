@@ -250,7 +250,7 @@ Machine learning sering disingkat ML.
 
 Baca juga:
 
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 
 ---
@@ -2758,7 +2758,7 @@ Pelajari juga panduan berikut:
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Apa Itu AI](/blog/apa-itu-ai/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)

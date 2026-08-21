@@ -327,7 +327,7 @@ Baca juga:
 - [AI Consultant](/blog/ai-consultant/)
 - [Prompt Engineer](/blog/prompt-engineer/)
 - [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
-- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Prospek Kerja Artificial Intelligence](/blog/prospek-kerja-artificial-intelligence/)
 - [Cara Membuat Chatbot dengan AI](/blog/cara-membuat-chatbot-dengan-ai/)
 - [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)

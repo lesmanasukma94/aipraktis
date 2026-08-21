@@ -242,7 +242,7 @@ Beberapa keterampilan yang penting dipelajari:
 
 Pelajari juga:
 
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 Keterampilan tersebut akan semakin penting di masa depan.
 

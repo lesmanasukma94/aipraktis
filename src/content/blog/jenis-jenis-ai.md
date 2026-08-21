@@ -503,7 +503,7 @@ Jika sistem diberi ribuan contoh email spam, sistem bisa belajar mengenali email
 Baca juga:
 
 - [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 ---
 
@@ -1475,7 +1475,7 @@ Pelajari juga panduan berikut:
 - [Istilah AI yang Harus Diketahui](/blog/istilah-ai/)
 - [Contoh Penerapan AI](/blog/contoh-penerapan-ai/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [AI Tools Terbaik](/blog/15-tools-ai-gratis-terbaik-2026/)

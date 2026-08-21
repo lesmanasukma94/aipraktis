@@ -334,7 +334,7 @@ Untuk pemula, mulai dari kursus yang membahas:
 Baca juga:
 
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 ---
 

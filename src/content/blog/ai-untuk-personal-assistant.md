@@ -267,7 +267,7 @@ Tidak sepenuhnya. AI membantu tugas administratif, tetapi banyak aspek tetap mem
 * [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [Cara Meningkatkan Produktivitas dengan AI](/blog/cara-meningkatkan-produktivitas-dengan-ai/)
 * [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 ## Jelajahi Panduan AI Lainnya
 

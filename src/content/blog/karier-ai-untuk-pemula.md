@@ -94,7 +94,7 @@ Baca juga:
 
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 
 ---
@@ -1650,7 +1650,7 @@ Pelajari juga panduan berikut:
 
 - [AI untuk Pemula](/blog/ai-untuk-pemula/)
 - [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
-- [Skill AI](/blog/skill-ai-yang-harus-dipelajari/)
+- [Skill AI](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 - [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
 - [Struktur Prompt AI yang Baik](/blog/struktur-prompt-ai-yang-baik/)
 - [Contoh Prompt AI untuk Kerja](/blog/contoh-prompt-ai-untuk-kerja/)

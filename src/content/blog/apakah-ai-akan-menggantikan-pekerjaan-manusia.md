@@ -369,7 +369,7 @@ Ketakutan sering kali berkurang ketika kita mulai memahami sesuatu.
 * [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 * [Pekerjaan yang Akan Berubah Karena AI](/blog/pekerjaan-yang-akan-berubah-karena-ai/)
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Cara Belajar AI dari Nol](/blog/roadmap-belajar-ai/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 

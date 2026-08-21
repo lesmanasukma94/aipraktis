@@ -320,7 +320,7 @@ Mulailah dengan satu aktivitas yang paling sering dilakukan dan gunakan AI untuk
 * [Cara Menggunakan ChatGPT untuk Pekerjaan Sehari-hari](/blog/cara-menggunakan-chatgpt-untuk-pekerjaan-sehari-hari/)
 * [AI untuk Freelancer](/blog/ai-untuk-freelancer/)
 * [AI untuk Customer Service](/blog/ai-untuk-customer-service/)
-* [Skill AI yang Harus Dipelajari Tahun 2026](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari Tahun 2026](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 
 ## Jelajahi Panduan AI Lainnya
 

@@ -298,7 +298,7 @@ Karena itu Prompt Engineering diperkirakan akan menjadi salah satu keterampilan 
 * [AI Specialist](/blog/ai-specialist/)
 * [AI Consultant](/blog/ai-consultant/)
 * [AI Trainer](/blog/ai-trainer/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 * [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)

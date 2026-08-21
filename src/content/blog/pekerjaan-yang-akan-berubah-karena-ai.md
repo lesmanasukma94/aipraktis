@@ -257,7 +257,7 @@ Belajar menggunakan AI, meningkatkan keterampilan, dan terus beradaptasi dengan 
 ## Artikel Terkait
 
 * [Pusat Karier AI](/blog/pusat-karier-ai/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Cara Menjadi Freelancer AI](/blog/cara-menjadi-freelancer-ai/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 * [Pekerjaan yang Tidak Akan Digantikan AI](/blog/pekerjaan-yang-tidak-akan-digantikan-ai/)

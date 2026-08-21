@@ -1215,7 +1215,7 @@ Fokus pada hasil nyata dan contoh output, bukan klaim berlebihan.
 * [AI Trainer](/blog/ai-trainer/)
 * [Cara Membuat Prompt yang Baik](/blog/cara-membuat-prompt-yang-baik/)
 * [Teknik Prompt Engineering untuk Pemula](/blog/teknik-prompt-engineering-untuk-pemula/)
-* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-harus-dipelajari/)
+* [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Roadmap Belajar AI](/blog/roadmap-belajar-ai/)
 * [Cara Menghasilkan Uang dengan AI](/blog/cara-menghasilkan-uang-dengan-ai/)
 
