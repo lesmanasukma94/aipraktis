@@ -756,7 +756,7 @@ Untuk siswa yang masih membutuhkan pendampingan, guru dan orang tua dapat memban
 
 Tujuannya bukan melarang seluruh penggunaan AI, tetapi membantu siswa menggunakannya secara aman, jujur, dan bermanfaat.
 
-Panduan penggunaan AI dalam kegiatan pembelajaran juga dapat dibaca pada [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/) dan [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/).
+Panduan penggunaan AI dalam kegiatan pembelajaran juga dapat dibaca pada [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/) dan [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/chatgpt-untuk-belajar/).
 
 ## FAQ tentang Prompt AI untuk Siswa
 
@@ -824,7 +824,7 @@ Siswa juga perlu menjaga privasi, mengikuti aturan sekolah, dan meminta pendampi
 - [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
 - [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
 - [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
-- [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/)
+- [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/chatgpt-untuk-belajar/)
 - [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
 - [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)

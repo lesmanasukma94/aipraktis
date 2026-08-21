@@ -409,7 +409,7 @@ Tetap cek buku, slide dosen, jurnal, dan sumber resmi.
 Baca juga:
 
 - [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
-- [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/cara-menggunakan-chatgpt-untuk-belajar-lebih-efektif/)
+- [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/chatgpt-untuk-belajar/)
 
 ## 2. Tools AI untuk Merangkum Jurnal
 
