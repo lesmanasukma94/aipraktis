@@ -748,7 +748,7 @@ Pastikan setiap artikel punya search intent yang jelas.
 
 Baca juga:
 
-- [Tools AI untuk SEO](/blog/tools-ai-untuk-seo/)
+- [Tools AI untuk SEO](/blog/ai-tools-untuk-seo/)
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
 

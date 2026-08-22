@@ -38,7 +38,7 @@ export const homeTools = [
     title: "🔍 AI SEO",
     description:
       "Tools AI untuk riset keyword, artikel SEO, dan optimasi website.",
-    href: "/blog/tools-ai-untuk-seo/",
+    href: "/blog/ai-tools-untuk-seo/",
   },
 ];
 

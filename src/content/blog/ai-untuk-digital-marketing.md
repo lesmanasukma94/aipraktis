@@ -532,7 +532,7 @@ Tetap gunakan data dari:
 Baca juga:
 
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
-- [Tools AI untuk SEO](/blog/tools-ai-untuk-seo/)
+- [Tools AI untuk SEO](/blog/ai-tools-untuk-seo/)
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
 
 ---

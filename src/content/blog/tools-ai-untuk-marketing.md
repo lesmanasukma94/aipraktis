@@ -548,7 +548,7 @@ AI membantu proses berpikir, bukan menggantikan validasi data.
 Baca juga:
 
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
-- [Tools AI untuk SEO](/blog/tools-ai-untuk-seo/)
+- [Tools AI untuk SEO](/blog/ai-tools-untuk-seo/)
 
 ## 5. Tools AI untuk Iklan Digital
 

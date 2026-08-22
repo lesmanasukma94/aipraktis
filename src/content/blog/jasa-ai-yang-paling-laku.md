@@ -538,7 +538,7 @@ Baca juga:
 
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
-- [Tools AI untuk SEO](/blog/tools-ai-untuk-seo/)
+- [Tools AI untuk SEO](/blog/ai-tools-untuk-seo/)
 
 ## 6. Jasa AI Customer Service
 

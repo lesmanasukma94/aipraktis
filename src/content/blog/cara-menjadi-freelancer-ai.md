@@ -345,7 +345,7 @@ AI membantu proses, tetapi freelancer tetap melakukan riset, fact-check, editing
 
 Baca:
 
-- [Tools AI untuk SEO](/blog/tools-ai-untuk-seo/)
+- [Tools AI untuk SEO](/blog/ai-tools-untuk-seo/)
 - [Tools AI untuk Menulis Artikel](/blog/tools-ai-untuk-menulis-artikel/)
 
 ### Jasa Desain dan Visual AI

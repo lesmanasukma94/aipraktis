@@ -524,7 +524,7 @@ Teknik ini membuat hasil lebih mudah dikontrol.
 Baca juga:
 
 - [Prompt AI untuk SEO](/blog/prompt-ai-untuk-seo/)
-- [Tools AI untuk SEO](/blog/tools-ai-untuk-seo/)
+- [Tools AI untuk SEO](/blog/ai-tools-untuk-seo/)
 
 ---
 

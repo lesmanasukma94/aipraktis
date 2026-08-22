@@ -168,5 +168,12 @@
                 "Location": "/blog/chatgpt-untuk-belajar/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/tools-ai-untuk-seo/?$",
+            "headers": {
+                "Location": "/blog/ai-tools-untuk-seo/"
+            },
+            "status": 308
         }]
 }
