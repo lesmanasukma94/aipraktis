@@ -175,5 +175,12 @@
                 "Location": "/blog/ai-tools-untuk-seo/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/tools-ai-untuk-desain-grafis/?$",
+            "headers": {
+                "Location": "/blog/ai-tools-untuk-desain/"
+            },
+            "status": 308
         }]
 }

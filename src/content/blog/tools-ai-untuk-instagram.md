@@ -480,7 +480,7 @@ Tools yang cocok:
 
 Baca juga:
 
-- [Tools AI untuk Desain Grafis](/blog/tools-ai-untuk-desain-grafis/)
+- [Tools AI untuk Desain Grafis](/blog/ai-tools-untuk-desain/)
 
 ## 4. Tools AI untuk Reels Instagram
 

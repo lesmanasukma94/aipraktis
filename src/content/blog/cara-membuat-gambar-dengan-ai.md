@@ -335,7 +335,7 @@ Contoh penggunaan gambar AI:
 Baca juga:
 
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [Tools AI untuk Desain Grafis](/blog/tools-ai-untuk-desain-grafis/)
+- [Tools AI untuk Desain Grafis](/blog/ai-tools-untuk-desain/)
 - [Cara Membuat Logo dengan AI](/blog/cara-membuat-logo-dengan-ai/)
 
 ---

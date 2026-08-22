@@ -508,7 +508,7 @@ Tools yang bisa digunakan:
 Baca juga:
 
 - [Cara Membuat Gambar dengan AI](/blog/cara-membuat-gambar-dengan-ai/)
-- [Tools AI untuk Desain Grafis](/blog/tools-ai-untuk-desain-grafis/)
+- [Tools AI untuk Desain Grafis](/blog/ai-tools-untuk-desain/)
 
 ## 4. Tools AI untuk Editing Video YouTube
 

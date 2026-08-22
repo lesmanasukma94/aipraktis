@@ -363,7 +363,7 @@ Output:
 
 Baca:
 
-- [Tools AI untuk Desain Grafis](/blog/tools-ai-untuk-desain-grafis/)
+- [Tools AI untuk Desain Grafis](/blog/ai-tools-untuk-desain/)
 - [Cara Membuat Gambar dengan AI](/blog/cara-membuat-gambar-dengan-ai/)
 
 ## Langkah 5: Tentukan Deliverable

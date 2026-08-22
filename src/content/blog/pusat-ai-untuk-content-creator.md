@@ -63,7 +63,7 @@ Content creator dapat menggunakan AI untuk mempercepat hampir seluruh proses pro
 Pelajari:
 
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
-* [15 Tools AI untuk Desain Grafis Terbaik](/blog/tools-ai-untuk-desain-grafis/)
+* [15 Tools AI untuk Desain Grafis Terbaik](/blog/ai-tools-untuk-desain/)
 
 Artikel ini membahas bagaimana AI dapat membantu kreator menghasilkan lebih banyak konten tanpa mengorbankan kualitas.
 
