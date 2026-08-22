@@ -93,7 +93,7 @@ Contoh penggunaan AI untuk guru:
 Artikel terkait:
 
 * [AI untuk Guru](/blog/ai-untuk-guru/)
-- [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
+- [Tools AI untuk Guru](/blog/ai-tools-untuk-guru/)
 * [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
 * [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
 * [50 Prompt ChatGPT untuk Guru](/blog/20-prompt-ai-untuk-guru/)

@@ -1,7 +1,8 @@
 ---
-title: "AI Tools untuk Guru: Membuat Materi Ajar, Soal, dan Rencana Pembelajaran"
-description: "Pelajari AI Tools untuk Guru dengan bahasa sederhana, contoh nyata, tips praktis, dan cara menerapkannya dalam kerja, bisnis, atau belajar."
+title: "AI Tools untuk Guru 2026: Materi Ajar, Soal, Rubrik, dan Diferensiasi"
+description: "Panduan AI tools untuk guru 2026: memilih tool untuk materi ajar, soal, rubrik, diferensiasi, feedback, presentasi, riset berbasis sumber, workflow, prompt, dan penggunaan yang aman."
 pubDate: "2026-07-12"
+updatedDate: "2026-08-22"
 author: "AI Praktis Indonesia"
 category: "ai-tools"
 tags:
@@ -10,1988 +11,1170 @@ tags:
   - Guru
   - Pendidikan
   - Materi Ajar
-  - Rencana Pembelajaran
   - Soal
   - Rubrik
+  - Diferensiasi
+  - Feedback
+  - Gemini for Education
+  - Microsoft Copilot
   - ChatGPT
-  - Canva Education
 featured: false
 draft: false
 ---
 
 ## Ringkasan
 
-AI tools untuk guru dapat membantu membuat materi ajar, rencana pembelajaran, soal, kuis, rubrik penilaian, lembar kerja, presentasi, aktivitas kelas, diferensiasi materi, feedback siswa, ringkasan dokumen, komunikasi dengan orang tua, dan administrasi pembelajaran. Tools seperti ChatGPT, Gemini for Education, Microsoft Copilot, Khanmigo, Canva Education, MagicSchool, Brisk Teaching, Quizizz AI, Diffit, Curipod, NotebookLM, Google Workspace, dan Microsoft 365 bisa digunakan sesuai kebutuhan. Namun, AI tidak boleh menggantikan peran guru. Guru tetap harus mengecek akurasi, menyesuaikan konteks kelas, menjaga data siswa, dan memastikan AI digunakan untuk mendukung pembelajaran, bukan menggantikan proses berpikir siswa.
+AI tools untuk guru paling berguna ketika dipakai untuk **mempercepat pekerjaan yang jelas**, bukan ketika dipilih hanya karena sedang populer. Guru dapat memakai AI untuk membuat draft rencana pembelajaran, materi ajar, soal, rubrik, worksheet, presentasi, diferensiasi materi, feedback, komunikasi dengan orang tua, dan rangkuman berbasis sumber. Tetapi keputusan pedagogis, validasi materi, penilaian akhir, perlindungan data siswa, dan penyesuaian terhadap konteks kelas tetap berada pada guru.
 
-Jika ingin menerapkan tools AI ke workflow mengajar yang lebih lengkap, baca [AI untuk Guru](/blog/ai-untuk-guru/) untuk membuat rencana pembelajaran, materi ajar, soal, rubrik, LKS, remedial, pengayaan, dan administrasi kelas.
+Pada 2026, lanskap tool pendidikan berubah cepat. Quizizz telah berganti nama menjadi **Wayground**. NotebookLM juga telah berganti nama menjadi **Gemini Notebook**. Google dan Microsoft menambahkan fitur AI yang lebih langsung ke ekosistem pendidikan mereka, sementara platform seperti MagicSchool, Khanmigo, Brisk Teaching, Diffit, dan Curipod semakin fokus pada workflow guru.
 
-Guru yang ingin memberi panduan penggunaan AI kepada siswa dapat merujuk [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/) agar siswa memakai AI sebagai tutor, bukan mesin jawaban.
+Panduan ini tidak membuat ranking "tool terbaik" yang berlaku untuk semua guru. Tujuannya adalah membantu memilih tool berdasarkan pekerjaan yang benar-benar ingin diselesaikan.
 
-
-
-Guru memiliki beban kerja yang besar.
-
-Selain mengajar di kelas, guru juga perlu menyiapkan materi, membuat soal, menyusun rubrik, membuat presentasi, menilai tugas, memberi feedback, menyiapkan aktivitas, mengelola administrasi, menjawab pertanyaan siswa, berkomunikasi dengan orang tua, dan menyesuaikan pembelajaran untuk kemampuan siswa yang berbeda.
-
-Pekerjaan ini penting.
-
-Tetapi juga sangat memakan waktu.
-
-Di sinilah AI tools dapat membantu.
-
-AI bisa membantu guru membuat draft awal lebih cepat.
-
-Misalnya:
-
-- membuat rencana pembelajaran,
-- membuat outline materi,
-- membuat soal pilihan ganda,
-- membuat soal uraian,
-- membuat rubrik penilaian,
-- membuat lembar kerja siswa,
-- membuat presentasi,
-- membuat aktivitas diskusi,
-- membuat pertanyaan pemantik,
-- membuat exit ticket,
-- membuat kuis,
-- membuat rangkuman materi,
-- membuat contoh sederhana,
-- membuat analogi,
-- menyederhanakan teks,
-- menyesuaikan tingkat kesulitan,
-- membuat feedback tugas,
-- membuat email untuk orang tua,
-- membuat catatan refleksi pembelajaran.
-
-Namun, AI bukan guru.
-
-AI tidak mengenal kondisi kelas sebaik guru.
-
-AI tidak memahami karakter siswa secara utuh.
-
-AI tidak bisa menggantikan empati, penilaian profesional, pengalaman mengajar, dan keputusan pedagogis guru.
-
-Karena itu, AI tools untuk guru sebaiknya dipakai sebagai asisten.
-
-Bukan sebagai pengambil keputusan utama.
-
-Artikel ini membahas AI tools untuk guru yang praktis, mulai dari tools umum seperti ChatGPT sampai tools khusus pendidikan seperti Khanmigo, Canva Education, Brisk Teaching, MagicSchool, Quizizz AI, Diffit, dan Curipod.
-
-Baca juga:
-
-- [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
-- [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
-- [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-- [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
+Jika Anda ingin membangun workflow mengajar yang lebih luas, baca juga [AI untuk Guru](/blog/ai-untuk-guru/). Untuk contoh prompt tambahan, lihat [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/) dan [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/).
 
 ---
 
-## Cara Memilih AI Tools untuk Guru
+## Metode Pemilihan dan Batas Klaim
 
-Sebelum memilih tools, jangan mulai dari pertanyaan:
+Daftar dalam artikel ini dipilih berdasarkan empat pertanyaan:
 
-```text
-AI tools mana yang paling bagus untuk guru?
-```
+1. apakah tool memiliki fungsi yang relevan dengan pekerjaan guru;
+2. apakah fungsi tersebut masih terdokumentasi secara resmi pada 2026;
+3. apakah guru tetap dapat meninjau dan mengubah output sebelum dipakai;
+4. apakah tool tersebut memiliki posisi yang jelas dalam workflow, bukan sekadar menambah aplikasi baru.
 
-Pertanyaan yang lebih tepat:
+Urutan tool **bukan ranking kualitas**. Tool yang cocok untuk satu sekolah belum tentu cocok untuk sekolah lain.
 
-```text
-Bagian pekerjaan guru mana yang paling memakan waktu?
-```
+AI Praktis Indonesia juga tidak mengklaim telah menguji semua paket berbayar, semua fitur premium, atau semua konfigurasi institusi. Fitur, kuota, harga, bahasa, lisensi, usia minimum, lokasi, dan kebijakan administrator dapat berubah. Selalu cek dokumentasi resmi sebelum menerapkan tool pada akun sekolah atau data siswa.
 
-Karena kebutuhan setiap guru berbeda.
-
-Guru SD mungkin membutuhkan bantuan membuat aktivitas belajar yang sederhana dan menarik.
-
-Guru SMP mungkin membutuhkan soal, kuis, dan media pembelajaran yang lebih variatif.
-
-Guru SMA mungkin membutuhkan materi yang lebih analitis, studi kasus, dan rubrik penilaian.
-
-Guru bahasa mungkin membutuhkan latihan membaca, menulis, speaking, dan vocabulary.
-
-Guru matematika mungkin membutuhkan contoh soal bertahap.
-
-Guru produktif SMK mungkin membutuhkan project brief, rubrik praktik, dan skenario kerja.
-
-Guru kelas besar mungkin membutuhkan bantuan diferensiasi materi.
-
-Guru yang mengelola banyak administrasi mungkin membutuhkan template dokumen dan ringkasan.
-
-Jadi, pilih tools berdasarkan masalah utama.
-
-## 1. Jika Masalahnya Membuat Materi Ajar
-
-Gunakan:
-
-- ChatGPT,
-- Gemini for Education,
-- Claude,
-- NotebookLM,
-- Canva Education,
-- Brisk Teaching,
-- MagicSchool.
-
-Cocok untuk:
-
-- outline materi,
-- penjelasan konsep,
-- contoh sederhana,
-- analogi,
-- rangkuman,
-- lembar kerja,
-- bahan bacaan,
-- aktivitas kelas.
-
-## 2. Jika Masalahnya Membuat Soal dan Kuis
-
-Gunakan:
-
-- ChatGPT,
-- Gemini,
-- Khanmigo,
-- Quizizz AI,
-- MagicSchool,
-- Brisk Teaching,
-- Google Forms,
-- Microsoft Forms.
-
-Cocok untuk:
-
-- pilihan ganda,
-- isian singkat,
-- uraian,
-- kuis formatif,
-- exit ticket,
-- soal HOTS,
-- bank soal,
-- kunci jawaban,
-- pembahasan.
-
-## 3. Jika Masalahnya Membuat Presentasi
-
-Gunakan:
-
-- Canva Education,
-- Microsoft Copilot,
-- Google Slides,
-- Gemini,
-- ChatGPT,
-- Gamma,
-- Curipod.
-
-Cocok untuk:
-
-- slide materi,
-- presentasi interaktif,
-- visual konsep,
-- aktivitas kelas,
-- kuis dalam presentasi,
-- diskusi.
-
-## 4. Jika Masalahnya Diferensiasi Pembelajaran
-
-Gunakan:
-
-- Gemini for Education,
-- ChatGPT,
-- Claude,
-- Diffit,
-- Brisk Teaching,
-- Khanmigo.
-
-Cocok untuk:
-
-- menyederhanakan teks,
-- menaikkan/menurunkan tingkat bacaan,
-- membuat versi materi untuk beberapa level,
-- membuat aktivitas remedial,
-- membuat aktivitas pengayaan,
-- membuat latihan bertahap.
-
-## 5. Jika Masalahnya Feedback dan Penilaian
-
-Gunakan:
-
-- Brisk Teaching,
-- ChatGPT,
-- Claude,
-- Gemini,
-- Khanmigo,
-- Google Docs,
-- Microsoft Word.
-
-Cocok untuk:
-
-- feedback tugas,
-- rubrik,
-- komentar konstruktif,
-- ringkasan performa,
-- catatan perkembangan,
-- rekomendasi perbaikan.
+Khusus untuk guru di Indonesia, perhatikan bahwa beberapa produk pendidikan memiliki syarat wilayah atau lisensi institusi. Contohnya, workspace **ChatGPT for Teachers** yang khusus K–12 saat ini ditujukan untuk pendidik terverifikasi di Amerika Serikat. Guru di Indonesia tetap dapat memakai ChatGPT umum sesuai akun yang tersedia, tetapi jangan menganggap paket khusus tersebut otomatis tersedia.
 
 ---
 
-## Tabel AI Tools untuk Guru
+## Mulai dari Pekerjaan Guru, Bukan dari Nama Tool
 
-| Tools | Cocok untuk | Fungsi utama |
-|---|---|---|
-| ChatGPT | Materi, soal, rubrik, feedback, ide aktivitas | Asisten AI serbaguna untuk guru |
-| Gemini for Education | Lesson plan, kuis, rubrik, diferensiasi, administrasi | AI pendidikan di ekosistem Google |
-| Microsoft Copilot | Word, PowerPoint, Teams, Excel, administrasi | AI untuk guru pengguna Microsoft 365 |
-| Khanmigo | Lesson plan, rubrik, exit ticket, pertanyaan, diferensiasi | Asisten AI khusus guru dari Khan Academy |
-| Canva Education | Presentasi, worksheet, poster, visual, kuis | Desain dan materi pembelajaran visual |
-| MagicSchool | Tools khusus guru, lesson plan, rubric, IEP, email | Banyak template AI untuk pekerjaan guru |
-| Brisk Teaching | Feedback, materi, adaptasi instruksi | AI yang bekerja di Google/Microsoft tools |
-| Quizizz AI | Kuis, latihan, soal interaktif | Membuat asesmen lebih cepat dan gamified |
-| Diffit | Teks bacaan, level reading, worksheet | Diferensiasi bacaan dan aktivitas |
-| Curipod | Presentasi interaktif, aktivitas kelas, polling | Membuat kelas lebih partisipatif |
-| NotebookLM | Riset dari dokumen dan modul | Merangkum PDF, bahan ajar, dan sumber |
-| Google Classroom | Tugas, distribusi materi, komunikasi kelas | Manajemen kelas digital |
-| Google Forms | Kuis dan survei | Asesmen sederhana dan cepat |
-| Microsoft Forms | Kuis dan formulir | Alternatif kuis di ekosistem Microsoft |
-| Grammarly / LanguageTool | Editing bahasa | Membantu tulisan dan komunikasi profesional |
+Pertanyaan yang lebih berguna bukan:
+
+```text
+AI mana yang paling bagus untuk guru?
+```
+
+Tetapi:
+
+```text
+Pekerjaan mana yang ingin saya percepat,
+dan bagian mana yang tetap harus saya putuskan sendiri?
+```
+
+Contohnya:
+
+| Kebutuhan | Tool yang layak dibandingkan | Hasil awal yang bisa dibuat | Review guru tetap diperlukan |
+|---|---|---|---|
+| Rencana pembelajaran | Gemini for Education, Microsoft Copilot Teach, ChatGPT, MagicSchool, Khanmigo | tujuan, alur, aktivitas, asesmen | kesesuaian kurikulum, durasi, kondisi kelas |
+| Materi ajar | ChatGPT, Gemini, MagicSchool, Brisk | draft materi, analogi, contoh, worksheet | akurasi fakta dan level bahasa |
+| Soal dan kuis | Wayground AI, Brisk, MagicSchool, ChatGPT | bank soal, kuis, exit ticket | kunci jawaban, tingkat kesulitan, ambiguitas |
+| Rubrik | MagicSchool, Khanmigo, Microsoft Copilot Teach, ChatGPT | kriteria dan level performa | bobot, indikator, kesesuaian tugas |
+| Diferensiasi | Diffit, Gemini, MagicSchool, Khanmigo | beberapa level teks atau aktivitas | kebutuhan siswa nyata |
+| Presentasi | Canva Education, Brisk, MagicSchool | struktur slide dan visual | kepadatan, fakta, keterbacaan |
+| Pembelajaran interaktif | Curipod, Wayground | aktivitas kelas, polling, respons | alur diskusi dan tujuan belajar |
+| Materi berbasis sumber | Gemini Notebook | rangkuman, pertanyaan, koneksi sumber | kualitas sumber dan interpretasi |
+| Feedback | Brisk, MagicSchool, Gemini, ChatGPT | draft komentar | nada, konteks, keputusan final |
+
+Dengan pendekatan ini, guru bisa memakai lebih sedikit tool tetapi mendapatkan workflow yang lebih konsisten.
 
 ---
 
-## 1. ChatGPT
+## 11 AI Tools untuk Guru yang Paling Relevan pada 2026
 
-ChatGPT adalah salah satu AI tools paling fleksibel untuk guru.
+### 1. Gemini for Education dan Gemini di Google Classroom
 
-Guru bisa menggunakannya untuk banyak pekerjaan, seperti:
+**Posisi utama:** guru atau sekolah yang sudah memakai Google Workspace for Education.
 
-- membuat rencana pembelajaran,
-- membuat materi ajar,
-- membuat soal,
-- membuat rubrik,
-- membuat ide aktivitas,
-- membuat lembar kerja siswa,
-- membuat pembahasan soal,
-- membuat variasi contoh,
-- membuat analogi,
-- menyederhanakan teks,
-- membuat email ke orang tua,
-- membuat catatan refleksi,
-- membuat feedback tugas,
-- membuat outline presentasi.
+Google menyediakan Gemini for Education sebagai asisten AI untuk lingkungan pendidikan. Di Google Classroom, Gemini dapat membantu pengajar membuat atau mengadaptasi materi seperti outline lesson plan, kuis, vocabulary list, rubrik, teks informasional, ide proyek, serta penyesuaian level bacaan. Fitur tertentu bergantung pada perangkat, bahasa, edisi Workspace, dan pengaturan administrator.
 
-ChatGPT cocok untuk guru yang ingin mulai memakai AI tanpa langsung belajar banyak aplikasi.
+**Cocok untuk:**
 
-## Cocok untuk
+- membuat draft tujuan dan alur pembelajaran;
+- menghasilkan kuis awal;
+- membuat rubrik;
+- menyederhanakan atau menaikkan level teks;
+- membuat variasi aktivitas;
+- menyiapkan materi yang akan dibagikan melalui Classroom.
 
-- guru SD,
-- guru SMP,
-- guru SMA,
-- guru SMK,
-- guru bahasa,
-- guru matematika,
-- guru IPA,
-- guru IPS,
-- guru BK,
-- dosen,
-- tutor,
-- pengajar kursus.
-
-## Contoh penggunaan
+**Contoh penggunaan:**
 
 ```text
-Buatkan rencana pembelajaran 1 pertemuan untuk materi [materi]. Target siswa kelas [kelas]. Durasi [durasi]. Sertakan tujuan pembelajaran, apersepsi, kegiatan inti, aktivitas kelompok, asesmen formatif, dan refleksi.
-```
-
-```text
-Buatkan 10 soal pilihan ganda dan 5 soal uraian tentang [topik]. Sertakan kunci jawaban dan pembahasan singkat. Tingkat kesulitan: mudah, sedang, dan sulit.
-```
-
-```text
-Buatkan rubrik penilaian proyek untuk tugas [jenis tugas]. Aspek penilaian: pemahaman konsep, kreativitas, kerja sama, presentasi, dan ketepatan waktu.
-```
-
-## Kelebihan
-
-- Fleksibel untuk banyak kebutuhan.
-- Mudah digunakan.
-- Bisa memakai bahasa Indonesia.
-- Cocok untuk membuat draft cepat.
-- Berguna untuk guru berbagai jenjang.
-- Bisa membantu mengurangi waktu persiapan.
-
-## Kekurangan
-
-- Output perlu dicek guru.
-- Bisa membuat materi terlalu umum.
-- Bisa salah jika topik membutuhkan akurasi tinggi.
-- Tidak otomatis sesuai konteks kelas.
-- Tidak boleh dipakai untuk menilai siswa tanpa review manusia.
-
-## Tips memakai ChatGPT untuk guru
-
-Gunakan prompt yang spesifik.
-
-Jangan hanya menulis:
-
-```text
-Buatkan materi tentang ekosistem.
-```
-
-Lebih baik:
-
-```text
-Buatkan materi pembelajaran tentang ekosistem untuk siswa kelas 5 SD.
-
-Konteks:
-Siswa baru mengenal rantai makanan.
+Buat rancangan pembelajaran 45 menit untuk kelas 8
+tentang sistem pernapasan manusia.
 
 Tujuan:
-Siswa memahami komponen biotik, abiotik, produsen, konsumen, dan pengurai.
+- siswa menjelaskan fungsi organ utama;
+- siswa membedakan proses inspirasi dan ekspirasi.
 
-Format:
-- penjelasan sederhana
-- contoh dari lingkungan sekitar
-- aktivitas diskusi kelompok
-- 5 soal latihan
-- 1 exit ticket
-- bahasa mudah dipahami
+Buat:
+1. pembuka 5 menit;
+2. penjelasan inti;
+3. aktivitas pasangan;
+4. tiga pertanyaan cek pemahaman;
+5. exit ticket.
+
+Tandai bagian yang harus saya verifikasi sebelum dipakai.
 ```
 
-Baca juga:
+**Catatan penting:** AI dapat membuat kesalahan. Guru tetap perlu mengecek isi, terutama fakta ilmiah, definisi, perhitungan, kutipan, dan jawaban asesmen.
 
-- [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
-- [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-- [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
+Baca juga [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/) dan [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/).
 
----
+### 2. Microsoft 365 Copilot — Teach
 
-## 2. Gemini for Education
+**Posisi utama:** guru/staf yang bekerja di lingkungan Microsoft 365 Education.
 
-Gemini for Education cocok untuk guru dan sekolah yang menggunakan ekosistem Google.
+Microsoft menyediakan area **Teach** di Microsoft 365 Copilot untuk membantu pendidik membuat lesson plan, kuis, rubrik, dan materi pembelajaran, lalu menyesuaikan bahasa, reading level, panjang, tingkat kesulitan, atau alignment ke standar yang tersedia.
 
-Jika Anda sering memakai:
+Dokumentasi Microsoft menyebut Teach tersedia untuk Faculty/Staff dengan lisensi Microsoft 365 for Education yang memenuhi syarat, dan fitur tersebut tidak mensyaratkan lisensi Microsoft 365 Copilot berbayar terpisah.
 
-- Google Docs,
-- Google Slides,
-- Google Forms,
-- Google Classroom,
-- Google Drive,
-- Gmail,
-- Google Meet,
+**Cocok untuk:**
 
-Gemini bisa membantu mempercepat pekerjaan harian.
+- sekolah yang sudah bekerja dengan Word, PowerPoint, Teams, dan Microsoft 365;
+- draft lesson plan;
+- quiz dan rubric;
+- adaptasi tingkat kesulitan;
+- materi yang perlu diteruskan ke dokumen Microsoft.
 
-Gemini dapat membantu guru membuat:
-
-- lesson plan,
-- ide pembelajaran,
-- kuis,
-- assignment,
-- rubrik,
-- materi yang disesuaikan level siswa,
-- email,
-- newsletter,
-- proposal,
-- ringkasan dokumen,
-- template administrasi,
-- bahan riset.
-
-Tools ini cocok jika sekolah sudah menggunakan Google Workspace for Education.
-
-## Cocok untuk
-
-- guru pengguna Google Classroom,
-- sekolah pengguna Google Workspace,
-- guru yang sering membuat Docs dan Slides,
-- guru yang butuh kuis dan rubrik,
-- guru yang ingin merangkum dokumen.
-
-## Contoh penggunaan
+**Contoh penggunaan:**
 
 ```text
-Buatkan rencana pembelajaran tentang fotosintesis untuk kelas 7. Sertakan tujuan, aktivitas pembuka, eksperimen sederhana, asesmen formatif, dan rubrik.
+Buat rancangan aktivitas kelas 10 tentang perubahan iklim.
+
+Durasi: 60 menit.
+Model: diskusi berbasis bukti.
+
+Output:
+- tujuan belajar;
+- pertanyaan pemantik;
+- aktivitas kelompok;
+- rubrik diskusi 4 level;
+- exit ticket.
+
+Gunakan bahasa siswa SMA dan tandai klaim
+yang perlu dicek dengan sumber kurikulum saya.
 ```
 
-```text
-Ubah dokumen materi ini menjadi 10 soal pilihan ganda, 5 soal uraian, dan 1 aktivitas kelompok.
-```
+Baca [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/) untuk memahami penggunaan Copilot secara umum.
 
-```text
-Buatkan email untuk orang tua siswa tentang kegiatan proyek kelas minggu depan. Tone sopan, jelas, dan ringkas.
-```
+### 3. ChatGPT
 
-## Kelebihan
+**Posisi utama:** asisten serbaguna untuk drafting, revisi, brainstorming, dan transformasi materi.
 
-- Cocok untuk ekosistem Google.
-- Membantu lesson planning dan administrasi.
-- Bisa mendukung diferensiasi materi.
-- Berguna untuk kuis, rubrik, dan materi praktik.
-- Terhubung dengan workflow dokumen guru.
+ChatGPT dapat membantu guru membuat resource pack, latihan, contoh jawaban, rubrik, feedback draft, variasi materi, simulasi dialog, atau format komunikasi. Kualitas hasil sangat bergantung pada konteks yang diberikan.
 
-## Kekurangan
+Untuk workflow guru, kelebihannya bukan hanya membuat teks dari nol. Guru juga bisa meminta AI:
 
-- Manfaat terbesar jika sekolah memakai Google Workspace.
-- Tetap perlu review guru.
-- Tidak semua fitur tersedia untuk semua akun.
-- Output harus disesuaikan dengan kurikulum dan kondisi kelas.
+- membandingkan dua versi soal;
+- menemukan kemungkinan ambiguitas;
+- menyesuaikan materi untuk level berbeda;
+- mengubah materi menjadi worksheet;
+- membuat variasi latihan;
+- menyusun checklist review.
 
-## Tips memakai Gemini
+**Cocok untuk:**
 
-Gunakan Gemini untuk pekerjaan yang berada di Google Docs, Slides, Forms, Drive, dan Classroom.
+- guru yang membutuhkan satu asisten untuk banyak jenis tugas;
+- brainstorming sebelum membuat materi final;
+- transformasi materi dari satu format ke format lain;
+- menyusun prompt dan template berulang.
 
-Workflow sederhana:
+**Catatan wilayah:** jangan menyamakan ChatGPT umum dengan **ChatGPT for Teachers**. Workspace khusus K–12 tersebut saat ini memiliki persyaratan khusus untuk pendidik terverifikasi di Amerika Serikat.
 
-1. Buat materi di Docs.
-2. Minta Gemini membuat outline atau ringkasan.
-3. Ubah menjadi slide.
-4. Buat kuis di Forms.
-5. Buat rubrik.
-6. Bagikan lewat Classroom.
+**Praktik yang lebih aman:** untuk data kelas, gunakan informasi yang sudah dianonimkan kecuali institusi Anda memang menyediakan workspace dan kebijakan yang mengizinkan jenis data tersebut.
 
-Baca juga:
+Baca [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/) dan [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/).
 
-- [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
-- [Perbedaan ChatGPT dan Gemini](/blog/perbedaan-chatgpt-dan-gemini/)
+### 4. MagicSchool
 
----
+**Posisi utama:** platform AI yang berfokus pada workflow guru.
 
-## 3. Microsoft Copilot
+MagicSchool menyediakan tool untuk lesson planning, worksheet, quiz, rubric, academic content, presentation, feedback, dan diferensiasi. Keunggulan model seperti ini adalah guru tidak selalu perlu membuat prompt panjang dari nol karena workflow sudah dipisahkan berdasarkan pekerjaan.
 
-Microsoft Copilot cocok untuk guru dan sekolah yang memakai Microsoft 365.
+**Cocok untuk:**
 
-Jika Anda sering menggunakan:
+- guru yang ingin interface khusus pendidikan;
+- membuat draft lesson plan;
+- membuat worksheet dan quiz;
+- membuat rubrik;
+- membuat beberapa versi materi;
+- menyiapkan presentasi dan feedback.
 
-- Word,
-- PowerPoint,
-- Excel,
-- Teams,
-- OneNote,
-- Outlook,
-- Forms,
+**Kapan kurang ideal:** jika sekolah sudah memiliki workflow matang di Google atau Microsoft dan tidak ingin menambah platform baru, fitur yang sama mungkin sudah cukup ditangani oleh ekosistem utama.
 
-Copilot dapat membantu pekerjaan guru di dalam ekosistem Microsoft.
+**Cara memakai dengan baik:**
 
-Copilot bisa membantu:
+1. isi grade/kelas dengan benar;
+2. masukkan tujuan belajar;
+3. masukkan batas waktu;
+4. masukkan materi acuan jika ada;
+5. review semua output;
+6. ubah contoh menjadi sesuai konteks lokal.
 
-- membuat dokumen ajar,
-- menyusun presentasi,
-- merangkum informasi,
-- membuat email,
-- mengolah data sederhana,
-- membuat laporan,
-- membuat template,
-- menyusun materi dari catatan,
-- membantu pekerjaan administrasi.
+### 5. Khanmigo
 
-## Cocok untuk
+**Posisi utama:** perencanaan dan dukungan pengajaran yang dekat dengan ekosistem Khan Academy.
 
-- guru pengguna Microsoft 365,
-- sekolah yang memakai Teams,
-- guru yang sering membuat Word dan PowerPoint,
-- guru yang butuh laporan dan administrasi,
-- guru yang bekerja dalam tim sekolah.
+Khanmigo menyediakan teacher tools untuk lesson planning, rubric, exit ticket, assessment, class snapshot, diferensiasi, dan berbagai aktivitas pengajaran. Beberapa fungsi terhubung langsung dengan konten dan data Khan Academy.
 
-## Contoh penggunaan
+**Cocok untuk:**
 
-```text
-Ubah dokumen Word ini menjadi presentasi 10 slide untuk kelas. Setiap slide harus ringkas, visual, dan memiliki catatan pembicara.
-```
+- guru yang sudah menggunakan Khan Academy;
+- membuat lesson plan;
+- membuat rubrik atau exit ticket;
+- mencari aktivitas pendukung;
+- melihat pola kemajuan kelas dalam konteks Khan Academy.
 
-```text
-Buatkan ringkasan rapat guru dari transkrip berikut. Kelompokkan menjadi keputusan, tugas, PIC, dan deadline.
-```
+**Yang perlu diperhatikan:** ketersediaan fitur guru, akses siswa, wilayah, dan implementasi kelas/distrik dapat berbeda. Periksa halaman Khanmigo terbaru sebelum menjadikannya bagian wajib dari workflow sekolah.
 
-```text
-Buatkan template laporan perkembangan siswa berdasarkan data berikut.
-```
+### 6. Brisk Teaching
 
-## Kelebihan
+**Posisi utama:** membuat atau mengadaptasi materi langsung dari halaman, dokumen, PDF, dan video yang sedang dibuka.
 
-- Cocok untuk Microsoft 365.
-- Membantu Word, PowerPoint, Teams, dan Excel.
-- Berguna untuk administrasi sekolah.
-- Cocok untuk presentasi dan laporan.
-- Bisa membantu pekerjaan kolaboratif.
+Brisk bekerja dekat dengan browser dan dokumen. Guru dapat mengubah resource yang sudah ada menjadi quiz, worksheet, presentasi, atau draft feedback tanpa harus memindahkan semua konteks secara manual.
 
-## Kekurangan
+**Cocok untuk:**
 
-- Akses fitur bergantung pada paket.
-- Tetap perlu cek akurasi.
-- Tidak semua sekolah memakai Microsoft 365.
-- Data siswa perlu dikelola hati-hati.
+- membuat quiz dari artikel, PDF, atau video;
+- membuat worksheet dari resource yang sudah dipakai;
+- membuat slide;
+- memberi draft feedback pada pekerjaan siswa;
+- mengubah level materi.
 
-## Tips memakai Copilot
-
-Gunakan Copilot untuk mempercepat pekerjaan formal:
-
-- laporan,
-- presentasi,
-- rangkuman rapat,
-- surat,
-- email,
-- dokumen administrasi,
-- materi ajar.
-
-Baca juga:
-
-- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
-- [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
-
----
-
-## 4. Khanmigo
-
-Khanmigo adalah asisten AI dari Khan Academy yang dirancang untuk pendidikan.
-
-Untuk guru, Khanmigo dapat membantu pekerjaan seperti:
-
-- lesson planning,
-- membuat pertanyaan,
-- membuat aktivitas,
-- membuat rubrik,
-- membuat exit ticket,
-- membuat learning objectives,
-- diferensiasi materi,
-- student grouping,
-- ringkasan pekerjaan siswa,
-- newsletter,
-- email keluarga,
-- memperkuat pemahaman materi guru.
-
-Khanmigo menarik karena fokusnya memang pendidikan, bukan chatbot umum.
-
-## Cocok untuk
-
-- guru yang ingin tools khusus pendidikan,
-- guru yang sering membuat soal,
-- guru yang butuh aktivitas kelas,
-- guru yang ingin mengurangi waktu persiapan,
-- guru yang mencari alternatif AI selain chatbot umum.
-
-## Contoh penggunaan
-
-```text
-Buatkan exit ticket untuk materi pecahan kelas 4 SD. Buat 3 pertanyaan singkat untuk mengecek pemahaman siswa di akhir pelajaran.
-```
-
-```text
-Buatkan rubrik sederhana untuk proyek poster tentang perubahan iklim. Gunakan 4 aspek penilaian dan 4 level pencapaian.
-```
-
-```text
-Buatkan aktivitas pembuka 10 menit untuk materi persamaan linear agar siswa tertarik.
-```
-
-## Kelebihan
-
-- Dirancang untuk guru.
-- Cocok untuk lesson planning.
-- Membantu membuat soal, aktivitas, dan rubrik.
-- Berguna untuk diferensiasi.
-- Dapat membantu guru mengurangi waktu persiapan.
-
-## Kekurangan
-
-- Ketersediaan fitur dapat berbeda berdasarkan wilayah atau implementasi sekolah.
-- Tetap perlu disesuaikan dengan kurikulum lokal.
-- Bahasa dan konteks lokal perlu dicek.
-- Guru tetap harus memvalidasi materi.
-
-## Tips memakai Khanmigo
-
-Gunakan untuk draft awal.
-
-Setelah Khanmigo memberi hasil, guru tetap perlu menyesuaikan:
-
-- jenjang kelas,
-- kemampuan siswa,
-- konteks lokal,
-- bahasa,
-- durasi,
-- fasilitas kelas,
-- standar sekolah.
-
----
-
-## 5. Canva Education
-
-Canva Education sangat berguna untuk membuat materi visual.
-
-Guru bisa membuat:
-
-- presentasi,
-- poster kelas,
-- lembar kerja,
-- infografis,
-- bahan ajar,
-- kartu belajar,
-- sertifikat,
-- jadwal kelas,
-- kuis visual,
-- aktivitas interaktif,
-- video sederhana,
-- worksheet,
-- classroom display,
-- template tugas.
-
-Canva cocok untuk guru karena desainnya mudah digunakan.
-
-Guru tidak perlu menjadi desainer profesional.
-
-## Cocok untuk
-
-- guru SD,
-- guru SMP,
-- guru SMA,
-- guru PAUD,
-- guru bahasa,
-- guru seni,
-- guru IPS,
-- guru IPA,
-- wali kelas,
-- tutor,
-- pengajar kursus.
-
-## Contoh penggunaan
-
-```text
-Buatkan presentasi 10 slide tentang rantai makanan untuk kelas 5 SD. Gaya visual cerah, sederhana, banyak gambar, dan sedikit teks.
-```
-
-```text
-Buatkan worksheet tentang jenis-jenis pekerjaan untuk siswa SD. Sertakan gambar, instruksi singkat, dan latihan mencocokkan.
-```
-
-```text
-Buatkan poster kelas tentang aturan diskusi yang baik. Gunakan bahasa positif dan mudah dipahami siswa.
-```
-
-## Kelebihan
-
-- Mudah digunakan.
-- Cocok untuk visual pembelajaran.
-- Banyak template pendidikan.
-- Membantu membuat presentasi menarik.
-- Bisa digunakan untuk aktivitas kelas.
-- Cocok untuk guru yang butuh materi cepat.
-
-## Kekurangan
-
-- Template bisa terlihat generik jika tidak diedit.
-- Guru tetap perlu memastikan isi materi benar.
-- Visual terlalu ramai bisa mengganggu fokus.
-- Perlu memperhatikan akses siswa dan perangkat.
-
-## Tips memakai Canva Education
-
-Buat template tetap untuk:
-
-- slide pembelajaran,
-- lembar kerja,
-- poster kelas,
-- kuis,
-- sertifikat,
-- rangkuman materi,
-- infografis.
-
-Dengan template tetap, guru tidak perlu mendesain dari nol setiap kali.
-
-Baca juga:
-
-- [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
-
----
-
-## 6. MagicSchool
-
-MagicSchool adalah salah satu tools AI yang banyak dipakai guru karena menyediakan banyak template khusus pendidikan.
-
-Tools seperti ini biasanya membantu membuat:
-
-- lesson plan,
-- rubric,
-- assessment,
-- worksheet,
-- IEP support,
-- email,
-- behavior intervention ideas,
-- text leveling,
-- question generator,
-- discussion prompt,
-- report comments,
-- differentiated instruction.
-
-MagicSchool cocok untuk guru yang ingin tools siap pakai dengan menu pekerjaan guru, bukan hanya chat kosong.
-
-## Cocok untuk
-
-- guru K-12,
-- guru yang butuh banyak template,
-- guru yang baru mulai memakai AI,
-- guru yang sering membuat administrasi,
-- guru yang butuh diferensiasi materi.
-
-## Contoh penggunaan
-
-```text
-Buatkan lesson plan untuk materi [materi] kelas [kelas] dengan tujuan pembelajaran, aktivitas, asesmen, diferensiasi, dan refleksi.
-```
-
-```text
-Buatkan rubrik penilaian presentasi kelompok tentang [topik].
-```
-
-```text
-Sederhanakan teks berikut agar sesuai untuk siswa kelas 5 tanpa mengubah makna utama.
-```
-
-## Kelebihan
-
-- Banyak template khusus guru.
-- Memudahkan pemula.
-- Cocok untuk lesson plan dan rubrik.
-- Membantu administrasi pembelajaran.
-- Praktis untuk diferensiasi materi.
-
-## Kekurangan
-
-- Tetap perlu cek hasil.
-- Tidak semua template cocok dengan konteks Indonesia.
-- Bisa menghasilkan materi terlalu umum.
-- Perlu menyesuaikan dengan kurikulum sekolah.
-
-## Tips memakai MagicSchool
-
-Gunakan untuk mempercepat draft.
-
-Jangan langsung pakai tanpa edit.
-
-Selalu cek:
-
-- apakah sesuai kelas,
-- apakah bahasanya cocok,
-- apakah aktivitas realistis,
-- apakah asesmen benar,
-- apakah instruksi mudah dipahami siswa.
-
----
-
-## 7. Brisk Teaching
-
-Brisk Teaching cocok untuk guru yang bekerja dengan Google Docs, Google Classroom, Microsoft tools, atau materi digital yang sudah ada.
-
-Brisk dapat membantu:
-
-- membuat materi,
-- memberi feedback,
-- menyesuaikan instruksi,
-- mengubah level bacaan,
-- membuat aktivitas,
-- membuat kuis,
-- membuat komentar pada tulisan siswa,
-- membantu workflow guru di dokumen yang sedang dibuka.
-
-Kelebihan Brisk adalah bekerja dekat dengan tempat guru bekerja, sehingga guru tidak selalu perlu copy-paste ke chatbot terpisah.
-
-## Cocok untuk
-
-- guru pengguna Google Docs,
-- guru pengguna Google Classroom,
-- guru pengguna Microsoft tools,
-- guru bahasa,
-- guru yang sering memberi feedback tulisan,
-- guru yang ingin mempercepat penilaian formatif.
-
-## Contoh penggunaan
-
-```text
-Berikan feedback untuk tulisan siswa ini. Fokus pada struktur, kejelasan ide, penggunaan bukti, dan saran perbaikan. Gunakan bahasa positif dan konstruktif.
-```
-
-```text
-Sesuaikan teks ini untuk siswa dengan kemampuan membaca lebih rendah. Pertahankan ide utama, tetapi sederhanakan kosakata dan kalimat.
-```
-
-```text
-Buatkan kuis pemahaman dari halaman web ini untuk siswa kelas 8.
-```
-
-## Kelebihan
-
-- Cocok untuk workflow dokumen.
-- Membantu feedback siswa.
-- Berguna untuk diferensiasi.
-- Menghemat waktu guru.
-- Cocok untuk materi digital.
-
-## Kekurangan
-
-- Tetap perlu review guru.
-- Feedback AI tidak boleh menjadi penilaian final tanpa guru.
-- Data siswa harus dijaga.
-- Ketersediaan fitur bisa berubah.
-
-## Tips memakai Brisk
-
-Gunakan Brisk untuk mempercepat pekerjaan formatif, seperti:
-
-- memberi komentar awal,
-- membuat pertanyaan,
-- menyesuaikan teks,
-- membuat aktivitas,
-- menyusun feedback.
-
-Tetapi keputusan akhir tetap di tangan guru.
-
----
-
-## 8. Quizizz AI
-
-Quizizz AI cocok untuk membuat kuis interaktif.
-
-Guru bisa memakai tools seperti ini untuk:
-
-- membuat soal dari teks,
-- membuat kuis dari materi,
-- membuat latihan formatif,
-- membuat game-based learning,
-- membuat soal cepat,
-- menyesuaikan tingkat kesulitan,
-- membuat review sebelum ujian,
-- membuat aktivitas kelas lebih interaktif.
-
-Quizizz cocok jika guru ingin membuat asesmen yang lebih menyenangkan.
-
-## Cocok untuk
-
-- guru SD,
-- guru SMP,
-- guru SMA,
-- guru bahasa,
-- guru IPA,
-- guru IPS,
-- guru matematika,
-- guru yang ingin gamifikasi pembelajaran.
-
-## Contoh penggunaan
-
-```text
-Buatkan kuis 15 soal tentang sistem pencernaan manusia untuk kelas 8. Sertakan pilihan ganda, kunci jawaban, dan pembahasan singkat.
-```
-
-```text
-Buatkan kuis review sebelum ujian tentang teks eksplanasi. Tingkat kesulitan: mudah, sedang, sulit.
-```
-
-```text
-Ubah teks bacaan berikut menjadi 10 soal pemahaman bacaan.
-```
-
-## Kelebihan
-
-- Cocok untuk kuis interaktif.
-- Membuat kelas lebih aktif.
-- Bisa dipakai untuk asesmen formatif.
-- Membantu guru membuat soal cepat.
-- Menyenangkan untuk siswa.
-
-## Kekurangan
-
-- Soal AI tetap perlu dicek.
-- Kuis tidak boleh hanya menguji hafalan.
-- Jawaban dan pembahasan perlu diverifikasi.
-- Perlu akses perangkat dan internet.
-
-## Tips memakai Quizizz AI
-
-Gunakan kuis untuk cek pemahaman, bukan hanya nilai.
-
-Setelah kuis, bahas:
-
-- soal yang paling banyak salah,
-- konsep yang belum dipahami,
-- strategi menjawab,
-- contoh tambahan.
-
----
-
-## 9. Diffit
-
-Diffit cocok untuk diferensiasi teks bacaan.
-
-Guru sering menghadapi kelas dengan kemampuan membaca yang berbeda-beda.
-
-Ada siswa yang cepat memahami teks.
-
-Ada siswa yang butuh teks lebih sederhana.
-
-Ada siswa yang butuh kosakata dijelaskan.
-
-Ada siswa yang butuh pertanyaan pemahaman bertahap.
-
-Diffit membantu membuat bahan bacaan dan aktivitas berdasarkan level tertentu.
-
-## Cocok untuk
-
-- guru bahasa,
-- guru literasi,
-- guru SD,
-- guru SMP,
-- guru IPS,
-- guru IPA,
-- guru yang sering memakai teks bacaan,
-- guru dengan kelas kemampuan campuran.
-
-## Contoh penggunaan
-
-```text
-Ubah teks tentang perubahan iklim ini menjadi bahan bacaan untuk tiga level: mudah, sedang, dan menantang. Sertakan kosakata penting dan pertanyaan pemahaman.
-```
-
-```text
-Buatkan worksheet dari artikel ini untuk siswa kelas 7. Sertakan ringkasan, kosakata, pertanyaan literal, inferensial, dan reflektif.
-```
-
-## Kelebihan
-
-- Cocok untuk diferensiasi.
-- Membantu membuat teks bertingkat.
-- Berguna untuk literasi.
-- Menghemat waktu guru.
-- Membantu siswa dengan kemampuan berbeda.
-
-## Kekurangan
-
-- Teks tetap perlu dicek.
-- Level bacaan perlu disesuaikan guru.
-- Konteks lokal mungkin perlu ditambah.
-- Tidak semua materi cocok disederhanakan otomatis.
-
-## Tips memakai Diffit
-
-Gunakan untuk membuat beberapa versi materi.
+**Kelebihan workflow:** guru memulai dari resource nyata, bukan selalu dari prompt kosong.
 
 Contoh:
 
-- versi dasar,
-- versi standar,
-- versi pengayaan.
-
-Dengan begitu, siswa bisa belajar sesuai kemampuan tanpa merasa ditinggalkan.
-
----
-
-## 10. Curipod
-
-Curipod cocok untuk membuat presentasi interaktif dan aktivitas kelas.
-
-Tools seperti ini berguna jika guru ingin kelas lebih partisipatif.
-
-Curipod dapat membantu membuat:
-
-- slide interaktif,
-- polling,
-- pertanyaan diskusi,
-- aktivitas refleksi,
-- word cloud,
-- brainstorming,
-- kuis ringan,
-- kegiatan pembuka,
-- kegiatan penutup.
-
-Curipod cocok untuk guru yang ingin membuat siswa lebih aktif berbicara, menjawab, dan berpartisipasi.
-
-## Cocok untuk
-
-- guru yang mengajar kelas aktif,
-- guru bahasa,
-- guru IPS,
-- guru PPKn,
-- guru kelas,
-- trainer,
-- fasilitator workshop,
-- guru yang ingin diskusi lebih hidup.
-
-## Contoh penggunaan
-
 ```text
-Buatkan aktivitas pembuka 10 menit tentang topik bullying di sekolah. Gunakan polling, pertanyaan reflektif, dan diskusi kelompok.
+Saya memiliki artikel tentang ekosistem.
+Buat 8 pertanyaan untuk kelas 7:
+
+- 4 pilihan ganda;
+- 2 jawaban singkat;
+- 2 pertanyaan penalaran.
+
+Sertakan kunci jawaban dan alasan singkat.
+Jangan menambahkan fakta yang tidak terdapat pada resource.
 ```
 
-```text
-Buatkan slide interaktif untuk materi perubahan iklim. Sertakan pertanyaan, kuis, word cloud, dan exit ticket.
-```
+### 7. Wayground AI — sebelumnya Quizizz
 
-## Kelebihan
+**Posisi utama:** asesmen, latihan, flashcard, dan pembelajaran interaktif.
 
-- Membuat kelas lebih interaktif.
-- Cocok untuk diskusi.
-- Membantu brainstorming.
-- Bisa digunakan untuk refleksi.
-- Membantu guru mengecek pemahaman.
+Quizizz berganti nama menjadi **Wayground** pada 2025. Karena itu, artikel 2026 sebaiknya menggunakan nama Wayground, sambil menyebut "sebelumnya Quizizz" agar guru yang mengenal nama lama tidak bingung.
 
-## Kekurangan
+Wayground AI dapat membuat assessment dari:
 
-- Membutuhkan perangkat dan koneksi.
-- Aktivitas perlu disesuaikan dengan budaya kelas.
-- Tidak semua materi perlu dibuat interaktif.
-- Guru tetap perlu mengelola diskusi.
+- prompt atau teks;
+- dokumen;
+- halaman web;
+- video YouTube;
+- materi yang diimpor.
 
-## Tips memakai Curipod
+Guru tetap dapat mengedit pertanyaan sebelum dipublikasikan.
 
-Gunakan untuk momen tertentu:
+**Cocok untuk:**
 
-- pembuka pelajaran,
-- cek pemahaman,
-- diskusi nilai,
-- refleksi akhir,
-- aktivitas kelompok.
+- formative assessment;
+- latihan mandiri;
+- quiz live;
+- flashcard;
+- mengubah materi menjadi pertanyaan.
 
-Jangan semua slide dibuat interaktif jika tidak diperlukan.
+**Checklist sebelum publish:**
 
----
+- cek kunci jawaban;
+- cek apakah hanya ada satu jawaban paling tepat;
+- cek bahasa sesuai usia;
+- cek tingkat kesulitan;
+- cek apakah pertanyaan benar-benar mengukur tujuan belajar.
 
-## 11. NotebookLM
+### 8. Diffit
 
-NotebookLM cocok untuk guru yang punya banyak dokumen.
+**Posisi utama:** diferensiasi materi.
 
-Misalnya:
-
-- modul,
-- buku teks,
-- PDF,
-- bahan ajar,
-- artikel,
-- panduan kurikulum,
-- catatan pelatihan,
-- transkrip webinar,
-- materi workshop,
-- dokumen sekolah.
-
-NotebookLM dapat membantu merangkum dokumen dan membuat output pembelajaran berdasarkan sumber yang diberikan.
-
-Ini berguna karena guru sering harus membaca banyak dokumen sebelum membuat materi.
-
-## Cocok untuk
-
-- guru yang sering memakai PDF,
-- guru yang membuat modul,
-- guru yang mengikuti pelatihan,
-- guru yang merangkum dokumen,
-- guru yang membuat materi dari sumber tertentu,
-- dosen,
-- tutor.
-
-## Contoh penggunaan
-
-```text
-Berdasarkan dokumen ini, buatkan ringkasan materi untuk siswa kelas 10. Sertakan istilah penting, konsep utama, contoh, dan 10 pertanyaan latihan.
-```
-
-```text
-Buatkan outline presentasi dari modul berikut. Fokus pada bagian yang paling penting untuk siswa pemula.
-```
-
-```text
-Bandingkan dua dokumen ini dan cari bagian yang sama, berbeda, dan perlu dijelaskan ulang.
-```
-
-## Kelebihan
-
-- Cocok untuk dokumen panjang.
-- Membantu merangkum sumber.
-- Berguna untuk membuat materi ajar.
-- Membantu guru memahami bahan lebih cepat.
-- Cocok untuk riset pembelajaran.
-
-## Kekurangan
-
-- Kualitas output tergantung sumber.
-- Guru tetap perlu membaca bagian penting.
-- Tidak otomatis tahu kondisi kelas.
-- Sumber perlu dikelola dengan rapi.
-
-Baca juga:
-
-- [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
-- [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
-
----
-
-## 12. Google Classroom
-
-Google Classroom bukan AI tool murni, tetapi sangat penting dalam workflow digital guru.
-
-Google Classroom membantu:
-
-- membagikan materi,
-- memberi tugas,
-- mengumpulkan tugas,
-- memberi nilai,
-- memberi komentar,
-- mengatur kelas,
-- membagikan link,
-- mengintegrasikan Google Docs, Slides, Forms, dan Drive.
-
-Jika digabung dengan AI, Google Classroom bisa menjadi pusat distribusi pembelajaran.
-
-## Cocok untuk
-
-- guru yang mengelola kelas digital,
-- sekolah pengguna Google,
-- guru yang sering memberi tugas online,
-- guru yang ingin materi tersimpan rapi.
-
-## Contoh penggunaan AI untuk Classroom
-
-```text
-Buatkan instruksi tugas yang jelas untuk Google Classroom. Tugas: membuat poster tentang daur air. Sertakan tujuan, langkah kerja, kriteria penilaian, batas waktu, dan format pengumpulan.
-```
-
-```text
-Buatkan komentar feedback untuk tugas siswa berdasarkan rubrik berikut.
-```
-
-## Kelebihan
-
-- Cocok untuk distribusi tugas.
-- Terintegrasi dengan Google tools.
-- Membantu kelas lebih rapi.
-- Bisa dipakai untuk blended learning.
-- Memudahkan pengumpulan tugas.
-
-## Kekurangan
-
-- Butuh akun dan pengelolaan kelas.
-- Siswa perlu akses perangkat/internet.
-- Tidak menggantikan interaksi langsung.
-- Guru tetap perlu mengelola feedback.
-
----
-
-## 13. Google Forms dan Microsoft Forms
-
-Google Forms dan Microsoft Forms cocok untuk membuat kuis, survei, refleksi, dan asesmen sederhana.
-
-Jika digabung dengan AI, guru bisa membuat pertanyaan lebih cepat.
+Diffit dirancang untuk membantu guru mengadaptasi content sehingga siswa dengan kebutuhan berbeda tetap dapat mengakses topik yang sama.
 
 Contoh penggunaan:
 
-- pre-test,
-- post-test,
-- exit ticket,
-- survei minat siswa,
-- refleksi pembelajaran,
-- evaluasi kegiatan,
-- kuis mingguan,
-- remedial,
-- pengayaan.
+- membuat versi teks dengan tingkat kompleksitas berbeda;
+- menambah vocabulary support;
+- membuat graphic organizer;
+- mengubah tingkat pertanyaan;
+- menyesuaikan difficulty atau depth of knowledge.
 
-## Cocok untuk
+**Cocok untuk:**
 
-- semua guru,
-- wali kelas,
-- guru BK,
-- guru mata pelajaran,
-- trainer,
-- tutor.
+- kelas dengan rentang kemampuan membaca yang lebar;
+- multilingual learners;
+- materi yang sama tetapi membutuhkan scaffolding berbeda.
 
-## Contoh penggunaan
+AI tidak seharusnya memberi label permanen pada kemampuan siswa. Diferensiasi adalah dukungan sementara dan kontekstual, bukan penilaian identitas atau potensi siswa.
 
-```text
-Buatkan 10 pertanyaan exit ticket untuk materi [materi]. Format: 5 pilihan ganda, 3 isian singkat, dan 2 refleksi.
-```
+### 9. Curipod
 
-```text
-Buatkan survei minat belajar siswa sebelum memulai proyek kelompok. Gunakan pertanyaan singkat dan mudah dijawab.
-```
+**Posisi utama:** pelajaran interaktif yang dipandu guru.
 
-## Kelebihan
+Curipod menggunakan AI untuk membantu membuat lesson yang berisi slide, aktivitas interaktif, pertanyaan terbuka, dan feedback. Model penggunaannya menempatkan guru sebagai pengendali aktivitas, bukan membiarkan siswa berinteraksi bebas dengan chatbot tanpa konteks.
 
-- Mudah digunakan.
-- Cocok untuk asesmen formatif.
-- Hasil bisa direkap otomatis.
-- Berguna untuk refleksi.
-- Bisa digunakan bersama Classroom atau Teams.
+**Cocok untuk:**
 
-## Kekurangan
+- diskusi kelas;
+- aktivitas writing;
+- polling;
+- formative feedback;
+- kelas yang ingin meningkatkan partisipasi.
 
-- Soal tetap perlu dicek.
-- Tidak semua asesmen cocok dibuat pilihan ganda.
-- Perlu koneksi internet.
-- Analisis hasil tetap perlu guru.
+**Cara memakainya:** jangan menjadikan slide AI sebagai tujuan. Mulai dari satu learning objective, lalu pilih hanya aktivitas yang membantu siswa membaca, berpikir, berdiskusi, menulis, atau menjelaskan.
 
----
+### 10. Canva Education dan Magic Studio
 
-## 14. Grammarly dan LanguageTool
+**Posisi utama:** materi visual dan presentasi.
 
-Grammarly dan LanguageTool berguna untuk editing tulisan.
+Canva Education dapat dipakai untuk lesson plan, presentation, worksheet, poster, video, infografik, dan materi kelas lain. Magic Studio menambahkan fungsi AI di dalam Canva, tetapi akses fitur tertentu dapat dibatasi berdasarkan jenis akun, usia, atau kebijakan sekolah.
 
-Guru dapat menggunakannya untuk:
+**Cocok untuk:**
 
-- memperbaiki email,
-- memperbaiki instruksi tugas,
-- mengecek grammar,
-- memperjelas kalimat,
-- mengedit materi bahasa Inggris,
-- menyederhanakan komunikasi,
-- mengecek typo.
+- presentasi;
+- worksheet visual;
+- poster kelas;
+- infografik;
+- materi yang membutuhkan kombinasi teks dan desain.
 
-Untuk guru bahasa Inggris, Grammarly sangat berguna.
+**Prinsip penting:** visual yang menarik tidak otomatis membuat materi lebih baik. Pastikan hierarchy, readability, contrast, ukuran teks, dan jumlah informasi tetap sesuai konteks kelas.
 
-Untuk penggunaan multi-bahasa, LanguageTool bisa menjadi pelengkap.
+Untuk workflow visual yang lebih luas, lihat [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/) dan [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/).
 
-## Cocok untuk
+### 11. Gemini Notebook — sebelumnya NotebookLM
 
-- guru bahasa Inggris,
-- guru yang sering menulis email,
-- guru yang membuat materi bilingual,
-- guru yang membuat dokumen formal,
-- dosen,
-- tutor.
+**Posisi utama:** memahami dan menyusun materi berbasis sumber.
 
-## Contoh penggunaan
+Google mengganti nama NotebookLM menjadi **Gemini Notebook** pada Juli 2026. Produk ini tetap berfokus pada research dan learning berbasis sumber yang dimasukkan pengguna.
 
-```text
-Perbaiki instruksi tugas ini agar lebih jelas, sopan, dan mudah dipahami siswa.
-```
+Guru dapat mengunggah atau menambahkan sumber, kemudian menggunakan notebook untuk:
 
-```text
-Cek grammar dan clarity pada paragraf bahasa Inggris berikut.
-```
+- merangkum materi;
+- membandingkan beberapa dokumen;
+- membuat pertanyaan;
+- mengidentifikasi tema;
+- menyiapkan outline;
+- mengeksplorasi hubungan antarsumber.
 
-## Kelebihan
+Kelebihan pendekatan ini adalah jawaban dapat tetap dikaitkan dengan sumber yang dipilih, sehingga lebih cocok untuk pekerjaan yang perlu **grounding** daripada chatbot tanpa bahan acuan.
 
-- Membantu proofreading.
-- Cocok untuk email dan dokumen.
-- Membantu tulisan lebih jelas.
-- Berguna untuk materi bahasa.
+**Cocok untuk:**
 
-## Kekurangan
+- memahami dokumen kurikulum;
+- merangkum beberapa bacaan;
+- membuat panduan belajar dari sumber kelas;
+- menyiapkan pertanyaan dari materi yang sudah diverifikasi;
+- membandingkan dokumen atau artikel.
 
-- Tidak semua saran harus diikuti.
-- Konteks pendidikan tetap perlu guru.
-- Untuk bahasa Indonesia, perlu cek manual.
-- Tidak menggantikan kemampuan menulis guru.
-
-Baca juga:
-
-- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
-- [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
+Untuk riset yang lebih umum, baca [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/).
 
 ---
 
-## Rekomendasi Tools Berdasarkan Kebutuhan Guru
+## Tools Pendukung yang Tidak Harus Menjadi Tool AI Utama
 
-## Untuk Membuat Materi Ajar
+Beberapa tool dari daftar lama masih berguna, tetapi lebih baik ditempatkan sebagai **pendukung**, bukan dipaksakan masuk ke daftar inti AI untuk guru.
 
-Gunakan:
+### Google Classroom, Google Forms, Docs, dan Slides
 
-1. ChatGPT
-2. Gemini for Education
-3. Claude
-4. NotebookLM
-5. Canva Education
+Tool ini penting untuk distribusi, kolaborasi, asesmen, dan dokumentasi. Nilainya meningkat ketika dipadukan dengan Gemini atau tool lain, tetapi Classroom dan Forms sendiri bukan alasan utama memilih sebuah stack AI.
 
-Workflow:
+### PowerPoint, Word, Excel, dan Teams
 
-- tentukan tujuan pembelajaran,
-- buat outline,
-- buat penjelasan,
-- buat contoh,
-- buat aktivitas,
-- desain materi.
+Jika sekolah sudah memakai Microsoft 365, tool ini menjadi tempat output AI disusun, diedit, dibagikan, dan dipakai. AI sebaiknya masuk ke workflow yang sudah ada, bukan membuat guru harus memindahkan semua pekerjaan ke aplikasi baru.
 
-## Untuk Membuat Soal
+### Gamma
 
-Gunakan:
+Gamma tetap dapat dipertimbangkan untuk membuat draft presentasi cepat. Namun untuk guru, pilih tool presentasi berdasarkan kebutuhan edit, kolaborasi, kompatibilitas, dan kebijakan sekolah—bukan hanya kemampuan menghasilkan slide otomatis.
 
-1. ChatGPT
-2. Khanmigo
-3. Quizizz AI
-4. Gemini
-5. Google Forms atau Microsoft Forms
+### Perplexity dan SciSpace
 
-Workflow:
+Keduanya dapat membantu riset atau eksplorasi informasi. Untuk materi yang akan diberikan ke siswa, guru tetap perlu membuka sumber primer dan mengecek apakah kesimpulan AI sesuai dengan sumber tersebut.
 
-- tentukan indikator,
-- buat variasi soal,
-- cek kunci jawaban,
-- tambahkan pembahasan,
-- uji coba ke siswa.
+### Grammarly dan LanguageTool
 
-## Untuk Membuat Rubrik
+Berguna untuk editing bahasa, terutama ketika guru menyiapkan materi atau komunikasi dalam bahasa yang didukung. Fungsinya lebih dekat ke writing assistance daripada workflow pedagogis lengkap.
 
-Gunakan:
+### ElevenLabs dan tool text-to-speech
 
-1. ChatGPT
-2. Khanmigo
-3. MagicSchool
-4. Brisk Teaching
-5. Google Docs
+Bisa membantu membuat audio pembelajaran atau materi aksesibilitas. Sebelum digunakan, cek lisensi, hak penggunaan suara, dan kebijakan institusi.
 
-Workflow:
+### Otter dan tool transkripsi
 
-- tentukan tugas,
-- tentukan aspek penilaian,
-- tentukan level capaian,
-- buat deskripsi tiap level,
-- cek apakah rubrik mudah dipahami siswa.
+Berguna untuk mengubah audio menjadi teks, misalnya untuk rapat atau pelatihan. Jangan merekam siswa, orang tua, atau kolega tanpa dasar dan persetujuan yang sesuai dengan kebijakan sekolah.
 
-## Untuk Presentasi Kelas
+### Notion AI
 
-Gunakan:
-
-1. Canva Education
-2. Gemini
-3. Microsoft Copilot
-4. ChatGPT
-5. Curipod
-
-Workflow:
-
-- buat outline,
-- buat slide,
-- tambahkan visual,
-- tambahkan pertanyaan,
-- siapkan aktivitas,
-- buat exit ticket.
-
-## Untuk Diferensiasi Materi
-
-Gunakan:
-
-1. Diffit
-2. Gemini
-3. ChatGPT
-4. Brisk Teaching
-5. Claude
-
-Workflow:
-
-- ambil teks utama,
-- buat beberapa level,
-- tambahkan kosakata,
-- buat pertanyaan bertahap,
-- siapkan aktivitas remedial dan pengayaan.
-
-## Untuk Feedback Siswa
-
-Gunakan:
-
-1. Brisk Teaching
-2. ChatGPT
-3. Claude
-4. Gemini
-5. Google Docs
-
-Workflow:
-
-- gunakan rubrik,
-- beri feedback positif,
-- sebutkan bagian yang perlu diperbaiki,
-- berikan langkah perbaikan,
-- jangan hanya memberi nilai.
+Dapat membantu organisasi catatan, proyek, atau knowledge base. Gunakan jika memang sudah menjadi bagian workflow sekolah atau pribadi; tidak perlu menambahnya hanya karena memiliki fitur AI.
 
 ---
 
-## Workflow Guru Menggunakan AI
+## Lima Prinsip Sebelum Memakai AI di Kelas
 
-Berikut workflow yang praktis.
+### 1. Tujuan belajar datang lebih dulu
 
-## Tahap 1: Tentukan Tujuan Pembelajaran
-
-Jangan langsung meminta AI membuat materi.
-
-Mulai dari tujuan.
-
-Prompt:
+Jangan mulai dari:
 
 ```text
-Bantu saya merumuskan tujuan pembelajaran untuk materi [materi] kelas [kelas]. Tujuan harus jelas, terukur, dan sesuai untuk durasi [durasi].
+Buat sesuatu yang menarik tentang fotosintesis.
 ```
 
-## Tahap 2: Buat Struktur Pembelajaran
-
-Prompt:
+Mulai dari:
 
 ```text
-Buatkan alur pembelajaran 1 pertemuan untuk materi [materi]. Sertakan pembuka, apersepsi, kegiatan inti, aktivitas siswa, asesmen formatif, dan penutup.
+Siswa kelas 7 harus mampu menjelaskan hubungan
+cahaya, air, karbon dioksida, dan hasil fotosintesis.
+
+Buat aktivitas 30 menit yang menguji pemahaman hubungan tersebut.
 ```
 
-## Tahap 3: Buat Materi Ajar
+Tool menjadi lebih berguna ketika tujuan pembelajaran spesifik.
 
-Prompt:
+### 2. Grounding lebih penting daripada gaya bahasa
+
+Jika materi harus sesuai modul, buku, atau dokumen kurikulum tertentu, berikan sumber tersebut kepada sistem yang memang mendukung file atau source grounding.
+
+Jangan meminta AI "mengingat" dokumen yang belum diberikan.
+
+### 3. Guru adalah reviewer terakhir
+
+Output AI adalah draft.
+
+Sebelum digunakan, cek:
+
+- fakta;
+- istilah;
+- contoh;
+- level bahasa;
+- kunci jawaban;
+- rubrik;
+- durasi aktivitas;
+- relevansi dengan kondisi kelas.
+
+### 4. Minimalkan data siswa
+
+Jangan memasukkan data siswa hanya karena tool mampu memprosesnya.
+
+Gunakan data agregat atau anonim jika tujuan dapat tercapai tanpa identitas.
+
+Contoh lebih aman:
 
 ```text
-Buatkan materi ajar tentang [topik] untuk siswa kelas [kelas]. Gunakan bahasa sederhana, contoh dekat dengan kehidupan siswa, dan 5 pertanyaan pemahaman.
+Dari 32 siswa:
+- 9 masih salah membedakan massa dan berat;
+- 7 salah membaca grafik;
+- 16 sudah mencapai target.
+
+Buat rencana reteach 20 menit.
 ```
 
-## Tahap 4: Buat Aktivitas
+Daripada menempel daftar nama, nilai, catatan perilaku, atau informasi sensitif.
 
-Prompt:
+### 5. AI harus menjaga proses berpikir siswa
+
+AI dapat mempercepat pembuatan materi, tetapi jangan menghapus bagian paling penting dari belajar: mencoba, salah, menjelaskan, merevisi, dan berdiskusi.
+
+Pertanyaan yang baik bukan hanya:
 
 ```text
-Buatkan 5 aktivitas kelas untuk materi [topik]. Aktivitas harus bisa dilakukan dalam waktu [durasi], menggunakan alat sederhana, dan melibatkan siswa secara aktif.
+Apakah siswa mendapatkan jawaban?
 ```
 
-## Tahap 5: Buat Soal dan Rubrik
-
-Prompt:
+Tetapi:
 
 ```text
-Buatkan asesmen formatif untuk materi [materi]. Sertakan 10 soal pilihan ganda, 5 soal uraian, kunci jawaban, pembahasan, dan rubrik sederhana.
-```
-
-## Tahap 6: Diferensiasi
-
-Prompt:
-
-```text
-Sesuaikan materi ini menjadi tiga level: dasar, sedang, dan pengayaan. Pertahankan konsep utama, tetapi sesuaikan bahasa, contoh, dan tingkat tantangan.
-```
-
-## Tahap 7: Review Manual
-
-Guru wajib mengecek:
-
-- akurasi materi,
-- kesesuaian kelas,
-- bahasa,
-- contoh,
-- kunci jawaban,
-- rubrik,
-- durasi,
-- sensitivitas konten,
-- keamanan data siswa.
-
----
-
-## Prompt AI untuk Guru
-
-Berikut prompt siap pakai.
-
-## Prompt Rencana Pembelajaran
-
-```text
-Buatkan rencana pembelajaran untuk materi [materi] kelas [kelas]. Durasi [durasi]. Sertakan tujuan pembelajaran, apersepsi, kegiatan inti, aktivitas siswa, asesmen formatif, diferensiasi, dan refleksi.
-```
-
-## Prompt Materi Ajar
-
-```text
-Buatkan materi ajar tentang [topik] untuk siswa kelas [kelas]. Gunakan bahasa sederhana, contoh dari kehidupan sehari-hari, analogi, rangkuman, dan 5 pertanyaan pemahaman.
-```
-
-## Prompt Soal Pilihan Ganda
-
-```text
-Buatkan 15 soal pilihan ganda tentang [topik]. Tingkat kesulitan: 5 mudah, 5 sedang, 5 sulit. Sertakan kunci jawaban dan pembahasan.
-```
-
-## Prompt Soal HOTS
-
-```text
-Buatkan 5 soal HOTS tentang [topik] untuk siswa kelas [kelas]. Soal harus menguji analisis, evaluasi, atau pemecahan masalah. Sertakan rubrik jawaban.
-```
-
-## Prompt Rubrik Penilaian
-
-```text
-Buatkan rubrik penilaian untuk tugas [jenis tugas]. Aspek yang dinilai: [aspek]. Gunakan 4 level pencapaian dan deskripsi yang mudah dipahami siswa.
-```
-
-## Prompt Lembar Kerja Siswa
-
-```text
-Buatkan lembar kerja siswa untuk materi [materi]. Sertakan tujuan, instruksi, kegiatan, pertanyaan, ruang refleksi, dan tugas penutup.
-```
-
-## Prompt Diferensiasi Materi
-
-```text
-Sesuaikan teks berikut untuk tiga level siswa: dasar, sedang, dan mahir. Buat bahasa, contoh, dan pertanyaan yang sesuai untuk masing-masing level.
-```
-
-## Prompt Feedback Siswa
-
-```text
-Berikan feedback konstruktif untuk tugas siswa berikut berdasarkan rubrik. Gunakan bahasa positif, spesifik, dan berikan saran perbaikan yang jelas.
-```
-
-## Prompt Email Orang Tua
-
-```text
-Buatkan email kepada orang tua tentang [topik]. Tone sopan, jelas, dan tidak menyalahkan. Sertakan tujuan, informasi penting, dan langkah tindak lanjut.
+Apakah aktivitas ini membuat siswa berpikir?
 ```
 
 ---
 
-## Etika dan Keamanan AI untuk Guru
+## Workflow Guru Menggunakan AI: 8 Tahap
 
-AI di pendidikan harus digunakan dengan hati-hati.
+### Tahap 1 — Tetapkan tujuan dan batas
 
-Guru perlu memperhatikan beberapa hal.
+Tulis:
 
-## 1. Jangan Masukkan Data Siswa yang Sensitif
+- kelas;
+- mata pelajaran;
+- topik;
+- tujuan;
+- durasi;
+- sumber wajib;
+- batas penggunaan AI.
 
-Hindari memasukkan:
+### Tahap 2 — Pilih satu tool utama
 
-- nama lengkap siswa,
-- alamat,
-- nomor telepon,
-- data kesehatan,
-- nilai lengkap,
-- masalah keluarga,
-- kasus disiplin,
-- dokumen pribadi,
-- informasi sensitif lainnya.
+Gunakan satu tool untuk pekerjaan inti.
 
-Gunakan data anonim jika perlu.
+Contoh:
+
+- Gemini atau Copilot untuk planning;
+- ChatGPT untuk drafting fleksibel;
+- MagicSchool atau Khanmigo untuk workflow khusus guru;
+- Diffit untuk diferensiasi;
+- Wayground untuk asesmen;
+- Canva untuk visual.
+
+### Tahap 3 — Grounding dengan materi yang benar
+
+Jika output bergantung pada dokumen tertentu, unggah atau masukkan sumber tersebut.
+
+Untuk dokumen panjang dan multi-sumber, Gemini Notebook dapat membantu menjaga proses tetap berbasis bahan yang dipilih.
+
+### Tahap 4 — Buat draft pertama
+
+Minta draft yang cukup lengkap untuk direview:
+
+- tujuan;
+- materi;
+- aktivitas;
+- asesmen;
+- rubrik;
+- differentiation support.
+
+Jangan mengejar "sempurna" pada prompt pertama.
+
+### Tahap 5 — Lakukan pedagogical review
+
+Tanyakan:
+
+- apakah aktivitas mengukur tujuan belajar?
+- apakah siswa cukup aktif?
+- apakah tugas terlalu mudah atau terlalu sulit?
+- apakah contoh sesuai budaya dan konteks?
+- apakah jawaban dapat diverifikasi?
+
+### Tahap 6 — Diferensiasi seperlunya
+
+Buat variasi hanya jika ada alasan.
+
+Contoh:
+
+- versi dengan vocabulary support;
+- versi ringkas;
+- extension challenge;
+- scaffolding untuk siswa yang membutuhkan.
+
+### Tahap 7 — Finalisasi secara manual
+
+Pindahkan output ke format final:
+
+- dokumen;
+- slide;
+- worksheet;
+- quiz;
+- LMS.
+
+Edit bahasa, layout, instruksi, dan jawaban.
+
+### Tahap 8 — Evaluasi setelah dipakai
+
+Setelah kelas, catat:
+
+- bagian yang membantu;
+- bagian yang membingungkan;
+- soal yang terlalu mudah/sulit;
+- aktivitas yang memakan waktu terlalu lama;
+- feedback siswa.
+
+Gunakan catatan ini untuk prompt berikutnya. Dengan begitu, AI menjadi bagian dari siklus perbaikan, bukan generator konten sekali pakai.
+
+---
+
+## Delapan Prompt AI untuk Guru
+
+### Template Prompt 1: Rencana Pembelajaran
+
+```text
+Bertindak sebagai asisten perencanaan pembelajaran.
+
+Mata pelajaran:
+[isi]
+
+Kelas:
+[isi]
+
+Topik:
+[isi]
+
+Tujuan pembelajaran:
+[isi]
+
+Durasi:
+[isi]
+
+Sumber wajib:
+[isi atau "tidak ada"]
+
+Buat:
+1. pembuka;
+2. aktivitas inti;
+3. pertanyaan pemantik;
+4. cek pemahaman;
+5. penutup;
+6. exit ticket.
+
+Tandai:
+- fakta yang perlu saya verifikasi;
+- asumsi yang Anda buat;
+- bagian yang perlu disesuaikan dengan kondisi kelas.
+```
+
+### Template Prompt 2: Materi Ajar
+
+```text
+Buat draft materi ajar untuk:
+
+Kelas:
+[isi]
+
+Topik:
+[isi]
+
+Tujuan:
+[isi]
+
+Gunakan struktur:
+- konsep inti;
+- penjelasan sederhana;
+- contoh;
+- miskonsepsi umum;
+- latihan singkat;
+- rangkuman.
+
+Gunakan bahasa yang sesuai usia.
+Jangan membuat sumber atau kutipan yang tidak diberikan.
+```
+
+### Template Prompt 3: Soal dan Kunci Jawaban
+
+```text
+Buat 10 soal tentang [topik] untuk kelas [kelas].
+
+Komposisi:
+- 4 pemahaman dasar;
+- 4 aplikasi;
+- 2 penalaran.
+
+Untuk setiap soal:
+- tulis jawaban;
+- jelaskan alasan;
+- tandai kemungkinan ambiguitas;
+- jelaskan tujuan yang diuji.
+
+Jangan gunakan soal yang hanya mengandalkan hafalan
+jika tujuan pembelajarannya menuntut penalaran.
+```
+
+### Template Prompt 4: Rubrik Penilaian
+
+```text
+Buat rubrik untuk tugas berikut:
+
+Tugas:
+[isi]
+
+Tujuan:
+[isi]
+
+Aspek:
+[isi]
+
+Gunakan 4 level performa.
+
+Untuk setiap level:
+- gunakan indikator yang dapat diamati;
+- hindari kata "bagus", "cukup", atau "buruk" tanpa kriteria;
+- bedakan kualitas isi, bukan hanya panjang jawaban.
+
+Setelah rubrik, berikan 3 pertanyaan yang harus saya cek
+agar rubrik sesuai konteks kelas.
+```
+
+### Template Prompt 5: Diferensiasi
+
+```text
+Saya mengajar topik [topik] untuk kelas [kelas].
+
+Tujuan belajar harus sama untuk semua siswa.
+
+Buat 3 versi dukungan:
+A. lebih banyak scaffolding;
+B. standar;
+C. extension challenge.
+
+Jangan menurunkan tujuan inti.
+Bedakan bantuan, bahasa, contoh, dan kompleksitas tugas.
+
+Jelaskan apa yang berubah dan apa yang tetap sama.
+```
+
+### Template Prompt 6: Feedback Siswa
+
+```text
+Buat draft feedback berdasarkan catatan anonim berikut:
+
+Tujuan tugas:
+[isi]
+
+Kriteria:
+[isi]
+
+Catatan pekerjaan:
+[isi tanpa data sensitif]
+
+Format:
+1. satu kekuatan yang spesifik;
+2. satu bagian yang perlu diperbaiki;
+3. satu pertanyaan refleksi;
+4. satu langkah berikutnya.
+
+Jangan memberi nilai akhir.
+Jangan menyimpulkan karakter atau kemampuan siswa.
+```
+
+### Template Prompt 7: Worksheet
+
+```text
+Buat worksheet untuk kelas [kelas].
+
+Topik:
+[isi]
+
+Tujuan:
+[isi]
+
+Durasi:
+[isi]
+
+Buat:
+1. instruksi singkat;
+2. satu contoh;
+3. aktivitas inti;
+4. ruang untuk menjelaskan alasan;
+5. cek pemahaman;
+6. refleksi satu kalimat.
+
+Pastikan worksheet dapat diselesaikan dalam waktu yang tersedia.
+```
+
+### Template Prompt 8: Komunikasi Orang Tua
+
+```text
+Buat draft pesan untuk orang tua/wali.
+
+Tujuan komunikasi:
+[isi]
+
+Informasi yang boleh disebut:
+[isi]
+
+Nada:
+jelas, hormat, tidak defensif, dan kolaboratif.
+
+Struktur:
+- pembuka;
+- fakta;
+- dampak terhadap pembelajaran;
+- langkah yang sudah dilakukan;
+- satu ajakan kerja sama.
+
+Jangan menambah detail siswa yang tidak saya berikan.
+```
+
+---
+
+## Prompt Master untuk Workflow Guru
+
+Gunakan ketika Anda ingin membuat beberapa resource yang saling konsisten.
+
+```text
+Bertindak sebagai asisten guru, bukan pengambil keputusan.
+
+KONTEKS
+Mata pelajaran:
+Kelas:
+Topik:
+Durasi:
+Jumlah siswa:
+Tujuan pembelajaran:
+Sumber wajib:
+Kebutuhan khusus yang relevan:
+Batasan sekolah:
+
+BUAT
+1. rencana pembelajaran;
+2. materi inti;
+3. aktivitas;
+4. lima pertanyaan cek pemahaman;
+5. exit ticket;
+6. rubrik singkat;
+7. dua opsi diferensiasi;
+8. checklist review guru.
+
+ATURAN
+- jangan membuat sumber fiktif;
+- tandai fakta yang perlu diverifikasi;
+- jangan memasukkan data siswa;
+- pertahankan tujuan belajar yang sama dalam diferensiasi;
+- jangan menentukan nilai akhir;
+- gunakan bahasa sesuai kelas;
+- sebutkan asumsi jika informasi kurang.
+```
+
+---
+
+## Empat Skenario Guru yang Dapat Direplikasi
+
+Skenario berikut **bersifat sintetis**. Angka, kelas, dan kondisi dibuat untuk menunjukkan cara menyusun workflow, bukan klaim hasil sekolah atau pengalaman pribadi AI Praktis Indonesia.
+
+### Skenario 1: Materi IPA Kelas 8 dari Dokumen Acuan
+
+**Situasi sintetis:** guru memiliki dua dokumen materi sistem pernapasan dan ingin membuat satu lesson pack.
+
+Workflow:
+
+1. masukkan sumber ke Gemini Notebook atau tool yang mendukung grounding;
+2. minta daftar konsep inti dan istilah;
+3. verifikasi ringkasan dengan dokumen;
+4. gunakan ChatGPT, Gemini, atau MagicSchool untuk draft aktivitas;
+5. buat worksheet;
+6. buat exit ticket;
+7. review kunci jawaban;
+8. finalisasi di Docs atau Canva.
+
+Tujuan utamanya bukan membuat materi "lebih panjang", tetapi memastikan semua komponen mengacu pada sumber yang sama.
+
+### Skenario 2: Diferensiasi Tanpa Mengubah Tujuan
+
+**Situasi sintetis:** kelas 7 memiliki variasi kemampuan membaca.
+
+Tujuan:
+
+> siswa menjelaskan hubungan produsen, konsumen, dan pengurai dalam ekosistem.
+
+Gunakan Diffit, Gemini, atau MagicSchool untuk membuat:
+
+- teks dengan vocabulary support;
+- versi standar;
+- extension reading.
+
+Kemudian cek bahwa ketiga versi tetap meminta siswa memahami hubungan ekosistem yang sama.
+
+Kesalahan yang harus dihindari adalah mengubah versi scaffolding menjadi sekadar hafalan definisi sementara versi lain menuntut analisis.
+
+### Skenario 3: Quiz dan Reteach
+
+**Situasi sintetis:** setelah pelajaran, guru membutuhkan formative assessment 8 soal.
+
+Workflow:
+
+1. buat quiz dengan Wayground atau Brisk;
+2. review kunci dan tingkat kesulitan;
+3. jalankan quiz;
+4. rangkum hasil secara agregat;
+5. masukkan pola kesalahan tanpa nama siswa;
+6. minta AI membuat opsi reteach 15 menit;
+7. guru memilih dan menyesuaikan satu rencana;
+8. lakukan cek pemahaman ulang.
+
+AI membantu mengorganisasi pola, tetapi guru menentukan penyebab dan intervensi.
+
+### Skenario 4: Feedback Tulisan yang Tetap Dikendalikan Guru
+
+**Situasi sintetis:** guru memiliki 30 tulisan argumentatif.
+
+Workflow:
+
+1. gunakan rubrik yang sudah disetujui;
+2. masukkan atau proses tulisan hanya pada platform yang diizinkan institusi;
+3. minta Brisk, MagicSchool, atau AI lain membuat draft feedback;
+4. review satu per satu;
+5. ubah komentar agar spesifik terhadap pekerjaan siswa;
+6. hapus komentar AI yang tidak tepat;
+7. guru menentukan nilai atau keputusan akhir.
+
+Tujuan AI di sini adalah mengurangi pekerjaan repetitif, bukan menggantikan professional judgment.
+
+---
+
+## Etika, Privasi, dan Keamanan Data
+
+### Jangan Menganggap Semua Akun AI Sama
+
+Akun pribadi, akun sekolah, dan workspace institusi dapat memiliki kebijakan data berbeda.
+
+Sebelum memasukkan data siswa, cek:
+
+- jenis akun;
+- kebijakan sekolah;
+- kontrol administrator;
+- kebijakan penyimpanan;
+- apakah data digunakan untuk training;
+- lokasi dan syarat penggunaan;
+- usia minimum pengguna.
+
+### Jangan Memasukkan Data Sensitif Tanpa Dasar
+
+Hindari menempel:
+
+- nama lengkap;
+- nomor induk;
+- alamat;
+- informasi kesehatan;
+- catatan konseling;
+- data keluarga;
+- dokumen internal;
+- informasi disiplin;
+- kombinasi data yang dapat mengidentifikasi siswa.
+
+Gunakan data anonim atau agregat bila memungkinkan.
+
+### Jangan Menjadikan AI Penilai Final
+
+AI dapat membantu menyusun rubrik atau draft feedback. Tetapi keputusan nilai harus mempertimbangkan konteks, kualitas bukti, kebijakan sekolah, dan penilaian profesional guru.
+
+### Cek Kunci Jawaban
+
+Kesalahan kecil pada kunci dapat merusak seluruh asesmen.
+
+Untuk matematika, sains, atau materi faktual:
+
+1. kerjakan ulang;
+2. cek sumber;
+3. cek satuan;
+4. cek asumsi;
+5. cek apakah lebih dari satu jawaban mungkin benar.
+
+### Ajarkan Aturan AI kepada Siswa
+
+Jika siswa menggunakan AI, jelaskan:
+
+- kapan AI boleh dipakai;
+- kapan tidak;
+- apakah perlu mencantumkan penggunaan;
+- bagian mana yang harus dikerjakan sendiri;
+- bagaimana memverifikasi hasil;
+- bagaimana menjaga privasi.
+
+---
+
+## Rekomendasi Stack Berdasarkan Kondisi Guru
+
+### Stack Minimal
+
+Untuk guru yang baru mulai:
+
+```text
+1 AI assistant umum
++ 1 tool dokumen/presentasi
++ 1 platform kelas yang sudah digunakan.
+```
 
 Contoh:
 
 ```text
-Siswa A mengalami kesulitan memahami pecahan.
+Gemini atau ChatGPT
++ Google Docs/Slides
++ Google Classroom
 ```
 
-Bukan:
+Jangan memasang lima tool baru sekaligus.
+
+### Stack Google Workspace
 
 ```text
-[Nama lengkap siswa] nilainya sekian dan memiliki masalah keluarga berikut.
+Gemini for Education
+Gemini di Classroom
+Gemini Notebook
+Google Docs/Slides/Forms
+Canva Education bila membutuhkan desain visual
 ```
 
-## 2. Cek Semua Kunci Jawaban
+Cocok untuk sekolah yang sudah berpusat pada Google Workspace.
 
-AI bisa salah.
+### Stack Microsoft 365
 
-Terutama untuk:
+```text
+Microsoft 365 Copilot Teach
+Word
+PowerPoint
+Forms
+Teams
+```
 
-- matematika,
-- sains,
-- sejarah,
-- kutipan,
-- data,
-- konsep teknis,
-- peraturan.
+Tambahkan tool lain hanya jika ada kebutuhan khusus seperti diferensiasi atau kuis interaktif.
 
-Guru tetap harus mengecek.
+### Stack Diferensiasi
 
-## 3. Jangan Gunakan AI sebagai Penilai Final
+```text
+Diffit
++ AI assistant untuk planning
++ tool dokumen/presentasi yang sudah digunakan.
+```
 
-AI bisa membantu memberi draft feedback.
+### Stack Kuis dan Partisipasi
 
-Tetapi nilai akhir tetap harus diputuskan guru.
+```text
+Wayground
+atau Curipod
++ AI assistant untuk planning.
+```
 
-## 4. Jelaskan Aturan AI kepada Siswa
+Wayground lebih kuat untuk assessment/quiz, sementara Curipod lebih berorientasi pada lesson interaktif dan diskusi yang dipandu guru.
 
-Siswa perlu tahu kapan AI boleh digunakan dan kapan tidak.
+### Stack Produksi Materi Intensif
 
-Contoh:
+```text
+MagicSchool atau Brisk
++ Canva Education
++ platform kelas sekolah.
+```
 
-- boleh untuk brainstorming,
-- boleh untuk latihan soal,
-- boleh untuk meminta penjelasan,
-- tidak boleh menyalin jawaban AI mentah-mentah,
-- wajib mencantumkan bantuan AI jika diminta sekolah,
-- harus memahami hasil akhirnya.
-
-## 5. Fokus pada Proses Belajar
-
-AI sebaiknya membantu siswa berpikir.
-
-Bukan hanya memberi jawaban.
-
-Guru dapat meminta siswa:
-
-- menjelaskan ulang,
-- membandingkan jawaban AI,
-- mengkritik output AI,
-- memperbaiki jawaban AI,
-- mencari kesalahan AI,
-- membuat refleksi.
+Pilih salah satu tool workflow utama terlebih dahulu. Hindari membayar dua platform jika fungsinya sangat tumpang tindih.
 
 ---
 
-## Kesalahan Menggunakan AI Tools untuk Guru
+## Checklist Sebelum Output AI Dipakai di Kelas
 
-## 1. Langsung Menggunakan Output AI Tanpa Review
+Gunakan checklist ini:
 
-Ini kesalahan paling umum.
-
-AI bisa membuat materi rapi, tetapi belum tentu benar.
-
-Selalu cek.
-
-## 2. Tidak Memberi Konteks Kelas
-
-Prompt yang terlalu umum akan menghasilkan materi umum.
-
-Masukkan:
-
-- jenjang,
-- kelas,
-- kemampuan siswa,
-- durasi,
-- tujuan,
-- gaya belajar,
-- fasilitas,
-- konteks lokal.
-
-## 3. Semua Materi Terlalu Seragam
-
-AI bisa membuat materi terlihat standar.
-
-Tambahkan pengalaman guru, contoh lokal, dan dinamika kelas.
-
-## 4. Terlalu Banyak Tools
-
-Guru tidak perlu langsung memakai semua tools.
-
-Mulai dari 2-3 tools utama.
-
-## 5. Mengabaikan Data Privasi
-
-Jangan memasukkan data siswa sensitif ke tools AI tanpa kebijakan yang jelas.
-
-## 6. Membuat Soal Tanpa Mengecek Level
-
-AI bisa membuat soal terlalu mudah atau terlalu sulit.
-
-Sesuaikan dengan kemampuan siswa.
-
-## 7. Menggunakan AI untuk Menghindari Interaksi
-
-AI boleh membantu persiapan.
-
-Tetapi hubungan guru dan siswa tetap inti pembelajaran.
+```text
+[ ] Tujuan pembelajaran jelas.
+[ ] Materi sesuai sumber/kurikulum yang saya gunakan.
+[ ] Fakta dan istilah sudah diverifikasi.
+[ ] Bahasa sesuai usia siswa.
+[ ] Aktivitas realistis untuk durasi kelas.
+[ ] Soal tidak ambigu.
+[ ] Kunci jawaban sudah dicek.
+[ ] Rubrik memiliki indikator yang dapat diamati.
+[ ] Diferensiasi tidak menurunkan tujuan inti.
+[ ] Tidak ada data siswa yang tidak perlu.
+[ ] Tidak ada kutipan/sumber fiktif.
+[ ] Hak penggunaan media sudah diperiksa.
+[ ] Output sudah diedit guru.
+[ ] AI tidak mengambil keputusan nilai final.
+[ ] Siswa tetap melakukan proses berpikir.
+```
 
 ---
 
-## Checklist Memilih AI Tools untuk Guru
+## Kesalahan yang Sering Terjadi
 
-Gunakan checklist ini.
+### Memilih Tool Sebelum Menentukan Masalah
 
-- Kebutuhan utama sudah jelas
-- Tools sesuai workflow guru
-- Mudah digunakan
-- Mendukung bahasa yang dibutuhkan
-- Output bisa diedit
-- Materi bisa disesuaikan dengan kelas
-- Data siswa aman
-- Kunci jawaban bisa dicek
-- Rubrik mudah dipahami
-- Tidak menggantikan penilaian guru
-- Bisa membantu diferensiasi
-- Cocok dengan perangkat sekolah
-- Tidak terlalu banyak tools
-- Ada aturan penggunaan AI untuk siswa
-- Guru tetap melakukan review akhir
+Hasilnya adalah terlalu banyak aplikasi dan tidak ada workflow yang stabil.
 
----
+### Menggunakan Output Pertama
 
-## Rekomendasi Stack AI Tools untuk Guru
+Draft pertama hampir selalu perlu disesuaikan dengan tujuan, kurikulum, waktu, dan kondisi kelas.
 
-## Stack Minimal untuk Guru Pemula
+### Mencampur Riset dan Pembuatan Materi Tanpa Verifikasi
 
-Gunakan:
+AI dapat merangkum dan menulis dengan lancar, tetapi kelancaran bahasa bukan bukti kebenaran.
 
-1. ChatGPT
-2. Canva Education
-3. Google Forms
+### Terlalu Banyak Otomasi
 
-Cocok untuk:
+Jika semua bagian pelajaran dibuat otomatis, guru berisiko kehilangan kesempatan untuk memikirkan desain pembelajaran.
 
-- materi ajar,
-- presentasi,
-- lembar kerja,
-- soal,
-- kuis sederhana.
+### Menganggap Fitur Selalu Sama
 
-## Stack untuk Guru Pengguna Google
+Nama produk, fitur, kuota, dan kebijakan berubah cepat. Wayground dan Gemini Notebook adalah contoh nyata perubahan nama yang membuat artikel lama cepat usang.
 
-Gunakan:
+### Mengabaikan Kebijakan Sekolah
 
-1. Gemini for Education
-2. Google Classroom
-3. Google Docs
-4. Google Slides
-5. Google Forms
-6. Canva Education
-
-Cocok untuk:
-
-- kelas digital,
-- tugas,
-- kuis,
-- presentasi,
-- materi ajar,
-- komunikasi.
-
-## Stack untuk Guru Pengguna Microsoft
-
-Gunakan:
-
-1. Microsoft Copilot
-2. Word
-3. PowerPoint
-4. Teams
-5. OneNote
-6. Microsoft Forms
-
-Cocok untuk:
-
-- presentasi,
-- dokumen,
-- kelas online,
-- laporan,
-- kuis,
-- administrasi.
-
-## Stack untuk Guru yang Fokus Kuis
-
-Gunakan:
-
-1. Quizizz AI
-2. Google Forms
-3. ChatGPT
-4. Khanmigo
-5. Curipod
-
-Cocok untuk:
-
-- kuis formatif,
-- exit ticket,
-- review materi,
-- aktivitas kelas,
-- gamifikasi.
-
-## Stack untuk Guru Bahasa dan Literasi
-
-Gunakan:
-
-1. ChatGPT
-2. Diffit
-3. Brisk Teaching
-4. Grammarly atau LanguageTool
-5. Canva Education
-
-Cocok untuk:
-
-- reading passage,
-- vocabulary,
-- writing feedback,
-- worksheet,
-- level reading.
-
-## Stack untuk Guru yang Membuat Banyak Materi
-
-Gunakan:
-
-1. ChatGPT
-2. Gemini
-3. NotebookLM
-4. Canva Education
-5. MagicSchool
-6. Brisk Teaching
-
-Cocok untuk:
-
-- lesson plan,
-- modul,
-- bahan ajar,
-- rubrik,
-- worksheet,
-- diferensiasi.
-
----
-
-## Rekomendasi untuk Guru di Indonesia
-
-Untuk guru di Indonesia, workflow yang paling realistis adalah mulai dari tools yang mudah diakses.
-
-## Tahap Awal
-
-Gunakan:
-
-- ChatGPT untuk draft materi dan soal,
-- Canva Education untuk visual,
-- Google Forms untuk kuis,
-- Google Docs untuk dokumen,
-- Google Classroom jika sekolah menggunakannya.
-
-## Tahap Menengah
-
-Tambahkan:
-
-- Gemini jika sekolah memakai Google Workspace,
-- Microsoft Copilot jika sekolah memakai Microsoft 365,
-- Quizizz untuk kuis interaktif,
-- NotebookLM untuk merangkum modul,
-- Brisk atau MagicSchool jika butuh template khusus guru.
-
-## Tahap Lanjutan
-
-Tambahkan:
-
-- rubrik digital,
-- dashboard nilai,
-- differentiated materials,
-- AI feedback workflow,
-- bank soal,
-- SOP penggunaan AI untuk siswa.
-
-Yang penting, jangan mulai dari teknologi terlalu rumit.
-
-Mulai dari pekerjaan yang paling sering dilakukan guru.
-
-Misalnya:
-
-- membuat soal,
-- membuat materi,
-- membuat slide,
-- membuat rubrik,
-- membuat feedback,
-- membuat aktivitas.
+Tool yang aman untuk eksperimen pribadi belum tentu diizinkan untuk data siswa atau dokumen internal.
 
 ---
 
 ## FAQ
 
-## Apa AI tools terbaik untuk guru?
+### Apa AI tools terbaik untuk guru?
 
-AI tools terbaik untuk guru tergantung kebutuhan. ChatGPT cocok untuk materi, soal, rubrik, ide aktivitas, dan feedback. Gemini for Education cocok untuk guru pengguna Google Workspace. Microsoft Copilot cocok untuk guru pengguna Microsoft 365. Canva Education cocok untuk presentasi dan worksheet. Khanmigo, MagicSchool, Brisk Teaching, Quizizz AI, Diffit, dan Curipod cocok untuk kebutuhan pendidikan yang lebih spesifik.
+Tidak ada satu tool terbaik untuk semua guru. Pilih berdasarkan pekerjaan. Untuk planning umum bandingkan Gemini, Microsoft Copilot Teach, ChatGPT, MagicSchool, atau Khanmigo. Untuk quiz lihat Wayground atau Brisk. Untuk diferensiasi lihat Diffit. Untuk visual lihat Canva Education. Untuk materi berbasis sumber lihat Gemini Notebook.
 
-## Apakah AI bisa membuat rencana pembelajaran?
+### Apakah AI bisa membuat rencana pembelajaran?
 
-Ya. AI bisa membantu membuat draft rencana pembelajaran, tujuan, kegiatan pembuka, kegiatan inti, asesmen, rubrik, dan refleksi. Namun, guru tetap harus menyesuaikan dengan kurikulum, kondisi kelas, durasi, dan kemampuan siswa.
+Bisa membuat draft. Guru tetap perlu menyesuaikan tujuan, kurikulum, waktu, karakter kelas, sumber, asesmen, dan kebutuhan siswa.
 
-## Apakah AI bisa membuat soal?
+### Apakah AI bisa membuat soal?
 
-Ya. AI bisa membantu membuat soal pilihan ganda, uraian, isian, kuis, exit ticket, dan rubrik. Tetapi kunci jawaban dan pembahasan harus dicek guru.
+Bisa. Tetapi kunci jawaban, tingkat kesulitan, bahasa, alignment terhadap tujuan, dan kemungkinan ambiguitas harus diperiksa.
 
-## Apakah AI aman digunakan guru?
+### Apakah AI bisa menilai siswa?
 
-AI bisa aman jika digunakan dengan benar. Jangan memasukkan data siswa sensitif, cek output AI, gunakan tools yang sesuai kebijakan sekolah, dan jangan menjadikan AI sebagai penilai final tanpa review guru.
+AI dapat membantu draft rubrik atau feedback. Keputusan penilaian final sebaiknya tetap dibuat guru sesuai bukti kerja siswa dan kebijakan institusi.
 
-## Tools apa yang cocok untuk membuat presentasi kelas?
+### Apakah Quizizz masih ada?
 
-Canva Education, Google Slides, Microsoft PowerPoint dengan Copilot, ChatGPT, Gamma, dan Curipod cocok untuk membuat presentasi kelas. Canva cocok untuk desain visual, sedangkan ChatGPT atau Gemini cocok untuk outline dan isi.
+Produk Quizizz telah berganti nama menjadi **Wayground**. Akun dan resource lama tetap diteruskan dalam ekosistem Wayground menurut dokumentasi resminya.
 
-## Tools apa yang cocok untuk kuis?
+### Apakah NotebookLM masih ada?
 
-Quizizz AI, Google Forms, Microsoft Forms, Khanmigo, ChatGPT, dan Curipod cocok untuk membuat kuis. Pilih berdasarkan apakah Anda ingin kuis sederhana, interaktif, atau gamified.
+Google mengganti nama NotebookLM menjadi **Gemini Notebook** pada Juli 2026. Ini adalah produk yang sama dengan integrasi yang lebih luas di ekosistem Gemini.
 
-## Apakah AI akan menggantikan guru?
+### Apakah ChatGPT for Teachers tersedia untuk guru Indonesia?
 
-Tidak. AI bisa membantu guru menghemat waktu, tetapi tidak menggantikan peran guru dalam membimbing, memahami siswa, membangun relasi, mengelola kelas, dan membuat keputusan pedagogis.
+Workspace khusus **ChatGPT for Teachers** saat ini memiliki persyaratan yang ditujukan untuk pendidik K–12 terverifikasi di Amerika Serikat. Guru Indonesia dapat menggunakan versi ChatGPT yang tersedia untuk akun mereka, tetapi jangan menganggap paket khusus tersebut tersedia secara otomatis.
+
+### Apakah AI aman untuk data siswa?
+
+Tidak dapat dijawab hanya dengan nama tool. Keamanan bergantung pada jenis akun, kontrak sekolah, kontrol admin, kebijakan data, fitur yang dipakai, dan jenis data yang dimasukkan. Gunakan prinsip data minimization dan ikuti kebijakan institusi.
+
+---
+
+## Sumber Primer dan Dokumentasi Resmi
+
+Dokumentasi berikut dipakai untuk memeriksa nama produk dan kapabilitas yang disebut dalam artikel. Karena fitur AI berubah cepat, periksa kembali sebelum implementasi institusi.
+
+- [Gemini di Google Classroom — Google Classroom Help](https://support.google.com/edu/classroom/answer/15410566)
+- [Gemini for Education — Google for Education](https://edu.google.com/ai/gemini-for-education/)
+- [Teach in the Microsoft 365 Copilot App — Microsoft Support](https://support.microsoft.com/en-us/education/copilot/teach-in-the-microsoft-365-copilot-app)
+- [ChatGPT for Teachers — OpenAI Help Center](https://help.openai.com/en/articles/12844995-chatgpt-for-teachers)
+- [Khanmigo — Khan Academy](https://www.khanacademy.org/khan-labs)
+- [MagicSchool AI Tools for Teachers](https://www.magicschool.ai/magic-tools)
+- [Brisk Teaching — AI Tools for Teachers](https://www.briskteaching.com/)
+- [Quizizz is now Wayground — Wayground Help Center](https://help.wayground.com/support/solutions/articles/158000403867-quizizz-is-now-wayground-what-s-changing-and-what-s-not)
+- [Wayground AI — Generate Assessments](https://help.wayground.com/support/solutions/articles/158000405091-wayground-ai-generate-assessments-from-prompts-documents-youtube-more)
+- [Diffit for Differentiation](https://web.diffit.me/diffit-for-differentiation)
+- [Safe AI in Curipod](https://curipod.com/safe-ai-in-curipod)
+- [Canva Education — AI Guides for Teachers](https://www.canva.com/education/teaching-resources/classroom-ai-guides/)
+- [NotebookLM is now Gemini Notebook — Google](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/)
+- [Gemini Notebook](https://notebooklm.google/NotebookLM)
+
+---
+
+## Artikel Terkait
+
+- [AI untuk Guru](/blog/ai-untuk-guru/)
+- [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
+- [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
+- [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
+- [Cara Menggunakan AI untuk Belajar](/blog/cara-menggunakan-ai-untuk-belajar/)
+- [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
+- [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
+- [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
+- [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
+- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
+- [Prompt Engineering untuk Pemula](/blog/prompt-engineering-untuk-pemula/)
+- [15 Tools AI Gratis Terbaik 2026](/blog/15-tools-ai-gratis-terbaik-2026/)
 
 ---
 
 ## Kesimpulan
 
-AI tools untuk guru dapat membantu banyak pekerjaan pembelajaran.
+AI tools dapat mengurangi pekerjaan repetitif guru, tetapi nilai utamanya bukan pada jumlah konten yang dapat dihasilkan. Nilainya ada pada kemampuan membantu guru **merencanakan, mengadaptasi, memeriksa, dan memperbaiki** pekerjaan dengan lebih cepat sambil mempertahankan keputusan manusia.
 
-Guru bisa menggunakan AI untuk membuat materi ajar, rencana pembelajaran, soal, kuis, rubrik, presentasi, lembar kerja, aktivitas, diferensiasi materi, feedback siswa, email orang tua, dan administrasi.
+Untuk memulai, pilih satu pekerjaan yang paling banyak memakan waktu. Gunakan satu tool utama. Buat draft. Review secara pedagogis. Lindungi data siswa. Evaluasi hasil setelah dipakai di kelas.
 
-Namun, tools terbaik tergantung kebutuhan.
+AI yang baik untuk guru bukan AI yang mengambil alih kelas.
 
-Jika ingin mulai sederhana, gunakan ChatGPT, Canva Education, dan Google Forms.
-
-Jika sekolah memakai Google, gunakan Gemini for Education dan Google Classroom.
-
-Jika sekolah memakai Microsoft, gunakan Microsoft Copilot dan Teams.
-
-Jika ingin tools khusus guru, coba Khanmigo, MagicSchool, Brisk Teaching, Quizizz AI, Diffit, atau Curipod.
-
-Jika sering membaca dokumen panjang, gunakan NotebookLM.
-
-Yang paling penting, gunakan AI sebagai asisten.
-
-Bukan pengganti guru.
-
-Guru tetap perlu mengecek materi, menyesuaikan konteks, menjaga data siswa, dan memastikan pembelajaran tetap bermakna.
-
-AI dapat membantu guru bekerja lebih cepat.
-
-Tetapi kualitas pembelajaran tetap bergantung pada guru yang memahami siswa, merancang pengalaman belajar, dan memimpin proses belajar di kelas.
-
----
-
-Guru yang ingin membuat slide pembelajaran dapat membaca [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/) untuk menyusun tujuan, outline, visual, speaker notes, aktivitas, dan Q&A kelas.
-
-Guru yang mengelola nilai, absensi, rubrik, atau rekap tugas dapat membaca [Cara Menggunakan AI untuk Excel](/blog/cara-menggunakan-ai-untuk-excel/) untuk membuat rumus, menganalisis data kelas, dan menyusun laporan pembelajaran.
-
-## Artikel Terkait
-
-Pelajari juga panduan berikut:
-
-- [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
-- [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-- [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
-- [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
-- [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
-- [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
-- [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
-- [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
-- [Prompt ChatGPT untuk Riset](/blog/prompt-chatgpt-untuk-riset/)
-- [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
-- [Contoh Prompt AI untuk Belajar](/blog/contoh-prompt-ai-untuk-belajar/)
-- [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
-- [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
-- [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
-- [ChatGPT untuk Siswa](/blog/chatgpt-untuk-siswa/)
-- [ChatGPT untuk Mahasiswa](/blog/chatgpt-untuk-mahasiswa/)
-- [Gemini AI untuk Pemula](/blog/gemini-ai-untuk-pemula/)
-- [Microsoft Copilot untuk Pemula](/blog/microsoft-copilot-untuk-pemula/)
-- [Claude untuk Pemula](/blog/claude-untuk-pemula/)
-
----
-
-## Jelajahi Panduan AI Lainnya
-
-Temukan panduan AI sesuai kebutuhan Anda:
-
-- [Pusat AI Tools](/ai-tools/)
-- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
-- [Pusat Prompt Engineering](/prompt-engineering/)
-- [Pusat Tutorial AI](/tutorial-ai/)
-- [Pusat AI Chatbot](/ai-chatbot/)
-- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
-- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
-- [Pusat Belajar AI](/belajar-ai/)
-
----
-
-## Mulai dari Satu Pekerjaan Guru
-
-Jangan langsung memakai semua tools.
-
-Mulai dari satu pekerjaan yang paling sering memakan waktu.
-
-Misalnya:
-
-- membuat soal,
-- membuat slide,
-- membuat rubrik,
-- membuat lembar kerja,
-- membuat feedback,
-- membuat email orang tua,
-- membuat aktivitas pembuka,
-- membuat rangkuman materi.
-
-Pilih satu tools.
-
-Coba untuk satu materi.
-
-Review hasilnya.
-
-Edit sesuai konteks kelas.
-
-Gunakan di kelas.
-
-Evaluasi.
-
-Lalu ulangi.
-
-Dengan cara ini, AI tidak menjadi beban baru.
-
-AI menjadi asisten yang membantu guru menghemat waktu, meningkatkan variasi pembelajaran, dan memberi lebih banyak ruang untuk hal yang paling penting: mendampingi siswa belajar.
+AI yang baik adalah AI yang memberi guru lebih banyak waktu untuk melakukan bagian pekerjaan yang paling manusiawi: memahami siswa, memberi arah, membangun hubungan, dan membuat keputusan pembelajaran.

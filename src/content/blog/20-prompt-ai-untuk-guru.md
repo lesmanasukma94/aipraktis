@@ -48,7 +48,7 @@ Cakupannya meliputi:
 
 AI digunakan sebagai **asisten penyusunan draf**. Guru tetap menentukan tujuan, memeriksa fakta, menilai kesesuaian, menjaga privasi, dan mengambil keputusan akhir.
 
-Untuk penerapan AI dalam pekerjaan guru secara lebih luas, baca [AI untuk Guru](/blog/ai-untuk-guru/), [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/), dan [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/).
+Untuk penerapan AI dalam pekerjaan guru secara lebih luas, baca [AI untuk Guru](/blog/ai-untuk-guru/), [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/), dan [Tools AI untuk Guru](/blog/ai-tools-untuk-guru/).
 
 ## Mengapa Dua Artikel Prompt Guru Digabung
 
@@ -1942,7 +1942,7 @@ Ikuti kebijakan sekolah dan konteks aktivitas. Transparansi membantu siswa memah
 
 - [AI untuk Guru](/blog/ai-untuk-guru/)
 - [ChatGPT untuk Guru](/blog/chatgpt-untuk-guru/)
-- [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
+- [Tools AI untuk Guru](/blog/ai-tools-untuk-guru/)
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
 - [20 Prompt AI untuk Siswa](/blog/20-prompt-ai-untuk-siswa/)
 - [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)

@@ -859,7 +859,7 @@ Gunakan bahasa praktis dan mudah dipahami.
 Baca juga:
 
 - [AI untuk Guru](/blog/ai-untuk-guru/)
-- [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
+- [Tools AI untuk Guru](/blog/ai-tools-untuk-guru/)
 
 ---
 
@@ -1189,7 +1189,7 @@ Baca juga:
 - [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)
 - [ChatGPT untuk Penelitian](/blog/chatgpt-untuk-penelitian/)
 - [Tools AI untuk Mahasiswa](/blog/tools-ai-untuk-mahasiswa/)
-- [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
+- [Tools AI untuk Guru](/blog/ai-tools-untuk-guru/)
 
 ## Kesimpulan
 

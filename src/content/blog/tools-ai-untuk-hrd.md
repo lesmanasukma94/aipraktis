@@ -559,7 +559,7 @@ Gunakan bahasa Indonesia profesional dan mudah dipahami.
 Baca juga:
 
 - [AI untuk Pendidikan](/blog/ai-untuk-pendidikan/)
-- [Tools AI untuk Guru](/blog/tools-ai-untuk-guru/)
+- [Tools AI untuk Guru](/blog/ai-tools-untuk-guru/)
 
 ## 6. Tools AI untuk Performance Review
 
