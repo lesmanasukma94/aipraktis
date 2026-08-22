@@ -51,7 +51,7 @@ Artikel ini cocok untuk:
 - bisnis yang ingin mencoba AI tanpa langsung membuat chatbot atau sistem kompleks;
 - konsultan atau freelancer yang membantu operasional toko online.
 
-Untuk strategi bisnis yang lebih luas, baca [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/). Untuk daftar kategori tools, gunakan [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) sebagai referensi tambahan.
+Untuk strategi bisnis yang lebih luas, baca [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/). Untuk daftar kategori tools, gunakan [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/) sebagai referensi tambahan.
 
 ## Metode Penyusunan dan Batas Klaim
 

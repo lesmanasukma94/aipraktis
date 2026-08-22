@@ -1063,7 +1063,7 @@ foto produk asli
 + AI assistant untuk copy dan brief
 ```
 
-Untuk workflow bisnis kecil lain, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/).
+Untuk workflow bisnis kecil lain, baca [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/).
 
 ### Content Creator
 

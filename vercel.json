@@ -189,5 +189,12 @@
                 "Location": "/blog/ai-tools-untuk-guru/"
             },
             "status": 308
+        },
+        {
+            "src": "/blog/ai-tools-untuk-umkm/?$",
+            "headers": {
+                "Location": "/blog/tools-ai-untuk-umkm/"
+            },
+            "status": 308
         }]
 }

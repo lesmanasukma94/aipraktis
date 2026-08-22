@@ -304,7 +304,7 @@ Contoh:
 Baca juga:
 
 - [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 
 ---
@@ -1607,7 +1607,7 @@ Pelajari juga panduan berikut:
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 
 ---
 

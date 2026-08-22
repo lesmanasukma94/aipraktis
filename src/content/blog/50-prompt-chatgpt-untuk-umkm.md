@@ -33,7 +33,7 @@ Prompt yang jelas akan menghasilkan:
 * Konten yang lebih siap digunakan
 * Waktu kerja yang lebih hemat
 
-Prompt akan lebih efektif jika dipakai bersama tools yang tepat. Lanjutkan ke [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memilih tools AI yang cocok untuk promosi, chat pelanggan, katalog, konten, laporan, dan follow-up.
+Prompt akan lebih efektif jika dipakai bersama tools yang tepat. Lanjutkan ke [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/) untuk memilih tools AI yang cocok untuk promosi, chat pelanggan, katalog, konten, laporan, dan follow-up.
 
 ## Prompt ChatGPT untuk Ide Bisnis
 
@@ -427,7 +427,7 @@ Hindari memasukkan data pribadi atau sensitif yang tidak diperlukan, seperti nom
 - [20 Prompt ChatGPT untuk UMKM Pemula](/blog/20-prompt-chatgpt-untuk-umkm/)
 - [Cara Menggunakan ChatGPT untuk UMKM](/blog/cara-menggunakan-chatgpt-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 - [50 Prompt ChatGPT untuk Marketing](/blog/50-prompt-chatgpt-untuk-marketing/)
 - [50 Prompt ChatGPT untuk Sales](/blog/50-prompt-chatgpt-untuk-sales/)

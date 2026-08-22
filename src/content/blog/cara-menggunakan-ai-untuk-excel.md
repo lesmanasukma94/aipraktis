@@ -758,7 +758,7 @@ Rumus total:
 
 Baca juga:
 
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 
 ---
@@ -1175,7 +1175,7 @@ Data:
 
 Baca juga:
 
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 
 ---
@@ -1755,7 +1755,7 @@ Pelajari juga panduan berikut:
 - [AI Tools Terbaik untuk Produktivitas](/blog/ai-tools-terbaik-untuk-produktivitas/)
 - [AI Tools untuk Riset](/blog/ai-tools-untuk-riset/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/)
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
 - [Cara Menggunakan AI untuk Membuat Presentasi](/blog/cara-menggunakan-ai-untuk-membuat-presentasi/)

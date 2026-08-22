@@ -1453,7 +1453,7 @@ Sertakan ide konten, promo, CTA, dan metrik.
 
 Baca juga:
 
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [20 Prompt ChatGPT untuk UMKM](/blog/20-prompt-chatgpt-untuk-umkm/)
 
@@ -2030,7 +2030,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Video](/blog/ai-tools-untuk-video/)
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [Cara Menggunakan AI untuk Membuat Konten](/blog/cara-menggunakan-ai-untuk-membuat-konten/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [Cara Menggunakan AI untuk Email](/blog/cara-menggunakan-ai-untuk-email/)

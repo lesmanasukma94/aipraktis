@@ -688,7 +688,7 @@ Buatkan outline artikel blog dari hasil riset berikut. Target pembaca pemilik UM
 
 Baca juga:
 
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 
 ---

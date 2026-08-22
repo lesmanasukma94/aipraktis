@@ -1576,7 +1576,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Desain](/blog/ai-tools-untuk-desain/)
 - [AI Tools untuk Menulis](/blog/tools-ai-untuk-menulis-artikel/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [Cara Menggunakan AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)
 - [Cara Menggunakan AI untuk SEO](/blog/cara-menggunakan-ai-untuk-seo/)
 - [Cara Menggunakan AI untuk Kerja](/blog/cara-menggunakan-ai-untuk-kerja/)

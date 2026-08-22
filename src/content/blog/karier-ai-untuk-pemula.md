@@ -683,7 +683,7 @@ Skill:
 Baca juga:
 
 - [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 
 ---

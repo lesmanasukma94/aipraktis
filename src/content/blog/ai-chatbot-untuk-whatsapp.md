@@ -1182,7 +1182,7 @@ Jika WhatsApp menjadi channel utama pelanggan, baca [AI untuk Customer Service](
 
 Jika WhatsApp menjadi channel utama toko, baca [AI untuk UMKM Online Shop](/blog/ai-untuk-toko-online/) untuk membuat template stok, cara order, follow-up, after-sales, komplain, dan FAQ pelanggan.
 
-Sebelum memakai automation yang lebih kompleks, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memahami kapan cukup memakai WhatsApp Business, kapan perlu quick replies, dan kapan perlu chatbot atau CRM.
+Sebelum memakai automation yang lebih kompleks, baca [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/) untuk memahami kapan cukup memakai WhatsApp Business, kapan perlu quick replies, dan kapan perlu chatbot atau CRM.
 
 WhatsApp Business bisa menjadi pintu masuk AI untuk UMKM. Baca [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/) untuk melihat contoh template WhatsApp, FAQ, away message, quick replies, dan SOP respons pelanggan.
 

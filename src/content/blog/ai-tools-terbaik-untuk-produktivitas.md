@@ -1703,7 +1703,7 @@ Jika kebutuhan utama Anda adalah meningkatkan traffic organik, lanjutkan ke [AI 
 
 Jika kebutuhan utama Anda adalah produksi konten dan distribusi social media, lanjutkan ke [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk memilih tools ide konten, caption, desain, video, scheduling, analytics, dan repurposing.
 
-Untuk rekomendasi yang lebih spesifik bagi bisnis kecil, baca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) yang membahas tools praktis untuk promosi, admin, WhatsApp, customer service, penjualan, konten, dan otomasi.
+Untuk rekomendasi yang lebih spesifik bagi bisnis kecil, baca [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/) yang membahas tools praktis untuk promosi, admin, WhatsApp, customer service, penjualan, konten, dan otomasi.
 
 Untuk rekomendasi yang lebih spesifik bagi pendidik, baca [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/) yang membahas tools praktis untuk materi ajar, soal, rubrik, presentasi, kuis, feedback siswa, dan administrasi guru.
 

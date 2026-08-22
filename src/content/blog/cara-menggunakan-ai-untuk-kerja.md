@@ -1649,7 +1649,7 @@ Pelajari juga panduan berikut:
 - [AI Tools untuk Presentasi](/blog/ai-tools-untuk-presentasi/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
 - [AI Tools untuk SEO](/blog/ai-tools-untuk-seo/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [AI Tools untuk Guru](/blog/ai-tools-untuk-guru/)
 - [ChatGPT untuk Pemula](/blog/chatgpt-untuk-pemula/)
 - [Claude untuk Pemula](/blog/claude-untuk-pemula/)

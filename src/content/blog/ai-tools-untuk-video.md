@@ -1770,7 +1770,7 @@ Presentasi juga bisa menjadi dasar video edukasi. Gunakan [AI Tools untuk Presen
 
 Jika video ingin didistribusikan ke Reels, TikTok, dan Shorts, gunakan [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/) untuk memilih tools caption, scheduling, repurposing, analytics, dan kalender konten.
 
-UMKM yang ingin membuat video promosi sederhana dapat membaca [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk melihat bagaimana CapCut, Canva AI, ChatGPT, dan social media tools digunakan dalam workflow jualan.
+UMKM yang ingin membuat video promosi sederhana dapat membaca [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/) untuk melihat bagaimana CapCut, Canva AI, ChatGPT, dan social media tools digunakan dalam workflow jualan.
 
 Video pendek akan lebih efektif jika menjadi bagian dari campaign. Baca [AI untuk Marketing](/blog/ai-untuk-marketing/) agar ide video, hook, CTA, funnel, dan evaluasi performa lebih terarah.
 

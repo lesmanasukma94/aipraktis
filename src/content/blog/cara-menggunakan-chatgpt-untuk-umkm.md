@@ -27,7 +27,7 @@ Gunakan panduan ini sebagai tutorial pelaksanaan. Untuk kebutuhan lain, pilih ja
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/) untuk memahami manfaat, keterbatasan, dan pilihan penerapan.
 - [20 Prompt ChatGPT untuk UMKM Pemula](/blog/20-prompt-chatgpt-untuk-umkm/) untuk paket prompt singkat.
 - [50 Prompt ChatGPT untuk Operasional UMKM](/blog/50-prompt-chatgpt-untuk-umkm/) untuk library prompt yang lebih luas.
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/) untuk memilih alat selain ChatGPT.
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/) untuk memilih alat selain ChatGPT.
 
 ## Hasil yang Diharapkan
 

@@ -1841,7 +1841,7 @@ Pelajari juga panduan berikut:
 - [Prompt ChatGPT untuk Menulis](/blog/prompt-chatgpt-untuk-menulis/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI Tools untuk Social Media](/blog/ai-tools-untuk-social-media/)
-- [AI Tools untuk UMKM](/blog/ai-tools-untuk-umkm/)
+- [AI Tools untuk UMKM](/blog/tools-ai-untuk-umkm/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [ChatGPT untuk Marketing](/blog/chatgpt-untuk-marketing/)
