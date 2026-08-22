@@ -901,7 +901,7 @@ Gunakan bahasa positif dan mudah dipahami.
 
 ## Jelajahi Panduan AI Lainnya
 
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 * [AI untuk Guru](/blog/ai-untuk-guru/)
 * [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)

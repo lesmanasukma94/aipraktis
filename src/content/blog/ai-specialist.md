@@ -298,7 +298,7 @@ Mereka membutuhkan orang yang tahu bagaimana menggunakan AI secara efektif.
 
 ## Artikel Terkait yang Wajib Dibaca
 
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat Karier AI](/karier-ai/)
 * [Roadmap Menjadi AI Specialist](/blog/roadmap-menjadi-ai-specialist/)
 * [Skill AI yang Harus Dipelajari](/blog/skill-ai-yang-dibutuhkan-perusahaan/)
 * [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)

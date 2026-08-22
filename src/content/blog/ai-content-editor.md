@@ -732,7 +732,7 @@ ikuti tutorial berikutnya.
 
 ## Artikel Terkait yang Wajib Dibaca
 
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat Karier AI](/karier-ai/)
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [AI Specialist](/blog/ai-specialist/)
 * [AI Consultant](/blog/ai-consultant/)

@@ -231,7 +231,7 @@ Kemampuan menggunakan AI kemungkinan akan menjadi salah satu keterampilan pentin
 
 ## Artikel Terkait yang Wajib Dibaca
 
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 * [AI untuk Siswa](/blog/ai-untuk-siswa/)
 * [Cara Menggunakan AI untuk Pemula](/blog/cara-menggunakan-ai-untuk-pemula/)
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)

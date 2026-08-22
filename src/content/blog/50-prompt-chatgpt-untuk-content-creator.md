@@ -279,7 +279,7 @@ Creator yang ingin mempercepat produksi video dapat membaca [AI Tools untuk Vide
 
 ## Jelajahi Panduan AI Lainnya
 
-* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+* [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 * [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 * [AI untuk Blogging](/blog/ai-untuk-blogging/)
 * [AI untuk Menulis Artikel](/blog/ai-untuk-menulis-artikel/)

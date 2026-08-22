@@ -827,5 +827,5 @@ Siswa juga perlu menjaga privasi, mengikuti aturan sekolah, dan meminta pendampi
 - [Cara Menggunakan ChatGPT untuk Belajar Lebih Efektif](/blog/chatgpt-untuk-belajar/)
 - [20 Prompt AI untuk Mahasiswa](/blog/50-prompt-chatgpt-untuk-mahasiswa/)
 - [20 Prompt AI untuk Guru](/blog/20-prompt-ai-untuk-guru/)
-- [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+- [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 - [Prompt Engineering](/prompt-engineering/)

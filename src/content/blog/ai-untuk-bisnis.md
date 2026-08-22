@@ -269,7 +269,7 @@ AI membantu proses kerja, tetapi tidak menggantikan pemahaman bisnis yang dimili
 
 ## Pelajari Lebih Lanjut
 
-Jika Anda ingin memahami penerapan AI untuk berbagai jenis usaha secara lebih lengkap, baca juga **[Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)** yang berisi kumpulan panduan AI untuk UMKM, marketing, sales, customer support, toko online, bisnis kuliner, dan produktivitas bisnis.
+Jika Anda ingin memahami penerapan AI untuk berbagai jenis usaha secara lebih lengkap, baca juga **[Pusat AI untuk Bisnis](/ai-untuk-bisnis/)** yang berisi kumpulan panduan AI untuk UMKM, marketing, sales, customer support, toko online, bisnis kuliner, dan produktivitas bisnis.
 
 Untuk praktik langsung, gunakan daftar [Contoh Prompt AI untuk Bisnis](/blog/contoh-prompt-ai-untuk-bisnis/) agar AI dapat membantu marketing, sales, customer service, WhatsApp, laporan, SOP, dan strategi usaha.
 
@@ -281,7 +281,7 @@ Bisnis yang ingin mendapatkan traffic organik dapat membaca [Cara Menggunakan AI
 
 ## Artikel Terkait
 
-* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
@@ -298,10 +298,10 @@ Berbagai chatbot modern dapat membantu operasional bisnis, termasuk [DeepSeek un
 
 ## Jelajahi Panduan AI Lainnya
 
-* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
-* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+* [Pusat Karier AI](/karier-ai/)
 
 ## Kesimpulan
 

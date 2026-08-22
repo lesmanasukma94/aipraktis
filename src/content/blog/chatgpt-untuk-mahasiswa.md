@@ -258,7 +258,7 @@ Mahasiswa yang memahami AI akan lebih siap menghadapi:
 
 ## Artikel Terkait yang Wajib Dibaca
 
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 * [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)
 * [ChatGPT untuk Skripsi](/blog/chatgpt-untuk-skripsi/)

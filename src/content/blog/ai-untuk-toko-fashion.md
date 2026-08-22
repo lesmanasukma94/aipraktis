@@ -277,7 +277,7 @@ Ya. AI sangat membantu brand lokal yang memiliki sumber daya terbatas.
 
 ## Artikel Terkait
 
-* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+* [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
 * [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 * [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 * [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
@@ -290,10 +290,10 @@ Ya. AI sangat membantu brand lokal yang memiliki sumber daya terbatas.
 
 ## Jelajahi Panduan AI Lainnya
 
-* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
-* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+* [Pusat Karier AI](/karier-ai/)
 
 ## Kesimpulan
 

@@ -298,7 +298,7 @@ Karena itu AI Trainer diperkirakan menjadi salah satu profesi yang sangat releva
 
 ## Artikel Terkait yang Wajib Dibaca
 
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat Karier AI](/karier-ai/)
 * [AI Specialist](/blog/ai-specialist/)
 * [Prompt Engineer](/blog/prompt-engineer/)
 * [AI Consultant](/blog/ai-consultant/)

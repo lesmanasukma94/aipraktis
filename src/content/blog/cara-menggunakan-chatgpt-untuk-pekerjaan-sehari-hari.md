@@ -264,10 +264,10 @@ Karyawan yang mampu bekerja bersama AI biasanya dapat menyelesaikan pekerjaan le
 
 ## Jelajahi Panduan AI Lainnya
 
-* [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
-* [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
+* [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
+* [Pusat Karier AI](/karier-ai/)
 
 ## Kesimpulan
 

@@ -292,7 +292,7 @@ Karena itu Prompt Engineering diperkirakan akan menjadi salah satu keterampilan 
 
 ## Artikel Terkait yang Wajib Dibaca
 
-* [Pusat Karier AI](/blog/pusat-karier-ai/)
+* [Pusat Karier AI](/karier-ai/)
 * [Roadmap Menjadi Prompt Engineer](/blog/roadmap-menjadi-prompt-engineer/)
 * [Cara Menjual Jasa Prompt Engineering](/blog/cara-menjual-jasa-prompt-engineering/)
 * [AI Specialist](/blog/ai-specialist/)

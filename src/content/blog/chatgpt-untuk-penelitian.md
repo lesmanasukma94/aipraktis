@@ -270,7 +270,7 @@ Untuk workflow penelitian yang lebih sistematis, baca [Cara Menggunakan AI untuk
 
 ## Jelajahi Panduan AI Lainnya
 
-* [Pusat AI untuk Pendidikan](/blog/pusat-ai-untuk-pendidikan/)
+* [Pusat AI untuk Pendidikan](/ai-untuk-pendidikan/)
 * [AI untuk Mahasiswa](/blog/ai-untuk-mahasiswa/)
 * [ChatGPT untuk Pendidikan](/blog/chatgpt-untuk-pendidikan/)
 * [ChatGPT untuk Belajar](/blog/chatgpt-untuk-belajar/)

@@ -852,7 +852,7 @@ Gunakan sumber resmi berikut untuk memeriksa informasi terbaru:
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
 - [Studi Kasus AI untuk UMKM](/blog/studi-kasus-ai-untuk-umkm/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
-- [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
 
 ## Kesimpulan
 

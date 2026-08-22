@@ -818,7 +818,7 @@ Fitur, paket, batas penggunaan, dan kebijakan dapat berubah. Periksa sumber resm
 - [Cara Mendapatkan Pekerjaan AI](/blog/cara-mendapatkan-pekerjaan-ai/)
 - [Prompt AI untuk Copywriting](/blog/prompt-ai-untuk-copywriting/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
-- [Pusat Karier AI](/blog/pusat-karier-ai/)
+- [Pusat Karier AI](/karier-ai/)
 
 ## Kesimpulan
 

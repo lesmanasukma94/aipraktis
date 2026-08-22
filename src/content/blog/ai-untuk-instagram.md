@@ -1092,7 +1092,7 @@ Satu chatbot, editor, dan spreadsheet dapat cukup untuk eksperimen awal. Tambahk
 
 ## Artikel Terkait
 
-- [Pusat AI untuk Content Creator](/blog/pusat-ai-untuk-content-creator/)
+- [Pusat AI untuk Content Creator](/ai-untuk-content-creator/)
 - [AI untuk Content Creator](/blog/ai-untuk-content-creator/)
 - [Tools AI untuk Instagram](/blog/tools-ai-untuk-instagram/)
 - [Studi Kasus AI untuk Content Creator](/blog/studi-kasus-ai-untuk-content-creator/)

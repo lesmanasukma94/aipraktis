@@ -1131,7 +1131,7 @@ Tidak ada waktu yang dapat dijamin. Hasil dipengaruhi skill, niche, portofolio, 
 - [AI Trainer](/blog/ai-trainer/)
 - [AI Content Editor](/blog/ai-content-editor/)
 - [Strategi AI untuk UMKM Indonesia](/blog/strategi-ai-untuk-umkm-indonesia/)
-- [Pusat Karier AI](/blog/pusat-karier-ai/)
+- [Pusat Karier AI](/karier-ai/)
 
 ## Kesimpulan
 

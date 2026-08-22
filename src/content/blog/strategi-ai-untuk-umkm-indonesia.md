@@ -1086,7 +1086,7 @@ Hentikan saat risiko tidak dapat dikendalikan, review lebih berat daripada manfa
 
 ## Artikel Terkait
 
-- [Pusat AI untuk Bisnis](/blog/pusat-ai-untuk-bisnis/)
+- [Pusat AI untuk Bisnis](/ai-untuk-bisnis/)
 - [AI untuk Bisnis](/blog/ai-untuk-bisnis/)
 - [ChatGPT untuk UMKM](/blog/chatgpt-untuk-umkm/)
 - [Cara Menggunakan ChatGPT untuk UMKM](/blog/cara-menggunakan-chatgpt-untuk-umkm/)
