@@ -15,7 +15,7 @@ export function buildArticleSchema(
 
     datePublished: post.data.pubDate,
 
-    dateModified: post.data.pubDate,
+    dateModified: post.data.updatedDate ?? post.data.pubDate,
 
     author: {
       "@type": "Organization",
