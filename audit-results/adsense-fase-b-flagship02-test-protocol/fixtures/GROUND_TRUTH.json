@@ -1,0 +1,22 @@
+﻿{
+    "generatedRows":  206,
+    "uniqueOrderIds":  205,
+    "duplicateRowCount":  1,
+    "missingCategoryRows":  1,
+    "knownOutlierOrderId":  "ORD-0173",
+    "netRevenueFormula":  "quantity * unit_price - discount",
+    "categoryTotalsAfterRemovingDuplicateAndMissingCategory":  {
+                                                                   "Makanan":  4070000,
+                                                                   "Minuman":  14480000,
+                                                                   "Perawatan":  3515000
+                                                               },
+    "debugExpectedBugCount":  4,
+    "debugExpectedBehavior":  {
+                                  "normalizedCustomerId":  "abc-01",
+                                  "discountedTaxResult":  199800,
+                                  "uniqueOrderCount":  2,
+                                  "normalizedCategoryTotals":  {
+                                                                   "minuman":  150
+                                                               }
+                              }
+}

@@ -1,0 +1,82 @@
+{
+  "stage": "Fase B",
+  "flagship": 2,
+  "checkpoint": "content-intent-audit-and-test-protocol",
+  "status": "ARTICLE_REWRITE_LOCAL_COMPLETE",
+  "createdDate": "2026-08-26",
+  "timezone": "Asia/Jakarta",
+  "repository": {
+    "branch": "main",
+    "head": "e10923fa14b6626dcc21e0adc35756aeba11d0b2",
+    "trackedChangesBefore": 0,
+    "preservedUnrelatedUntrackedPaths": 471,
+    "builtPages": 227
+  },
+  "article": {
+    "file": "src/content/blog/deepseek-vs-chatgpt.md",
+    "slug": "deepseek-vs-chatgpt",
+    "url": "/blog/deepseek-vs-chatgpt/",
+    "baselineSha256": "9ADC3F969994AF90F012AFCF8C9E0D4D3A7FF0441E76EC8B5B6F48F4B69CBCCB",
+    "sha256": "34D9DE717EAAF622A1392EDEE232F306533C0D628149B0C7247369F177FA79C8",
+    "words": 2745,
+    "lines": 308,
+    "headings": 26,
+    "internalLinks": 10,
+    "externalLinks": 5,
+    "markdownImages": 10
+  },
+  "decision": "KEEP_REWRITE_P0",
+  "testCount": 7,
+  "productCount": 2,
+  "expectedResultRows": 14,
+  "executedResultRows": 14,
+  "execution": {
+    "date": "2026-08-26",
+    "chatgptPlan": "Free",
+    "chatgptVisibleModelLabel": "not shown",
+    "deepseekMode": "Instant",
+    "webSearchTest": "T04 only",
+    "fixtureDelivery": "inline identical content",
+    "protocolDeviation": "File chooser in Edge was unstable; T02, T03, and T06 fixture contents were inserted inline for both products.",
+    "preliminaryScore": {
+      "chatgpt": 169,
+      "deepseek": 120,
+      "maximumPerProduct": 175
+    },
+    "t04PrimarySourceVerification": true,
+    "representativeScreenshots": 10,
+    "screenshotTests": ["T03", "T04", "T06", "T07"]
+  },
+  "fixtures": {
+    "memo": {
+      "file": "fixtures/T02-meeting-memo.md",
+      "words": 1104,
+      "sha256": "B80BFD3095FB5A37B79206AA815CAD36844255E89CC5D197F85E85AA693F1913"
+    },
+    "debugTask": {
+      "file": "fixtures/T03-debug-task.js",
+      "expectedBugCount": 4,
+      "sha256": "19C4E5F9962D9BE90E0B6212B3866CFCA1C8715D5D0CA225DDE314FF3675ADE7"
+    },
+    "transactions": {
+      "file": "fixtures/T06-transactions.csv",
+      "rows": 206,
+      "sha256": "BEE841A838A6E998D620DB38947C7855E612209C4AFD0115359F0E357C1010B3"
+    },
+    "groundTruth": {
+      "file": "fixtures/GROUND_TRUTH.json",
+      "sha256": "860D5E8A845BF9FA380A62D9AD26559D1A72C1D0F41075DD69FC916F191B1C45"
+    }
+  },
+  "evidence": {
+    "manifest": "EVIDENCE_MANIFEST.csv",
+    "primarySourceVerification": "T04_PRIMARY_SOURCE_VERIFICATION.md",
+    "humanReviewChecklist": "HUMAN_REVIEW_CHECKLIST.md",
+    "screenshotsCaptured": true,
+    "hashAlgorithm": "SHA256"
+  },
+  "evidenceComplete": true,
+  "humanReviewComplete": true,
+  "humanReviewApprovedDate": "2026-08-26",
+  "articleRewriteAuthorized": true
+}
