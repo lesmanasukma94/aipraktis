@@ -1,0 +1,16 @@
+{
+  "test_id": "T01",
+  "plan": "Plus",
+  "mode": "High",
+  "url": "https://chatgpt.com/c/6a921560-ee14-83ec-87ed-7ef2e8e13325",
+  "started_at": null,
+  "observed_completed_at": null,
+  "retries": 0,
+  "reported_word_count": 184,
+  "evidence_recovery": "output text recovered from original conversation after execution; original result screenshot retained",
+  "evidence": [
+    "T01-output.txt",
+    "T01-metadata.json",
+    "T01-result.png"
+  ]
+}

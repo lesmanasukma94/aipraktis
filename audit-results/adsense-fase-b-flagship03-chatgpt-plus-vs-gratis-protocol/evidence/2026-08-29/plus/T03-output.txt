@@ -1,0 +1,86 @@
+Ada 4 bug logika utama yang menyebabkan hasil berbeda dari expected. Patch minimalnya tidak mengubah API publik dan tidak menambah dependency.
+Patch minimal
+Diffexport function summarizeOrders(orders, taxRate = 0.11) {
+  if (!Array.isArray(orders)) throw new TypeError('orders must be an array');
+
+-  const valid = orders.filter((order) => order.status = 'paid');
++  const valid = orders.filter((order) => order.status === 'paid');
+
+  const subtotal = valid.reduce((sum, order) => sum + order.qty * order.unitPrice, 0);
+  const discount = valid.reduce((sum, order) => sum + (order.discount || 0), 0);
+-  const taxable = subtotal + discount;
++  const taxable = subtotal - discount;
++  const tax = Math.round(taxable * taxRate);
+
+  return {
+-    count: orders.length,
++    count: valid.length,
+    subtotal,
+    discount,
+-    tax: Math.round(taxable * taxRate),
+-    total: subtotal + discount + Math.round(taxable * taxRate),
++    tax,
++    total: taxable + tax,
+  };
+}
+Versi final:
+JavaScriptexport function summarizeOrders(orders, taxRate = 0.11) {
+  if (!Array.isArray(orders)) throw new TypeError('orders must be an array');
+
+  const valid = orders.filter((order) => order.status === 'paid');
+  const subtotal = valid.reduce((sum, order) => sum + order.qty * order.unitPrice, 0);
+  const discount = valid.reduce((sum, order) => sum + (order.discount || 0), 0);
+  const taxable = subtotal - discount;
+  const tax = Math.round(taxable * taxRate);
+
+  return {
+    count: valid.length,
+    subtotal,
+    discount,
+    tax,
+    total: taxable + tax,
+  };
+}
+Penjelasan setiap bug
+
+
+Assignment di dalam filter()
+JavaScriptorder.status = 'paid'
+Ini bukan perbandingan, tetapi assignment. Akibatnya semua order diubah menjadi paid dan semuanya lolos filter.
+Harus:
+JavaScriptorder.status === 'paid'
+Ini juga memperbaiki efek samping tersembunyi: fungsi sebelumnya memodifikasi array input.
+
+
+count menghitung semua order
+JavaScriptcount: orders.length
+Expected hanya menghitung order berstatus paid, jadi harus:
+JavaScriptcount: valid.length
+
+
+Diskon justru ditambahkan ke nilai kena pajak
+JavaScriptconst taxable = subtotal + discount;
+Diskon mengurangi harga, sehingga:
+JavaScriptconst taxable = subtotal - discount;
+
+
+total juga menambahkan diskon
+JavaScripttotal: subtotal + discount + tax
+Total yang benar adalah nilai setelah diskon ditambah pajak:
+JavaScripttotal: taxable + tax
+
+
+Saya juga menyimpan hasil kalkulasi pajak ke variabel tax. Ini bukan perubahan perilaku/API, tetapi mencegah kalkulasi yang sama dilakukan dua kali.
+Hasil yang diharapkan untuk tiap test
+Untuk data yang diberikan:
+TestPerhitunganExpectedFilter paidA dan C2 ordercountvalid.length2subtotal(2 × 25.000) + (3 × 10.000)80000discount5000 + 05000taxable80000 - 500075000tax75000 × 0.118250total75000 + 825083250
+Jadi:
+JavaScriptsummarizeOrders(orders);
+// {
+//   count: 2,
+//   subtotal: 80000,
+//   discount: 5000,
+//   tax: 8250,
+//   total: 83250
+// }
+Dan ada satu test regresi yang penting: input tidak boleh berubah. Setelah pemanggilan, order B harus tetap memiliki status: 'cancelled', bukan berubah menjadi 'paid'.

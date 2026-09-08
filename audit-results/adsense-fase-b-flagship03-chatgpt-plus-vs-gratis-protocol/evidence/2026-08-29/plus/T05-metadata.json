@@ -1,0 +1,16 @@
+{
+  "test_id": "T05",
+  "plan": "Plus",
+  "mode": "High",
+  "url": "https://chatgpt.com/c/6a9222f9-0094-83ec-a203-bf513fa2b12e",
+  "started_at": "2026-08-29T00:08:37.159Z",
+  "observed_completed_at": "2026-08-29T00:12:29.369Z",
+  "retries": 0,
+  "delivery": "text prompt; generated image",
+  "evidence": [
+    "T05-output.txt",
+    "T05-metadata.json",
+    "T05-generated.png",
+    "T05-result.png"
+  ]
+}

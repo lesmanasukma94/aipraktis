@@ -1,0 +1,16 @@
+{
+  "test_id": "T07",
+  "plan": "Plus",
+  "mode": "High",
+  "turns": 3,
+  "url": "https://chatgpt.com/c/6a922482-6440-83ec-a77a-3a567020e6a0",
+  "started_at": "2026-08-29T00:15:15.785Z",
+  "observed_completed_at": "2026-08-29T00:16:32.527Z",
+  "retries": 0,
+  "delivery": "single conversation; three sequential prompts",
+  "evidence": [
+    "T07-output.txt",
+    "T07-metadata.json",
+    "T07-result.png"
+  ]
+}

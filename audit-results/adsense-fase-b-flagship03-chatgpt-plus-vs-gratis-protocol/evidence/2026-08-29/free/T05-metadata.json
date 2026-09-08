@@ -1,0 +1,12 @@
+{
+  "testId": "T05",
+  "product": "ChatGPT Free",
+  "plan": "Free",
+  "visibleMode": "Think",
+  "start": "2026-08-29T00:00:03.241Z",
+  "end": "2026-08-29T00:01:11.806Z",
+  "url": "https://chatgpt.com/c/6a9220f0-ec2c-83ec-bc6e-aa39edca3f45",
+  "featureAvailable": true,
+  "retries": 0,
+  "status": "EXECUTED"
+}

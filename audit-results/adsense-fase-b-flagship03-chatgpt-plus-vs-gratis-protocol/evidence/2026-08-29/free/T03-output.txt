@@ -1,0 +1,65 @@
+Ada 4 bug yang menyebabkan hasil tidak sesuai expected. Patch dapat dibuat sangat kecil tanpa mengubah API publik atau menambah dependency.
+Patch minimal
+JavaScriptexport function summarizeOrders(orders, taxRate = 0.11) {
+  if (!Array.isArray(orders)) throw new TypeError('orders must be an array');
+
+  const valid = orders.filter((order) => order.status === 'paid');
+  const subtotal = valid.reduce((sum, order) => sum + order.qty * order.unitPrice, 0);
+  const discount = valid.reduce((sum, order) => sum + (order.discount || 0), 0);
+  const taxable = subtotal - discount;
+
+  return {
+    count: valid.length,
+    subtotal,
+    discount,
+    tax: Math.round(taxable * taxRate),
+    total: subtotal - discount + Math.round(taxable * taxRate),
+  };
+}
+Penjelasan setiap perubahan
+BugKode semulaPatchDampak1. Assignment alih-alih comparisonorder.status = 'paid'order.status === 'paid'Kode semula mengubah semua status menjadi paid, sehingga order cancelled ikut dihitung.2. count menghitung semua ordercount: orders.lengthcount: valid.lengthExpected count adalah jumlah order yang valid/paid, yaitu 2, bukan seluruh input, yaitu 3.3. Discount ditambahkan ke taxablesubtotal + discountsubtotal - discountDiskon mengurangi nilai yang dikenai pajak.4. Discount ditambahkan lagi ke totalsubtotal + discount + taxsubtotal - discount + taxTotal harus mencerminkan harga setelah diskon ditambah pajak.
+Hasil yang diharapkan untuk test
+Dengan input:
+
+
+A: 2 × 25.000 = 50.000, diskon 5.000
+
+
+B: cancelled → tidak dihitung
+
+
+C: 3 × 10.000 = 30.000
+
+
+Maka:
+
+
+count = 2
+
+
+subtotal = 80.000
+
+
+discount = 5.000
+
+
+taxable = 80.000 - 5.000 = 75.000
+
+
+tax = 75.000 × 0,11 = 8.250
+
+
+total = 80.000 - 5.000 + 8.250 = 83.250
+
+
+Jadi test:
+JavaScriptsummarizeOrders(orders)
+diharapkan menghasilkan:
+JavaScript{
+  count: 2,
+  subtotal: 80000,
+  discount: 5000,
+  tax: 8250,
+  total: 83250
+}
+Catatan penting: patch ini juga memperbaiki efek samping tersembunyi pada orders: kode lama mengubah status order B dari 'cancelled' menjadi 'paid'. Dengan ===, input tidak dimodifikasi.

@@ -1,0 +1,12 @@
+{
+  "testId": "T04",
+  "product": "ChatGPT Plus",
+  "plan": "Plus",
+  "visibleMode": "High",
+  "start": "2026-08-29T00:07:32.373Z",
+  "end": "2026-08-29T00:08:12.974Z",
+  "url": "https://chatgpt.com/c/6a9222af-1cac-83ec-8878-fee2d21bb6d8",
+  "fixtureDelivery": "inline identical content",
+  "retries": 0,
+  "status": "EXECUTED"
+}

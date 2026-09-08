@@ -1,0 +1,12 @@
+{
+  "testId": "T02",
+  "product": "ChatGPT Plus",
+  "plan": "Plus",
+  "visibleMode": "High",
+  "start": "2026-08-28T23:51:33.432Z",
+  "end": "2026-08-28T23:52:02.754Z",
+  "url": "https://chatgpt.com/c/6a921ef1-b2ac-83ec-b030-fee2b4a666ee",
+  "fixture": "T02-project-brief.md",
+  "retries": 0,
+  "status": "EXECUTED"
+}

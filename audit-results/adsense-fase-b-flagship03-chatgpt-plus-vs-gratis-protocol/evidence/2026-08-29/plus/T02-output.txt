@@ -1,0 +1,46 @@
+Berikut ringkasan yang hanya berdasarkan isi dokumen terlampir, tanpa menambahkan asumsi atau fakta di luar dokumen.
+1. Lima keputusan
+
+
+Peluncuran dilakukan secara terbatas kepada 120 pelanggan undangan, bukan kepada publik.
+Sumber: ## Sasaran
+Tujuan uji coba adalah mengukur ketepatan waktu pengantaran dan tingkat pemesanan ulang selama dua minggu, dengan target minimal 90% pesanan tiba dalam jendela 30 menit dan minimal 25% pelanggan melakukan pesanan kedua. T02-project-brief
+
+
+Uji coba hanya menggunakan tiga mitra dapur yang telah lolos pemeriksaan kebersihan.
+Sumber: ## Ruang Lingkup
+Versi uji coba hanya mencakup menu makan siang dari tiga dapur tersebut. T02-project-brief
+
+
+Pembayaran hanya dilakukan secara non-tunai melalui transfer bank dan dompet digital.
+Sumber: ## Ruang Lingkup
+Pembayaran tunai ditunda dan tidak termasuk dalam peluncuran ini. T02-project-brief
+
+
+Pengumpulan data dibatasi pada data minimum, dan data alergi disimpan maksimal 30 hari setelah uji coba selesai.
+Sumber: ## Data dan Privasi
+Formulir hanya boleh meminta nama depan, nomor kantor, lokasi pengantaran, pilihan menu, dan informasi alergi yang relevan; nomor telepon pribadi tidak boleh diwajibkan. T02-project-brief
+
+
+Keputusan apakah uji coba dilanjutkan ke tahap publik akan dibuat pada 22 September 2026 berdasarkan hasil dua target utama.
+Sumber: ## Dukungan dan Pengukuran
+Keputusan dilakukan setelah data dua minggu lengkap, terutama berdasarkan ketepatan waktu dan pemesanan ulang. T02-project-brief
+
+
+Kelima keputusan tersebut juga dikonfirmasi kembali dalam bagian ## Keputusan Akhir Rapat. T02-project-brief
+2. Pemilik tindakan, tenggat, dan risiko
+Pemilik tindakanTindakanTenggatRisiko yang disebutkanRinaMenyelesaikan teks antarmuka dan pesan konfirmasi2 September 2026Pelanggan dapat menganggap pilihan alergi sebagai jaminan bebas kontaminasi; disclaimer perlu ditinjau tim hukum. T02-project-briefBudiMengonfirmasi kapasitas harian ketiga dapur3 September 2026Jika salah satu dapur tidak mencapai kapasitas minimum 40 porsi/hari, jumlah undangan harus dikurangi. T02-project-briefDimasMenyelesaikan pemeriksaan akses data dan memastikan dapur hanya menerima data yang diperlukan4 September 2026Tidak disebutkan risiko khusus untuk tugas Dimas; dokumen mencatat isu penghapusan data lebih awal dan pemilik respons insiden masih belum ditentukan. T02-project-briefSariMenyusun jadwal pengantaran dan simulasi tiga rute5 September 2026Kemacetan pada jam makan siang dan belum adanya pengemudi cadangan untuk pembatalan mendadak. T02-project-briefMayaMenyiapkan template dukungan pelanggan dan jalur eskalasi6 September 2026Nama koordinator operasional untuk eskalasi keluhan keterlambatan belum ditetapkan. T02-project-briefArifMembangun dashboard metrik7 September 2026Tidak ada risiko khusus yang disebutkan untuk pembangunan dashboard. T02-project-brief
+3. Tiga pertanyaan yang belum terjawab
+
+
+Siapa yang berwenang memutuskan pengurangan jumlah undangan jika salah satu dapur tidak memenuhi kapasitas minimum?
+Belum ditentukan dalam bagian ## Operasional. T02-project-brief
+
+
+Bagaimana pelanggan dapat meminta penghapusan data alergi lebih awal dari masa simpan 30 hari?
+Mekanismenya belum ditentukan dan harus diselesaikan sebelum undangan dikirim. T02-project-brief
+
+
+Siapa pemilik respons insiden data?
+Peran ini belum ditetapkan dan juga harus diselesaikan sebelum undangan dikirim. T02-project-brief
+

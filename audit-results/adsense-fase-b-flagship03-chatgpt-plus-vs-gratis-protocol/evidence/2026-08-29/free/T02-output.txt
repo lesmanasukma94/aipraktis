@@ -1,0 +1,43 @@
+Berikut ringkasan Project Atlas — Brief Peluncuran, dengan isi dibatasi pada fakta yang tercantum dalam dokumen. T02-project-brief
+1. Lima keputusan
+
+
+Peluncuran terbatas untuk 120 pelanggan undangan, bukan peluncuran publik, selama dua minggu untuk menguji ketepatan waktu pengantaran dan pemesanan ulang.
+Sumber: Sasaran T02-project-brief
+
+
+Uji coba hanya menggunakan tiga mitra dapur yang telah lolos pemeriksaan kebersihan, dengan menu makan siang.
+Sumber: Ruang Lingkup T02-project-brief
+
+
+Pembayaran hanya melalui transfer bank dan dompet digital; pembayaran tunai ditunda.
+Sumber: Ruang Lingkup T02-project-brief
+
+
+Data pelanggan dikumpulkan seminimal mungkin, dan informasi alergi dihapus 30 hari setelah uji coba selesai.
+Sumber: Data dan Privasi T02-project-brief
+
+
+Keputusan melanjutkan ke tahap publik dibuat pada 22 September 2026, berdasarkan pencapaian target ketepatan waktu minimal 90% dan pemesanan ulang minimal 25%.
+Sumber: Dukungan dan Pengukuran T02-project-brief
+
+
+2. Pemilik tindakan, tenggat, dan risiko
+Pemilik tindakanTenggatRisikoRina2 Sep 2026Pilihan alergi dapat dianggap sebagai jaminan bebas kontaminasi; disclaimer perlu ditinjau tim hukum.Budi3 Sep 2026Salah satu dapur mungkin tidak memenuhi kapasitas minimum 40 porsi/hari; kewenangan untuk mengurangi undangan belum ditentukan.Dimas4 Sep 2026Akses data harus dibatasi agar mitra dapur hanya menerima data yang diperlukan.Sari5 Sep 2026Kemacetan jam makan siang dan belum adanya cadangan pengemudi saat pembatalan mendadak.Maya6 Sep 2026Koordinator operasional untuk eskalasi keterlambatan belum ditetapkan.Arif7 Sep 2026Dashboard harus mencakup seluruh metrik yang ditetapkan agar pengukuran uji coba dapat dilakukan.
+Sumber seluruh tindakan, tenggat, dan risiko: Ruang Lingkup; Operasional; Data dan Privasi; Dukungan dan Pengukuran. T02-project-brief
+3. Tiga pertanyaan yang belum terjawab
+
+
+Siapa yang berwenang memutuskan pengurangan jumlah undangan jika salah satu dapur tidak memenuhi kapasitas minimum?
+Sumber: Operasional T02-project-brief
+
+
+Bagaimana pelanggan dapat meminta penghapusan data alergi lebih awal dari masa simpan 30 hari?
+Sumber: Data dan Privasi T02-project-brief
+
+
+Siapa pemilik respons insiden data, dan siapa koordinator operasional yang menerima eskalasi keluhan keterlambatan?
+Sumber: Data dan Privasi; Dukungan dan Pengukuran T02-project-brief
+
+
+Catatan penting: dokumen juga menyatakan bahwa undangan tidak boleh dikirim sebelum isu penghapusan awal dan pemilik respons insiden diselesaikan. Anggaran tahap publik juga belum diputuskan. T02-project-brief

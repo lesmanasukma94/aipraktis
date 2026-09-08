@@ -1,0 +1,94 @@
+{
+  "stage": "Fase B",
+  "flagship": 3,
+  "checkpoint": "approved-scoring-and-article-rewrite",
+  "status": "REWRITE_COMPLETE_LOCAL_VALIDATED",
+  "createdDate": "2026-08-29",
+  "lastPreflightDate": "2026-09-08",
+  "timezone": "Asia/Jakarta",
+  "repository": {
+    "branch": "main",
+    "head": "336acb6fd054d1a4ba11d31ed13def332524f5c7",
+    "originMain": "336acb6fd054d1a4ba11d31ed13def332524f5c7",
+    "trackedChangesBefore": 0,
+    "preservedUnrelatedUntrackedPaths": 471,
+    "builtPages": 227
+  },
+  "article": {
+    "file": "src/content/blog/chatgpt-plus-vs-gratis.md",
+    "slug": "chatgpt-plus-vs-gratis",
+    "url": "/blog/chatgpt-plus-vs-gratis/",
+    "baselineSha256": "36A8E9F4221A483D8A8CB88672DB858177D960FF8779F1CD0C35C642EE5E39E4",
+    "bytes": 7384,
+    "lines": 257,
+    "words": 860,
+    "headings": 26,
+    "internalLinks": 13,
+    "externalLinks": 0,
+    "markdownImages": 0,
+    "hasUpdatedDate": false,
+    "inboundInternalLinks": 24,
+    "inboundUniqueSources": 11
+  },
+  "decision": "KEEP_REWRITE_P0",
+  "testCount": 7,
+  "productCount": 2,
+  "expectedResultRows": 14,
+  "executedResultRows": 14,
+  "approvedScores": {
+    "freeTotal": 158,
+    "plusTotal": 171,
+    "maximumPerPlan": 175,
+    "freeMean": 4.514,
+    "plusMean": 4.886,
+    "differencePlusMinusFree": 0.371
+  },
+  "executionConditions": {
+    "freeBrowser": "Edge",
+    "plusBrowser": "Chrome",
+    "freeVisibleMode": "Think",
+    "plusVisibleMode": "High",
+    "strictAlternationMaintained": false,
+    "t02Delivery": "same uploaded fixture",
+    "t03T04Delivery": "identical inline fixture content",
+    "t05Evidence": "UI crop of generated image",
+    "retries": 0
+  },
+  "fixtures": {
+    "projectBrief": "fixtures/T02-project-brief.md",
+    "debugTask": "fixtures/T03-debug-task.js",
+    "transactions": "fixtures/T04-transactions.csv",
+    "groundTruth": "fixtures/GROUND_TRUTH.json"
+  },
+  "evidence": {
+    "officialSourcesReverified": true,
+    "freeAccountVerified": true,
+    "plusAccountVerified": true,
+    "screenshotsCaptured": true,
+    "outputTextCaptured": true,
+    "humanReviewComplete": true
+  },
+  "validation": {
+    "jsonValid": true,
+    "resultRows": 14,
+    "resultColumns": 23,
+    "groundTruthValidated": true,
+    "officialDocsRechecked": true,
+    "localBuildPassed": true
+  },
+  "articleRewriteAuthorized": true,
+  "rewrite": {
+    "completedDate": "2026-09-08",
+    "articleSha256": "945E4B20C549F0B4827106EE3C8330DF508D785CE4CA6521B48363A9CAEBD8A1",
+    "bytes": 18082,
+    "lines": 295,
+    "words": 2252,
+    "headings": 27,
+    "internalLinks": 11,
+    "externalLinks": 4,
+    "markdownImages": 4,
+    "hasUpdatedDate": true,
+    "publicEvidenceImages": 4,
+    "localBuildPassed": true
+  }
+}

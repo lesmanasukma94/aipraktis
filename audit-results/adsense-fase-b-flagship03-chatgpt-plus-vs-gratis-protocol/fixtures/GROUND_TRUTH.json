@@ -1,0 +1,47 @@
+{
+  "T02": {
+    "decisionCount": 5,
+    "expansionDecisionDate": "2026-09-22",
+    "unresolvedQuestions": [
+      "who may reduce invitations when kitchen capacity is insufficient",
+      "how customers request early deletion of allergy data",
+      "who owns data-incident response"
+    ]
+  },
+  "T03": {
+    "embeddedBugCount": 4,
+    "bugs": [
+      "assignment used instead of comparison in paid-order filter",
+      "taxable amount adds discount instead of subtracting it",
+      "count uses all orders instead of valid paid orders",
+      "total adds the discount instead of subtracting it"
+    ],
+    "expected": {
+      "count": 2,
+      "subtotal": 80000,
+      "discount": 5000,
+      "tax": 8250,
+      "total": 83250
+    }
+  },
+  "T04": {
+    "rowCountExcludingHeader": 12,
+    "uniqueTransactionIds": 11,
+    "missingQtyRows": 1,
+    "duplicateExactRows": 1,
+    "outlierTransactionId": "TX009",
+    "rawValidRevenueIncludingDuplicate": {
+      "Minuman": 2580000,
+      "Makanan": 360000,
+      "Snack": 168000,
+      "total": 3108000
+    },
+    "deduplicatedValidRevenue": {
+      "Minuman": 2580000,
+      "Makanan": 320000,
+      "Snack": 168000,
+      "total": 3068000
+    },
+    "deduplicatedValidRevenueExcludingOutlier": 568000
+  }
+}

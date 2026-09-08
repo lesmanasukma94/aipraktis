@@ -1,0 +1,16 @@
+{
+  "test_id": "T06",
+  "plan": "Plus",
+  "mode": "High",
+  "web_search": "active",
+  "url": "https://chatgpt.com/c/6a922416-a788-83ec-95d1-3b7885ea2ee5",
+  "started_at": "2026-08-29T00:13:15.072Z",
+  "observed_completed_at": "2026-08-29T00:14:47.281Z",
+  "retries": 0,
+  "delivery": "web search enabled",
+  "evidence": [
+    "T06-output.txt",
+    "T06-metadata.json",
+    "T06-result.png"
+  ]
+}

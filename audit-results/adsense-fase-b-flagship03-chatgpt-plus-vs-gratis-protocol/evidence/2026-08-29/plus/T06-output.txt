@@ -1,0 +1,88 @@
+Cari sumber resmi OpenAI yang dapat digunakan untuk memeriksa perbedaan ChatGPT Free dan ChatGPT Plus pada hari ini. Berikan maksimal lima sumber langsung, tanggal akses, klaim spesifik yang didukung setiap sumber, dan batas bukti masing-masing. Bedakan aplikasi ChatGPT, ChatGPT Work/Codex, dan API. Jika sumber resmi tidak membuktikan suatu fitur atau limit, katakan bukti tidak cukup.
+Worked for 47s
+
+Saya sudah memeriksa sumber resmi OpenAI yang aktif hari ini, 29 Agustus 2026 (WIB). Kesimpulan pentingnya: OpenAI sekarang membedakan cukup jelas antara ChatGPT biasa, ChatGPT Work/Codex, dan OpenAI API. Banyak perbedaan Free–Plus dinyatakan secara relatif (“Limited” vs “Expanded”), sehingga angka pasti tidak boleh disimpulkan bila OpenAI tidak menuliskannya.
+
+Lima sumber resmi yang paling berguna
+#	Sumber resmi	Tanggal akses	Klaim spesifik yang didukung	Batas bukti
+1	ChatGPT Pricing — OpenAI/ChatGPT
+	29 Agustus 2026	Sumber utama perbandingan Free vs Plus. Free: unlimited text chat dengan GPT-5.6 Luna; upload, image generation, voice, deep research, memory/context, Codex, dan Work terbatas. Plus: advanced reasoning GPT-5.6, expanded messages/uploads, image generation yang lebih kompleks, expanded deep research/memory, scheduled tasks, expanded Codex, serta Work di desktop/web/mobile. Halaman juga mencantumkan context window Instant 27K Free vs 54K Plus. 
+ChatGPT
+	Kata limited/expanded tidak menunjukkan jumlah pemakaian tertentu. Halaman juga menyatakan limits apply. Jadi tidak cukup untuk mengklaim misalnya “Free mendapat X gambar/hari” atau “Plus mendapat Y prompt/hari.”
+2	Apa itu ChatGPT Plus? — OpenAI Help Center
+	29 Agustus 2026	Plus berharga US$20/bulan pada langganan web, memberi model/tool access lebih luas daripada Free, batas model lebih tinggi, advanced reasoning, response lebih cepat, serta fitur voice, images, file analysis dan Deep Research yang diperluas. Yang sangat penting: API tidak termasuk dalam ChatGPT Plus dan ditagih secara terpisah. 
+OpenAI Help Center
+	OpenAI sendiri mengatakan batas Plus dapat berubah menurut kondisi sistem. Harga US$20 ini tidak membuktikan jumlah akhir dalam rupiah, pajak lokal, atau harga melalui Apple/Google billing.
+3	ChatGPT Work and Codex — OpenAI Help Center
+	29 Agustus 2026	Memisahkan produk secara eksplisit: Chat untuk percakapan cepat; Work untuk pekerjaan panjang/multistep dan deliverable; Codex untuk software development/technical work. Work mengikuti struktur penggunaan Codex. Work web/mobile tersedia untuk paket berbayar yang eligible; rollout masih bertahap. 
+OpenAI Help Center
+	Tidak membuktikan jumlah pasti task Work yang diperoleh Free atau Plus. OpenAI bahkan menyatakan konsumsi Work dapat berbeda menurut tugas. Ketersediaan juga masih rollout.
+4	Codex Pricing — OpenAI
+	29 Agustus 2026	Codex termasuk dalam paket ChatGPT, tetapi Free hanya disebut memiliki akses terbatas sementara Plus memiliki expanded Codex usage. Pada tab Plus saat diperiksa, local-message allowance per 5 jam bergantung model: GPT-5.6 Sol 15–90, Terra 20–110, Luna 50–280; window penggunaan dibagi dan weekly limits tambahan dapat berlaku. Plus/Pro yang mencapai limit dapat membeli kredit tambahan. 
+ChatGPT
+	Angka tersebut adalah rentang, bukan jaminan jumlah tugas. Kompleksitas/context/model memengaruhi konsumsi. Halaman tidak memberi angka Free yang sebanding, sehingga numeric Free-vs-Plus Codex ratio tidak terbukti. Angka Codex juga tidak boleh otomatis dianggap sebagai jumlah task Work.
+5	OpenAI API Platform / Pricing
+	29 Agustus 2026	API adalah produk developer yang terpisah dan berbayar berdasarkan penggunaan. Saat diperiksa: GPT-5.6 Sol US$4 input / US$20 output per 1M token, Terra US$2 / US$12, Luna US$0,20 / US$1,20, untuk standard processing sesuai ketentuan halaman. 
+OpenAI
+	Harga API bukan limit ChatGPT Free atau Plus. Memiliki Plus tidak berarti memperoleh kuota API; sumber #2 justru secara eksplisit mengatakan API ditagih terpisah. Harga model/processing tertentu juga dapat berubah.
+Yang benar-benar dapat dibuktikan hari ini
+
+1. Aplikasi ChatGPT biasa
+
+Free bukan lagi sekadar “demo”. OpenAI secara eksplisit menyebut unlimited everyday text chats dengan GPT-5.6 Luna, dengan abuse guardrails. Namun upload, image generation, voice, deep research, memory/context dan beberapa tool lain mempunyai akses terbatas. Plus memperbesar akses tersebut dan memberikan advanced reasoning GPT-5.6. 
+ChatGPT
++1
+
+Ada satu perbedaan model yang cukup tegas: Free tidak mendapat GPT-5.6 Sol untuk Chat biasa, sedangkan Plus mendapat advanced reasoning dengan GPT-5.6. Namun berapa tepat jumlah reasoning prompt Plus per jam/hari/minggu tidak dibuktikan oleh halaman pricing umum.
+
+2. ChatGPT Work dan Codex bukan Chat biasa
+
+Ini penting karena sering tercampur. Work adalah pengalaman agentic untuk riset, analisis, dokumen, spreadsheet, presentasi, report, dan pekerjaan multistep; Codex khusus engineering/coding. 
+OpenAI Help Center
+
+Untuk akses permukaan:
+
+Free: Work terbatas pada desktop; Codex terbatas.
+
+Plus: Work diperluas ke desktop, web, dan mobile; Codex mendapat expanded usage. 
+ChatGPT
+
+Untuk Codex Plus, OpenAI memang menerbitkan rentang penggunaan per 5 jam, tetapi jumlah aktual sangat dipengaruhi model dan pekerjaan. Karena OpenAI tidak menerbitkan angka Free ekuivalen pada tabel tersebut, klaim seperti “Plus mendapatkan 5× Codex dibanding Free” tidak memiliki bukti cukup dari sumber resmi yang diperiksa. 
+ChatGPT
+
+3. API benar-benar terpisah
+
+Ini yang paling tegas: ChatGPT Plus ≠ langganan OpenAI API. Plus tidak memberikan kuota/token API. Penggunaan API memiliki billing sendiri berdasarkan model/token dan fitur API yang digunakan. 
+OpenAI Help Center
++1
+
+Jadi ketika membandingkan Free vs Plus, jangan memasukkan “akses API” sebagai keuntungan Plus. Bukti resmi justru mengatakan sebaliknya.
+
+Hal yang bukti resminya belum cukup
+
+Untuk kondisi 29 Agustus 2026, saya tidak akan menganggap klaim berikut sebagai fakta tanpa sumber tambahan atau tampilan usage akun aktual:
+
+jumlah pasti image generations per hari Free vs Plus;
+
+jumlah pasti file uploads per hari;
+
+jumlah pasti Deep Research runs per bulan;
+
+jumlah pasti pesan advanced reasoning Plus sebelum reset;
+
+rasio numerik Codex Free vs Plus;
+
+jumlah pasti task ChatGPT Work yang dapat diselesaikan dalam satu periode;
+
+klaim bahwa limit yang terlihat pada satu akun berlaku identik untuk semua akun/region;
+
+klaim bahwa langganan Plus memberikan API credit/token gratis — bukti resmi justru menyatakan API terpisah. 
+OpenAI Help Center
++1
+
+Dengan demikian, untuk audit Free vs Plus hari ini, sumber #1 sebaiknya menjadi baseline, #2 untuk memverifikasi sifat langganan Plus dan pemisahan API, #3–#4 khusus Work/Codex, dan #5 hanya untuk API. Ini menghindari kesalahan paling umum: mencampur batas ChatGPT Chat, Work/Codex, dan API menjadi satu jenis kuota.
+
+Convert to PDF
+ChatGPT can make mistakes. Check important info.
+
+High

@@ -1,0 +1,91 @@
+Berikut audit berdasarkan tepat CSV yang diberikan, tanpa mengubah nilai outlier.
+1. Hasil hitung sebelum pembersihan
+Definisi omzet bersih yang digunakan:
+omzet bersih = qty × unit_price − discount
+Baris dengan qty kosong tidak dapat dihitung dan tidak saya asumsikan sebagai 0.
+KategoriOmzet bersih sebelum pembersihanMinumanRp2.580.000MakananRp360.000SnackRp163.000Total baris yang dapat dihitungRp3.103.000
+Catatan: TX008 muncul dua kali secara persis, sehingga kedua baris ikut dihitung pada angka sebelum pembersihan.
+Setelah menghapus duplikat persis
+Duplikat persis adalah dua baris TX008 yang seluruh nilainya identik. Menghapus satu salinan menghasilkan:
+KategoriSetelah deduplikasi persisMinumanRp2.580.000MakananRp320.000SnackRp163.000TotalRp3.063.000
+Jadi, deduplikasi persis menurunkan omzet terhitung sebesar Rp40.000.
+
+2. Masalah kualitas data
+MasalahBarisDampakqty kosongTX006Omzet baris tidak dapat dihitungDuplikat persisTX008 muncul 2×Omzet Makanan dan total terhitung berlebih Rp40.000 sebelum deduplikasiNilai qty sangat tinggiTX009: 100Menghasilkan omzet Rp2.500.000; mendominasi total, tetapi belum tentu salah
+Tiga anomali terpenting
+
+
+TX009 memiliki qty=100 — sangat menonjol dibanding transaksi lain dan menghasilkan omzet bersih Rp2.500.000. Ini adalah anomali statistik/data-quality yang perlu divalidasi, bukan dikoreksi otomatis.
+
+
+TX008 adalah duplikat persis — transaksi identik tercatat dua kali, menyebabkan overcount Rp40.000.
+
+
+TX006 memiliki qty kosong — nilai yang diperlukan untuk menghitung omzet tidak tersedia.
+
+
+
+3. Langkah pembersihan yang dapat direproduksi
+
+
+Parse CSV dan pertahankan tipe data asli.
+
+
+Validasi kolom wajib: transaction_id, date, category, qty, unit_price, discount.
+
+
+Tandai baris dengan nilai numerik wajib yang kosong/invalid sebagai tidak dapat dihitung; jangan mengganti qty kosong dengan 0.
+
+
+Hitung omzet bersih hanya untuk baris yang memiliki qty, unit_price, dan discount yang valid:
+qty × unit_price − discount.
+
+
+Untuk baseline sebelum pembersihan, agregasikan hasil tersebut per category, termasuk duplikat.
+
+
+Hapus hanya duplikat persis—baris dengan seluruh field identik. Dalam data ini, hapus satu dari dua TX008.
+
+
+Hitung ulang omzet bersih per kategori setelah deduplikasi.
+
+
+Pisahkan baris anomali TX009 untuk review bisnis, tetapi jangan mengubah atau membuangnya tanpa aturan bisnis yang eksplisit.
+
+
+Simpan log perubahan: jumlah baris awal, baris duplikat yang dihapus, baris dengan nilai wajib hilang, dan jumlah baris akhir.
+
+
+4. Asumsi vs hasil hitung
+Hasil yang dihitung dari CSV:
+
+
+Sebelum deduplikasi: Rp3.103.000
+
+
+Setelah menghapus duplikat persis: Rp3.063.000
+
+
+Duplikat yang dihapus: 1 baris, TX008
+
+
+Baris tidak dapat dihitung: TX006
+
+
+Asumsi/metodologi:
+
+
+“Omzet bersih” berarti qty × unit_price − discount.
+
+
+discount diperlakukan sebagai nilai nominal per transaksi, bukan persentase.
+
+
+qty kosong tidak dianggap nol.
+
+
+Outlier TX009 tidak dikoreksi, dihapus, atau dibatasi, karena tidak ada aturan bisnis yang diberikan.
+
+
+“Duplikat persis” berarti semua kolom pada baris identik, bukan sekadar transaction_id sama.
+

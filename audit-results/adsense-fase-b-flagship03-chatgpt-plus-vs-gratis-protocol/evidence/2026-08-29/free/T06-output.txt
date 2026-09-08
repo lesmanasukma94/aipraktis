@@ -1,0 +1,27 @@
+Berikut sumber resmi OpenAI yang paling berguna untuk memeriksa perbedaan ChatGPT Free vs ChatGPT Plus per 29 Agustus 2026. Saya sengaja membatasi menjadi 5 sumber dan memisahkan ChatGPT, ChatGPT Work/Codex, dan OpenAI API.
+Sumber resmiTanggal aksesKlaim spesifik yang didukungBatas buktiChatGPT Pricing — OpenAI29 Agustus 2026Free tersedia untuk semua; Plus adalah paket berbayar dan upgrade memberi akses lebih besar ke model dan fitur.Tidak cukup untuk menyimpulkan limit numerik tiap fitur; halaman pricing bersifat ringkasan dan limit dapat berubah.ChatGPT Free Tier FAQ — OpenAI Help Center29 Agustus 2026Free saat ini mencakup GPT-5.6 Luna, web search, analisis data, upload file/gambar, GPTs, pembuatan gambar, dan Library 500 MB. Free memiliki limit terpisah untuk GPT/tool; Plus memiliki rate limit lebih tinggi.Membuktikan Free dan perbedaan umum dengan Plus, tetapi tidak memberikan satu tabel lengkap berisi semua limit Plus. Jangan menggunakan sumber ini untuk mengklaim angka limit Plus yang tidak tertulis di sana.GPT-5.6 in ChatGPT — OpenAI Help Center29 Agustus 2026Untuk aplikasi ChatGPT: Free/Go menggunakan GPT-5.6 Luna; Plus mendapat GPT-5.6 Sol dengan Medium/High. Artikel juga menyatakan limit reasoning bergantung pada paket. Untuk Work: Sol, Terra, Luna tersedia bagi Plus/Pro/Business/Enterprise. Untuk Codex: Free/Go mendapat Terra, sedangkan Plus mendapat Sol, Terra, dan Luna. API menyediakan Sol, Terra, dan Luna.Sangat kuat untuk model dan pemisahan produk, tetapi tidak membuktikan seluruh fitur/limit paket Plus. Rollout GPT-5.6 juga bertahap, sehingga ketersediaan akun tertentu dapat berbeda.Using Credits for Flexible Usage in ChatGPT — OpenAI Help Center29 Agustus 2026Work/Codex berbeda dari chat biasa: kredit dapat memperpanjang penggunaan setelah limit paket; untuk Plus/Pro, fitur agentic yang didukung—termasuk Codex dan ChatGPT Work—dapat memakai allowance agentic yang sama. Pembelian kredit untuk Free/Go hanya tersedia bagi sebagian akun dan tidak mengubah paket atau included limit.Tidak boleh dijadikan bukti bahwa semua pengguna Free atau Plus memiliki akses Work/Codex yang sama; ketersediaan fitur, kredit, harga, dan limit dapat berbeda menurut akun/region/paket.ChatGPT Voice — OpenAI Help Center29 Agustus 2026Untuk Voice di ChatGPT: Free mendapat akses terbatas ke GPT-Live-1 mini per rolling 24 jam; Plus mendapat hingga 1 jam untuk Live dengan Instant, 1 jam Medium/High, dan 2 jam Live mini.Ini hanya membuktikan Voice, bukan limit ChatGPT secara keseluruhan. OpenAI secara eksplisit menyebut limit dapat berubah.
+Cara membaca bukti ini
+1. Aplikasi ChatGPT — Free vs Plus
+Bukti paling aman saat ini adalah:
+
+
+Free: GPT-5.6 Luna, dengan akses ke web search, analisis data, file/gambar, GPTs, image generation, dan fitur lain, tetapi tool memiliki limit tersendiri. OpenAI Help Center+1
+
+
+Plus: mendapatkan akses model/reasoning yang lebih tinggi, termasuk GPT-5.6 Sol Medium dan High, serta rate limit lebih tinggi dibanding Free. OpenAI Help Center+1
+
+
+Voice: ada perbedaan limit yang cukup spesifik dan terdokumentasi. OpenAI Help Center
+
+
+2. ChatGPT Work dan Codex
+Jangan menyamakan keduanya dengan "model ChatGPT biasa".
+OpenAI secara eksplisit memisahkan Work dan Codex dari pengalaman ChatGPT standar. Untuk GPT-5.6, misalnya, Work memiliki Sol/Terra/Luna pada Plus, sedangkan Codex memiliki Terra pada Free dan Sol/Terra/Luna pada Plus. OpenAI Help Center
+Selain itu, Work/Codex mempunyai konsep agentic usage/credits yang berbeda dari sekadar jumlah pesan ChatGPT. OpenAI Help Center
+3. OpenAI API
+API bukan benefit yang otomatis diberikan oleh langganan ChatGPT Plus. Sumber GPT-5.6 memperlakukannya sebagai produk terpisah dan menyatakan Sol, Terra, dan Luna tersedia melalui OpenAI API. OpenAI Help Center
+Jadi, klaim seperti "Plus memberi sekian token API per bulan" tidak didukung oleh sumber-sumber di atas. Bukti tidak cukup / klaim tersebut jangan dibuat. Demikian pula, limit API harus diperiksa pada dokumentasi/pricing API tersendiri, bukan tabel perbandingan ChatGPT Free/Plus.
+Kesimpulan praktis
+Jika tujuan Anda adalah membuat tabel perbandingan Free vs Plus yang dapat diaudit, saya akan menggunakan hierarki bukti berikut:
+Pricing → FAQ Free → halaman fitur/limit spesifik → halaman Work/Codex → dokumentasi API terpisah.
+Dan saya akan menandai sebagai "bukti tidak cukup" setiap angka atau fitur yang tidak dinyatakan secara eksplisit oleh OpenAI, karena limit ChatGPT dapat berubah dan beberapa fitur masih rollout bertahap. OpenAI Help Center+1

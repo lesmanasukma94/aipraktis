@@ -1,0 +1,49 @@
+Berikut auditnya. Saya memakai definisi omzet bersih per baris = (qty × unit_price) − discount. Baris dengan qty kosong tidak saya anggap 0 dan tidak saya hapus, karena itu memerlukan aturan bisnis.
+1. Hasil hitung — sebelum pembersihan
+KategoriOmzet bersih yang dapat dihitungCatatanMinumanRp2.580.000Belum termasuk TX006 karena qty kosongMakananRp360.000Termasuk TX008 dua kaliSnackRp168.000LengkapTotalRp3.108.000 + omzet TX006 yang belum diketahui
+Rinciannya:
+
+
+Minuman: TX001 Rp50.000 + TX003 Rp30.000 + TX009 Rp2.500.000 = Rp2.580.000, sedangkan TX006 belum dapat dihitung.
+
+
+Makanan: Rp110.000 + Rp100.000 + Rp40.000 + Rp40.000 + Rp70.000 = Rp360.000.
+
+
+Snack: Rp70.000 + Rp48.000 + Rp50.000 = Rp168.000.
+
+
+2. Setelah hanya menghapus duplikat persis
+Dua baris TX008 identik pada seluruh kolom:
+TX008,2026-08-04,Makanan,1,45000,5000
+Satu salinan dihapus. Dampaknya mengurangi omzet sebesar:
+(1 × Rp45.000) − Rp5.000 = Rp40.000
+KategoriSetelah deduplikasiMinumanRp2.580.000 + TX006 yang belum diketahuiMakananRp320.000SnackRp168.000TotalRp3.068.000 + omzet TX006 yang belum diketahui
+Jadi total pasti dari transaksi yang dapat dihitung setelah menghapus duplikat persis adalah Rp3.068.000. Ini bukan total final seluruh dataset karena TX006 masih memiliki qty yang tidak diketahui.
+Masalah kualitas data dan 3 anomali terpenting
+1. TX006 memiliki qty kosong — masalah paling kritis untuk agregasi. Nilai omzet transaksi tersebut tidak dapat dihitung secara sah. Karena unit_price = Rp25.000 dan diskon 0, omzetnya sebenarnya adalah qty × Rp25.000, tetapi nilai qty tidak boleh ditebak.
+2. TX008 merupakan duplikat persis. Seluruh enam kolom sama dan transaction_id juga sama. Jika transaksi tersebut sebenarnya hanya terjadi sekali, data mentah menyebabkan omzet Makanan dan total dataset terlalu tinggi Rp40.000.
+3. TX009 memiliki qty = 100, jauh berbeda dari transaksi lainnya yang berisi qty 1–5. Ini merupakan potential outlier, bukan otomatis kesalahan. Nilai tersebut menghasilkan omzet Rp2.500.000 dan mendominasi kategori Minuman. Sesuai instruksi Anda, saya tidak mengubah atau menghapusnya tanpa aturan bisnis, misalnya batas kuantitas transaksi atau konfirmasi bahwa penjualan grosir memang diperbolehkan.
+Selain itu, tidak terlihat masalah sintaks tanggal pada sampel ini, nilai harga/diskon tidak negatif, dan pada semua baris yang dapat dihitung diskon tidak melebihi nilai qty × unit_price.
+Langkah pembersihan yang dapat direproduksi
+
+
+Parse date sebagai tanggal ISO YYYY-MM-DD dan kolom qty, unit_price, discount sebagai numerik.
+
+
+Tandai nilai kosong sebelum melakukan agregasi. Untuk TX006, simpan qty = NULL; jangan menggantinya dengan 0, median, atau nilai lain tanpa aturan bisnis.
+
+
+Identifikasi duplikat berdasarkan semua kolom, bukan hanya transaction_id, lalu pertahankan satu baris dari setiap kelompok duplikat persis. Dengan aturan ini, satu TX008 dihapus.
+
+
+Buat kolom terhitung net_revenue = qty * unit_price - discount hanya ketika ketiga komponen tersedia.
+
+
+Tandai, tetapi jangan otomatis koreksi, observasi ekstrem seperti TX009 (qty=100). Outlier hanya boleh diubah setelah ada kriteria bisnis yang eksplisit.
+
+
+Hitung agregat kategori menggunakan net_revenue; laporkan jumlah record yang tidak dapat dihitung secara terpisah agar NULL tidak diam-diam dianggap nol.
+
+
+Asumsi yang saya gunakan hanya satu: “omzet bersih” berarti qty × unit_price − discount, dan discount adalah nilai rupiah per transaksi, bukan diskon per unit. Jika definisi diskonnya berbeda, perhitungannya perlu diubah.
